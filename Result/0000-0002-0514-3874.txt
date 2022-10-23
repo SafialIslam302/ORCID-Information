@@ -1,0 +1,452 @@
+ORCID: 0000-0002-0514-3874
+Family Name: Stannat
+Given Name: Wilhelm
+
+Number of Works: 81
+
+Work Details
+
+Work No: 1
+Analytic Theory of Itô-Stochastic Differential Equations with Non-smooth Coefficients
+
+
+
+
+Work No: 2
+Conclusion and Outlook
+
+
+
+
+Work No: 3
+Introduction
+
+
+
+
+Work No: 4
+Stochastic Differential Equations
+
+
+
+
+Work No: 5
+The Abstract Cauchy Problem in L r-Spaces with Weights
+
+
+
+
+Work No: 6
+@article{Heesen_2021,	doi = {10.1016/j.spa.2021.05.007},	url = {https://doi.org/10.1016%2Fj.spa.2021.05.007},	year = 2021,	month = {sep},	publisher = {Elsevier {BV}},	volume = {139},	pages = {280--297},	author = {Sophie Heesen and Wilhelm Stannat},	title = {Fluctuation limits for mean-field interacting nonlinear Hawkes processes},	journal = {Stochastic Processes and their Applications}}
+
+
+
+Work No: 7
+@article{Pasemann_2021,	doi = {10.1007/s00332-021-09714-4},	url = {https://doi.org/10.1007%2Fs00332-021-09714-4},	year = 2021,	month = {may},	publisher = {Springer Science and Business Media {LLC}},	volume = {31},	number = {3},	author = {Gregor Pasemann and Sven Flemming and Sergio Alonso and Carsten Beta and Wilhelm Stannat},	title = {Diffusivity Estimation for Activator{\textendash}Inhibitor Models: Theory and Application to Intracellular Dynamics of the Actin Cytoskeleton},	journal = {Journal of Nonlinear Science}}
+
+
+
+Work No: 8
+Peng's Maximum Principle for Stochastic Partial Differential Equations
+
+
+
+
+Work No: 9
+Stability and moment estimates for the stochastic singular $Φ$-Laplace equation
+
+
+
+
+Work No: 10
+@article{Pathiraja_2021,
+	doi = {10.1137/20m1355197},
+	url = {https://doi.org/10.1137%2F20m1355197},
+	year = 2021,
+	month = {jan},
+	publisher = {Society for Industrial {\&} Applied Mathematics ({SIAM})},
+	volume = {59},
+	number = {6},
+	pages = {4188--4215},
+	author = {Sahani Pathiraja and Sebastian Reich and Wilhelm Stannat},
+	title = {{McKean}--Vlasov {SDEs} in Nonlinear Filtering},
+	journal = {{SIAM} Journal on Control and Optimization}
+}
+
+
+
+Work No: 11
+@article{Stannat_2021,
+	doi = {10.1137/20m1368057},
+	url = {https://doi.org/10.1137%2F20m1368057},
+	year = 2021,
+	month = {jan},
+	publisher = {Society for Industrial {\&} Applied Mathematics ({SIAM})},
+	volume = {59},
+	number = {5},
+	pages = {3552--3573},
+	author = {Wilhelm Stannat and Lukas Wessels},
+	title = {Peng{\textquotesingle}s Maximum Principle for Stochastic Partial Differential Equations},
+	journal = {{SIAM} Journal on Control and Optimization}
+}
+
+
+
+Work No: 12
+@article{Lange_2021,	doi = {10.3934/fods.2021003},	url = {https://doi.org/10.3934%2Ffods.2021003},	year = 2021,	publisher = {American Institute of Mathematical Sciences ({AIMS})},	volume = {0},	number = {0},	pages = {0},	author = {Theresa Lange and Wilhelm Stannat},	title = {Mean field limit of Ensemble Square Root filters - discrete and continuous time},	journal = {Foundations of Data Science}}
+
+
+
+Work No: 13
+@article{Lange_2020,	doi = {10.1090/mcom/3588},	url = {https://doi.org/10.1090%2Fmcom%2F3588},	year = 2020,	month = {oct},	publisher = {American Mathematical Society ({AMS})},	volume = {90},	number = {327},	pages = {233--265},	author = {Theresa Lange and Wilhelm Stannat},	title = {On the continuous time limit of the ensemble Kalman filter},	journal = {Mathematics of Computation}}
+
+
+
+Work No: 14
+@article{Hocquet_2020,	doi = {10.1016/j.spa.2019.06.014},	url = {https://doi.org/10.1016%2Fj.spa.2019.06.014},	year = 2020,	month = {apr},	publisher = {Elsevier {BV}},	volume = {130},	number = {4},	pages = {2159--2184},	author = {Antoine Hocquet and Torstein Nilssen and Wilhelm Stannat},	title = {Generalized Burgers equation with rough transport noise},	journal = {Stochastic Processes and their Applications}}
+
+
+
+Work No: 15
+@article{Mehri_2020,	doi = {10.1214/19-aap1499},	url = {https://doi.org/10.1214%2F19-aap1499},	year = 2020,	month = {feb},	publisher = {Institute of Mathematical Statistics},	volume = {30},	number = {1},	author = {Sima Mehri and Michael Scheutzow and Wilhelm Stannat and Bian Z. Zangeneh},	title = {Propagation of chaos for stochastic spatially structured neuronal networks with delay driven by jump diffusions},	journal = {The Annals of Applied Probability}}
+
+
+
+Work No: 16
+@article{Friz_2020,	doi = {10.1016/j.jde.2019.09.033},	url = {https://doi.org/10.1016%2Fj.jde.2019.09.033},	year = 2020,	month = {feb},	publisher = {Elsevier {BV}},	volume = {268},	number = {4},	pages = {1686--1721},	author = {Peter K. Friz and Torstein Nilssen and Wilhelm Stannat},	title = {Existence, uniqueness and stability of semi-linear rough partial differential equations},	journal = {Journal of Differential Equations}}
+
+
+
+Work No: 17
+@article{Pasemann_2020,	doi = {10.1214/19-ejs1665},	url = {https://doi.org/10.1214%2F19-ejs1665},	year = 2020,	month = {jan},	publisher = {Institute of Mathematical Statistics},	volume = {14},	number = {1},	author = {Gregor Pasemann and Wilhelm Stannat},	title = {Drift estimation for stochastic reaction-diffusion systems},	journal = {Electronic Journal of Statistics}}
+
+
+
+Work No: 18
+@article{Stannat_2020,	doi = {10.3934/eect.2020087},	url = {https://doi.org/10.3934%2Feect.2020087},	year = 2020,	publisher = {American Institute of Mathematical Sciences ({AIMS})},	volume = {0},	number = {0},	pages = {0},	author = {Wilhelm Stannat and Lukas Wessels},	title = {Deterministic control of stochastic reaction-diffusion equations},	journal = {Evolution Equations {\&} Control Theory}}
+
+
+
+Work No: 19
+@article{Stannat2020,title = {Propagation of chaos for stochastic spatially structured neuronal networks with delay driven by jump diffusions},journal = {Annals of Applied Probability},year = {2020},volume = {30},number = {1},pages = {175-207},author = {Mehri, S. and Scheutzow, M. and Stannat, W. and Zangeneh, B.Z.}}
+
+
+
+Work No: 20
+@article{Laschos_2019,	doi = {10.1016/j.jmaa.2019.05.004},	url = {https://doi.org/10.1016%2Fj.jmaa.2019.05.004},	year = 2019,	month = {sep},	publisher = {Elsevier {BV}},	volume = {477},	number = {2},	pages = {1133--1156},	author = {Vaios Laschos and Klaus Obermayer and Yun Shen and Wilhelm Stannat},	title = {A Fenchel-Moreau-Rockafellar type theorem on the Kantorovich-Wasserstein space with applications in partially observable Markov decision processes},	journal = {Journal of Mathematical Analysis and Applications}}
+
+
+
+Work No: 21
+@article{Stannat2019,title = {Editorial: Data Assimilation and Control: Theory and Applications in Life Sciences},journal = {Frontiers in Applied Mathematics and Statistics},year = {2019},volume = {5},author = {Hutt, A. and Stannat, W. and Potthast, R.}}
+
+
+
+Work No: 22
+@article{Stannat2019,title = {Weak solutions to Vlasov-McKean equations under Lyapunov-type conditions},journal = {Stochastics and Dynamics},year = {2019},volume = {19},number = {6},author = {Mehri, S. and Stannat, W.}}
+
+
+
+Work No: 23
+@article{Chen_2018,	doi = {10.1016/j.neuroimage.2018.07.002},	url = {https://doi.org/10.1016%2Fj.neuroimage.2018.07.002},	year = 2018,	month = {nov},	publisher = {Elsevier {BV}},	volume = {181},	pages = {370--381},	author = {Yi Chen and Radoslaw Martin Cichy and Wilhelm Stannat and John-Dylan Haynes},	title = {Scale-specific analysis of {fMRI} data on the irregular cortical surface},	journal = {{NeuroImage}}}
+
+
+
+Work No: 24
+@article{de_Wiljes_2018,	doi = {10.1137/17m1119056},	url = {https://doi.org/10.1137%2F17m1119056},	year = 2018,	month = {jan},	publisher = {Society for Industrial {\&} Applied Mathematics ({SIAM})},	volume = {17},	number = {2},	pages = {1152--1181},	author = {Jana de Wiljes and Sebastian Reich and Wilhelm Stannat},	title = {Long-Time Stability and Accuracy of the Ensemble Kalman--Bucy Filter for Fully Observed Processes and Small Measurement Noise},	journal = {{SIAM} Journal on Applied Dynamical Systems}}
+
+
+
+Work No: 25
+@article{Stannat2018,title = {Preface},journal = {Springer Proceedings in Mathematics and Statistics},year = {2018},volume = {229},pages = {v-vii},author = {Eberle, A. and Grothaus, M. and Hoh, W. and Kassmann, M. and Stannat, W. and Trutnau, G.}}
+
+
+
+Work No: 26
+@book{2018,	doi = {10.1007/978-3-319-74929-7},	url = {https://doi.org/10.1007%2F978-3-319-74929-7},	year = 2018,	publisher = {Springer International Publishing},	editor = {Andreas Eberle and Martin Grothaus and Walter Hoh and Moritz Kassmann and Wilhelm Stannat and Gerald Trutnau},	title = {Stochastic Partial Differential Equations and Related Fields}}
+
+
+
+Work No: 27
+@article{Stannat2018,title = {Well-posedness of the stochastic neural field equation with discontinuous firing rate},journal = {Journal of Evolution Equations},year = {2018},volume = {18},number = {2},pages = {515-547},author = {Kr{\"u}ger, J. and Stannat, W.}}
+
+
+
+Work No: 28
+@article{Lang_2017,	doi = {10.1186/s13408-017-0048-2},	url = {https://doi.org/10.1186%2Fs13408-017-0048-2},	year = 2017,	month = {jul},	publisher = {Springer Science and Business Media {LLC}},	volume = {7},	number = {1},	author = {Eva Lang and Wilhelm Stannat},	title = {Finite-Size Effects on Traveling Wave Solutions to Neural Field Equations},	journal = {The Journal of Mathematical Neuroscience}}
+
+
+
+Work No: 29
+@article{Kr_ger_2017,	doi = {10.1016/j.na.2017.07.001},	url = {https://doi.org/10.1016%2Fj.na.2017.07.001},	year = 2017,	month = {oct},	publisher = {Elsevier {BV}},	volume = {162},	pages = {197--223},	author = {J. Krüger and W. Stannat},	title = {A multiscale-analysis of stochastic bistable reaction{\textendash}diffusion equations},	journal = {Nonlinear Analysis}}
+
+
+
+Work No: 30
+@article{Stannat2017,title = {Complete Mean-Field Theory for Dynamics of Binary Recurrent Networks},journal = {Physical Review Letters},year = {2017},volume = {119},number = {20},author = {Farkhooi, F. and Stannat, W.}}
+
+
+
+Work No: 31
+@article{Stannat2017,title = {Long-time stability and accuracy of the ensemble kalman-bucy filter for fully observed processes and small measurement noise},journal = {SIAM Journal on Applied Dynamical Systems},year = {2017},volume = {17},number = {2},pages = {1152-1181},author = {De Wiljes, J. and Reich, S. and Stannat, W.}}
+
+
+
+Work No: 32
+@article{Diehl_2017,	doi = {10.5802/afst.1556},	url = {https://doi.org/10.5802%2Fafst.1556},	year = 2017,	publisher = {Cellule {MathDoc}/{CEDRAM}},	volume = {26},	number = {4},	pages = {911--947},	author = {Joscha Diehl and Peter Friz and Wilhelm Stannat},	title = {Stochastic partial differential equations: a rough paths view on weak solutions via Feynman{\textendash}Kac},	journal = {Annales de la facult{\'{e}} des sciences de Toulouse Math{\'{e}}matiques}}
+
+
+
+Work No: 33
+@article{Lu_on_2016,	doi = {10.1214/16-aap1194},	url = {https://doi.org/10.1214%2F16-aap1194},	year = 2016,	month = {dec},	publisher = {Institute of Mathematical Statistics},	volume = {26},	number = {6},	author = {Eric Lu{\c{c}}on and Wilhelm Stannat},	title = {Transition from Gaussian to non-Gaussian fluctuations for mean-field diffusions in spatial interaction},	journal = {The Annals of Applied Probability}}
+
+
+
+Work No: 34
+@article{Lang_2016,	doi = {10.1016/j.jde.2016.06.021},	url = {https://doi.org/10.1016%2Fj.jde.2016.06.021},	year = 2016,	month = {oct},	publisher = {Elsevier {BV}},	volume = {261},	number = {8},	pages = {4275--4297},	author = {Eva Lang and Wilhelm Stannat},	title = {L2-stability of traveling wave solutions to nonlocal evolution equations},	journal = {Journal of Differential Equations}}
+
+
+
+Work No: 35
+@article{Stannat_2015,	doi = {10.1365/s13291-015-0131-0},	url = {https://doi.org/10.1365%2Fs13291-015-0131-0},	year = 2015,	month = {nov},	publisher = {Springer Fachmedien Wiesbaden {GmbH}},	volume = {118},	number = {3},	pages = {227--231},	author = {Wilhelm Stannat},	title = {Charles L. Epstein, Rafe Mazzeo: {\textquotedblleft}Degenerate Diffusion Operators Arising in Population Biology{\textquotedblright}},	journal = {Jahresbericht der Deutschen Mathematiker-Vereinigung}}
+
+
+
+Work No: 36
+@article{Sauer_2016,	doi = {10.1007/s10827-015-0586-0},	url = {https://doi.org/10.1007%2Fs10827-015-0586-0},	year = 2016,	month = {jan},	publisher = {Springer Science and Business Media {LLC}},	volume = {40},	number = {1},	pages = {103--111},	author = {Martin Sauer and Wilhelm Stannat},	title = {Reliability of signal transmission in stochastic nerve axon equations},	journal = {Journal of Computational Neuroscience}}
+
+
+
+Work No: 37
+@article{Sauer_2016,	doi = {10.1090/mcom/3068},	url = {https://doi.org/10.1090%2Fmcom%2F3068},	year = 2016,	month = {jan},	publisher = {American Mathematical Society ({AMS})},	volume = {85},	number = {301},	pages = {2457--2481},	author = {Martin Sauer and Wilhelm Stannat},	title = {Analysis and approximation of stochastic nerve axon equations},	journal = {Mathematics of Computation}}
+
+
+
+Work No: 38
+@article{Stannat2016,title = {Transition from gaussian to non-Gaussian fluctuations for mean-field diffusions in spatial interaction},journal = {Annals of Applied Probability},year = {2016},volume = {26},number = {6},pages = {3840-3909},author = {Lucon, E. and Stannat, W.}}
+
+
+
+Work No: 39
+@article{Voronenko_2015,	doi = {10.1186/2190-8567-5-1},	url = {https://doi.org/10.1186%2F2190-8567-5-1},	year = 2015,	month = {jan},	publisher = {Springer Science and Business Media {LLC}},	volume = {5},	number = {1},	author = {Sergej O Voronenko and Wilhelm Stannat and Benjamin Lindner},	title = {Shifting Spike Times or Adding and Deleting Spikes{\textemdash}How Different Types of Noise Shape Signal Transmission in Neural Populations},	journal = {The Journal of Mathematical Neuroscience}}
+
+
+
+Work No: 40
+@article{Lu_on_2014,	doi = {10.1214/13-aap968},	url = {https://doi.org/10.1214%2F13-aap968},	year = 2014,	month = {oct},	publisher = {Institute of Mathematical Statistics},	volume = {24},	number = {5},	author = {Eric Lu{\c{c}}on and Wilhelm Stannat},	title = {Mean field limit for disordered diffusions with singular interactions},	journal = {The Annals of Applied Probability}}
+
+
+
+Work No: 41
+@article{Sauer_2014,	doi = {10.1090/s0025-5718-2014-02873-1},	url = {https://doi.org/10.1090%2Fs0025-5718-2014-02873-1},	year = 2014,	month = {aug},	publisher = {American Mathematical Society ({AMS})},	volume = {84},	number = {292},	pages = {743--766},	author = {Martin Sauer and Wilhelm Stannat},	title = {Lattice approximation for stochastic reaction diffusion equations with one-sided Lipschitz condition},	journal = {Mathematics of Computation}}
+
+
+
+Work No: 42
+@article{Kr_ger_2014,	doi = {10.1137/13095094x},	url = {https://doi.org/10.1137%2F13095094x},	year = 2014,	month = {jan},	publisher = {Society for Industrial {\&} Applied Mathematics ({SIAM})},	volume = {13},	number = {3},	pages = {1293--1310},	author = {J. Krüger and W. Stannat},	title = {Front Propagation in Stochastic Neural Fields: A Rigorous Mathematical Framework},	journal = {{SIAM} Journal on Applied Dynamical Systems}}
+
+
+
+Work No: 43
+@article{Stannat2014,title = {A unified framework for risk-sensitive Markov control processes},journal = {Proceedings of the IEEE Conference on Decision and Control},year = {2014},volume = {2015-February},number = {February},pages = {1073-1078},author = {Shen, Y. and Stannat, W. and Obermayer, K.}}
+
+
+
+Work No: 44
+@article{Stannat2014,title = {Front propagation in stochastic neural fields: A rigorous mathematical framework},journal = {SIAM Journal on Applied Dynamical Systems},year = {2014},volume = {13},number = {3},pages = {1293-1310},author = {Kr{\"u}ger, J. and Stannat, W.}}
+
+
+
+Work No: 45
+@article{Stannat2014,title = {Lattice approximation for stochastic reaction diffusion equations with one-sided Lipschitz condition},journal = {Mathematics of Computation},year = {2014},volume = {84},number = {292},pages = {743-766},author = {Sauer, M. and Stannat, W.}}
+
+
+
+Work No: 46
+@article{Stannat2014,title = {Mean field limit for disordered diffusions with singular interactions},journal = {Annals of Applied Probability},year = {2014},volume = {24},number = {5},pages = {1946-1993},author = {Lu?on, E. and Stannat, W.}}
+
+
+
+Work No: 47
+@incollection{Diehl_2014,	doi = {10.1007/978-3-319-08159-5_8},	url = {https://doi.org/10.1007%2F978-3-319-08159-5_8},	year = 2014,	publisher = {Springer International Publishing},	pages = {161--178},	author = {Joscha Diehl and Peter K. Friz and Hilmar Mai and Harald Oberhauser and Sebastian Riedel and Wilhelm Stannat},	title = {Robustness in Stochastic Filtering and Maximum Likelihood Estimation for {SDEs}},	booktitle = {Extraction of Quantifiable Information from Complex Systems}}
+
+
+
+Work No: 48
+@article{Stannat2014,title = {Robustness in stochastic filtering and maximum likelihood estimation for SDEs},journal = {Lecture Notes in Computational Science and Engineering},year = {2014},volume = {102},pages = {161-178},author = {Diehl, J. and Friz, P.K. and Mai, H. and Oberhauser, H. and Riedel, S. and Stannat, W.}}
+
+
+
+Work No: 49
+@article{Stannat2014,title = {Weak solutions of non coercive stochastic Navier-Stokes equations in R<sup>2</sup>},journal = {Australian Journal of Mathematical Analysis and Applications},year = {2014},volume = {11},number = {1},author = {Stannat, W. and Yokoyama, S.}}
+
+
+
+Work No: 50
+@article{Shen_2013,	doi = {10.1137/120899005},	url = {https://doi.org/10.1137%2F120899005},	year = 2013,	month = {jan},	publisher = {Society for Industrial {\&} Applied Mathematics ({SIAM})},	volume = {51},	number = {5},	pages = {3652--3672},	author = {Yun Shen and Wilhelm Stannat and Klaus Obermayer},	title = {Risk-Sensitive Markov Control Processes},	journal = {{SIAM} Journal on Control and Optimization}}
+
+
+
+Work No: 51
+@article{Stannat2013,title = {Stochastic stability of the Ekman spiral},journal = {Annali della Scuola Normale - Classe di Scienze},year = {2013},volume = {12},number = {1},pages = {189-208},author = {Hieber, M. and Stannat, W.}}
+
+
+
+Work No: 52
+@incollection{Stannat_2013,	doi = {10.1007/978-3-0348-0545-2_12},	url = {https://doi.org/10.1007%2F978-3-0348-0545-2_12},	year = 2013,	publisher = {Springer Basel},	pages = {235--255},	author = {Wilhelm Stannat},	title = {Two Remarks on the Wasserstein Dirichlet Form},	booktitle = {Seminar on Stochastic Analysis, Random Fields and Applications {VII}}}
+
+
+
+Work No: 53
+@article{Es_Sarhir_2012,	doi = {10.1007/s00030-011-0146-x},	url = {https://doi.org/10.1007%2Fs00030-011-0146-x},	year = 2012,	month = {jan},	publisher = {Springer Science and Business Media {LLC}},	volume = {19},	number = {6},	pages = {663--675},	author = {Abdelhadi Es-Sarhir and Max-K. von Renesse and Wilhelm Stannat},	title = {Estimates for the ergodic measure and polynomial stability of plane stochastic curve shortening flow},	journal = {Nonlinear Differential Equations and Applications {NoDEA}}}
+
+
+
+Work No: 54
+@article{Stannat_2011,	doi = {10.1365/s13291-011-0016-9},	url = {https://doi.org/10.1365%2Fs13291-011-0016-9},	year = 2011,	month = {feb},	publisher = {Springer Fachmedien Wiesbaden {GmbH}},	volume = {113},	number = {2},	pages = {81--109},	author = {Wilhelm Stannat},	title = {Stochastic Partial Differential Equations: Kolmogorov~Operators and Invariant Measures},	journal = {Jahresbericht der Deutschen Mathematiker-Vereinigung}}
+
+
+
+Work No: 55
+@incollection{Stannat_2011,	doi = {10.1007/978-3-0348-0021-1_16},	url = {https://doi.org/10.1007%2F978-3-0348-0021-1_16},	year = 2011,	publisher = {Springer Basel},	pages = {245--260},	author = {Wilhelm Stannat},	title = {Functional Inequalities for the Wasserstein Dirichlet Form},	booktitle = {Seminar on Stochastic Analysis, Random Fields and Applications {VI}}}
+
+
+
+Work No: 56
+@article{Stannat2011,title = {L<sup>p</sup>-uniqueness of Kolmogorov operators associated with 2D-stochastic Navier-Stokes-Coriolis equations},journal = {Mathematische Nachrichten},year = {2011},volume = {284},number = {17-18},pages = {2287-2296},author = {Stannat, W.}}
+
+
+
+Work No: 57
+@article{Stannat2010,title = {Improved moment estimates for invariant measures of semilinear diffusions in Hilbert spaces and applications},journal = {Journal of Functional Analysis},year = {2010},volume = {259},number = {5},pages = {1248-1272},author = {Es-Sarhir, A. and Stannat, W.}}
+
+
+
+Work No: 58
+@article{D_ring_2008,	doi = {10.1007/s00440-008-0166-6},	url = {https://doi.org/10.1007%2Fs00440-008-0166-6},	year = 2008,	month = {oct},	publisher = {Springer Science and Business Media {LLC}},	volume = {145},	number = {1-2},	pages = {189--209},	author = {Maik Döring and Wilhelm Stannat},	title = {The logarithmic Sobolev inequality for the Wasserstein diffusion},	journal = {Probability Theory and Related Fields}}
+
+
+
+Work No: 59
+@article{Es_Sarhir_2009,	doi = {10.1016/j.jde.2009.03.025},	url = {https://doi.org/10.1016%2Fj.jde.2009.03.025},	year = 2009,	month = {jul},	publisher = {Elsevier {BV}},	volume = {247},	number = {2},	pages = {424--446},	author = {Abdelhadi Es-Sarhir and Wilhelm Stannat},	title = {Maximal dissipativity of Kolmogorov operators with Cahn{\textendash}Hilliard type drift term},	journal = {Journal of Differential Equations}}
+
+
+
+Work No: 60
+@article{Es_Sarhir_2007,	doi = {10.1007/s00028-007-0354-3},	url = {https://doi.org/10.1007%2Fs00028-007-0354-3},	year = 2007,	month = {oct},	publisher = {Springer Science and Business Media {LLC}},	volume = {8},	number = {1},	pages = {129--154},	author = {Abdelhadi Es-Sarhir and Wilhelm Stannat},	title = {Invariant measures for semilinear {SPDE}'s with local Lipschitz drift coefficients and applications},	journal = {Journal of Evolution Equations}}
+
+
+
+Work No: 61
+@article{Stannat2008,title = {Maintaining replicas in unstructured P2P systems},journal = {Proceedings of 2008 ACM CoNEXT Conference - 4th International Conference on Emerging Networking EXperiments and Technologies, CoNEXT {'}08},year = {2008},author = {Leng, C. and Terpstra, W.W. and Kemme, B. and Stannat, W. and Buchmann, A.P.}}
+
+
+
+Work No: 62
+@article{Stannat2007,title = {A new a priori estimate for the Kolmogorov operator of a 2D-stochastic Navier-stokes equation},journal = {Infinite Dimensional Analysis, Quantum Probability and Related Topics},year = {2007},volume = {10},number = {4},pages = {483-497},author = {Stannat, W.}}
+
+
+
+Work No: 63
+@article{Stannat2007,title = {Uniqueness of solutions to weak parabolic equations for measures},journal = {Bulletin of the London Mathematical Society},year = {2007},volume = {39},number = {4},pages = {631-640},author = {Bogachev, V.I. and Da Prato, G. and R{\"o}ckner, M. and Stannat, W.}}
+
+
+
+Work No: 64
+@article{Stannat_2005,	doi = {10.1007/s11118-005-2610-x},	url = {https://doi.org/10.1007%2Fs11118-005-2610-x},	year = 2005,	month = {nov},	publisher = {Springer Science and Business Media {LLC}},	volume = {23},	number = {3},	pages = {279--301},	author = {Wilhelm Stannat},	title = {On the Poincar� Inequality for Infinitely Divisible Measures},	journal = {Potential Analysis}}
+
+
+
+Work No: 65
+@article{Stannat_2005,	doi = {10.1007/s00245-005-0820-7},	url = {https://doi.org/10.1007%2Fs00245-005-0820-7},	year = 2005,	month = {may},	publisher = {Springer Science and Business Media {LLC}},	volume = {52},	number = {1},	pages = {39--71},	author = {Wilhelm Stannat},	title = {Stability of the Filter Equation for a Time-Dependent Signal on $\{BbbR}$d},	journal = {Applied Mathematics and Optimization}}
+
+
+
+Work No: 66
+@article{Stannat_2004,	doi = {10.1007/s00028-004-0147-x},	url = {https://doi.org/10.1007%2Fs00028-004-0147-x},	year = 2004,	month = {dec},	publisher = {Springer Science and Business Media {LLC}},	volume = {4},	number = {4},	pages = {463--495},	author = {Wilhelm Stannat},	title = {Time-dependent diffusion operators on L1},	journal = {Journal of Evolution Equations}}
+
+
+
+Work No: 67
+@article{Stannat_2004,	doi = {10.1007/s00440-004-0359-6},	url = {https://doi.org/10.1007%2Fs00440-004-0359-6},	year = 2004,	month = {may},	publisher = {Springer Science and Business Media {LLC}},	volume = {130},	number = {3},	pages = {377--387},	author = {Wilhelm Stannat},	title = {A remark on the {CLT} for a random walk in a random environment},	journal = {Probability Theory and Related Fields}}
+
+
+
+Work No: 68
+@article{Stannat_2004,	doi = {10.1007/s00440-003-0330-y},	url = {https://doi.org/10.1007%2Fs00440-003-0330-y},	year = 2004,	month = {may},	publisher = {Springer Science and Business Media {LLC}},	volume = {129},	number = {1},	pages = {113--132},	author = {Wilhelm Stannat},	title = {On the convergence of genetic algorithms ? a variational approach},	journal = {Probability Theory and Related Fields}}
+
+
+
+Work No: 69
+@article{Stannat_2003,	doi = {10.1214/aop/1055425784},	url = {https://doi.org/10.1214%2Faop%2F1055425784},	year = 2003,	month = {jul},	publisher = {Institute of Mathematical Statistics},	volume = {31},	number = {3},	author = {Wilhelm Stannat},	title = {On transition semigroups of {\textdollar}(A,{\textbackslash}Psi ){\textdollar}-superprocesses with immigration},	journal = {The Annals of Probability}}
+
+
+
+Work No: 70
+@article{Stannat_2003,	doi = {10.1016/s0022-1236(03)00088-0},	url = {https://doi.org/10.1016%2Fs0022-1236%2803%2900088-0},	year = 2003,	month = {jun},	publisher = {Elsevier {BV}},	volume = {201},	number = {1},	pages = {185--227},	author = {Wilhelm Stannat},	title = {Spectral properties for a class of continuous state branching processes with immigration},	journal = {Journal of Functional Analysis}}
+
+
+
+Work No: 71
+@article{Stannat_2003,	doi = {10.1016/s0022-1236(02)00182-9},	url = {https://doi.org/10.1016%2Fs0022-1236%2802%2900182-9},	year = 2003,	month = {may},	publisher = {Elsevier {BV}},	volume = {200},	number = {1},	pages = {101--117},	author = {Wilhelm Stannat},	title = {L1-Uniqueness of regularized 2D-Euler and stochastic Navier{\textendash}Stokes equations},	journal = {Journal of Functional Analysis}}
+
+
+
+Work No: 72
+@article{Stannat2003,title = {L<sup>1</sup>-uniqueness of regularized 2D-Euler and stochastic Navier-Stokes equations},journal = {Journal of Functional Analysis},year = {2003},volume = {200},number = {1},pages = {101-117},author = {Stannat, W.}}
+
+
+
+Work No: 73
+@article{Stannat2003,title = {Spectral properties for a class of continuous state branching processes with immigration},journal = {Journal of Functional Analysis},year = {2003},volume = {201},number = {1},pages = {185-227},author = {Stannat, W.}}
+
+
+
+Work No: 74
+@article{Stannat_2002,	doi = {10.1007/s004400100166},	url = {https://doi.org/10.1007%2Fs004400100166},	year = 2002,	month = {mar},	publisher = {Springer Science and Business Media {LLC}},	volume = {122},	number = {3},	pages = {431--469},	author = {Wilhelm Stannat},	journal = {Probability Theory and Related Fields}}
+
+
+
+Work No: 75
+@article{Stannat2002,title = {Uniqueness of solutions of elliptic equations and uniqueness of invariant measures of diffusions},journal = {Sbornik Mathematics},year = {2002},volume = {193},number = {7-8},pages = {945-976},author = {Bogachev, V.I. and R{\"o}ckner, M. and Stannat, W.}}
+
+
+
+Work No: 76
+@article{Stannat_2000,	doi = {10.1214/aop/1019160256},	url = {https://doi.org/10.1214%2Faop%2F1019160256},	year = 2000,	month = {apr},	publisher = {Institute of Mathematical Statistics},	volume = {28},	number = {2},	author = {Wilhelm Stannat},	title = {On the validity of the log-Sobolev inequality for symmetric Fleming-Viot operators},	journal = {The Annals of Probability}}
+
+
+
+Work No: 77
+@article{Stannat1999,title = {The theory of generalized Dirichlet forms and its applications in analysis and stochastics},journal = {Memoirs of the American Mathematical Society},year = {1999},number = {678},pages = {1-101},author = {Stannat, W.}}
+
+
+
+Work No: 78
+@article{Stannat1999,title = {The theory of generalized Dirichlet forms and its applications in analysis and stochastics},journal = {Memoirs of the American Mathematical Society},year = {1999},volume = {142},number = {678},author = {Stannat, W.}}
+
+
+
+Work No: 79
+@article{Stannat1998,title = {Dirichlet Forms and Markov Processes: A Generalized Framework Including Both Elliptic and Parabolic Cases},journal = {Potential Analysis},year = {1998},volume = {8},number = {1},pages = {21-60},author = {Stannat, W.}}
+
+
+
+Work No: 80
+@article{Stannat_1996,	doi = {10.1006/jfan.1996.0126},	url = {https://doi.org/10.1006%2Fjfan.1996.0126},	year = 1996,	month = {oct},	publisher = {Elsevier {BV}},	volume = {141},	number = {1},	pages = {216--248},	author = {Wilhelm Stannat},	title = {First Order Perturbations of Dirichlet Operators: Existence and Uniqueness},	journal = {Journal of Functional Analysis}}
+
+
+
+Work No: 81
+@incollection{Stannat,	doi = {10.1007/978-3-7643-8458-6_19},	url = {https://doi.org/10.1007%2F978-3-7643-8458-6_19},	publisher = {Birkhäuser Basel},	pages = {345--362},	author = {Wilhelm Stannat},	title = {On the Stability of Feynman-Kac Propagators},	booktitle = {Progress in Probability}}
+
+
+Number of education: 0
+
+Education Details
+
+
+Number of employment: 1
+
+Employment Details
+1 TU Berlin

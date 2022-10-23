@@ -39,7 +39,7 @@ for line in lines:
         output.writelines("\n")
 
         for i in range(publication_number):
-            print("\nWork No: " + str(i + 1) + "\n")
+            #print("\nWork No: " + str(i + 1) + "\n")
             output.writelines("\nWork No: " + str(i + 1) + "\n")
             try:
                 if orcid_res.publications[i].citation_value is None:
