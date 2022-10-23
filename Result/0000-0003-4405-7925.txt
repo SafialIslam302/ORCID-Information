@@ -1,0 +1,28 @@
+ORCID: 0000-0003-4405-7925
+Family Name: Scheffer
+Given Name: Tobias
+
+Number of Works: 2
+
+Work Details
+
+Work No: 1
+Pre-Training on In Vitro and Fine-Tuning on Patient-Derived Data Improves Deep Neural Networks for Anti-Cancer Drug-Sensitivity Prediction
+
+
+
+
+Work No: 2
+Matching anticancer compounds and tumor cell lines by neural networks with ranking loss
+
+
+
+Number of education: 0
+
+Education Details
+
+
+Number of employment: 1
+
+Employment Details
+1 University of Potsdam

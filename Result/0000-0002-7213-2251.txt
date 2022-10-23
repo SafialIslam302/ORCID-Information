@@ -1,0 +1,65 @@
+ORCID: 0000-0002-7213-2251
+Family Name: Martinez Torres
+Given Name: Cristina
+
+Number of Works: 5
+
+Work Details
+
+Work No: 1
+@article{van_Buren_2022,
+	doi = {10.1101/2022.01.25.477663},
+	url = {https://doi.org/10.1101%2F2022.01.25.477663},
+	year = 2022,
+	month = {jan},
+	publisher = {Cold Spring Harbor Laboratory},
+	author = {Lennard van Buren and Gijsje H. Koenderink and Cristina Martinez-Torres},
+	title = {{DisGUVery}: a versatile open-source software for high-throughput image analysis of Giant Unilamellar Vesicles}
+}
+
+
+
+Work No: 2
+Revealing the assembly of filamentous proteins with scanning transmission electron microscopy
+
+
+
+
+Work No: 3
+@article{Vos_2019,
+	doi = {10.1101/797464},
+	url = {https://doi.org/10.1101%2F797464},
+	year = 2019,
+	month = {oct},
+	publisher = {Cold Spring Harbor Laboratory},
+	author = {Bart E. Vos and Cristina Martinez-Torres and Federica Burla and John W. Weisel and Gijsje H. Koenderink},
+	title = {Revealing the molecular origins of fibrin's elastomeric properties by in situ X-ray scattering}
+}
+
+
+
+Work No: 4
+@article{Martinez_Torres_2019,
+	doi = {10.1101/697649},
+	url = {https://doi.org/10.1101%2F697649},
+	year = 2019,
+	month = {jul},
+	publisher = {Cold Spring Harbor Laboratory},
+	author = {Cristina Martinez-Torres and Federica Burla and Celine Alkemade and Gijsje H. Koenderink},
+	title = {Revealing the Assembly of Filamentous Proteins with Scanning Transmission Electron Microscopy}
+}
+
+
+
+Work No: 5
+@article{G_Lopez_2018,doi = {10.1039/c8sm01007b},url = {https://doi.org/10.1039%2Fc8sm01007b},year = 2018,publisher = {Royal Society of Chemistry ({RSC})},volume = {14},number = {42},pages = {8445--8454},author = {Carlos G. Lopez and Oliva Saldanha and Anders Aufderhorst-Roberts and Cristina Martinez-Torres and Merel Kuijs and Gijsje H. Koenderink and Sarah KÃ¶ster and Klaus Huber},title = {Effect of ionic strength on the structure and elongational kinetics of vimentin filaments},journal = {Soft Matter}}
+
+
+Number of education: 0
+
+Education Details
+
+
+Number of employment: 0
+
+Employment Details

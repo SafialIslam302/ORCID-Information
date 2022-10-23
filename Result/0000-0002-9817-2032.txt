@@ -1,0 +1,119 @@
+ORCID: 0000-0002-9817-2032
+Family Name: Großmann
+Given Name: Robert
+
+Number of Works: 16
+
+Work Details
+
+Work No: 1
+@article{Moreno_2022,	doi = {10.3389/fphy.2021.750187},	url = {https://doi.org/10.3389%2Ffphy.2021.750187},	year = 2022,	month = {feb},	publisher = {Frontiers Media {SA}},	volume = {9},	author = {Eduardo Moreno and Robert Gro{\ss}mann and Carsten Beta and Sergio Alonso},	title = {From Single to Collective Motion of Social Amoebae: A Computational Study of Interacting Cells},	journal = {Frontiers in Physics}}
+
+
+
+Work No: 2
+@misc{https://doi.org/10.48550/arxiv.2112.11295,  doi = {10.48550/ARXIV.2112.11295},  url = {https://arxiv.org/abs/2112.11295},  author = {Lepro, Valentino and Großmann, Robert and Nagel, Oliver and Panah, Setareh Sharifi and Klumpp, Stefan and Lipowsky, Reinhard and Beta, Carsten},  keywords = {Biological Physics (physics.bio-ph), Soft Condensed Matter (cond-mat.soft), FOS: Physical sciences, FOS: Physical sciences},  title = {Biohybrid active matter -- the emergent properties of cell-mediated microtransport},  publisher = {arXiv},  year = {2021},  copyright = {arXiv.org perpetual, non-exclusive license}}
+
+
+
+Work No: 3
+@article{Gro_mann_2020,	doi = {10.1038/s41467-020-18978-5},	url = {https://doi.org/10.1038%2Fs41467-020-18978-5},	year = 2020,	month = {oct},	publisher = {Springer Science and Business Media {LLC}},	volume = {11},	number = {1},	author = {Robert Gro{\ss}mann and Igor S. Aranson and Fernando Peruani},	title = {A particle-field approach bridges phase separation and collective motion in active matter},	journal = {Nature Communications}}
+
+
+
+Work No: 4
+@article{G_mez_Nava_2020,	doi = {10.1209/0295-5075/130/68002},	url = {https://doi.org/10.1209%2F0295-5075%2F130%2F68002},	year = 2020,	month = {jul},	publisher = {{IOP} Publishing},	volume = {130},	number = {6},	pages = {68002},	author = {L. G{\'{o}}mez Nava and R. Gro{\ss}mann and M. Hintsche and C. Beta and F. Peruani},	title = {A novel approach to chemotaxis: Active particles guided by internal clocks},	journal = {{EPL} (Europhysics Letters)}}
+
+
+
+Work No: 5
+@article{Alirezaeizanjani_2020,	doi = {10.1126/sciadv.aaz6153},	url = {https://doi.org/10.1126%2Fsciadv.aaz6153},	year = 2020,	month = {may},	publisher = {American Association for the Advancement of Science ({AAAS})},	volume = {6},	number = {22},	author = {Zahra Alirezaeizanjani and Robert Gro{\ss}mann and Veronika Pfeifer and Marius Hintsche and Carsten Beta},	title = {Chemotaxis strategies of bacteria with multiple run modes},	journal = {Science Advances}}
+
+
+
+Work No: 6
+Self-Propelled Rods: Insights and Perspectives for Active Matter
+
+
+
+
+Work No: 7
+Markovian robots: Minimal navigation strategies for active particles
+
+
+
+
+Work No: 8
+A polar bundle of flagella can drive bacterial swimming by pushing, pulling, or coiling around the cell body
+
+
+
+
+Work No: 9
+Mesoscale pattern formation of self-propelled rods with velocity reversal
+
+
+
+
+Work No: 10
+@article{grossmann2016diffusion, title= {Diffusion properties of active particles with directional reversal}, author= {Gro{\ss}mann, Robert and Peruani, Fernando and B{\"a}r, Markus}, journal= {New Journal of Physics}, volume= {18}, number= {4}, pages= {043009}, year= {2016}, publisher= {IOP Publishing}}
+
+
+
+
+
+Work No: 11
+@article{grossmann2016superdiffusion, title= {Superdiffusion, large-scale synchronization, and topological defects}, author= {Gro{\ss}mann, Robert and Peruani, Fernando and B{\"a}r, Markus}, journal= {Physical Review E}, volume= {93}, number= {4}, pages= {040102--R}, year= {2016}, publisher= {American Physical Society}}
+
+
+
+
+
+Work No: 12
+@article{grossmann2015geometric, title= {A geometric approach to self-propelled motion in isotropic \& anisotropic environments}, author= {Gro{\ss}mann, Robert and Peruani, Fernando and B{\"a}r, Markus}, journal= {The European Physical Journal Special Topics}, volume= {224}, number= {7}, pages= {1377--1394}, year= {2015}, publisher= {Springer}}
+
+
+
+
+
+Work No: 13
+@article{grossmann2015pattern, title= {Pattern formation in active particle systems due to competing alignment interactions}, author= {Gro{\ss}mann, Robert and Romanczuk, Pawel and B{\"a}r, Markus and Schimansky-Geier, Lutz}, journal= {The European Physical Journal Special Topics}, volume= {224}, number= {7}, pages= {1325--1347}, year= {2015}, publisher= {Springer}}
+
+
+
+
+
+Work No: 14
+@article{grossmann2014vortex, title= {Vortex Arrays and Mesoscale Turbulence of Self-Propelled Particles}, author= {Gro{\ss}mann, Robert and Romanczuk, Pawel and B{\"a}r, Markus and Schimansky-Geier, Lutz}, journal= {Physical Review Letters}, volume= {113}, number= {25}, pages= {258104}, year= {2014}, publisher= {American Physical Society}}
+
+
+
+
+
+Work No: 15
+@article{grossmann2013self, title= {Self-propelled particles with selective attraction--repulsion interaction: from microscopic dynamics to coarse-grained theories}, author= {Gro{\ss}mann, Robert and Schimansky-Geier, Lutz and Romanczuk, Pawel}, journal= {New Journal of Physics}, volume= {15}, number= {8}, pages= {085014}, year= {2013}, publisher= {IOP Publishing}}
+
+
+
+
+
+Work No: 16
+@article{grossmann2012active, title= {Active Brownian particles with velocity-alignment and active fluctuations}, author= {Gro{\ss}mann, Robert and Schimansky-Geier, Lutz and Romanczuk, Pawel}, journal= {New Journal of Physics}, volume= {14}, number= {7}, pages= {073033}, year= {2012}, publisher= {IOP Publishing}}
+
+
+
+
+Number of education: 3
+
+Education Details
+1 Technische Universität Berlin
+2 Humboldt-Universität zu Berlin
+3 Humboldt-Universität zu Berlin
+
+
+Number of employment: 3
+
+Employment Details
+1 Universität Potsdam
+2 Université de Nice Sophia Antipolis
+3 Physikalisch-Technische Bundesanstalt

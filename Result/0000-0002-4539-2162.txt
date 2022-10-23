@@ -1,0 +1,339 @@
+ORCID: 0000-0002-4539-2162
+Family Name: Freitag
+Given Name: Melina
+
+Number of Works: 39
+
+Work Details
+
+Work No: 1
+@article{Freitag2021,title = {Autonomous exploration and identification of high performing adsorbents using active learning},journal = {ChemRxiv},year = {2021},author = {Donval, G. and Hand, C. and Hook, J. and Dupont, E. and Landman, M.S. and Freitag, M.A. and Lennox, M.J. and D{\"u}ren, T.}}
+
+
+
+Work No: 2
+@article{Freitag2021,title = {Optimization based model order reduction for stochastic systems},journal = {Applied Mathematics and Computation},year = {2021},volume = {398},author = {Redmann, M. and Freitag, M.A.}}
+
+
+
+Work No: 3
+@article{Freitag2021,title = {POD-GALERKIN REDUCED ORDER MODELS and PHYSICS-INFORMED NEURAL NETWORKS for SOLVING INVERSE PROBLEMS for the NAVIER-STOKES EQUATIONS},journal = {arXiv},year = {2021},author = {Hijazi, S. and Freitag, M. and Landwehr, N.}}
+
+
+
+Work No: 4
+@article{K_rschner_2020,	doi = {10.1007/s10543-020-00813-4},	url = {https://doi.org/10.1007%2Fs10543-020-00813-4},	year = 2020,	month = {jun},	publisher = {Springer Science and Business Media {LLC}},	volume = {60},	number = {4},	pages = {1221--1259},	author = {Patrick Kürschner and Melina A. Freitag},	title = {Inexact methods for the low rank solution to large scale Lyapunov equations},	journal = {{BIT} Numerical Mathematics}}
+
+
+
+Work No: 5
+@article{Freitag2020,title = {Numerical linear algebra in data assimilation},journal = {GAMM Mitteilungen},year = {2020},volume = {43},number = {3},author = {Freitag, M.A.}}
+
+
+
+Work No: 6
+@article{Freitag2020,title = {Optimization based model order reduction for stochastic systems},journal = {arXiv},year = {2020},author = {Redmann, M. and Freitag, M.A.}}
+
+
+
+Work No: 7
+@inproceedings{5918b7d0085147e0bc7a4b5c3e821c4f,
+  title     = "Teaching of computing to mathematics students: Programming and discrete mathematics",
+  abstract  = "This paper describes a course that has been running for over nine years, teaching Programming to large number of Mathematics students. The distinctive features of it include the fact that it was designed as part of a wholesale curriculum review (rather than being a pre-packaged course), that its design took into account the nature of the syllabus and what else the students would be using programming for, both in the rest of their course and beyond, and that the course is more than “just” a programming course.",
+  keywords  = "Mathematics, MATLAB, Programming education",
+  author    = "Jack Betteridge and Davenport, {James H.} and Melina Freitag and Willem Heijtljes and Stef Kynaston and Gregory Sankaran and Gunnar Traustason",
+  year      = "2019",
+  month     = jan,
+  day       = "9",
+  doi       = "10.1145/3294016.3294022",
+  language  = "English",
+  booktitle = "Proceedings of the 3rd Conference on Computing Education Practice, CEP 2019",
+  publisher = "Association for Computing Machinery",
+  address   = "USA United States",
+  note      = "3rd Conference on Computing Education Practice, CEP 2019 ; Conference date: 09-01-2019",
+}
+
+
+
+Work No: 8
+@article{Freitag2019,title = {Numerical Linear Algebra in Data Assimilation},journal = {arXiv},year = {2019},author = {Freitag, M.A.}}
+
+
+
+Work No: 9
+@article{e5654961805444269150903e12bc5419,
+  title     = "Balanced model order reduction for linear random dynamical systems driven by L{\'e}vy noise",
+  abstract  = "When solving linear stochastic differential equations numerically, usually a high order spatial discretisation is used. Balanced truncation (BT) and singular perturbation approximation (SPA) are well-known projection techniques in the deterministic framework which reduce the order of a control system and hence reduce computational complexity. This work considers both methods when the control is replaced by a noise term. We provide theoretical tools such as stochastic concepts for reachability and observability, which are necessary for balancing related model order reduction of linear stochastic differential equations with additive L{\'e}vy noise. Moreover, we derive error bounds for both BT and SPA and provide numerical results for a specific example which support the theory.",
+  keywords  = "Balanced truncation, Gramians, Lyapunov equations, L{\'e}vy processes, Model order reduction, Singular perturbation approximation, Stochastic systems",
+  author    = "Martin Redmann and Freitag, {Melina A.}",
+  year      = "2018",
+  month     = dec,
+  day       = "1",
+  doi       = "10.3934/JCD.2018002",
+  language  = "English",
+  volume    = "5",
+  pages     = "33--59",
+  journal   = "Journal of Computational Dynamics",
+  issn      = "2158-2491",
+  publisher = "American Institute of Mathematical Sciences",
+  number    = "1 & 2",
+}
+
+
+
+Work No: 10
+@article{9dde101d11e34c5593e2880ce6a1c0d6,
+  title     = "A low-rank approach to the solution of weak constraint variational data assimilation problems",
+  abstract  = "Weak constraint four-dimensional variational data assimilation is an important method for incorporating data (typically observations) into a model. The linearised system arising within the minimisation process can be formulated as a saddle point problem. A disadvantage of this formulation is the large storage requirements involved in the linear system. In this paper, we present a low-rank approach which exploits the structure of the saddle point system using techniques and theory from solving large scale matrix equations. Numerical experiments with the linear advection–diffusion equation, and the non-linear Lorenz-95 model demonstrate the effectiveness of a low-rank Krylov subspace solver when compared to a traditional solver.",
+  keywords  = "Data assimilation, Iterative methods, Low-rank methods, Matrix equations, Preconditioning, Weak constraint 4D-Var",
+  author    = "Melina Freitag and Daniel Green",
+  year      = "2018",
+  month     = mar,
+  day       = "15",
+  doi       = "10.1016/j.jcp.2017.12.039",
+  language  = "English",
+  volume    = "357",
+  pages     = "263–281",
+  journal   = "Journal of Computational Physics",
+  issn      = "0021-9991",
+  publisher = "Elsevier Academic Press Inc",
+}
+
+
+
+Work No: 11
+@article{Freitag2018,title = {Inexact methods for the low rank solution to large scale Lyapunov equations},journal = {arXiv},year = {2018},author = {K{\"u}rschner, P. and Freitag, M.A.}}
+
+
+
+Work No: 12
+@article{Freitag2017,title = {A low-rank approach to the solution of weak constraint variational data assimilation problems},journal = {arXiv},year = {2017},author = {Freitag, M.A. and Green, L.H.}}
+
+
+
+Work No: 13
+@article{6b3ea0f9908441b9b9e25ba2c7f0ba06,
+  title     = "GMRES convergence bounds for eigenvalue problems",
+  abstract  = "The convergence of GMRES for solving linear systems can be influenced heavily by the structure of the right hand side. Within the solution of eigenvalue problems via inverse iteration or subspace iteration, the right hand side is generally related to an approximate invariant subspace of the linear system. We give detailed and new bounds on (block) GMRES that take the special behavior of the right hand side into account and explain the initial sharp decrease of the GMRES residual. The bounds give rise to adapted preconditioners applied to the eigenvalue problems, e.g. tuned and polynomial preconditioners. The numerical results show that the new (block) GMRES bounds are much sharper than conventional bounds and that preconditioned subspace iteration with either a tuned or polynomial preconditioner should be used in practice.",
+  keywords  = "math.NA, 15A18, 65F08, 65F10, 65F15, 65N25",
+  author    = "Melina Freitag and Patrick K{\"u}rschner and Jennifer Pestana",
+  year      = "2016",
+  month     = sep,
+  day       = "20",
+  doi       = "10.1515/cmam-2017-0017",
+  language  = "English",
+  journal   = "Journal of Computational and Applied Mathematics",
+  issn      = "0377-0427",
+  publisher = "Elsevier",
+}
+
+
+
+Work No: 14
+@article{Freitag2015,title = {The effect of numerical model error on data assimilation},journal = {Journal of Computational and Applied Mathematics},year = {2015},volume = {290},pages = {567-588},author = {Jenkins, S.E. and Budd, C.J. and Freitag, M.A. and Smith, N.D.}}
+
+
+
+Work No: 15
+@article{Freitag2015,title = {Tuned preconditioners for inexact two-sided inverse and Rayleigh quotient iteration},journal = {Numerical Linear Algebra with Applications},year = {2015},volume = {22},number = {1},pages = {175-196},author = {Freitag, M.A. and K{\"u}rschner, P.}}
+
+
+
+Work No: 16
+@article{Freitag2014,title = {A new approach for calculating the real stability radius},journal = {BIT Numerical Mathematics},year = {2014},volume = {54},number = {2},pages = {381-400},author = {Freitag, M.A. and Spence, A.}}
+
+
+
+Work No: 17
+@article{Freitag2014,title = {Calculating the H<inf>?</inf>-norm using the implicit determinant method},journal = {SIAM Journal on Matrix Analysis and Applications},year = {2014},volume = {35},number = {2},pages = {619-635},author = {Freitag, M.A. and Spence, A. and Van Dooren, P.}}
+
+
+
+Work No: 18
+@article{Freitag2014,title = {The calculation of the distance to a nearby defective matrix},journal = {Numerical Linear Algebra with Applications},year = {2014},volume = {21},number = {3},pages = {403-414},author = {Akinola, R.O. and Freitag, M.A. and Spence, A.}}
+
+
+
+Work No: 19
+@article{Freitag2014,title = {The computation of Jordan blocks in parameter-dependent matrices},journal = {IMA Journal of Numerical Analysis},year = {2014},volume = {34},number = {3},pages = {955-976},author = {Akinola, R.O. and Freitag, M.A. and Spence, A.}}
+
+
+
+Work No: 20
+@book{e877101d7f2f4ac6825b983d97bb79e3,
+  title     = "Large Scale Inverse Problems: Computational Methods and Applications in the Earth Sciences",
+  author    = "Freitag, {Melina A.}",
+  editor    = "Mike Cullen and Stefan Kindermann and Robert Scheichl",
+  year      = "2013",
+  month     = aug,
+  day       = "16",
+  language  = "English",
+  isbn      = "9783110282221",
+  series    = "Radon Series on Computational and Applied Mathematics",
+  publisher = "De Gruyter",
+  address   = "Germany",
+}
+
+
+
+Work No: 21
+@conference { dnb:1103856642
+, title ={ Large Scale Inverse Problems. Computational Methods and Applications in the Earth Sciences }, publisher ={ De Gruyter }, address ={ Berlin/Boston }, year ={ 2013 }, author ={ Mike Cullen, Melina A. Freitag, Stefan Kindermann, Robert Scheichl }, pages ={ Online-Ressource }, number ={ 13 }, language ={ ENGLISCH }, keywords ={ Inverses Problem }, type ={ KONFERENZSCHRIFT }, isbn ={ 3-11-028226-7 }, urn ={ urn:nbn:de:101:1-201606178182 }, biburl ={ https://d-nb.info/1103856642 } 
+}
+
+
+
+Work No: 22
+@conference { dnb:1030086168
+, title ={ Large scale inverse problems. computational methods and applications in the earth sciences }, publisher ={ De Gruyter }, address ={ Berlin }, year ={ 2013 }, author ={ Michael J. P. Cullen, Melina A. Freitag, Stefan Kindermann, Robert Scheichl }, pages ={ IX, 203 S. }, series ={ Johann Radon Institute for Computational and Applied Mathematics }, number ={ Vol. 13 }, language ={ ENGLISCH }, keywords ={ Inverses Problem }, type ={ KONFERENZSCHRIFT }, isbn ={ 3-11-028222-4 }, biburl ={ https://d-nb.info/1030086168 } 
+}
+
+
+
+Work No: 23
+@article{Freitag2013,title = {Resolution of sharp fronts in the presence of model error in variational data assimilation},journal = {Quarterly Journal of the Royal Meteorological Society},year = {2013},volume = {139},number = {672},pages = {742-757},author = {Freitag, M.A. and Nichols, N.K. and Budda, C.J.}}
+
+
+
+Work No: 24
+@inbook{a7a12fa696be452880560d20ee9d4804,
+  title     = "Synergy of inverse problems and data assimilation techniques",
+  author    = "Freitag, {M A} and Potthast, {Roland W E}",
+  year      = "2013",
+  doi       = "10.1515/9783110282269.1",
+  language  = "English",
+  isbn      = "9783110282221",
+  series    = "Radon Series on Computational and Applied Mathematics",
+  publisher = "De Gruyter",
+  editor    = "Mike Cullen and Freitag, {Melina A} and Stefan Kindermann and Robert Scheichl",
+  booktitle = "Large Scale Inverse Problems",
+  address   = "Germany",
+}
+
+
+
+Work No: 25
+@article{Freitag2013,title = {The origin of power-law emergent scaling in large binary networks},journal = {Physica A: Statistical Mechanics and its Applications},year = {2013},volume = {392},number = {4},pages = {1004-1027},author = {Almond, D.P. and Budd, C.J. and Freitag, M.A. and Hunt, G.W. and McCullen, N.J. and Smith, N.D.}}
+
+
+
+Work No: 26
+@article{Freitag2011,title = {A Newton-based method for the calculation of the distance to instability},journal = {Linear Algebra and Its Applications},year = {2011},volume = {435},number = {12},pages = {3189-3205},author = {Freitag, M.A. and Spence, A.}}
+
+
+
+Work No: 27
+@article{Freitag2011,title = {Regularization techniques for ill-posed inverse problems in data assimilation},journal = {Computers and Fluids},year = {2011},volume = {46},number = {1},pages = {168-173},author = {Budd, C.J. and Freitag, M.A. and Nichols, N.K.}}
+
+
+
+Work No: 28
+@article{01d9c46a53414fff96e61314c946f15b,
+  title    = "L1-regularisation for ill-posed problems in variational data assimilation",
+  abstract = "We consider four-dimensional variational data assimilation (4DVar) and show that it can be interpreted as Tikhonov or L2-regularisation, a widely used method for solving ill-posed inverse problems. It is known from image restoration and geophysical problems that an alternative regularisation, namely L1-norm regularisation, recovers sharp edges better than L2-norm regularisation. We apply this idea to 4DVar for problems where shocks and model error are present and give two examples which show that L1-norm regularisation performs much better than the standard L2-norm regularisation in 4DVar.",
+  author   = "Freitag, {Melina A} and Nichols, {N K} and Budd, {Christopher J}",
+  note     = "PAMM Special Issue: 81st Annual Meeting of the International Association of Applied Mathematics and Mechanics (GAMM), Karlsruhe 2010; Editor: Prof. Christian Wieners",
+  year     = "2010",
+  month    = dec,
+  doi      = "10.1002/pamm.201010324",
+  language = "English",
+  volume   = "10",
+  pages    = "665 --668",
+  journal  = "PAMM - Proceedings in Applied Mathematics and Mechanics",
+  issn     = "1617-7061",
+  number   = "1",
+}
+
+
+
+Work No: 29
+@inproceedings{1861aeec5e06431f86cbf2ac082f3346,
+  title     = "The calculation of the distance to instability by the computation of a Jordan block",
+  author    = "Melina Freitag and Alastair Spence",
+  note      = "This report is published in Oberolfach Reports, vol 6, issue 3, pp.2025-2114 ; Workshop on Linear and Nonlinear Eigenproblems for PDEs ; Conference date: 10-08-2009",
+  year      = "2009",
+  month     = aug,
+  day       = "11",
+  doi       = "10.4171/OWR/2009/37",
+  language  = "English",
+  series    = "Oberwolfach Reports",
+  publisher = "European Mathematical Society",
+  pages     = "274--275",
+  booktitle = "Linear and Nonlinear Eigenproblems for PDEs",
+}
+
+
+
+Work No: 30
+@article{Freitag2009,title = {Shift-invert Arnoldi{'}s method with preconditioned iterative solves},journal = {SIAM Journal on Matrix Analysis and Applications},year = {2009},volume = {31},number = {3},pages = {942-969},author = {Freitag, M.A. and Alastair, S.}}
+
+
+
+Work No: 31
+@book{181d8e65fbf84752bd290b0fd606d79b,
+  title     = "The Impact of Multiplication Operators on the Ill-Posedness of Inverse Problems",
+  abstract  = "In this work we deal with the degree of ill-posedness of linear operators in Hilbert spaces, where the operator may be decomposed into a compact linear integral operator with a well-known decay rate of singular values and a multiplication operator. This case occurs, for example, for nonlinear operator equations. Then the local degree of ill-posedness is investigated via the Frechet derivative, providing the situation described above. If the multiplier function has got zeroes, the determination of the local degree of ill-posedness is not trivial. We are going to investigate this situation, provide analytical tools as well as their limitations. By using several numerical approaches for computing the singular values we find that the degree of ill-posedness does not change through those multiplication operators. We provide a conjecture, verified by several numerical studies, how those operators influence the singular values. Finally, we analyze the influence of these multiplication operators on Tikhonov regularization and corresponding convergence rates. In this context we also provide a short summary on the relationship between nonlinear problems and their linearizations.",
+  author    = "Freitag, {Melina A}",
+  year      = "2008",
+  month     = aug,
+  language  = "English",
+  isbn      = "978-3639069136",
+  publisher = "VDM Verlag",
+}
+
+
+
+Work No: 32
+@article{Freitag2008,title = {A tuned preconditioner for inexact inverse iteration applied to Hermitian eigenvalue problems},journal = {IMA Journal of Numerical Analysis},year = {2008},volume = {28},number = {3},pages = {522-551},author = {Freitag, M.A. and Spence, A.}}
+
+
+
+Work No: 33
+@article{Freitag2008,title = {Rayleigh quotient iteration and simplified Jacobi-Davidson method with preconditioned iterative solves},journal = {Linear Algebra and Its Applications},year = {2008},volume = {428},number = {8-9},pages = {2049-2060},author = {Freitag, M.A. and Spence, A.}}
+
+
+
+Work No: 34
+@book { dnb:1005036853
+, title ={ The Impact of Multiplication Operators on the Ill-Posedness of Inverse Problems }, publisher ={ VDM Verlag Dr. Müller }, address ={ Saarbrücken }, year ={ 2008 }, author ={ Melina A. Freitag }, pages ={ Online-Ressource }, isbn ={ 978-3-639-06913-6 }, urn ={ urn:nbn:de:101:1-201007281642 }, biburl ={ https://d-nb.info/1005036853 } 
+}
+
+
+
+Work No: 35
+@article{Freitag2007,title = {Convergence of inexact inverse iteration with application to preconditioned iterative solves},journal = {BIT Numerical Mathematics},year = {2007},volume = {47},number = {1},pages = {27-44},author = {Freitag, M.A. and Spence, A.}}
+
+
+
+Work No: 36
+@article{Freitag2007,title = {Convergence theory for inexact inverse iteration applied to the generalised nonsymmetric eigenproblem},journal = {Electronic Transactions on Numerical Analysis},year = {2007},volume = {28},pages = {40-64},author = {Freitag, M.A. and Spence, A.}}
+
+
+
+Work No: 37
+@article{Freitag2007,title = {The Preissmann box scheme and its modification for transcritical flows},journal = {International Journal for Numerical Methods in Engineering},year = {2007},volume = {70},number = {7},pages = {791-811},author = {Freitag, M.A. and Morton, K.W.}}
+
+
+
+Work No: 38
+@article{Freitag2005,title = {Analytical and numerical studies on the influence of multiplication operators for the ill-posedness of inverse problems},journal = {Journal of Inverse and Ill-Posed Problems},year = {2005},volume = {13},number = {2},pages = {123-148},author = {Freitag, M. and Hofmann, B.}}
+
+
+
+Work No: 39
+@book { dnb:1211829227
+, title ={ On the Influence of Multiplication Operators on the Ill-posedness of Inverse Problems. Zum Einfluss von Multiplikationsoperatoren auf die Inkorrektheit Inverser Probleme }, publisher ={ Universitätsbibliothek Chemnitz }, address ={ Chemnitz }, year ={ 2004 }, author ={ Melina A. Freitag, Bernd Hofmann, Arnd Meyer }, pages ={ Online-Ressource }, school ={ Chemnitz, Technische Universität Chemnitz }, language ={ ENGLISCH }, urn ={ urn:nbn:de:swb:ch1-200401504 }, biburl ={ https://d-nb.info/1211829227 } 
+}
+
+
+Number of education: 0
+
+Education Details
+
+
+Number of employment: 3
+
+Employment Details
+1 University of Potsdam
+2 University of Bath
+3 University of Bath

@@ -1,0 +1,37 @@
+ORCID: 0000-0003-4049-8088
+Family Name: Lucke
+Given Name: Ulrike
+
+Number of Works: 1
+
+Work Details
+
+Work No: 1
+@article{Lemcke_2021,
+	doi = {10.1365/s40702-021-00771-7},
+	url = {https://doi.org/10.1365%2Fs40702-021-00771-7},
+	year = 2021,
+	month = {aug},
+	publisher = {Springer Fachmedien Wiesbaden {GmbH}},
+	volume = {58},
+	number = {5},
+	pages = {1020--1037},
+	author = {Stefanie Lemcke and Ariane Lehmann and Denny Trommler and Ulrike Lucke},
+	title = {Akzeptanz und Effekte der Digitalisierung in der Hochschulverwaltung},
+	journal = {{HMD} Praxis der Wirtschaftsinformatik}
+}
+
+
+Number of education: 3
+
+Education Details
+1 University of Rostock
+2 University of Rostock
+3 University of Rostock
+
+
+Number of employment: 2
+
+Employment Details
+1 University of Potsdam
+2 University of Rostock

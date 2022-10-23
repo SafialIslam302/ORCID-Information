@@ -1,0 +1,81 @@
+ORCID: 0000-0003-3356-8324
+Family Name: Schwetlick
+Given Name: Lisa
+
+Number of Works: 6
+
+Work Details
+
+Work No: 1
+<head>
+<META HTTP-EQUIV="Refresh" CONTENT="0;URL=/servlet/useragent">
+</head>
+
+
+
+
+Work No: 2
+@article{Engbert_2021,
+	doi = {10.1016/j.tics.2021.11.006},
+	url = {https://doi.org/10.1016%2Fj.tics.2021.11.006},
+	year = 2021,
+	month = {dec},
+	publisher = {Elsevier {BV}},
+	author = {Ralf Engbert and Maximilian M. Rabe and Lisa Schwetlick and Stefan A. Seelig and Sebastian Reich and Shravan Vasishth},
+	title = {Data assimilation in dynamical cognitive science},
+	journal = {Trends in Cognitive Sciences}
+}
+
+
+
+Work No: 3
+@article{Malem_Shinitski_2020,
+	doi = {10.1371/journal.pcbi.1007880},
+	url = {https://doi.org/10.1371%2Fjournal.pcbi.1007880},
+	year = 2020,
+	month = {dec},
+	publisher = {Public Library of Science ({PLoS})},
+	volume = {16},
+	number = {12},
+	pages = {e1007880},
+	author = {Noa Malem-Shinitski and Manfred Opper and Sebastian Reich and Lisa Schwetlick and Stefan A. Seelig and Ralf Engbert},
+	editor = {Jakob H Macke},
+	title = {A mathematical model of local and global attention in natural scene viewing},
+	journal = {{PLOS} Computational Biology}
+}
+
+
+
+Work No: 4
+Modeling the effects of perisaccadic attention on gaze statistics during scene viewing
+
+
+
+
+Work No: 5
+@article{Malem_Shinitski_2020,
+	doi = {10.1101/2020.04.16.044677},
+	url = {https://doi.org/10.1101%2F2020.04.16.044677},
+	year = 2020,
+	month = {apr},
+	publisher = {Cold Spring Harbor Laboratory},
+	author = {Noa Malem-Shinitski and Manfred Opper and Sebastian Reich and Lisa Schwetlick and Stefan Alexander Seelig and Ralf Engbert},
+	title = {A Mathematical Model of Exploration and Exploitation in Natural Scene Viewing}
+}
+
+
+
+Work No: 6
+Modeling the effects of perisaccadic attention on gaze statistics during scene viewing
+
+
+
+Number of education: 0
+
+Education Details
+
+
+Number of employment: 1
+
+Employment Details
+1 University of Potsdam

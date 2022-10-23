@@ -1,0 +1,49 @@
+ORCID: 0000-0001-6124-842X
+Family Name: Zass
+Given Name: Alexander
+
+Number of Works: 2
+
+Work Details
+
+Work No: 1
+@article{Houdebert_2022,
+	doi = {10.1017/jpr.2021.70},
+	url = {https://doi.org/10.1017%2Fjpr.2021.70},
+	year = 2022,
+	month = {mar},
+	publisher = {Cambridge University Press ({CUP})},
+	pages = {1--15},
+	author = {Pierre Houdebert and Alexander Zass},
+	title = {An explicit Dobrushin uniqueness region for Gibbs point processes with repulsive interactions},
+	journal = {Journal of Applied Probability}
+}
+
+
+
+Work No: 2
+@article{R_lly_2020,
+	doi = {10.1007/s10955-020-02559-3},
+	url = {https://doi.org/10.1007%2Fs10955-020-02559-3},
+	year = 2020,
+	month = {may},
+	publisher = {Springer Science and Business Media {LLC}},
+	volume = {179},
+	number = {4},
+	pages = {972--996},
+	author = {Sylvie R{\oe}lly and Alexander Zass},
+	title = {Marked Gibbs Point Processes with Unbounded Interaction: An Existence Result},
+	journal = {Journal of Statistical Physics}
+}
+
+
+Number of education: 0
+
+Education Details
+
+
+Number of employment: 2
+
+Employment Details
+1 WIAS Berlin
+2 Universität Potsdam

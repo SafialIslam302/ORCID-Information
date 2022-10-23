@@ -1,0 +1,105 @@
+ORCID: 0000-0002-5249-3914
+Family Name: Huisinga
+Given Name: Wilhelm
+
+Number of Works: 6
+
+Work Details
+
+Work No: 1
+<head>
+<META HTTP-EQUIV="Refresh" CONTENT="0;URL=/servlet/useragent">
+</head>
+
+
+
+
+Work No: 2
+@article{Busse_2021,
+	doi = {10.1111/bcp.15115},
+	url = {https://doi.org/10.1111%2Fbcp.15115},
+	year = 2021,
+	month = {nov},
+	publisher = {Wiley},
+	volume = {88},
+	number = {6},
+	pages = {2973--2981},
+	author = {David Busse and Jens Markus Borghardt and David Petroff and Alice Pevzner and Christoph Dorn and Nahed El-Najjar and Wilhelm Huisinga and Hermann Wrigge and Philipp Simon and Charlotte Kloft},
+	title = {Evaluating prediction methods for glomerular filtration to optimise drug doses in obese and nonobese patients},
+	journal = {British Journal of Clinical Pharmacology}
+}
+
+
+
+Work No: 3
+@article{Hethey_2021,
+	doi = {10.1007/s00204-021-03107-y},
+	url = {https://doi.org/10.1007%2Fs00204-021-03107-y},
+	year = 2021,
+	month = {aug},
+	publisher = {Springer Science and Business Media {LLC}},
+	author = {Christoph Hethey and Niklas Hartung and Gaby Wangorsch and Karin Weisser and Wilhelm Huisinga},
+	title = {Physiology-based toxicokinetic modelling of aluminium in rat and man},
+	journal = {Archives of Toxicology}
+}
+
+
+
+Work No: 4
+@article{Busse_2021,
+	doi = {10.3390/pharmaceutics13091380},
+	url = {https://doi.org/10.3390%2Fpharmaceutics13091380},
+	year = 2021,
+	month = {aug},
+	publisher = {{MDPI} {AG}},
+	volume = {13},
+	number = {9},
+	pages = {1380},
+	author = {David Busse and Philipp Simon and David Petroff and Christoph Dorn and Lisa Schmitt and Davide Bindellini and Alexander Kratzer and Arne Dietrich and Markus Zeitlinger and Wilhelm Huisinga and Robin Michelet and Hermann Wrigge and Charlotte Kloft},
+	title = {Similar Piperacillin/Tazobactam Target Attainment in Obese versus Nonobese Patients despite Differences in Interstitial Tissue Fluid Pharmacokinetics},
+	journal = {Pharmaceutics}
+}
+
+
+
+Work No: 5
+@article{Kluwe_2020,
+	doi = {10.1002/cpt.2049},
+	url = {https://doi.org/10.1002%2Fcpt.2049},
+	year = 2020,
+	month = {oct},
+	publisher = {Wiley},
+	volume = {109},
+	number = {1},
+	pages = {29--36},
+	author = {Franziska Kluwe and Robin Michelet and Anna Mueller-Schoell and Corinna Maier and Lena Klopp-Schulze and Madel{\'{e}} Dyk and Gerd Mikus and Wilhelm Huisinga and Charlotte Kloft},
+	title = {Perspectives on Model-Informed Precision Dosing in the Digital Health Era: Challenges, Opportunities, and Recommendations},
+	journal = {Clinical Pharmacology {\&} Therapeutics}
+}
+
+
+
+Work No: 6
+@article{Melin_2020,
+	doi = {10.1210/clinem/dgaa071},
+	url = {https://doi.org/10.1210%2Fclinem%2Fdgaa071},
+	year = 2020,
+	month = {mar},
+	publisher = {The Endocrine Society},
+	volume = {105},
+	number = {4},
+	pages = {e1729--e1740},
+	author = {Johanna Melin and Zinnia P Parra-Guillen and Robin Michelet and Thi Truong and Wilhelm Huisinga and Niklas Hartung and Peter Hindmarsh and Charlotte Kloft},
+	title = {Pharmacokinetic/Pharmacodynamic Evaluation of Hydrocortisone Therapy in Pediatric Patients with Congenital Adrenal Hyperplasia},
+	journal = {The Journal of Clinical Endocrinology {\&} Metabolism}
+}
+
+
+Number of education: 0
+
+Education Details
+
+
+Number of employment: 0
+
+Employment Details
