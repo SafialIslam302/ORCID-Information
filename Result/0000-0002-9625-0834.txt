@@ -1,0 +1,1390 @@
+ORCID: 0000-0002-9625-0834
+Family Name: Shprits
+Given Name: Yuri
+
+Number of Works: 198
+
+Work Details
+
+Work No: 1
+<head>
+<META HTTP-EQUIV="Refresh" CONTENT="0;URL=/servlet/useragent">
+</head>
+
+
+
+
+Work No: 2
+<head>
+<META HTTP-EQUIV="Refresh" CONTENT="0;URL=/servlet/useragent">
+</head>
+
+
+
+
+Work No: 3
+Geomagnetic Activity Index Hpo
+
+
+
+
+Work No: 4
+Identification of Coronal Holes on AIA/SDO Images Using Unsupervised Machine Learning
+
+
+
+
+Work No: 5
+@article{Shprits_2022,
+	doi = {10.1029/2021ja030214},
+	url = {https://doi.org/10.1029%2F2021ja030214},
+	year = 2022,
+	month = {may},
+	publisher = {American Geophysical Union ({AGU})},
+	volume = {127},
+	number = {5},
+	author = {Yuri Y. Shprits and Hayley J. Allison and Dedong Wang and Alexander Drozdov and Matyas Szabo-Roberts and Irina Zhelavskaya and Ruggero Vasile},
+	title = {A New Population of Ultra-Relativistic Electrons in the Outer Radiation Zone},
+	journal = {Journal of Geophysical Research: Space Physics}
+}
+
+
+
+Work No: 6
+NARX Neural Network Derivations of the Outer Boundary Radiation Belt Electron Flux
+
+
+
+
+Work No: 7
+Depletions of Multi‐MeV Electrons and Their Association to Minima in Phase Space Density
+
+
+
+
+Work No: 8
+@article{Allison_2022,
+	doi = {10.1002/essoar.10510991.1},
+	url = {https://doi.org/10.1002%2Fessoar.10510991.1},
+	year = 2022,
+	month = {apr},
+	publisher = {Wiley},
+	author = {Hayley J Allison and Yuri Y Shprits and Dedong Wang and Michael Wutzig and Richard B. Horne and Sarah A Glauert and Alexander Yurievich Drozdov},
+	title = {Passing the Alfven Layer by Means of Chorus Acceleration}
+}
+
+
+
+Work No: 9
+<head>
+<META HTTP-EQUIV="Refresh" CONTENT="0;URL=/servlet/useragent">
+</head>
+
+
+
+
+Work No: 10
+@article{Long_2022,
+	doi = {10.1029/2021je007050},
+	url = {https://doi.org/10.1029%2F2021je007050},
+	year = 2022,
+	month = {feb},
+	publisher = {American Geophysical Union ({AGU})},
+	volume = {127},
+	number = {2},
+	author = {Minyi Long and Binbin Ni and Xing Cao and Xudong Gu and Peter Kollmann and Qiong Luo and Ruoxian Zhou and Yingjie Guo and Deyu Guo and Yuri Y. Shprits},
+	title = {Losses of Radiation Belt Energetic Particles by Encounters With Four of the Inner Moons of Jupiter},
+	journal = {Journal of Geophysical Research: Planets}
+}
+
+
+
+Work No: 11
+Depletions of multi-MeV Electrons and Their Association to Minima in Phase Space Density
+
+
+
+
+Work No: 12
+Identification of Controlling Geomagnetic and Solar Wind Factors for Magnetospheric Chorus Intensity Using Feature Selection Techniques
+
+
+
+
+Work No: 13
+@article{Smirnov_2021,
+	doi = {10.1029/2021ja029334},
+	url = {https://doi.org/10.1029%2F2021ja029334},
+	year = 2021,
+	month = {oct},
+	publisher = {American Geophysical Union ({AGU})},
+	volume = {126},
+	number = {10},
+	author = {Artem Smirnov and Yuri Shprits and Irina Zhelavskaya and Hermann LÃ¼hr and Chao Xiong and Andreas Goss and Fabricio S. Prol and Michael Schmidt and Mainul Hoque and Nicholas Pedatella and M{\'{a}}ty{\'{a}}s Szab{\'{o}}-Roberts},
+	title = {Intercalibration of the Plasma Density Measurements in Earth{\textquotesingle}s Topside Ionosphere},
+	journal = {Journal of Geophysical Research: Space Physics}
+}
+
+
+
+Work No: 14
+@article{Castillo_Tibocha_2021,
+	doi = {10.1029/2020sw002672},
+	url = {https://doi.org/10.1029%2F2020sw002672},
+	year = 2021,
+	month = {oct},
+	publisher = {American Geophysical Union ({AGU})},
+	volume = {19},
+	number = {10},
+	author = {Angelica M. Castillo Tibocha and Jana Wiljes and Yuri Y. Shprits and Nikita A. Aseev},
+	title = {Reconstructing the Dynamics of the Outer Electron Radiation Belt by Means of the Standard and Ensemble Kalman Filter With the {VERB}-3D Code},
+	journal = {Space Weather}
+}
+
+
+
+Work No: 15
+@article{Dobynde_2021,
+	doi = {10.1029/2021sw002749},
+	url = {https://doi.org/10.1029%2F2021sw002749},
+	year = 2021,
+	month = {sep},
+	publisher = {American Geophysical Union ({AGU})},
+	volume = {19},
+	number = {9},
+	author = {M. I. Dobynde and Y. Y. Shprits and A. Y. Drozdov and J. Hoffman and Ju Li},
+	title = {Beating 1 Sievert: Optimal Radiation Shielding of Astronauts on a Mission to Mars},
+	journal = {Space Weather}
+}
+
+
+
+Work No: 16
+@article{Desai_2021,
+	doi = {10.1029/2021gl092554},
+	url = {https://doi.org/10.1029%2F2021gl092554},
+	year = 2021,
+	month = {aug},
+	publisher = {American Geophysical Union ({AGU})},
+	volume = {48},
+	number = {16},
+	author = {R. T. Desai and M. P. Freeman and J. P. Eastwood and J. W. B. Eggington and M. O. Archer and Y. Y. Shprits and N. P. Meredith and F. A. Staples and I. J. Rae and H. Hietala and L. Mejnertsen and J. P. Chittenden and R. B. Horne},
+	title = {Interplanetary Shock-Induced Magnetopause Motion: Comparison Between Theory and Global Magnetohydrodynamic Simulations},
+	journal = {Geophysical Research Letters}
+}
+
+
+
+Work No: 17
+A Comparison of Radial Diffusion Coefficients in 1‐D and 3‐D Long‐Term Radiation Belt Simulations
+
+
+
+
+Work No: 18
+@article{Szab_Roberts_2021,
+	doi = {10.1029/2020ja028929},
+	url = {https://doi.org/10.1029%2F2020ja028929},
+	year = 2021,
+	month = {jul},
+	publisher = {American Geophysical Union ({AGU})},
+	volume = {126},
+	number = {7},
+	author = {M{\'{a}}ty{\'{a}}s Szab{\'{o}}-Roberts and Yuri Y. Shprits and Hayley J. Allison and Ruggero Vasile and Artem G. Smirnov and Nikita A. Aseev and Alexander Y. Drozdov and Yoshizumi Miyoshi and Seth G. Claudepierre and Satoshi Kasahara and Shoichiro Yokota and Takefumi Mitani and Takeshi Takashima and Nana Higashio and Tomo Hori and Kunihiro Keika and Shun Imajo and Iku Shinohara},
+	title = {Preliminary Statistical Comparisons of Spin-Averaged Electron Data From Arase and Van Allen Probes Instruments},
+	journal = {Journal of Geophysical Research: Space Physics}
+}
+
+
+
+Work No: 19
+Comparing 1-year GUMICS-4 simulations of the Terrestrial Magnetosphere with Cluster Measurements
+
+
+
+
+Work No: 20
+@article{Alexandrova_2021,
+	doi = {10.1103/physreve.103.063202},
+	url = {https://doi.org/10.1103%2Fphysreve.103.063202},
+	year = 2021,
+	month = {jun},
+	publisher = {American Physical Society ({APS})},
+	volume = {103},
+	number = {6},
+	author = {Olga Alexandrova and Vamsee Krishna Jagarlamudi and Petr Hellinger and Milan Maksimovic and Yuri Shprits and Andre Mangeney},
+	title = {Spectrum of kinetic plasma turbulence at 0.3{\textendash}0.9 astronomical units from the Sun},
+	journal = {Physical Review E}
+}
+
+
+
+Work No: 21
+A Comparison of the Location of the Mid‐Latitude Trough and Plasmapause Boundary
+
+
+
+
+Work No: 22
+@article{Allison_2021,
+	doi = {10.1126/sciadv.abc0380},
+	url = {https://doi.org/10.1126%2Fsciadv.abc0380},
+	year = 2021,
+	month = {jan},
+	publisher = {American Association for the Advancement of Science ({AAAS})},
+	volume = {7},
+	number = {5},
+	author = {Hayley J. Allison and Yuri Y. Shprits and Irina S. Zhelavskaya and Dedong Wang and Artem G. Smirnov},
+	title = {Gyroresonant wave-particle interactions with chorus waves during extreme depletions of plasma density in the Van Allen radiation belts},
+	journal = {Science Advances}
+}
+
+
+
+Work No: 23
+Reconstructing the dynamics of the outer electron radiation belt by means of the standard and ensemble Kalman filter with the VERB-3D code
+
+
+
+
+Work No: 24
+@article{Smirnov_2020,
+	doi = {10.1029/2020sw002532},
+	url = {https://doi.org/10.1029%2F2020sw002532},
+	year = 2020,
+	month = {oct},
+	publisher = {American Geophysical Union ({AGU})},
+	volume = {18},
+	number = {11},
+	author = {A. G. Smirnov and M. Berrendorf and Y. Y. Shprits and E. A. Kronberg and H. J. Allison and N. A. Aseev and I. S. Zhelavskaya and S. K. Morley and G. D. Reeves and M. R. Carver and F. Effenberger},
+	title = {Medium Energy Electron Flux in Earth{\textquotesingle}s Outer Radiation Belt ({MERLIN}): A Machine Learning Model},
+	journal = {Space Weather}
+}
+
+
+
+Work No: 25
+@article{Drozdov_2020,
+	doi = {10.1002/essoar.10504480.1},
+	url = {https://doi.org/10.1002%2Fessoar.10504480.1},
+	year = 2020,
+	month = {oct},
+	publisher = {Wiley},
+	author = {Alexander Yurievich Drozdov and Hayley J Allison and Yuri Y Shprits and Scot R. Elkington and Nikita A Aseev},
+	title = {A Comparison of Radial Diffusion Coefficients in 1-D and 3-D Long-Term Radiation Belt Simulations}
+}
+
+
+
+Work No: 26
+<head>
+<META HTTP-EQUIV="Refresh" CONTENT="0;URL=/servlet/useragent">
+</head>
+
+
+
+
+Work No: 27
+@article{Drozdov_2020,
+	doi = {10.1029/2020ja028282},
+	url = {https://doi.org/10.1029%2F2020ja028282},
+	year = 2020,
+	month = {sep},
+	publisher = {American Geophysical Union ({AGU})},
+	volume = {125},
+	number = {9},
+	author = {A. Y. Drozdov and M. E. Usanova and M. K. Hudson and H. J. Allison and Y. Y. Shprits},
+	title = {The Role of Hiss, Chorus, and {EMIC} Waves in the Modeling of the Dynamics of the Multi-{MeV} Radiation Belt Electrons},
+	journal = {Journal of Geophysical Research: Space Physics}
+}
+
+
+
+Work No: 28
+@article{Cervantes_2020,
+	doi = {10.1029/2020ja028208},
+	url = {https://doi.org/10.1029%2F2020ja028208},
+	year = 2020,
+	month = {aug},
+	publisher = {American Geophysical Union ({AGU})},
+	volume = {125},
+	number = {8},
+	author = {S. Cervantes and Y. Y. Shprits and N. A. Aseev and H. J. Allison},
+	title = {Quantifying the Effects of {EMIC} Wave Scattering and Magnetopause Shadowing in the Outer Electron Radiation Belt by Means of Data Assimilation},
+	journal = {Journal of Geophysical Research: Space Physics}
+}
+
+
+
+Work No: 29
+@article{Cervantes_Villa_2020,
+	doi = {10.1002/essoar.10503131.1},
+	url = {https://doi.org/10.1002%2Fessoar.10503131.1},
+	year = 2020,
+	month = {jun},
+	publisher = {Wiley},
+	author = {Juan Sebastian Cervantes Villa and Yuri Y Shprits and Nikita A Aseev and Hayley J Allison},
+	title = {Quantifying the effects of {EMIC} wave scattering and magnetopause shadowing in the outer electron radiation belt by means of data assimilation}
+}
+
+
+
+Work No: 30
+@article{Zou_2020,
+	doi = {10.1007/s10509-020-03819-0},
+	url = {https://doi.org/10.1007%2Fs10509-020-03819-0},
+	year = 2020,
+	month = {jun},
+	publisher = {Springer Science and Business Media {LLC}},
+	volume = {365},
+	number = {6},
+	author = {Zhengyang Zou and Yuri Y. Shprits and Binbin Ni and Nikita A. Aseev and Pingbing Zuo and Fengsi Wei},
+	title = {An artificial neural network model of electron fluxes in the Earth's central plasma sheet: a {THEMIS} survey},
+	journal = {Astrophysics and Space Science}
+}
+
+
+
+Work No: 31
+@article{Kim_2020,
+	doi = {10.1029/2019ja027555},
+	url = {https://doi.org/10.1029%2F2019ja027555},
+	year = 2020,
+	month = {may},
+	publisher = {American Geophysical Union ({AGU})},
+	volume = {125},
+	number = {5},
+	author = {Kyung-Chan Kim and Yuri Shprits and Dedong Wang},
+	title = {Quantifying the Effect of Plasmaspheric Hiss on the Electron Loss From the Slot Region},
+	journal = {Journal of Geophysical Research: Space Physics}
+}
+
+
+
+Work No: 32
+@article{Sarma_2020,
+	doi = {10.1029/2019ja027618},
+	url = {https://doi.org/10.1029%2F2019ja027618},
+	year = 2020,
+	month = {may},
+	publisher = {American Geophysical Union ({AGU})},
+	volume = {125},
+	number = {5},
+	author = {Rakesh Sarma and Mandar Chandorkar and Irina Zhelavskaya and Yuri Shprits and Alexander Drozdov and Enrico Camporeale},
+	title = {Bayesian Inference of Quasi-Linear Radial Diffusion Parameters using Van Allen Probes},
+	journal = {Journal of Geophysical Research: Space Physics}
+}
+
+
+
+Work No: 33
+The Effect of Plasma Boundaries on the Dynamic Evolution of Relativistic Radiation Belt Electrons
+
+
+
+
+Work No: 34
+@article{Smirnov_2020,
+	doi = {10.1029/2019ja027576},
+	url = {https://doi.org/10.1029%2F2019ja027576},
+	year = 2020,
+	month = {feb},
+	publisher = {American Geophysical Union ({AGU})},
+	volume = {125},
+	number = {2},
+	author = {Artem G. Smirnov and Elena A. Kronberg and Patrick W. Daly and Nikita A. Aseev and Yuri Y. Shprits and Adam C. Kellerman},
+	title = {Adiabatic Invariants Calculations for Cluster Mission: A Long-Term Product for Radiation Belts Studies},
+	journal = {Journal of Geophysical Research: Space Physics}
+}
+
+
+
+Work No: 35
+Storm Time Depletions of Multi‐MeV Radiation Belt Electrons Observed at Different Pitch Angles
+
+
+
+
+Work No: 36
+@article{Zhelavskaya_2019,
+	doi = {10.1029/2019sw002271},
+	url = {https://doi.org/10.1029%2F2019sw002271},
+	year = 2019,
+	month = {oct},
+	publisher = {American Geophysical Union ({AGU})},
+	volume = {17},
+	number = {10},
+	pages = {1461--1486},
+	author = {I. S. Zhelavskaya and R. Vasile and Y. Y. Shprits and C. Stolle and J. Matzka},
+	title = {Systematic Analysis of Machine Learning and Feature Selection Techniques for Prediction of the Kp Index},
+	journal = {Space Weather}
+}
+
+
+
+Work No: 37
+Space Radiation and Plasma Effects on Satellites and Aviation: Quantities and Metrics for Tracking Performance of Space Weather Environment Models
+
+
+
+
+Work No: 38
+@article{Wang_2019,
+	doi = {10.1002/essoar.10501029.1},
+	url = {https://doi.org/10.1002%2Fessoar.10501029.1},
+	year = 2019,
+	month = {sep},
+	publisher = {Wiley},
+	author = {Dedong Wang and Yuri Y Shprits and Irina S. Zhelavskaya and Frederic Effenberger and Angelica Castillo and Alexander Yurievich Drozdov and Nikita A Aseev and Juan Sebastian Cervantes Villa},
+	title = {The Effect of Plasma Boundaries on the Dynamic Evolution of Relativistic Radiation Belt Electrons}
+}
+
+
+
+Work No: 39
+@article{Drozdov_2019,
+	doi = {10.1002/essoar.10501021.1},
+	url = {https://doi.org/10.1002%2Fessoar.10501021.1},
+	year = 2019,
+	month = {sep},
+	publisher = {Wiley},
+	author = {Alexander, Yurievich Drozdov and Nikita, Alexandrovich Aseev and Frederic Effenberger and Drew, L. Turner and Anthony, A. Saikin and Yuri, Y Shprits},
+	title = {Storm-time depletions of multi-{MeV} radiation belt electrons observed at different pitch angles}
+}
+
+
+
+Work No: 40
+@article{Shprits_2019,
+	doi = {10.1029/2018sw002141},
+	url = {https://doi.org/10.1029%2F2018sw002141},
+	year = 2019,
+	month = {aug},
+	publisher = {American Geophysical Union ({AGU})},
+	volume = {17},
+	number = {8},
+	pages = {1219--1229},
+	author = {Yuri Y. Shprits and Ruggero Vasile and Irina S. Zhelavskaya},
+	title = {Nowcasting and Predicting the
+		            K
+		            p
+		            Index Using Historical Values and Real-Time Observations},
+	journal = {Space Weather}
+}
+
+
+
+Work No: 41
+On How High‐Latitude Chorus Waves Tip the Balance Between Acceleration and Loss of Relativistic Electrons
+
+
+
+
+Work No: 42
+Rapid Electron Acceleration in Low‐Density Regions of Saturn's Radiation Belt by Whistler Mode Chorus Waves
+
+
+
+
+Work No: 43
+Pitch Angle Scattering of Sub‐MeV Relativistic Electrons by Electromagnetic Ion Cyclotron Waves
+
+
+
+
+Work No: 44
+@article{Boynton_2019,
+	doi = {10.1029/2018sw002128},
+	url = {https://doi.org/10.1029%2F2018sw002128},
+	year = 2019,
+	month = {jun},
+	publisher = {American Geophysical Union ({AGU})},
+	volume = {17},
+	number = {6},
+	pages = {894--906},
+	author = {R. J. Boynton and O. A. Amariutei and Y. Y. Shprits and M. A. Balikhin},
+	title = {The System Science Development of Local Time-Dependent 40-{keV} Electron Flux Models for Geostationary Orbit},
+	journal = {Space Weather}
+}
+
+
+
+Work No: 45
+Investigating Loss of Relativistic Electrons Associated With EMIC Waves at Low L Values on 22 June 2015
+
+
+
+
+Work No: 46
+@article{Aseev_2019,
+	doi = {10.1029/2018sw002110},
+	url = {https://doi.org/10.1029%2F2018sw002110},
+	year = 2019,
+	month = {apr},
+	publisher = {American Geophysical Union ({AGU})},
+	author = {N. A. Aseev and Y. Y. Shprits},
+	title = {Reanalysis of Ring Current Electron Phase Space Densities Using Van Allen Probe Observations, Convection Model, and Log-Normal Kalman Filter},
+	journal = {Space Weather}
+}
+
+
+
+Work No: 47
+@article{Smirnov_2019,
+	doi = {10.1029/2018sw001989},
+	url = {https://doi.org/10.1029%2F2018sw001989},
+	year = 2019,
+	month = {apr},
+	publisher = {American Geophysical Union ({AGU})},
+	author = {A. G. Smirnov and E. A. Kronberg and F. Latallerie and P. W. Daly and N. Aseev and Y. Y. Shprits and A. Kellerman and S. Kasahara and D. Turner and M. G. G. T. Taylor},
+	title = {Electron Intensity Measurements by the Cluster/{RAPID}/{IES} Instrument in Earth{\textquotesingle}s Radiation Belts and Ring Current},
+	journal = {Space Weather}
+}
+
+
+
+Work No: 48
+@article{Zhu_2019,
+	doi = {10.1029/2018ja026199},
+	url = {https://doi.org/10.1029%2F2018ja026199},
+	year = 2019,
+	month = {apr},
+	publisher = {American Geophysical Union ({AGU})},
+	volume = {124},
+	number = {4},
+	pages = {2779--2787},
+	author = {Hui Zhu and Lunjin Chen and Xu Liu and Yuri Y. Shprits},
+	title = {Modulation of Locally Generated Equatorial Noise by {ULF} Wave},
+	journal = {Journal of Geophysical Research: Space Physics}
+}
+
+
+
+Work No: 49
+@article{Kim_2019,
+	doi = {10.1029/2018ja026458},
+	url = {https://doi.org/10.1029%2F2018ja026458},
+	year = 2019,
+	month = {mar},
+	publisher = {American Geophysical Union ({AGU})},
+	volume = {124},
+	number = {3},
+	pages = {1904--1915},
+	author = {Kyung-Chan Kim and Yuri Shprits},
+	title = {Statistical Analysis of Hiss Waves in Plasmaspheric Plumes Using Van Allen Probe Observations},
+	journal = {Journal of Geophysical Research: Space Physics}
+}
+
+
+
+Work No: 50
+Analytical Chorus Wave Model Derived from Van Allen Probe Observations
+
+
+
+
+Work No: 51
+Transport and Loss of Ring Current Electrons Inside Geosynchronous Orbit During the 17 March 2013 Storm
+
+
+
+
+Work No: 52
+@article{Cao_2019,
+	doi = {10.1029/2018gl081550},
+	url = {https://doi.org/10.1029%2F2018gl081550},
+	year = 2019,
+	month = {jan},
+	publisher = {American Geophysical Union ({AGU})},
+	volume = {46},
+	number = {2},
+	pages = {590--598},
+	author = {Xing Cao and Binbin Ni and Danny Summers and Yuri Y. Shprits and Xudong Gu and Song Fu and Yuequn Lou and Yang Zhang and Xin Ma and Wenxun Zhang and He Huang and Juan Yi},
+	title = {Sensitivity of {EMIC} Wave-Driven Scattering Loss of Ring Current Protons to Wave Normal Angle Distribution},
+	journal = {Geophysical Research Letters}
+}
+
+
+
+Work No: 53
+An Event on Simultaneous Amplification of Exohiss and Chorus Waves Associated With Electron Density Enhancements
+
+
+
+
+Work No: 54
+@article{Shprits_2018,
+	doi = {10.1002/2018sw001864},
+	url = {https://doi.org/10.1002%2F2018sw001864},
+	year = 2018,
+	month = {apr},
+	publisher = {Wiley},
+	author = {Yuri Y. Shprits and Irina S. Zhelavskaya and Janet C. Green and Antti A. Pulkkinen and Richard B. Horne and David Pitchford and T. Paul O'Brien and Alexi Glover},
+	title = {Discussions on Stakeholder Requirements for Space Weather-Related Models},
+	journal = {Space Weather}
+}
+
+
+
+Work No: 55
+@article{Green_2018,
+	doi = {10.1029/2018sw001823},
+	url = {https://doi.org/10.1029%2F2018sw001823},
+	year = 2018,
+	month = {apr},
+	publisher = {American Geophysical Union ({AGU})},
+	author = {J. C. Green and Y. Y. Shprits and E. Haggarty and T. Onsager and I. Zhelavskaya},
+	title = {Summary of Stakeholder Inputs on Development of a Satellite Anomaly Database From the European Space Weather Week},
+	journal = {Space Weather}
+}
+
+
+
+Work No: 56
+@article{Ni_2018,
+	doi = {10.1002/2017gl076028},
+	url = {https://doi.org/10.1002%2F2017gl076028},
+	year = 2018,
+	month = {jan},
+	publisher = {American Geophysical Union ({AGU})},
+	volume = {45},
+	number = {1},
+	pages = {21--30},
+	author = {Binbin Ni and Xing Cao and Yuri Y. Shprits and Danny Summers and Xudong Gu and Song Fu and Yuequn Lou},
+	title = {Hot Plasma Effects on the Cyclotron-Resonant Pitch-Angle Scattering Rates of Radiation Belt Electrons Due to {EMIC} Waves},
+	journal = {Geophysical Research Letters}
+}
+
+
+
+Work No: 57
+@article{Kim_2018,
+	doi = {10.1002/2017ja024865},
+	url = {https://doi.org/10.1002%2F2017ja024865},
+	year = 2018,
+	month = {jan},
+	publisher = {American Geophysical Union ({AGU})},
+	volume = {123},
+	number = {1},
+	pages = {400--413},
+	author = {Kyung-Chan Kim and Yuri Shprits},
+	title = {Survey of the Favorable Conditions for Magnetosonic Wave Excitation},
+	journal = {Journal of Geophysical Research: Space Physics}
+}
+
+
+
+Work No: 58
+@article{Shprits2018,title = {Scientific Objectives of Electron Losses and Fields INvestigation Onboard Lomonosov Satellite},journal = {Space Science Reviews},year = {2018},volume = {214},number = {1},author = {Shprits, Y.Y. and Angelopoulos, V. and Russell, C.T. and Strangeway, R.J. and Runov, A. and Turner, D. and Caron, R. and Cruce, P. and Leneman, D. and Michaelis, I. and Petrov, V. and Panasyuk, M. and Yashin, I. and Drozdov, A. and Russell, C.L. and Kalegaev, V. and Nazarkov, I. and Clemmons, J.H.}}
+
+
+
+Work No: 59
+@article{Shprits2017,title = {Bounce resonance scattering of radiation belt electrons by H<sup>+</sup>band EMIC waves},journal = {Journal of Geophysical Research: Space Physics},year = {2017},volume = {122},number = {2},pages = {1702-1713},author = {Cao, X. and Ni, B. and Summers, D. and Bortnik, J. and Tao, X. and Shprits, Y.Y. and Lou, Y. and Gu, X. and Fu, S. and Shi, R. and Xiang, Z. and Wang, Q.}}
+
+
+
+Work No: 60
+@article{Shprits2017,title = {Dependence of radiation belt simulations to assumed radial diffusion rates tested for two empirical models of radial transport},journal = {Space Weather},year = {2017},volume = {15},number = {1},pages = {150-162},author = {Drozdov, A.Y. and Shprits, Y.Y. and Aseev, N.A. and Kellerman, A.C. and Reeves, G.D.}}
+
+
+
+Work No: 61
+@article{Shprits2017,title = {Dependence of the amplitude of magnetosonic waves on the solar wind and AE index using Van Allen Probes},journal = {Journal of Geophysical Research: Space Physics},year = {2017},volume = {122},number = {6},pages = {6022-6034},author = {Kim, K.-C. and Shprits, Y.}}
+
+
+
+Work No: 62
+@article{Shprits2017,title = {Does Spacecraft Potential Depend on the Ambient Electron Density?},journal = {IEEE Transactions on Plasma Science},year = {2017},volume = {45},number = {10},pages = {2875-2884},author = {Lai, S.T. and Martinez-Sanchez, M. and Cahoy, K. and Thomsen, M.F. and Shprits, Y. and Lohmeyer, W. and Wong, F.K.}}
+
+
+
+Work No: 63
+@article{Shprits2017,title = {EMIC wave parameterization in the long-term VERB code simulation},journal = {Journal of Geophysical Research: Space Physics},year = {2017},volume = {122},number = {8},pages = {8488-8501},author = {Drozdov, A.Y. and Shprits, Y.Y. and Usanova, M.E. and Aseev, N.A. and Kellerman, A.C. and Zhu, H.}}
+
+
+
+Work No: 64
+@article{Shprits2017,title = {Editorial: Topical Collection on the Lomonosov Mission},journal = {Space Science Reviews},year = {2017},volume = {212},number = {3-4},pages = {1685-1686},author = {Shprits, Y.Y.}}
+
+
+
+Work No: 65
+@article{Shprits2017,title = {Empirical Modeling of the Plasmasphere Dynamics Using Neural Networks},journal = {Journal of Geophysical Research: Space Physics},year = {2017},volume = {122},number = {11},pages = {11,227-11,244},author = {Zhelavskaya, I.S. and Shprits, Y.Y. and Spasojevi?, M.}}
+
+
+
+Work No: 66
+@article{Shprits2017,title = {Forecasting Kp from solar wind data: Input parameter study using 3-hour averages and 3-hour range values},journal = {Journal of Space Weather and Space Climate},year = {2017},volume = {7},number = {1},author = {Wintoft, P. and Wik, M. and Matzka, J. and Shprits, Y.}}
+
+
+
+Work No: 67
+@article{Shprits2017,title = {Impact of space weather on the satellite industry},journal = {Space Weather},year = {2017},volume = {15},number = {6},pages = {804-818},author = {Green, J.C. and Likar, J. and Shprits, Y.}}
+
+
+
+Work No: 68
+@article{Shprits2017,title = {Inner magnetosphere coupling: Recent advances},journal = {Journal of Geophysical Research: Space Physics},year = {2017},volume = {122},number = {1},pages = {102-104},author = {Usanova, M.E. and Shprits, Y.Y.}}
+
+
+
+Work No: 69
+@article{Shprits2017,title = {Interactions between energetic electrons and realistic whistler mode waves in the Jovian magnetosphere},journal = {Journal of Geophysical Research: Space Physics},year = {2017},volume = {122},number = {5},pages = {5355-5364},author = {de Soria-Santacruz, M. and Shprits, Y.Y. and Drozdov, A. and Menietti, J.D. and Garrett, H.B. and Zhu, H. and Kellerman, A.C. and Horne, R.B.}}
+
+
+
+Work No: 70
+@article{Shprits2017,title = {Is the Dst Index Sufficient to Define All Geospace Storms?},journal = {Journal of Geophysical Research: Space Physics},year = {2017},volume = {122},number = {11},pages = {11,543-11,547},author = {Borovsky, J.E. and Shprits, Y.Y.}}
+
+
+
+Work No: 71
+@article{Shprits2017,title = {Multi-MeV electron loss in the heart of the radiation belts},journal = {Geophysical Research Letters},year = {2017},volume = {44},number = {3},pages = {1204-1209},author = {Shprits, Y.Y. and Kellerman, A. and Aseev, N. and Drozdov, A.Y. and Michaelis, I.}}
+
+
+
+Work No: 72
+@article{Shprits2017,title = {Scattering of Ultra-relativistic Electrons in the Van Allen Radiation Belts Accounting for Hot Plasma Effects},journal = {Scientific Reports},year = {2017},volume = {7},number = {1},author = {Cao, X. and Shprits, Y.Y. and Ni, B. and Zhelavskaya, I.S.}}
+
+
+
+Work No: 73
+@article{Shprits2017,title = {Signatures of Ultrarelativistic Electron Loss in the Heart of the Outer Radiation Belt Measured by Van Allen Probes},journal = {Journal of Geophysical Research: Space Physics},year = {2017},volume = {122},number = {10},pages = {10,102-10,111},author = {Aseev, N.A. and Shprits, Y.Y. and Drozdov, A.Y. and Kellerman, A.C. and Usanova, M.E. and Wang, D. and Zhelavskaya, I.S.}}
+
+
+
+Work No: 74
+@article{Shprits2017,title = {?Lomonosov? Satellite?Space Observatory to Study Extreme Phenomena in Space},journal = {Space Science Reviews},year = {2017},volume = {212},number = {3-4},pages = {1705-1738},author = {Sadovnichii, V.A. and Panasyuk, M.I. and Amelyushkin, A.M. and Bogomolov, V.V. and Benghin, V.V. and Garipov, G.K. and Kalegaev, V.V. and Klimov, P.A. and Khrenov, B.A. and Petrov, V.L. and Sharakin, S.A. and Shirokov, A.V. and Svertilov, S.I. and Zotov, M.Y. and Yashin, I.V. and Gorbovskoy, E.S. and Lipunov, V.M. and Park, I.H. and Lee, J. and Jeong, S. and Kim, M.B. and Jeong, H.M. and Shprits, Y.Y. and Angelopoulos, V. and Russell, C.T. and Runov, A. and Turner, D. and Strangeway, R.J. and Caron, R. and Biktemerova, S. and Grinyuk, A. and Lavrova, M. and Tkachev, L. and Tkachenko, A. and Martinez, O. and Salazar, H. and Ponce, E.}}
+
+
+
+Work No: 75
+@article{Shprits2016,title = {Automated determination of electron density from electric field measurements on the Van Allen Probes spacecraft},journal = {Journal of Geophysical Research A: Space Physics},year = {2016},volume = {121},number = {5},pages = {4611-4625},author = {Zhelavskaya, I.S. and Spasojevic, M. and Shprits, Y.Y. and Kurth, W.S.}}
+
+
+
+Work No: 76
+@article{Shprits2016,title = {Contamination in electron observations of the silicon detector on board Cluster/RAPID/IES instrument in Earth{'}s radiation belts and ring current},journal = {Space Weather},year = {2016},volume = {14},number = {6},pages = {449-462},author = {Kronberg, E.A. and Rashev, M.V. and Daly, P.W. and Shprits, Y.Y. and Turner, D.L. and Drozdov, A. and Dobynde, M. and Kellerman, A.C. and Fritz, T.A. and Pierrard, V. and Borremans, K. and Klecker, B. and Friedel, R.}}
+
+
+
+Work No: 77
+@article{Shprits2016,title = {Dynamic responses of the Earth{'}s radiation belts during periods of solar wind dynamic pressure pulse based on normalized superposed epoch analysis},journal = {Journal of Geophysical Research A: Space Physics},year = {2016},volume = {121},number = {9},pages = {8523-8536},author = {Ni, B. and Xiang, Z. and Gu, X. and Shprits, Y.Y. and Zhou, C. and Zhao, Z. and Zhang, X. and Zuo, P.}}
+
+
+
+Work No: 78
+@article{Shprits2016,title = {Estimation of bounce resonant scattering by fast magnetosonic waves},journal = {Geophysical Research Letters},year = {2016},volume = {43},number = {3},pages = {998-1006},author = {Shprits, Y.Y.}}
+
+
+
+Work No: 79
+@article{Shprits2016,title = {Fast injection of the relativistic electrons into the inner zone and the formation of the split-zone structure during the Bastille Day storm in July 2000},journal = {Journal of Geophysical Research A: Space Physics},year = {2016},volume = {121},number = {9},pages = {8329-8342},author = {Kim, K.-C. and Shprits, Y.Y. and Blake, J.B.}}
+
+
+
+Work No: 80
+@article{Shprits2016,title = {New global loss model of energetic and relativistic electrons based on Van Allen Probes measurements},journal = {Journal of Geophysical Research A: Space Physics},year = {2016},volume = {121},number = {2},pages = {1308-1314},author = {Orlova, K. and Shprits, Y. and Spasojevic, M.}}
+
+
+
+Work No: 81
+@article{Shprits2016,title = {Numerical applications of the advective-diffusive codes for the inner magnetosphere},journal = {Space Weather},year = {2016},volume = {14},number = {11},pages = {993-1010},author = {Aseev, N.A. and Shprits, Y.Y. and Drozdov, A.Y. and Kellerman, A.C.}}
+
+
+
+Work No: 82
+@article{Shprits2016,title = {On the propagation of uncertainties in radiation belt simulations},journal = {Space Weather},year = {2016},volume = {14},number = {11},pages = {982-992},author = {Camporeale, E. and Shprits, Y. and Chandorkar, M. and Drozdov, A. and Wing, S.}}
+
+
+
+Work No: 83
+@article{Shprits2016,title = {On the time needed to reach an equilibrium structure of the radiation belts},journal = {Journal of Geophysical Research A: Space Physics},year = {2016},volume = {121},number = {8},pages = {7684-7698},author = {Ripoll, J.-F. and Loridan, V. and Cunningham, G.S. and Reeves, G.D. and Shprits, Y.Y.}}
+
+
+
+Work No: 84
+@article{Shprits2016,title = {Scattering of relativistic and ultra-relativistic electrons by obliquely propagating Electromagnetic Ion Cyclotron waves},journal = {Journal of Atmospheric and Solar-Terrestrial Physics},year = {2016},volume = {148},pages = {22-31},author = {Uzbekov, B. and Shprits, Y.Y. and Orlova, K.}}
+
+
+
+Work No: 85
+@article{Shprits2016,title = {Statistical properties of the radiation belt seed population},journal = {Journal of Geophysical Research A: Space Physics},year = {2016},volume = {121},number = {8},pages = {7636-7646},author = {Boyd, A.J. and Spence, H.E. and Huang, C.-L. and Reeves, G.D. and Baker, D.N. and Turner, D.L. and Claudepierre, S.G. and Fennell, J.F. and Blake, J.B. and Shprits, Y.Y.}}
+
+
+
+Work No: 86
+@article{Shprits2016,title = {Survey of whistler mode chorus intensity at Jupiter},journal = {Journal of Geophysical Research A: Space Physics},year = {2016},volume = {121},number = {10},pages = {9758-9770},author = {Menietti, J.D. and Groene, J.B. and Averkamp, T.F. and Horne, R.B. and Woodfield, E.E. and Shprits, Y.Y. and de Soria-Santacruz Pich, M. and Gurnett, D.A.}}
+
+
+
+Work No: 87
+@article{Shprits2016,title = {Wave-induced loss of ultra-relativistic electrons in the Van Allen radiation belts},journal = {Nature Communications},year = {2016},volume = {7},author = {Shprits, Y.Y. and Drozdov, A.Y. and Spasojevic, M. and Kellerman, A.C. and Usanova, M.E. and Engebretson, M.J. and Agapitov, O.V. and Zhelavskaya, I.S. and Raita, T.J. and Spence, H.E. and Baker, D.N. and Zhu, H. and Aseev, N.A.}}
+
+
+
+Work No: 88
+@article{Shprits2015,title = {Characterization of the energy-dependent response of riometer absorption},journal = {Journal of Geophysical Research: Space Physics},year = {2015},volume = {120},number = {1},pages = {615-631},author = {Kellerman, A.C. and Shprits, Y.Y. and Makarevich, R.A. and Spanswick, E. and Donovan, E. and Reeves, G.}}
+
+
+
+Work No: 89
+@article{Shprits2015,title = {Combined convective and diffusive simulations: VERB-4D comparison with 17 March 2013 Van Allen Probes observations},journal = {Geophysical Research Letters},year = {2015},volume = {42},number = {22},pages = {9600-9608},author = {Shprits, Y.Y. and Kellerman, A.C. and Drozdov, A.Y. and Spence, H.E. and Reeves, G.D. and Baker, D.N.}}
+
+
+
+Work No: 90
+@article{Shprits2015,title = {Comparison of simulated and observed trapped and precipitating electron fluxes during a magnetic storm},journal = {Geophysical Research Letters},year = {2015},volume = {42},number = {20},pages = {8302-8311},author = {Chen, M.W. and Lemon, C.L. and Orlova, K. and Shprits, Y. and Hecht, J. and Walterscheid, R.L.}}
+
+
+
+Work No: 91
+@article{Shprits2015,title = {Dependence of plasmaspheric hiss on solar wind parameters and geomagnetic activity and modeling of its global distribution},journal = {Journal of Geophysical Research: Space Physics},year = {2015},volume = {120},number = {2},pages = {1153-1167},author = {Kim, K.-C. and Lee, D.-Y. and Shprits, Y.}}
+
+
+
+Work No: 92
+@article{Shprits2015,title = {Energetic, relativistic, and ultrarelativistic electrons: Comparison of long-term VERB code simulations with Van Allen Probes measurements},journal = {Journal of Geophysical Research: Space Physics},year = {2015},volume = {120},number = {5},pages = {3574-3587},author = {Drozdov, A.Y. and Shprits, Y.Y. and Orlova, K.G. and Kellerman, A.C. and Subbotin, D.A. and Baker, D.N. and Spence, H.E. and Reeves, G.D.}}
+
+
+
+Work No: 93
+@article{Shprits2015,title = {Global and Comprehensive Analysis of the Inner Magnetosphere as a Coupled System: Physical Understanding and Applications},journal = {Space Weather},year = {2015},volume = {13},number = {9},pages = {533-535},author = {Shprits, Y.Y. and Spasojevic, M.}}
+
+
+
+Work No: 94
+@article{Shprits2015,title = {Global empirical models of plasmaspheric hiss using Van Allen Probes},journal = {Journal of Geophysical Research A: Space Physics},year = {2015},volume = {120},number = {12},pages = {10370-10383},author = {Spasojevic, M. and Shprits, Y.Y. and Orlova, K.}}
+
+
+
+Work No: 95
+@article{Shprits2015,title = {Observations of discrete harmonics emerging from equatorial noise},journal = {Nature Communications},year = {2015},volume = {6},author = {Balikhin, M.A. and Shprits, Y.Y. and Walker, S.N. and Chen, L. and Cornilleau-Wehrlin, N. and Dandouras, I. and Santolik, O. and Carr, C. and Yearby, K.H. and Weiss, B.}}
+
+
+
+Work No: 96
+@article{Shprits2015,title = {Survey of Saturn Z-mode emission},journal = {Journal of Geophysical Research A: Space Physics},year = {2015},volume = {120},number = {8},pages = {6176-6187},author = {Menietti, J.D. and Averkamp, T.F. and Ye, S.-Y. and Horne, R.B. and Woodfield, E.E. and Shprits, Y.Y. and Gurnett, D.A. and Persoon, A.M. and Wahlund, J.-E.}}
+
+
+
+Work No: 97
+@article{Shprits2014,title = {Activity-dependent global model of electron loss inside the plasmasphere},journal = {Geophysical Research Letters},year = {2014},volume = {41},number = {11},pages = {3744-3751},author = {Orlova, K. and Spasojevic, M. and Shprits, Y.}}
+
+
+
+Work No: 98
+@article{Shprits2014,title = {Circulation of Heavy Ions and Their Dynamical Effects in the Magnetosphere: Recent Observations and Models},journal = {Space Science Reviews},year = {2014},volume = {184},number = {1-4},pages = {173-235},author = {Kronberg, E.A. and Ashour-Abdalla, M. and Dandouras, I. and Delcourt, D.C. and Grigorenko, E.E. and Kistler, L.M. and Kuzichev, I.V. and Liao, J. and Maggiolo, R. and Malova, H.V. and Orlova, K.G. and Peroomian, V. and Shklyar, D.R. and Shprits, Y.Y. and Welling, D.T. and Zelenyi, L.M.}}
+
+
+
+Work No: 99
+@article{Shprits2014,title = {Controlled precipitation of energetic Van Allen belt protons by electromagnetic ion cyclotron (EMIC) waves},journal = {Space Weather},year = {2014},volume = {12},number = {6},pages = {354-367},author = {De Soria-Santacruz, M. and Martinez-Sanchez, M. and Shprits, Y.Y.}}
+
+
+
+Work No: 100
+@article{Shprits2014,title = {Effect of EMIC waves on relativistic and ultrarelativistic electron populations: Ground-based and Van Allen Probes observations},journal = {Geophysical Research Letters},year = {2014},volume = {41},number = {5},pages = {1375-1381},author = {Usanova, M.E. and Drozdov, A. and Orlova, K. and Mann, I.R. and Shprits, Y. and Robertson, M.T. and Turner, D.L. and Milling, D.K. and Kale, A. and Baker, D.N. and Thaller, S.A. and Reeves, G.D. and Spence, H.E. and Kletzing, C. and Wygant, J.}}
+
+
+
+Work No: 101
+@article{Shprits2014,title = {Erratum to Space Experiments aboard the Lomonosov MSU Satellite (Cosmic Research, (2013), 51 6 (427))},journal = {Cosmic Research},year = {2014},volume = {52},number = {3},author = {Sadovnichiy, V.A. and Amelyushkin, A.M. and Angelopoulos, V. and Bengin, V.V. and Bogomolov, V.V. and Garipov, G.K. and Gorbovskoy, E.S. and Grossan, B. and Klimov, P.A. and Khrenov, B.A. and Lee, J. and Lipunov, V.M. and Na, G.W. and Panasyuk, M.I. and Park, I.H. and Petrov, V.L. and Russell, C.T. and Svertilov, S.I. and Sigaeva, E.A. and Smoot, G.F. and Shprits, Y. and Veden{'}kin, N.N. and Yashin, I.V.}}
+
+
+
+Work No: 102
+@article{Shprits2014,title = {Gradual diffusion and punctuated phase space density enhancements of highly relativistic electrons: Van Allen Probes observations},journal = {Geophysical Research Letters},year = {2014},volume = {41},number = {5},pages = {1351-1358},author = {Baker, D.N. and Jaynes, A.N. and Li, X. and Henderson, M.G. and Kanekal, S.G. and Reeves, G.D. and Spence, H.E. and Claudepierre, S.G. and Fennell, J.F. and Hudson, M.K. and Thorne, R.M. and Foster, J.C. and Erickson, P.J. and Malaspina, D.M. and Wygant, J.R. and Boyd, A. and Kletzing, C.A. and Drozdov, A. and Shprits, Y.Y.}}
+
+
+
+Work No: 103
+@article{Shprits2014,title = {Model of lifetimes of the outer radiation belt electrons in a realistic magnetic field using realistic chorus wave parameters},journal = {Journal of Geophysical Research A: Space Physics},year = {2014},volume = {119},number = {2},pages = {770-780},author = {Orlova, K. and Shprits, Y.}}
+
+
+
+Work No: 104
+@article{Shprits2014,title = {Noise statistics identification for Kalman filtering of the electron radiation belt observations I: Model errors},journal = {Journal of Geophysical Research: Space Physics},year = {2014},volume = {119},number = {7},pages = {5700-5724},author = {Podladchikova, T.V. and Shprits, Y.Y. and Kondrashov, D. and Kellerman, A.C.}}
+
+
+
+Work No: 105
+@article{Shprits2014,title = {Noise statistics identification for Kalman filtering of the electron radiation belt observations: 2. Filtration and smoothing},journal = {Journal of Geophysical Research: Space Physics},year = {2014},volume = {119},number = {7},pages = {5725-5743},author = {Podladchikova, T.V. and Shprits, Y.Y. and Kellerman, A.C. and Kondrashov, D.}}
+
+
+
+Work No: 106
+@article{Shprits2014,title = {Prompt energization of relativistic and highly relativistic electrons during a substorm interval: Van Allen Probes observations},journal = {Geophysical Research Letters},year = {2014},volume = {41},number = {1},pages = {20-25},author = {Foster, J.C. and Erickson, P.J. and Baker, D.N. and Claudepierre, S.G. and Kletzing, C.A. and Kurth, W. and Reeves, G.D. and Thaller, S.A. and Spence, H.E. and Shprits, Y.Y. and Wygant, J.R.}}
+
+
+
+Work No: 107
+@article{Shprits2014,title = {Reconstruction of gaps in the past history of solar wind parameters},journal = {Geophysical Research Letters},year = {2014},volume = {41},number = {8},pages = {2702-2707},author = {Kondrashov, D. and Denton, R. and Shprits, Y.Y. and Singer, H.J.}}
+
+
+
+Work No: 108
+@article{Shprits2014,title = {Saturn chorus latitudinal variations},journal = {Journal of Geophysical Research: Space Physics},year = {2014},volume = {119},number = {6},pages = {4656-4667},author = {Menietti, J.D. and Hospodarsky, G.B. and Shprits, Y.Y. and Gurnett, D.A.}}
+
+
+
+Work No: 109
+@article{Shprits2014,title = {Simulation of high-energy radiation belt electron fluxes using NARMAX-VERB coupled codes},journal = {Journal of Geophysical Research: Space Physics},year = {2014},volume = {119},number = {10},pages = {8073-8086},author = {Pakhotin, I.P. and Drozdov, A.Y. and Shprits, Y.Y. and Boynton, R.J. and Subbotin, D.A. and Balikhin, M.A.}}
+
+
+
+Work No: 110
+@article{Shprits2014,title = {Survey analysis of chorus intensity at Saturn},journal = {Journal of Geophysical Research: Space Physics},year = {2014},volume = {119},number = {10},pages = {8415-8425},author = {Menietti, J.D. and Averkamp, T.F. and Groene, J.B. and Horne, R.B. and Shprits, Y.Y. and Woodfield, E.E. and Hospodarsky, G.B. and Gurnett, D.A.}}
+
+
+
+Work No: 111
+@article{Shprits2014,title = {The origin of Jupiter{'}s outer radiation belt},journal = {Journal of Geophysical Research: Space Physics},year = {2014},volume = {119},number = {5},pages = {3490-3502},author = {Woodfield, E.E. and Horne, R.B. and Glauert, S.A. and Menietti, J.D. and Shprits, Y.Y.}}
+
+
+
+Work No: 112
+@article{Shprits2014,title = {Three-dimensional data assimilation and reanalysis of radiation belt electrons: Observations of a four-zone structure using five spacecraft and the VERB code},journal = {Journal of Geophysical Research: Space Physics},year = {2014},volume = {119},number = {11},pages = {8764-8783},author = {Kellerman, A.C. and Shprits, Y.Y. and Kondrashov, D. and Subbotin, D. and Makarevich, R.A. and Donovan, E. and Nagai, T.}}
+
+
+
+Work No: 113
+@article{Shprits2013,title = {A Geosynchronous Radiation-belt electron empirical prediction (GREEP) model},journal = {Space Weather},year = {2013},volume = {11},number = {8},pages = {463-475},author = {Kellerman, A.C. and Shprits, Y.Y. and Turner, D.L.}}
+
+
+
+Work No: 114
+@article{Shprits2013,title = {An improved dispersion relation for parallel propagating electromagnetic waves in warm plasmas: Application to electron scattering},journal = {Journal of Geophysical Research: Space Physics},year = {2013},volume = {118},number = {5},pages = {2185-2195},author = {Chen, L. and Thorne, R.M. and Shprits, Y. and Ni, B.}}
+
+
+
+Work No: 115
+@article{Shprits2013,title = {Application of a new data operator-splitting data assimilation technique to the 3-D VERB diffusion code and CRRES measurements},journal = {Geophysical Research Letters},year = {2013},volume = {40},number = {19},pages = {4998-5002},author = {Shprits, Y. and Kellerman, A. and Kondrashov, D. and Subbotin, D.}}
+
+
+
+Work No: 116
+@article{Shprits2013,title = {Chorus functional dependencies derived from CRRES data},journal = {Geophysical Research Letters},year = {2013},volume = {40},number = {15},pages = {3793-3797},author = {Spasojevic, M. and Shprits, Y.Y.}}
+
+
+
+Work No: 117
+@article{Shprits2013,title = {Dispersion relation of electromagnetic ion cyclotron waves using Cluster observations},journal = {Annales Geophysicae},year = {2013},volume = {31},number = {8},pages = {1437-1446},author = {Pakhotin, I.P. and Walker, S.N. and Shprits, Y.Y. and Balikhin, M.A.}}
+
+
+
+Work No: 118
+@article{Shprits2013,title = {Electron acceleration at Jupiter: Input from cyclotron-resonant interaction with whistler-mode chorus waves},journal = {Annales Geophysicae},year = {2013},volume = {31},number = {10},pages = {1619-1630},author = {Woodfield, E.E. and Horne, R.B. and Glauert, S.A. and Menietti, J.D. and Shprits, Y.Y.}}
+
+
+
+Work No: 119
+@article{Shprits2013,title = {Empirically modeled global distribution of magnetospheric chorus amplitude using an artificial neural network},journal = {Journal of Geophysical Research: Space Physics},year = {2013},volume = {118},number = {10},pages = {6243-6253},author = {Kim, K.-C. and Shprits, Y. and Lee, J. and Hwang, J.}}
+
+
+
+Work No: 120
+@article{Shprits2013,title = {Erratum: Resonant scattering of plasma sheet electrons leading to diffuse auroral precipitation: 1. Evaluation for electrostatic electron cyclotron harmonic waves, {"}resonant scattering of plasma sheet electrons leading to diffuse auroral precipitation (Journal of Geophysical Research A: Space Physics 118 (839-842) DOI:10.1002/jgra.50154)},journal = {Journal of Geophysical Research: Space Physics},year = {2013},volume = {118},number = {2},pages = {839-842},author = {Thorne, R.M. and Ni, B. and Tao, X. and Chen, L. and Li, W. and Meredith, N.P. and Horne, R.B. and Shprits, Y.Y.}}
+
+
+
+Work No: 121
+@article{Shprits2013,title = {Gyro-resonant scattering of radiation belt electrons during the solar minimum by fast magnetosonic waves},journal = {Journal of Geophysical Research: Space Physics},year = {2013},volume = {118},number = {2},pages = {648-652},author = {Shprits, Y.Y. and Runov, A. and Ni, B.}}
+
+
+
+Work No: 122
+@article{Shprits2013,title = {Long-term relativistic radiation belt electron responses to GEM magnetic storms},journal = {Journal of Atmospheric and Solar-Terrestrial Physics},year = {2013},volume = {100-101},pages = {59-67},author = {Kim, K.-C. and Shprits, Y.}}
+
+
+
+Work No: 123
+@article{Shprits2013,title = {Mechanisms for the Acceleration of Radiation Belt Electrons},journal = {Recurrent Magnetic Storms: Corotating Solar Wind Streams},year = {2013},pages = {151-173},author = {Horne, R.B. and Meredith, N.P. and Glauert, S.A. and Varotsou, A. and Boscher, D. and Thorne, R.M. and Shprits, Y.Y. and Anderson, R.R.}}
+
+
+
+Work No: 124
+@article{Shprits2013,title = {On the storm-time evolution of relativistic electron phase space density in Earth{'}s outer radiation belt},journal = {Journal of Geophysical Research: Space Physics},year = {2013},volume = {118},number = {5},pages = {2196-2212},author = {Turner, D.L. and Angelopoulos, V. and Li, W. and Hartinger, M.D. and Usanova, M. and Mann, I.R. and Bortnik, J. and Shprits, Y.}}
+
+
+
+Work No: 125
+@article{Shprits2013,title = {Responses of Earth{'}s radiation belts to solar wind dynamic pressure variations in 2002 analyzed using multisatellite data and Kalman filtering},journal = {Journal of Geophysical Research: Space Physics},year = {2013},volume = {118},number = {7},pages = {4400-4414},author = {Ni, B. and Shprits, Y.Y. and Friedel, R.H.W. and Thorne, R.M. and Daae, M. and Chen, Y.}}
+
+
+
+Work No: 126
+@article{Shprits2013,title = {Scattering rates of inner belt protons by EMIC waves: A comparison between test particle and diffusion simulations},journal = {Geophysical Research Letters},year = {2013},volume = {40},number = {18},pages = {4793-4797},author = {De Soria-Santacruz, M. and Orlova, K.G. and Martinez-Sanchez, M. and Shprits, Y.Y.}}
+
+
+
+Work No: 127
+@article{Shprits2013,title = {Space experiments aboard the Lomonosov MSU satellite},journal = {Cosmic Research},year = {2013},volume = {51},number = {6},pages = {427-433},author = {Sadovnichiy, V.A. and Amelyushkin, A.M. and Angelopoulos, V. and Bengin, V.V. and Bogomolov, V.V. and Garipov, G.K. and Gorbovskoy, E.S. and Grossan, B. and Klimov, P.A. and Khrenov, B.A. and Lee, J. and Lipunov, V.M. and Na, G.W. and Panasyuk, M.I. and Park, I.H. and Petrov, V.L. and Russell, C.T. and Svertilov, S.I. and Sigaeva, E.A. and Smoot, G.F. and Shprits, Y. and Vedenkin, N.N. and Yashin, I.V.}}
+
+
+
+Work No: 128
+@article{Shprits2013,title = {Space experiments on-board of lomonosov mission to study gamma-ray bursts and UHECRS},journal = {EAS Publications Series},year = {2013},volume = {61},pages = {545-552},author = {Amelushkin, A.M. and Bogomolov, V.V. and Benghin, V.V. and Garipov, G.K. and Gorbovskoy, E.S. and Grossan, B. and Klimov, P.A. and Khrenov, B.A. and Lee, J. and Lipunov, V.M. and Na, G. and Panasyuk, M.I. and Park, I.H. and Petrov, V.L. and Smoot, G.F. and Svertilov, S.I. and Shprits, Y. and Vedenkin, N.N. and Yashin, I.V.}}
+
+
+
+Work No: 129
+@article{Shprits2013,title = {The Influence of Wave-Particle Interactions on Relativistic Electron Dynamics During Storms},journal = {Inner Magnetosphere Interactions: New Perspectives from Imaging},year = {2013},volume = {159},pages = {101-112},author = {Thorne, R.M. and Horne, R.B. and Glauert, S. and Meredith, N.P. and Shprits, Y.Y. and Summers, D. and Anderson, R.R.}}
+
+
+
+Work No: 130
+@article{Shprits2013,title = {The spectral extent of chorus in the off-equatorial magnetosphere},journal = {Journal of Geophysical Research: Space Physics},year = {2013},volume = {118},number = {4},pages = {1700-1705},author = {Bunch, N.L. and Spasojevic, M. and Shprits, Y.Y. and Gu, X. and Foust, F.}}
+
+
+
+Work No: 131
+@article{Shprits2013,title = {Transport of the plasma sheet electrons to the geostationary distances},journal = {Journal of Geophysical Research: Space Physics},year = {2013},volume = {118},number = {1},pages = {82-98},author = {Ganushkina, N.Y. and Amariutei, O.A. and Shprits, Y.Y. and Liemohn, M.W.}}
+
+
+
+Work No: 132
+@article{Shprits2013,title = {Unusual stable trapping of the ultrarelativistic electrons in the Van Allen radiation belts},journal = {Nature Physics},year = {2013},volume = {9},number = {11},pages = {699-703},author = {Shprits, Y.Y. and Subbotin, D. and Drozdov, A. and Usanova, M.E. and Kellerman, A. and Orlova, K. and Baker, D.N. and Turner, D.L. and Kim, K.-C.}}
+
+
+
+Work No: 133
+@article{Shprits2012,title = {Bounce-averaged diffusion coefficients due to resonant interaction of the outer radiation belt electrons with oblique chorus waves computed in a realistic magnetic field model},journal = {Journal of Geophysical Research: Space Physics},year = {2012},volume = {117},number = {7},author = {Orlova, K.G. and Shprits, Y.Y. and Ni, B.}}
+
+
+
+Work No: 134
+@article{Shprits2012,title = {Chorus, ECH, and Z mode emissions observed at Jupiter and Saturn and possible electron acceleration},journal = {Journal of Geophysical Research: Space Physics},year = {2012},volume = {117},number = {12},author = {Menietti, J.D. and Shprits, Y.Y. and Horne, R.B. and Woodfield, E.E. and Hospodarsky, G.B. and Gurnett, D.A.}}
+
+
+
+Work No: 135
+@article{Shprits2012,title = {Erratum: Correction to {"}Parameterized lifetime of radiation belt electrons interacting with lower-band and upper-band oblique chorus wave{"} (Geophysical Research Letters (2012) 39 (L15102) DOI: 10.1029/2012GL052519)},journal = {Geophysical Research Letters},year = {2012},volume = {39},number = {17},author = {Gu, X. and Shprits, Y.Y. and Ni, B.}}
+
+
+
+Work No: 136
+@article{Shprits2012,title = {Explaining sudden losses of outer radiation belt electrons during geomagnetic storms},journal = {Nature Physics},year = {2012},volume = {8},number = {3},pages = {208-212},author = {Turner, D.L. and Shprits, Y. and Hartinger, M. and Angelopoulos, V.}}
+
+
+
+Work No: 137
+@article{Shprits2012,title = {Gyroresonant interactions between the radiation belt electrons and whistler mode chorus waves in the radiation environments of Earth, Jupiter, and Saturn: A comparative study},journal = {Journal of Geophysical Research: Space Physics},year = {2012},volume = {117},number = {11},author = {Shprits, Y.Y. and Menietti, J.D. and Gu, X. and Kim, K.C. and Horne, R.B.}}
+
+
+
+Work No: 138
+@article{Shprits2012,title = {Off-equatorial chorus occurrence and wave amplitude distributions as observed by the Polar Plasma Wave Instrument},journal = {Journal of Geophysical Research: Space Physics},year = {2012},volume = {117},number = {4},author = {Bunch, N.L. and Spasojevic, M. and Shprits, Y.Y.}}
+
+
+
+Work No: 139
+@article{Shprits2012,title = {On the influence of solar wind conditions on the outer-electron radiation belt},journal = {Journal of Geophysical Research: Space Physics},year = {2012},volume = {117},number = {5},author = {Kellerman, A.C. and Shprits, Y.Y.}}
+
+
+
+Work No: 140
+@article{Shprits2012,title = {Parameterized lifetime of radiation belt electrons interacting with lower-band and upper-band oblique chorus waves},journal = {Geophysical Research Letters},year = {2012},volume = {39},number = {15},author = {Gu, X. and Shprits, Y.Y. and Ni, B.}}
+
+
+
+Work No: 141
+@article{Shprits2012,title = {Progress in understanding the inner magnetosphere},journal = {Eos},year = {2012},volume = {93},number = {36},author = {Goldstein, J. and Spasojevic, M. and Shprits, Y.}}
+
+
+
+Work No: 142
+@article{Shprits2012,title = {Radial distributions of equatorial phase space density for outer radiation belt electrons},journal = {Geophysical Research Letters},year = {2012},volume = {39},number = {9},author = {Turner, D.L. and Angelopoulos, V. and Shprits, Y. and Kellerman, A. and Cruce, P. and Larson, D.}}
+
+
+
+Work No: 143
+@article{Shprits2012,title = {Radial gradients of phase space density in the inner electron radiation},journal = {Journal of Geophysical Research: Space Physics},year = {2012},volume = {117},number = {12},author = {Kim, K.-C. and Shprits, Y.}}
+
+
+
+Work No: 144
+@article{Shprits2012,title = {Relativistic radiation belt electron responses to GEM magnetic storms: Comparison of CRRES observations with 3-D VERB simulations},journal = {Journal of Geophysical Research: Space Physics},year = {2012},volume = {117},number = {8},author = {Kim, K.-C. and Shprits, Y. and Subbotin, D. and Ni, B.}}
+
+
+
+Work No: 145
+@article{Shprits2012,title = {Statistical analysis of phase space density buildups and dropouts},journal = {Journal of Geophysical Research: Space Physics},year = {2012},volume = {117},number = {1},author = {Shprits, Y. and Daae, M. and Ni, B.}}
+
+
+
+Work No: 146
+@article{Shprits2012,title = {Three-dimensional radiation belt simulations in terms of adiabatic invariants using a single numerical grid},journal = {Journal of Geophysical Research: Space Physics},year = {2012},volume = {117},number = {5},author = {Subbotin, D.A. and Shprits, Y.Y.}}
+
+
+
+Work No: 147
+@article{Shprits2011,title = {Analysis of radiation belt energetic electron phase space density using THEMIS SST measurements: Cross-satellite calibration and a case study},journal = {Journal of Geophysical Research: Space Physics},year = {2011},volume = {116},number = {3},author = {Ni, B. and Shprits, Y. and Hartinger, M. and Angelopoulos, V. and Gu, X. and Larson, D.}}
+
+
+
+Work No: 148
+@article{Shprits2011,title = {Chorus probability and wave power distributions as observed by the Polar Plasma Wave Instrument},journal = {2011 30th URSI General Assembly and Scientific Symposium, URSIGASS 2011},year = {2011},author = {Bunch, N.L. and Spasojevic, M. and Shprits, Y.Y.}}
+
+
+
+Work No: 149
+@article{Shprits2011,title = {Chorus-driven resonant scattering of diffuse auroral electrons in nondipolar magnetic fields},journal = {Journal of Geophysical Research: Space Physics},year = {2011},volume = {116},number = {6},author = {Ni, B. and Thorne, R.M. and Shprits, Y.Y. and Orlova, K.G. and Meredith, N.P.}}
+
+
+
+Work No: 150
+@article{Shprits2011,title = {Diffuse auroral scattering by whistler mode chorus waves: Dependence on wave normal angle distribution},journal = {Journal of Geophysical Research: Space Physics},year = {2011},volume = {116},number = {10},author = {Ni, B. and Thorne, R.M. and Meredith, N.P. and Shprits, Y.Y. and Horne, R.B.}}
+
+
+
+Work No: 151
+@article{Shprits2011,title = {Electron flux changes in the outer radiation belt by radial diffusion during the storm recovery phase in comparison with the fully adiabatic evolution},journal = {Journal of Geophysical Research: Space Physics},year = {2011},volume = {116},number = {9},author = {Kim, K.-C. and Lee, D.-Y. and Shprits, Y. and Kim, H.-J. and Lee, E.}}
+
+
+
+Work No: 152
+@article{Shprits2011,title = {Importance of plasma injection events for energization of relativistic electrons in the Jovian magnetosphere},journal = {Journal of Geophysical Research: Space Physics},year = {2011},volume = {116},number = {1},author = {Tao, X. and Thorne, R.M. and Horne, R.B. and Ni, B. and Menietti, J.D. and Shprits, Y.Y. and Gurnett, D.A.}}
+
+
+
+Work No: 153
+@article{Shprits2011,title = {Locations of boundaries of outer and inner radiation belts as observed by Cluster and Double Star},journal = {Journal of Geophysical Research: Space Physics},year = {2011},volume = {116},number = {9},author = {Ganushkina, N.Yu. and Dandouras, I. and Shprits, Y.Y. and Cao, J.}}
+
+
+
+Work No: 154
+@article{Shprits2011,title = {Lognormal Kalman filter for assimilating phase space density data in the radiation belts},journal = {Space Weather},year = {2011},volume = {9},number = {11},author = {Kondrashov, D. and Ghil, M. and Shprits, Y.}}
+
+
+
+Work No: 155
+@article{Shprits2011,title = {Long-term radiation belt simulation with the VERB 3-D code: Comparison with CRRES observations},journal = {Journal of Geophysical Research: Space Physics},year = {2011},volume = {116},number = {12},author = {Subbotin, D.A. and Shprits, Y.Y. and Ni, B.}}
+
+
+
+Work No: 156
+@article{Shprits2011,title = {On the bounce-averaging of scattering rates and the calculation of bounce period},journal = {Physics of Plasmas},year = {2011},volume = {18},number = {9},author = {Orlova, K.G. and Shprits, Y.Y.}}
+
+
+
+Work No: 157
+@article{Shprits2011,title = {On the latitudinal extent of chorus emissions as observed by the Polar Plasma Wave Instrument},journal = {Journal of Geophysical Research: Space Physics},year = {2011},volume = {116},number = {4},author = {Bunch, N.L. and Spasojevic, M. and Shprits, Y.Y.}}
+
+
+
+Work No: 158
+@article{Shprits2011,title = {Profound change of the near-Earth radiation environment caused by solar superstorms},journal = {Space Weather},year = {2011},volume = {9},number = {8},author = {Shprits, Y. and Subbotin, D. and Ni, B. and Horne, R. and Baker, D. and Cruce, P.}}
+
+
+
+Work No: 159
+@article{Shprits2011,title = {Reanalysis of radiation belt electron phase space density using various boundary conditions and loss models},journal = {Advances in Space Research},year = {2011},volume = {48},number = {8},pages = {1327-1334},author = {Daae, M. and Shprits, Y.Y. and Ni, B. and Koller, J. and Kondrashov, D. and Chen, Y.}}
+
+
+
+Work No: 160
+@article{Shprits2011,title = {Resonant scattering of plasma sheet electrons leading to diffuse auroral precipitation: 2. Evaluation for whistler mode chorus waves},journal = {Journal of Geophysical Research: Space Physics},year = {2011},volume = {116},number = {4},author = {Ni, B. and Thorne, R.M. and Meredith, N.P. and Horne, R.B. and Shprits, Y.Y.}}
+
+
+
+Work No: 161
+@article{Shprits2011,title = {Simulation of the acceleration of relativistic electrons in the inner magnetosphere using RCM-VERB coupled codes},journal = {Journal of Geophysical Research: Space Physics},year = {2011},volume = {116},number = {8},author = {Subbotin, D.A. and Shprits, Y.Y. and Gkioulidou, M. and Lyons, L.R. and Ni, B. and Merkin, V.G. and Toffoletto, F.R. and Thorne, R.M. and Horne, R.B. and Hudson, M.K.}}
+
+
+
+Work No: 162
+@article{Shprits2011,title = {Statistical analysis of pitch angle distribution of radiation belt energetic electrons near the geostationary orbit: CRRES observations},journal = {Journal of Geophysical Research: Space Physics},year = {2011},volume = {116},number = {1},author = {Gu, X. and Zhao, Z. and Ni, B. and Shprits, Y. and Zhou, C.}}
+
+
+
+Work No: 163
+@article{Shprits2011,title = {Typical properties of rising and falling tone chorus waves},journal = {Geophysical Research Letters},year = {2011},volume = {38},number = {14},author = {Li, W. and Thorne, R.M. and Bortnik, J. and Shprits, Y.Y. and Nishimura, Y. and Angelopoulos, V. and Chaston, C. and Le Contel, O. and Bonnell, J.W.}}
+
+
+
+Work No: 164
+@article{Shprits2011,title = {Understanding the dynamic evolution of the relativistic electron slot region including radial and pitch angle diffusion},journal = {Journal of Geophysical Research: Space Physics},year = {2011},volume = {116},number = {10},author = {Kim, K.-C. and Shprits, Y. and Subbotin, D. and Ni, B.}}
+
+
+
+Work No: 165
+@article{Shprits2010,title = {Dynamic modeling of radiation belt electrons by radial diffusion simulation for a 2 month interval following the 24 March 1991 storm injection},journal = {Journal of Geophysical Research: Space Physics},year = {2010},volume = {115},number = {3},author = {Chu, F. and Hudson, M.K. and Haines, P. and Shprits, Y.}}
+
+
+
+Work No: 166
+@article{Shprits2010,title = {Estimation of radial gradients of phase space density from POLAR observations during a quiet period prior to a sudden solar wind dynamic pressure enhancement},journal = {Journal of Geophysical Research: Space Physics},year = {2010},volume = {115},number = {12},author = {Kim, H.-J. and Zesta, E. and Kim, K.-C. and Shprits, Y. and Shi, Y. and Lyons, L.R.}}
+
+
+
+Work No: 167
+@article{Shprits2010,title = {Gap filling of solar wind data by singular spectrum analysis},journal = {Geophysical Research Letters},year = {2010},volume = {37},number = {15},author = {Kondrashov, D. and Shprits, Y. and Ghil, M.}}
+
+
+
+Work No: 168
+@article{Shprits2010,title = {Rapid scattering of radiation belt electrons by storm-time EMIC waves},journal = {Geophysical Research Letters},year = {2010},volume = {37},number = {9},author = {Ukhorskiy, A.Y. and Shprits, Y.Y. and Anderson, B.J. and Takahashi, K. and Thorne, R.M.}}
+
+
+
+Work No: 169
+@article{Shprits2009,title = {Dependence of the quasi-linear scattering rates on the wave normal distribution of chorus waves},journal = {Journal of Geophysical Research: Space Physics},year = {2009},volume = {114},number = {11},author = {Shprits, Y.Y. and Ni, B.}}
+
+
+
+Work No: 170
+@article{Shprits2009,title = {Estimates of lifetimes against pitch angle diffusion},journal = {Journal of Atmospheric and Solar-Terrestrial Physics},year = {2009},volume = {71},number = {16},pages = {1647-1652},author = {Albert, J.M. and Shprits, Y.Y.}}
+
+
+
+Work No: 171
+@article{Shprits2009,title = {Evolution of electron fluxes in the outer radiation belt computed with the VERB code},journal = {Journal of Geophysical Research: Space Physics},year = {2009},volume = {114},number = {11},author = {Shprits, Y.Y. and Subbotin, D. and Ni, B.}}
+
+
+
+Work No: 172
+@article{Shprits2009,title = {Potential waves for pitch-angle scattering of near-equatorially mirroring energetic electrons due to the violation of the second adiabatic invariant},journal = {Geophysical Research Letters},year = {2009},volume = {36},number = {12},author = {Shprits, Y.Y.}}
+
+
+
+Work No: 173
+@article{Shprits2009,title = {Reanalyses of the radiation belt electron phase space density using nearly equatorial CRRES and polar-orbiting Akebono satellite observations},journal = {Journal of Geophysical Research: Space Physics},year = {2009},volume = {114},number = {5},author = {Ni, B. and Shprits, Y. and Nagai, T. and Thorne, R. and Chen, Y. and Kondrashov, D. and Kim, H.-J.}}
+
+
+
+Work No: 174
+@article{Shprits2009,title = {Reanalysis of relativistic radiation belt electron phase space density using multisatellite observations: Sensitivity to empirical magnetic field models},journal = {Journal of Geophysical Research: Space Physics},year = {2009},volume = {114},number = {12},author = {Ni, B. and Shprits, Y. and Thorne, R. and Friedel, R. and Nagai, T.}}
+
+
+
+Work No: 175
+@article{Shprits2009,title = {Simulations of pitch angle scattering of relativistic electrons with MLT-dependent diffusion coefficients},journal = {Journal of Geophysical Research: Space Physics},year = {2009},volume = {114},number = {3},author = {Shprits, Y.Y. and Chen, L. and Thorne, R.M.}}
+
+
+
+Work No: 176
+@article{Shprits2009,title = {Three-dimensional modeling of the radiation belts using the versatile electron radiation belt (verb) code},journal = {Space Weather},year = {2009},volume = {7},number = {10},author = {Subbotin, D.A. and Shprits, Y.Y.}}
+
+
+
+Work No: 177
+@article{Shprits2008,title = {Coupling process in the inner magnetosphere},journal = {Eos},year = {2008},volume = {89},number = {51},author = {Shprits, Y. and Ganushkina, N.}}
+
+
+
+Work No: 178
+@article{Shprits2008,title = {Eigenmode analysis of pitch-angle diffusion of energetic electrons in the outer zone},journal = {Journal of Atmospheric and Solar-Terrestrial Physics},year = {2008},volume = {70},number = {14},pages = {1738-1744},author = {O{'}Brien, T.P. and Shprits, Y.Y. and Moldwin, M.B.}}
+
+
+
+Work No: 179
+@article{Shprits2008,title = {Evaluation of whistler mode chorus amplification during an injection event observed on CRRES},journal = {Journal of Geophysical Research: Space Physics},year = {2008},volume = {113},number = {9},author = {Li, W. and Thorne, R.M. and Meredith, N.P. and Home, R.B. and Bortnik, J. and Shprits, Y.Y. and Ni, B.}}
+
+
+
+Work No: 180
+@article{Shprits2008,title = {Gyro-resonant electron acceleration at Jupiter},journal = {Nature Physics},year = {2008},volume = {4},number = {4},pages = {301-304},author = {Horne, R.B. and Thorne, R.M. and Glauert, S.A. and Douglas Menietti, J. and Shprits, Y.Y. and Gurnett, D.A.}}
+
+
+
+Work No: 181
+@article{Shprits2008,title = {Progress in understanding Earth{'}s radiation belts},journal = {Eos},year = {2008},volume = {89},number = {47},author = {Goldstein, J. and Shprits, Y.}}
+
+
+
+Work No: 182
+@article{Shprits2008,title = {Resonant scattering of plasma sheet electrons by whistler-mode chorus: Contribution to diffuse auroral precipitation},journal = {Geophysical Research Letters},year = {2008},volume = {35},number = {11},author = {Ni, B. and Thorne, R.M. and Shprits, Y.Y. and Bortnik, J.}}
+
+
+
+Work No: 183
+@article{Shprits2008,title = {Review of modeling of losses and sources of relativistic electrons in the outer radiation belt I: Radial transport},journal = {Journal of Atmospheric and Solar-Terrestrial Physics},year = {2008},volume = {70},number = {14},pages = {1679-1693},author = {Shprits, Y.Y. and Elkington, S.R. and Meredith, N.P. and Subbotin, D.A.}}
+
+
+
+Work No: 184
+@article{Shprits2008,title = {Review of modeling of losses and sources of relativistic electrons in the outer radiation belt II: Local acceleration and loss},journal = {Journal of Atmospheric and Solar-Terrestrial Physics},year = {2008},volume = {70},number = {14},pages = {1694-1713},author = {Shprits, Y.Y. and Subbotin, D.A. and Meredith, N.P. and Elkington, S.R.}}
+
+
+
+Work No: 185
+@article{Shprits2007,title = {A Kalman filter technique to estimate relativistic electron lifetimes in the outer radiation belt},journal = {Journal of Geophysical Research: Space Physics},year = {2007},volume = {112},number = {10},author = {Kondrashov, D. and Shprits, Y. and Ghil, M. and Thorne, R.}}
+
+
+
+Work No: 186
+@article{Shprits2007,title = {Dynamic evolution of energetic outer zone electrons due to wave-particle interactions during storms},journal = {Journal of Geophysical Research: Space Physics},year = {2007},volume = {112},number = {10},author = {Li, W. and Shprits, Y.Y. and Thorne, R.M.}}
+
+
+
+Work No: 187
+@article{Shprits2007,title = {Parameterization of radiation belt electron loss timescales due to interactions with chorus waves},journal = {Geophysical Research Letters},year = {2007},volume = {34},number = {11},author = {Shprits, Y.Y. and Meredith, N.P. and Thorne, R.M.}}
+
+
+
+Work No: 188
+@article{Shprits2007,title = {Reanalysis of relativistic radiation belt electron fluxes using CRRES satellite data, a radial diffusion model, and a Kalman filter},journal = {Journal of Geophysical Research: Space Physics},year = {2007},volume = {112},number = {12},author = {Shprits, Y. and Kondrashov, D. and Chen, Y. and Thorne, R. and Ghil, M. and Friedel, R. and Reeves, G.}}
+
+
+
+Work No: 189
+@article{Shprits2007,title = {Refilling of the slot region between the inner and outer electron radiation belts during geomagnetic storms},journal = {Journal of Geophysical Research: Space Physics},year = {2007},volume = {112},number = {6},author = {Thorne, R.M. and Shprits, Y.Y. and Meredith, N.P. and Horne, R.B. and Li, W. and Lyons, L.R.}}
+
+
+
+Work No: 190
+@article{Shprits2006,title = {Acceleration mechanism responsible for the formation of the new radiation belt during the 2003 Halloween solar storm},journal = {Geophysical Research Letters},year = {2006},volume = {33},number = {5},author = {Shprits, Y.Y. and Thorne, R.M. and Horne, R.B. and Glauert, S.A. and Cartwright, M. and Russell, C.T. and Baker, D.N. and Kanekal, S.G.}}
+
+
+
+Work No: 191
+@article{Shprits2006,title = {Bounce-averaged diffusion coefficients for field-aligned chorus waves},journal = {Journal of Geophysical Research: Space Physics},year = {2006},volume = {111},number = {10},author = {Shprits, Y.Y. and Thorne, R.M. and Horne, R.B. and Summers, D.}}
+
+
+
+Work No: 192
+@article{Shprits2006,title = {Controlling effect of the pitch angle scattering rates near the edge of the loss cone on electron lifetimes},journal = {Journal of Geophysical Research: Space Physics},year = {2006},volume = {111},number = {12},author = {Shprits, Y.Y. and Li, W. and Thorne, R.M.}}
+
+
+
+Work No: 193
+@article{Shprits2006,title = {Observation of two distinct, rapid loss mechanisms during the 20 November 2003 radiation belt dropout event},journal = {Journal of Geophysical Research: Space Physics},year = {2006},volume = {111},number = {12},author = {Bortnik, J. and Thorne, R.M. and O{'}Brien, T.P. and Green, J.C. and Strangeway, R.J. and Shprits, Y.Y. and Baker, D.N.}}
+
+
+
+Work No: 194
+@article{Shprits2006,title = {Outward radial diffusion driven by losses at magnetopause},journal = {Journal of Geophysical Research: Space Physics},year = {2006},volume = {111},number = {11},author = {Shprits, Y.Y. and Thorne, R.M. and Friedel, R. and Reeves, G.D. and Fennell, J. and Baker, D.N. and Kanekal, S.G.}}
+
+
+
+Work No: 195
+@article{Shprits2005,title = {Radial diffusion modeling with empirical lifetimes: Comparison with CRRES observations},journal = {Annales Geophysicae},year = {2005},volume = {23},number = {4},pages = {1467-1471},author = {Shprits, Y.Y. and Thorne, R.M. and Reeves, G.D. and Friedel, R.}}
+
+
+
+Work No: 196
+@article{Shprits2005,title = {Timescale for MeV electron microburst loss during geomagnetic storms},journal = {Journal of Geophysical Research: Space Physics},year = {2005},volume = {110},number = {A9},author = {Thorne, R.M. and O{'}Brien, T.P. and Shprits, Y.Y. and Summers, D. and Horne, R.B.}}
+
+
+
+Work No: 197
+@article{Shprits2005,title = {Wave acceleration of electrons in the Van Allen radiation belts},journal = {Nature},year = {2005},volume = {437},number = {7056},pages = {227-230},author = {Horne, R.B. and Thorne, R.M. and Shprits, Y.Y. and Meredith, N.P. and Glauert, S.A. and Smith, A.J. and Kanekal, S.G. and Baker, D.N. and Engebretson, M.J. and Posch, J.L. and Spasojevic, M. and Inan, U.S. and Pickett, J.S. and Decreau, P.M.E.}}
+
+
+
+Work No: 198
+@article{Shprits2004,title = {Time dependent radial diffusion modeling of relativistic electrons with realistic loss rates},journal = {Geophysical Research Letters},year = {2004},volume = {31},number = {8},author = {Shprits, Y.Y. and Thorne, R.M.}}
+
+
+Number of education: 0
+
+Education Details
+
+
+Number of employment: 2
+
+Employment Details
+1 Helmholtz Centre Potsdam - GFZ German Research Centre for Geosciences
+2 University of Potsdam
