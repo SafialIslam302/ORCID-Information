@@ -1350,7 +1350,8 @@ Work No: 192
 
 
 Work No: 193
-@article{Shprits2006,title = {Observation of two distinct, rapid loss mechanisms during the 20 November 2003 radiation belt dropout event},journal = {Journal of Geophysical Research: Space Physics},year = {2006},volume = {111},number = {12},author = {Bortnik, J. and Thorne, R.M. and O{'}Brien, T.P. and Green, J.C. and Strangeway, R.J. and Shprits, Y.Y. and Baker, D.N.}}
+Observation of two distinct, rapid loss mechanisms during the 20 November 2003 radiation belt dropout event
+
 
 
 
@@ -1376,6 +1377,19 @@ Work No: 197
 
 Work No: 198
 @article{Shprits2004,title = {Time dependent radial diffusion modeling of relativistic electrons with realistic loss rates},journal = {Geophysical Research Letters},year = {2004},volume = {31},number = {8},author = {Shprits, Y.Y. and Thorne, R.M.}}
+
+
+Number of education: 0
+
+Education Details
+
+
+Number of employment: 2
+
+Employment Details
+1 Helmholtz Centre Potsdam - GFZ German Research Centre for Geosciences
+2 University of Potsdam
+ {2004},volume = {31},number = {8},author = {Shprits, Y.Y. and Thorne, R.M.}}
 
 
 Number of education: 0
