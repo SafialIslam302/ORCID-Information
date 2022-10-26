@@ -21,8 +21,7 @@ Work No: 2
 
 
 Work No: 3
-@book{engbert2021, title= {Dynamical {M}odels in {N}eurocognitive {P}sychology}, author= {Engbert, Ralf}, year= {2021}, publisher= {Springer Nature Publishing}, doi= {10.1007/978-3-030-67299-7}, url= {https://doi.org/10.1007/978-3-030-67299-7}}
-
+Dynamical Models in Neurocognitive Psychology
 
 
 
@@ -63,8 +62,7 @@ Work No: 8
 
 
 Work No: 9
-@article{chandra2020modulation, title= {Modulation of oculomotor control during reading of mirrored and inverted texts}, author= {Chandra, Johan and Kr{\"u}gel, Andr{\'e} and Engbert, Ralf}, journal= {Scientific Reports}, volume= {10}, number= {1}, pages= {1--15}, year= {2020}, publisher= {Nature Publishing Group}, doi= {10.1038/s41598-020-60833-6}}
-
+Modulation of oculomotor control during reading of mirrored and inverted texts
 
 
 

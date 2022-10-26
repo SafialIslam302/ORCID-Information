@@ -158,12 +158,14 @@ Work No: 24
 
 
 Work No: 25
-@article{Stannat2018,title = {Preface},journal = {Springer Proceedings in Mathematics and Statistics},year = {2018},volume = {229},pages = {v-vii},author = {Eberle, A. and Grothaus, M. and Hoh, W. and Kassmann, M. and Stannat, W. and Trutnau, G.}}
+Preface
+
 
 
 
 Work No: 26
-@book{2018,	doi = {10.1007/978-3-319-74929-7},	url = {https://doi.org/10.1007%2F978-3-319-74929-7},	year = 2018,	publisher = {Springer International Publishing},	editor = {Andreas Eberle and Martin Grothaus and Walter Hoh and Moritz Kassmann and Wilhelm Stannat and Gerald Trutnau},	title = {Stochastic Partial Differential Equations and Related Fields}}
+Stochastic Partial Differential Equations and Related Fields
+
 
 
 
@@ -243,7 +245,8 @@ Work No: 41
 
 
 Work No: 42
-@article{Kr_ger_2014,	doi = {10.1137/13095094x},	url = {https://doi.org/10.1137%2F13095094x},	year = 2014,	month = {jan},	publisher = {Society for Industrial {\&} Applied Mathematics ({SIAM})},	volume = {13},	number = {3},	pages = {1293--1310},	author = {J. Krüger and W. Stannat},	title = {Front Propagation in Stochastic Neural Fields: A Rigorous Mathematical Framework},	journal = {{SIAM} Journal on Applied Dynamical Systems}}
+Front Propagation in Stochastic Neural Fields: A Rigorous Mathematical Framework
+
 
 
 
@@ -363,7 +366,8 @@ Work No: 65
 
 
 Work No: 66
-@article{Stannat_2004,	doi = {10.1007/s00028-004-0147-x},	url = {https://doi.org/10.1007%2Fs00028-004-0147-x},	year = 2004,	month = {dec},	publisher = {Springer Science and Business Media {LLC}},	volume = {4},	number = {4},	pages = {463--495},	author = {Wilhelm Stannat},	title = {Time-dependent diffusion operators on L1},	journal = {Journal of Evolution Equations}}
+Time-dependent diffusion operators on L1
+
 
 
 

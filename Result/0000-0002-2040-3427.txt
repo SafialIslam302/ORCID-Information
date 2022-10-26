@@ -1610,13 +1610,7 @@ Work No: 70
 
 
 Work No: 71
-@article{ISI:000320416700007, Author= {Spokoiny, Vladimir and Wang, Weining and Haerdle, Wolfgang Karl}, Title= {{Rejoinder: Local quantile regression}}, Journal= {{JOURNAL OF STATISTICAL PLANNING AND INFERENCE}}, Year= {{2013}}, Volume= {{143}}, Number= {{7}}, Pages= {{1145-1149}}, Month= {{JUL}}, DOI= {{10.1016/j.jspi.2013.03.016}}, ISSN= {{0378-3758}}, EISSN= {{1873-1171}}, ResearcherID-Numbers= {{Spokoiny, Vladimir/L-5441-2015
-   Spokoiny, Vladimir/AAF-4942-2021
-   Hardle, Wolfgang K/C-5963-2013
-   }}, ORCID-Numbers= {{Spokoiny, Vladimir/0000-0002-2040-3427
-   Spokoiny, Vladimir/0000-0002-2040-3427
-   Hardle, Wolfgang Karl/0000-0001-5600-3014}}, Unique-ID= {{ISI:000320416700007}}}
-
+Rejoinder: Local quantile regression
 
 
 

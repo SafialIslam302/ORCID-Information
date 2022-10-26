@@ -15,9 +15,7 @@ Work No: 1
 
 
 Work No: 2
-<head>
-<META HTTP-EQUIV="Refresh" CONTENT="0;URL=/servlet/useragent">
-</head>
+An Empirical Model of the Equatorial Electron Pitch Angle Distributions in Earth's Outer Radiation Belt
 
 
 
@@ -695,7 +693,8 @@ Work No: 61
 
 
 Work No: 62
-@article{Shprits2017,title = {Does Spacecraft Potential Depend on the Ambient Electron Density?},journal = {IEEE Transactions on Plasma Science},year = {2017},volume = {45},number = {10},pages = {2875-2884},author = {Lai, S.T. and Martinez-Sanchez, M. and Cahoy, K. and Thomsen, M.F. and Shprits, Y. and Lohmeyer, W. and Wong, F.K.}}
+Does Spacecraft Potential Depend on the Ambient Electron Density?
+
 
 
 
@@ -705,7 +704,8 @@ Work No: 63
 
 
 Work No: 64
-@article{Shprits2017,title = {Editorial: Topical Collection on the Lomonosov Mission},journal = {Space Science Reviews},year = {2017},volume = {212},number = {3-4},pages = {1685-1686},author = {Shprits, Y.Y.}}
+Editorial: Topical Collection on the Lomonosov Mission
+
 
 
 
@@ -985,7 +985,8 @@ Work No: 119
 
 
 Work No: 120
-@article{Shprits2013,title = {Erratum: Resonant scattering of plasma sheet electrons leading to diffuse auroral precipitation: 1. Evaluation for electrostatic electron cyclotron harmonic waves, {"}resonant scattering of plasma sheet electrons leading to diffuse auroral precipitation (Journal of Geophysical Research A: Space Physics 118 (839-842) DOI:10.1002/jgra.50154)},journal = {Journal of Geophysical Research: Space Physics},year = {2013},volume = {118},number = {2},pages = {839-842},author = {Thorne, R.M. and Ni, B. and Tao, X. and Chen, L. and Li, W. and Meredith, N.P. and Horne, R.B. and Shprits, Y.Y.}}
+Erratum: Resonant scattering of plasma sheet electrons leading to diffuse auroral precipitation: 1. Evaluation for electrostatic electron cyclotron harmonic waves, "resonant scattering of plasma sheet electrons leading to diffuse auroral precipitation (Journal of Geophysical Research A: Space Physics 118 (839-842) DOI:10.1002/jgra.50154)
+
 
 
 
@@ -1045,7 +1046,8 @@ Work No: 131
 
 
 Work No: 132
-@article{Shprits2013,title = {Unusual stable trapping of the ultrarelativistic electrons in the Van Allen radiation belts},journal = {Nature Physics},year = {2013},volume = {9},number = {11},pages = {699-703},author = {Shprits, Y.Y. and Subbotin, D. and Drozdov, A. and Usanova, M.E. and Kellerman, A. and Orlova, K. and Baker, D.N. and Turner, D.L. and Kim, K.-C.}}
+Unusual stable trapping of the ultrarelativistic electrons in the Van Allen radiation belts
+
 
 
 
@@ -1270,7 +1272,8 @@ Work No: 176
 
 
 Work No: 177
-@article{Shprits2008,title = {Coupling process in the inner magnetosphere},journal = {Eos},year = {2008},volume = {89},number = {51},author = {Shprits, Y. and Ganushkina, N.}}
+Coupling process in the inner magnetosphere
+
 
 
 
@@ -1350,8 +1353,7 @@ Work No: 192
 
 
 Work No: 193
-Observation of two distinct, rapid loss mechanisms during the 20 November 2003 radiation belt dropout event
-
+@article{Shprits2006,title = {Observation of two distinct, rapid loss mechanisms during the 20 November 2003 radiation belt dropout event},journal = {Journal of Geophysical Research: Space Physics},year = {2006},volume = {111},number = {12},author = {Bortnik, J. and Thorne, R.M. and O{'}Brien, T.P. and Green, J.C. and Strangeway, R.J. and Shprits, Y.Y. and Baker, D.N.}}
 
 
 
@@ -1377,19 +1379,6 @@ Work No: 197
 
 Work No: 198
 @article{Shprits2004,title = {Time dependent radial diffusion modeling of relativistic electrons with realistic loss rates},journal = {Geophysical Research Letters},year = {2004},volume = {31},number = {8},author = {Shprits, Y.Y. and Thorne, R.M.}}
-
-
-Number of education: 0
-
-Education Details
-
-
-Number of employment: 2
-
-Employment Details
-1 Helmholtz Centre Potsdam - GFZ German Research Centre for Geosciences
-2 University of Potsdam
- {2004},volume = {31},number = {8},author = {Shprits, Y.Y. and Thorne, R.M.}}
 
 
 Number of education: 0

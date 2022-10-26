@@ -12,8 +12,7 @@ Work No: 1
 
 
 Work No: 2
-@ARTICLE{Carpentier20182429, author= {Carpentier, A. and Klopp, O. and Löffler, M. and Nickl, R.}, title= {Adaptive confidence sets for matrix completion}, journal= {Bernoulli}, year= {2018}, volume= {24}, number= {4A}, pages= {2429-2460}, doi= {10.3150/17-BEJ933}, note= {cited By 0}, url= {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85045888830&doi=10.3150%2f17-BEJ933&partnerID=40&md5=6c376b2f74724cfcdfc2f3f12945d4d9}, document_type= {Article}, source= {Scopus}}
-
+Adaptive confidence sets for matrix completion
 
 
 
