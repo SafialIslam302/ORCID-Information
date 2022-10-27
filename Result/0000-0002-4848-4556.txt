@@ -22,10 +22,8 @@ Work No: 1
 }
 
 
-
 Work No: 2
 Malem-Shinitski, N., Opper, M., Reich, S., Schwetlick, L., Seelig, S.A. and Engbert, R., 2020. A mathematical model of local and global attention in natural scene viewing. PLOS Computational Biology, 16(12), p.e1007880.
-
 
 
 Work No: 3
@@ -40,21 +38,17 @@ Work No: 3
 }
 
 
-
 Work No: 4
 A Mathematical Model of Exploration and Exploitation in Natural Scene Viewing
-
-
 
 
 Work No: 5
 A separable two-dimensional random field model of binary response data from multi-day behavioral experiments
 
 
-
-
 Work No: 6
 @article{zhang2018estimating, title= {Estimating a Separably Markov Random Field from Binary Observations}, author= {Zhang, Yingzhuo and Malem-Shinitski, Noa and Allsop, Stephen A and M. Tye, Kay and Ba, Demba}, journal= {Neural computation}, volume= {30}, number= {4}, pages= {1046--1079}, year= {2018}, publisher= {MIT Press}}
+
 
 
 

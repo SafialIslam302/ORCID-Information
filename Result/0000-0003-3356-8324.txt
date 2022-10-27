@@ -13,7 +13,6 @@ Work No: 1
 
 
 
-
 Work No: 2
 @article{Engbert_2021,
 	doi = {10.1016/j.tics.2021.11.006},
@@ -25,7 +24,6 @@ Work No: 2
 	title = {Data assimilation in dynamical cognitive science},
 	journal = {Trends in Cognitive Sciences}
 }
-
 
 
 Work No: 3
@@ -45,11 +43,8 @@ Work No: 3
 }
 
 
-
 Work No: 4
 Modeling the effects of perisaccadic attention on gaze statistics during scene viewing
-
-
 
 
 Work No: 5
@@ -62,7 +57,6 @@ Work No: 5
 	author = {Noa Malem-Shinitski and Manfred Opper and Sebastian Reich and Lisa Schwetlick and Stefan Alexander Seelig and Ralf Engbert},
 	title = {A Mathematical Model of Exploration and Exploitation in Natural Scene Viewing}
 }
-
 
 
 Work No: 6

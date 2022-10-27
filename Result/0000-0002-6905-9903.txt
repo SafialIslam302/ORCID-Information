@@ -22,13 +22,11 @@ Work No: 1
 }
 
 
-
 Work No: 2
 @InProceedings{10.1007/978-3-030-55874-1_26, author= {Lie, Han Cheng
 and Sullivan, T. J.
 and Teckentrup, Aretha}, editor= {Vermolen, Fred J.
 and Vuik, Cornelis}, title= {Error Bounds for Some Approximate Posterior Measures in Bayesian Inference}, booktitle= {Numerical Mathematics and Advanced Applications ENUMATH 2019}, year= {2021}, publisher= {Springer International Publishing}, address= {Cham}, pages= {275--283}, url= {https://doi.org/10.1007/978-3-030-55874-1_26}}
-
 
 
 
@@ -49,11 +47,8 @@ Work No: 3
 }
 
 
-
 Work No: 4
 Fréchet differentiable drift dependence of Perron–Frobenius and Koopman operators for non-deterministic dynamics
-
-
 
 
 Work No: 5
@@ -72,16 +67,12 @@ Work No: 5
 }
 
 
-
 Work No: 6
 Random forward models and log-likelihoods in Bayesian inverse problems
 
 
-
-
 Work No: 7
 @misc{Lie_modes, AUTHOR= {Lie, Han Cheng and Sullivan, T.J.}, TITLE= {Equivalence of weak and strong modes of measures on topological vector spaces}, YEAR= {2018}, NOTE= {arXiv:1708.02516}, doi= {10.1088/1361-6420/aadef2}}
-
 
 
 
@@ -92,10 +83,8 @@ Work No: 8
 
 
 
-
 Work No: 9
 @article{cauchy_priors_quasi_invariance, author= {Lie, Han Cheng and Sullivan, T.J.}, doi= {10.1214/18-ECP113}, fjournal= {Electronic Communications in Probability}, journal= {Electron. Commun. Probab.}, pages= {6 pp.}, pno= {8}, publisher= {The Institute of Mathematical Statistics and the Bernoulli Society}, title= {Quasi-invariance of countable products of Cauchy measures under non-unitary dilations}, url= {https://doi.org/10.1214/18-ECP113}, volume= {23}, year= {2018}}
-
 
 
 
@@ -106,16 +95,15 @@ Work No: 10
 
 
 
-
 Work No: 11
 @Article{Lie2014, author= {Lie, Han Cheng}, title= {Towards breaking the curse of dimensionality in computational methods for the conformational analysis of molecules}, journal= {BMC Bioinformatics}, year= {2014}, month= {Feb}, day= {11}, volume= {15}, number= {3}, pages= {A2}, issn= {1471-2105}, doi= {10.1186/1471-2105-15-S3-A2}, url= {https://doi.org/10.1186/1471-2105-15-S3-A2}}
 
 
 
 
-
 Work No: 12
 @article{square_root_approximation, author= {Lie, Han Cheng and Fackeldey, K. and Weber, M.}, title= {A Square Root Approximation of Transition Rates for a Markov State Model}, journal= {SIAM J. Matrix Anal. Appl.}, fjournal= {SIAM Journal on Matrix Analysis and Applications}, volume= {34}, number= {2}, pages= {738-756}, year= {2013}, doi= {10.1137/120899959}, URL= {https://doi.org/10.1137/120899959}, eprint= {https://doi.org/10.1137/120899959}}
+
 
 
 

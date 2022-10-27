@@ -7,23 +7,11 @@ Number of Works: 121
 Work Details
 
 Work No: 1
-@article{Engbert_2021,
-	doi = {10.1016/j.tics.2021.11.006},
-	url = {https://doi.org/10.1016%2Fj.tics.2021.11.006},
-	year = 2021,
-	month = {dec},
-	publisher = {Elsevier {BV}},
-	author = {Ralf Engbert and Maximilian M. Rabe and Lisa Schwetlick and Stefan A. Seelig and Sebastian Reich and Shravan Vasishth},
-	title = {Data assimilation in dynamical cognitive science},
-	journal = {Trends in Cognitive Sciences}
-}
-
+Data assimilation in dynamical cognitive science
 
 
 Work No: 2
 Combining machine learning and data assimilation to forecast dynamical systems from noisy partial observations
-
-
 
 
 Work No: 3
@@ -42,7 +30,6 @@ Work No: 3
 }
 
 
-
 Work No: 4
 @article{Pathiraja_2021,
 	doi = {10.1137/20m1355197},
@@ -59,11 +46,8 @@ Work No: 4
 }
 
 
-
 Work No: 5
 Sequential Data Assimilation of the Stochastic SEIR Epidemic Model for Regional COVID-19 Dynamics
-
-
 
 
 Work No: 6
@@ -80,7 +64,6 @@ Work No: 6
 	title = {Spectral Convergence of Diffusion Maps: Improved Error Bounds and an Alternative Normalization},
 	journal = {{SIAM} Journal on Numerical Analysis}
 }
-
 
 
 Work No: 7
@@ -100,10 +83,8 @@ Work No: 7
 }
 
 
-
 Work No: 8
 @article{Leung_2020,	doi = {10.1175/jas-d-19-0346.1},	url = {https://doi.org/10.1175%2Fjas-d-19-0346.1},	year = 2020,	month = {oct},	publisher = {American Meteorological Society},	volume = {77},	number = {11},	pages = {3769--3779},	author = {Tsz Yan Leung and Martin Leutbecher and Sebastian Reich and Theodore G. Shepherd},	title = {Impact of the Mesoscale Range on Error Growth and the Limits to Atmospheric Predictability},	journal = {Journal of the Atmospheric Sciences}}
-
 
 
 Work No: 9
@@ -122,7 +103,6 @@ Work No: 9
 }
 
 
-
 Work No: 10
 @article{Maoutsa_2020,
 	doi = {10.3390/e22080802},
@@ -139,7 +119,6 @@ Work No: 10
 }
 
 
-
 Work No: 11
 @article{Engbert_2020,
 	doi = {10.1101/2020.04.13.20063768},
@@ -150,7 +129,6 @@ Work No: 11
 	author = {Ralf Engbert and Maximilian M. Rabe and Reinhold Kliegl and Sebastian Reich},
 	title = {Sequential data assimilation of the stochastic {SEIR} epidemic model for regional {COVID}-19 dynamics}
 }
-
 
 
 Work No: 12
@@ -166,7 +144,6 @@ Work No: 12
 	title = {Bayesian parameter estimation for the {SWIFT} model of eye-movement control during reading},
 	journal = {Journal of Mathematical Psychology}
 }
-
 
 
 Work No: 13
@@ -185,81 +162,56 @@ Work No: 13
 }
 
 
-
 Work No: 14
 Ensemble Transform Algorithms for Nonlinear Smoothing Problems
-
-
 
 
 Work No: 15
 @article{Leung_2019,	doi = {10.1175/jas-d-19-0057.1},	url = {https://doi.org/10.1175%2Fjas-d-19-0057.1},	year = 2019,	month = {nov},	publisher = {American Meteorological Society},	volume = {76},	number = {12},	pages = {3883--3892},	author = {Tsz Yan Leung and Martin Leutbecher and Sebastian Reich and Theodore G. Shepherd},	title = {Atmospheric Predictability: Revisiting the Inherent Finite-Time Barrier},	journal = {Journal of the Atmospheric Sciences}}
 
 
-
 Work No: 16
 Evolving Ocean Monitoring With GNSS-R: Promises in Surface Wind Speed and Prospects for Rain Detection
-
-
 
 
 Work No: 17
 Particle filters for high‐dimensional geoscience applications: A review
 
 
-
-
 Work No: 18
 Evaluating Impact of Rain Attenuation on Space-borne GNSS Reflectometry Wind Speeds
-
-
 
 
 Work No: 19
 Data assimilation: The Schrödinger perspective
 
 
-
-
 Work No: 20
 State and Parameter Estimation from Observed Signal Increments
-
-
 
 
 Work No: 21
 Discrete gradients for computational Bayesian inference
 
 
-
-
 Work No: 22
 TDS-1 GNSS Reflectometry: Development and Validation of Forward Scattering Winds
 
 
-
-
 Work No: 23
-Kalman Filter and Its Modern Extensions for the Continuous-Time Nonlinear Filtering Problem
-
-
+No Information found
 
 
 Work No: 24
 Long-Time Stability and Accuracy of the Ensemble Kalman--Bucy Filter for Fully Observed Processes and Small Measurement Noise
 
 
-
-
 Work No: 25
 Likelihood-based parameter estimation and comparison of dynamical cognitive models.
 
 
-
-
 Work No: 26
 @article{acevedo2017second, title= {Second-order accurate ensemble transform particle filters}, author= {Acevedo, Walter and de Wiljes, Jana and Reich, Sebastian}, journal= {SIAM Journal on Scientific Computing}, volume= {39}, number= {5}, pages= {A1834--A1850}, year= {2017}, publisher= {Society for Industrial and Applied Mathematics}}
-
 
 
 
@@ -270,10 +222,8 @@ Work No: 27
 
 
 
-
 Work No: 28
 @article{gregory2016multilevel, title= {Multilevel Ensemble Transform Particle Filtering}, author= {Gregory, Alastair and Cotter, CJ and Reich, Sebastian}, journal= {SIAM Journal on Scientific Computing}, volume= {38}, number= {3}, pages= {A1317--A1338}, year= {2016}, publisher= {Society for Industrial and Applied Mathematics}}
-
 
 
 
@@ -284,17 +234,12 @@ Work No: 29
 
 
 
-
 Work No: 30
-@incollection{cheng2015assimilating, title= {Assimilating data into scientific models: An optimal coupling perspective}, author= {Cheng, Yuan and Reich, Sebastian}, booktitle= {Nonlinear Data Assimilation}, pages= {75--118}, year= {2015}, publisher= {Springer International Publishing}}
-
-
-
+Assimilating data into scientific models: An optimal coupling perspective
 
 
 Work No: 31
 @article{aizinger2015large, title= {Large-scale turbulence modelling via $\alpha$-regularisation for atmospheric simulations}, author= {Aizinger, Vadym and Korn, Peter and Giorgetta, Marco and Reich, Sebastian}, journal= {Journal of Turbulence}, volume= {16}, number= {4}, pages= {367--391}, year= {2015}, publisher= {Taylor \& Francis}}
-
 
 
 
@@ -305,10 +250,8 @@ Work No: 32
 
 
 
-
 Work No: 33
 @misc{van2015nonlinear, title= {Nonlinear Data Assimilation}, author= {Van Leeuwen, Peter Jan and Cheng, Yuan and Reich, Sebastian}, year= {2015}, publisher= {Springer}}
-
 
 
 
@@ -319,10 +262,8 @@ Work No: 34
 
 
 
-
 Work No: 35
 @article{amezcua2014ensemble, title= {Ensemble transform Kalman--Bucy filters}, author= {Amezcua, Javier and Ide, Kayo and Kalnay, Eugenia and Reich, Sebastian}, journal= {Quarterly Journal of the Royal Meteorological Society}, volume= {140}, number= {680}, pages= {995--1004}, year= {2014}, publisher= {John Wiley \& Sons, Ltd}}
-
 
 
 
@@ -333,10 +274,8 @@ Work No: 36
 
 
 
-
 Work No: 37
 @incollection{reich2013guided, title= {A guided sequential Monte Carlo method for the assimilation of data into stochastic dynamical systems}, author= {Reich, Sebastian}, booktitle= {Recent Trends in Dynamical Systems}, pages= {205--220}, year= {2013}, publisher= {Springer Basel}}
-
 
 
 
@@ -347,10 +286,8 @@ Work No: 38
 
 
 
-
 Work No: 39
 @article{reich2013ensemble, title= {Ensemble filter techniques for intermittent data assimilation}, author= {Reich, Sebastian and Cotter, Colin J}, journal= {Large Scale Inverse Problems. Computational Methods and Applications in the Earth Sciences}, volume= {13}, pages= {91--134}, year= {2013}}
-
 
 
 
@@ -361,10 +298,8 @@ Work No: 40
 
 
 
-
 Work No: 41
 @article{bergemann2012ensemble, title= {An ensemble Kalman-Bucy filter for continuous data assimilation}, author= {Bergemann, Kay and Reich, Sebastian}, journal= {Meteorologische Zeitschrift}, volume= {21}, number= {3}, pages= {213--219}, year= {2012}, publisher= {E. Schweizerbart'sche Verlagsbuchhandlung}}
-
 
 
 
@@ -375,10 +310,8 @@ Work No: 42
 
 
 
-
 Work No: 43
 @article{shin2012hydrostatic, title= {Hydrostatic Hamiltonian particle-mesh (HPM) methods for atmospheric modelling}, author= {Shin, Seoleun and Reich, Sebastian and Frank, Jason}, journal= {Quarterly Journal of the Royal Meteorological Society}, volume= {138}, number= {666}, pages= {1388--1399}, year= {2012}, publisher= {John Wiley \& Sons, Ltd.}}
-
 
 
 
@@ -389,10 +322,8 @@ Work No: 44
 
 
 
-
 Work No: 45
 @article{reich2011dynamical, title= {A dynamical systems framework for intermittent data assimilation}, author= {Reich, Sebastian}, journal= {BIT Numerical Mathematics}, volume= {51}, number= {1}, pages= {235--249}, year= {2011}, publisher= {Springer}}
-
 
 
 
@@ -403,10 +334,8 @@ Work No: 46
 
 
 
-
 Work No: 47
 @article{akhmatskaya2011meso, title= {Meso-GSHMC: A stochastic algorithm for meso-scale constant temperature simulations}, author= {Akhmatskaya, Elena and Reich, Sebastian}, journal= {Procedia Computer Science}, volume= {4}, pages= {1353--1362}, year= {2011}, publisher= {Elsevier}}
-
 
 
 
@@ -417,10 +346,8 @@ Work No: 48
 
 
 
-
 Work No: 49
 @article{hundertmark2011use, title= {On the use of slow manifolds in molecular and geophysical fluid dynamics}, author= {Hundertmark, Tobias and Reich, Sebastian}, journal= {The European Physical Journal Special Topics}, volume= {200}, number= {1}, pages= {259--270}, year= {2011}, publisher= {Springer-Verlag}}
-
 
 
 
@@ -431,10 +358,8 @@ Work No: 50
 
 
 
-
 Work No: 51
 @article{bergemann2010mollified, title= {A mollified ensemble Kalman filter}, author= {Bergemann, Kay and Reich, Sebastian}, journal= {Quarterly Journal of the Royal Meteorological Society}, volume= {136}, number= {651}, pages= {1636--1643}, year= {2010}, publisher= {Wiley Online Library}}
-
 
 
 
@@ -445,10 +370,8 @@ Work No: 52
 
 
 
-
 Work No: 53
 @article{sommer2010phase, title= {Phase space volume conservation under space and time discretization schemes for the shallow-water equations}, author= {Sommer, Matthias and Reich, Sebastian}, journal= {Monthly Weather Review}, volume= {138}, number= {11}, pages= {4229--4236}, year= {2010}}
-
 
 
 
@@ -459,10 +382,8 @@ Work No: 54
 
 
 
-
 Work No: 55
 @article{leimkuhler2009metropolis, title= {A metropolis adjusted Nos{\'e}-Hoover thermostat}, author= {Leimkuhler, Benedict and Reich, Sebastian}, journal= {ESAIM: Mathematical Modelling and Numerical Analysis}, volume= {43}, number= {4}, pages= {743--755}, year= {2009}, publisher= {EDP Sciences}}
-
 
 
 
@@ -473,10 +394,8 @@ Work No: 56
 
 
 
-
 Work No: 57
 @article{bergemann2009ensemble, title= {Ensemble propagation and continuous matrix factorization algorithms}, author= {Bergemann, Kay and Gottwald, Georg and Reich, Sebastian}, journal= {Quarterly Journal of the Royal Meteorological Society}, volume= {135}, number= {643}, pages= {1560--1572}, year= {2009}, publisher= {Wiley-Blackwell, 111 River Street Hoboken NJ 07030-5774 United States}}
-
 
 
 
@@ -487,10 +406,8 @@ Work No: 58
 
 
 
-
 Work No: 59
 @article{cotter2009lbb, title= {LBB stability of a mixed Galerkin finite element pair for fluid flow simulations}, author= {Cotter, Colin J and Ham, David A and Pain, Christopher C and Reich, Sebastian}, journal= {Journal of Computational Physics}, volume= {228}, number= {2}, pages= {336--348}, year= {2009}, publisher= {Elsevier}}
-
 
 
 
@@ -499,11 +416,8 @@ Work No: 60
 GSHMC: An efficient method for molecular simulation
 
 
-
-
 Work No: 61
 @article{wee2008improved, title= {Improved sampling for simulations of interfacial membrane proteins: Application of generalized shadow hybrid Monte Carlo to a peptide toxin/bilayer system}, author= {Wee, Chze Ling and Sansom, Mark SP and Reich, Sebastian and Akhmatskaya, Elena}, journal= {The Journal of Physical Chemistry B}, volume= {112}, number= {18}, pages= {5710--5717}, year= {2008}, publisher= {ACS Publications}}
-
 
 
 
@@ -514,10 +428,8 @@ Work No: 62
 
 
 
-
 Work No: 63
 @article{reich2007explicit, title= {An explicit and conservative remapping strategy for semi-Lagrangian advection}, author= {Reich, Sebastian}, journal= {Atmospheric Science Letters}, volume= {8}, number= {2}, pages= {58--63}, year= {2007}, publisher= {Wiley Online Library}}
-
 
 
 
@@ -528,10 +440,8 @@ Work No: 64
 
 
 
-
 Work No: 65
 @article{cotter2007remapped, title= {The remapped particle-mesh semi-Lagrangian advection scheme}, author= {Cotter, Colin J and Frank, Jason and Reich, Sebastian}, journal= {Quarterly Journal of the Royal Meteorological Society}, volume= {133}, number= {622}, pages= {251--260}, year= {2007}, publisher= {John Wiley \& Sons, Ltd.}}
-
 
 
 
@@ -540,17 +450,12 @@ Work No: 66
 Numerical methods for Hamiltonian PDEs
 
 
-
-
 Work No: 67
 Semigeostrophic Particle Motion and Exponentially Accurate Normal forms
 
 
-
-
 Work No: 68
 @article{staniforth2006time, title= {A time-staggered semi-Lagrangian discretization of the rotating shallow-water equations}, author= {Staniforth, Andrew and Wood, Nigel and Reich, Sebastian}, journal= {Quarterly Journal of the Royal Meteorological Society}, volume= {132}, number= {621C}, pages= {3107--3116}, year= {2006}, publisher= {Wiley Online Library}}
-
 
 
 
@@ -561,10 +466,8 @@ Work No: 69
 
 
 
-
 Work No: 70
 @article{dubal2006analysis, title= {Analysis of a regularized, time-staggered discretization applied to a vertical slice model}, author= {Dubal, Mark and Staniforth, Andrew and Wood, Nigel and Reich, Sebastian}, journal= {Atmospheric Science Letters}, volume= {7}, number= {4}, pages= {86--92}, year= {2006}, publisher= {Wiley Online Library}}
-
 
 
 
@@ -575,10 +478,8 @@ Work No: 71
 
 
 
-
 Work No: 72
 @article{reich2006linearly, title= {Linearly implicit time stepping methods for numerical weather prediction}, author= {Reich, Sebastian}, journal= {BIT Numerical Mathematics}, volume= {46}, number= {3}, pages= {607--616}, year= {2006}, publisher= {Springer}}
-
 
 
 
@@ -589,10 +490,8 @@ Work No: 73
 
 
 
-
 Work No: 74
 @article{frank2005analysis, title= {Analysis of a regularized, time-staggered discretization method and its link to the semi-implicit method}, author= {Frank, Jason and Reich, S and Staniforth, A and White, A and Wood, N}, journal= {Atmospheric Science Letters}, volume= {6}, number= {2}, pages= {97--104}, year= {2005}, publisher= {John Wiley \& Sons, Ltd.}}
-
 
 
 
@@ -603,10 +502,8 @@ Work No: 75
 
 
 
-
 Work No: 76
 @article{cotter2004geometric, title= {Geometric integration of a wave-vortex model}, author= {Cotter, CJ and Reich, S}, journal= {Applied numerical mathematics}, volume= {48}, number= {3}, pages= {293--305}, year= {2004}, publisher= {Elsevier}}
-
 
 
 
@@ -617,10 +514,8 @@ Work No: 77
 
 
 
-
 Work No: 78
 @misc{leimkuhler2004simulating, title= {Simulating hamiltonian dynamics}, author= {Leimkuhler, Benedict and Reich, Sebastian}, year= {2004}, publisher= {Cambridge University Press}}
-
 
 
 
@@ -631,10 +526,8 @@ Work No: 79
 
 
 
-
 Work No: 80
 @article{frank2004hamiltonian, title= {The Hamiltonian particle-mesh method for the spherical shallow water equations}, author= {Frank, Jason and Reich, Sebastian}, journal= {Atmospheric Science Letters}, volume= {5}, number= {5}, pages= {89--95}, year= {2004}, publisher= {Wiley Online Library}}
-
 
 
 
@@ -643,11 +536,8 @@ Work No: 81
 Backward error analysis for multi-symplectic integration methods
 
 
-
-
 Work No: 82
 @incollection{frank2003hamiltonian, title= {A Hamiltonian particle-mesh method for the rotating shallow-water equations}, author= {Frank, Jason and Gottwald, Georg and Reich, Sebastian}, booktitle= {Meshfree methods for partial differential equations}, pages= {131--142}, year= {2003}, publisher= {Springer Berlin Heidelberg}}
-
 
 
 
@@ -658,10 +548,8 @@ Work No: 83
 
 
 
-
 Work No: 84
 @article{cotter2003extended, title= {An extended dissipative particle dynamics model}, author= {Cotter, CJ and Reich, S}, journal= {EPL (Europhysics Letters)}, volume= {64}, number= {6}, pages= {723}, year= {2003}, publisher= {IOP Publishing}}
-
 
 
 
@@ -672,17 +560,12 @@ Work No: 85
 
 
 
-
 Work No: 86
-@article{moore2003multi, title= {Multi-symplectic integration methods for Hamiltonian PDEs}, author= {Moore, Brian E and Reich, Sebastian}, journal= {Future Generation Computer Systems}, volume= {19}, number= {3}, pages= {395--402}, year= {2003}, publisher= {Elsevier}}
-
-
-
+Multi-symplectic integration methods for Hamiltonian PDEs
 
 
 Work No: 87
 @article{frank2002particle, title= {A particle-mesh method for the shallow water equations near geostrophic balance}, author= {Frank, Jason and Reich, Sebastian}, journal= {Journal of Computational Physics}, volume= {180}, number= {2}, pages= {407--426}, year= {2002}, publisher= {Elsevier}}
-
 
 
 
@@ -693,16 +576,12 @@ Work No: 88
 
 
 
-
 Work No: 89
 Multi-symplectic integrators: numerical schemes for Hamiltonian PDEs that conserve symplecticity
 
 
-
-
 Work No: 90
 @article{leimkuhler2001reversible, title= {A reversible averaging integrator for multiple time-scale dynamics}, author= {Leimkuhler, Ben and Reich, Sebastian}, journal= {Journal of Computational Physics}, volume= {171}, number= {1}, pages= {95--114}, year= {2001}, publisher= {Elsevier}}
-
 
 
 
@@ -713,10 +592,8 @@ Work No: 91
 
 
 
-
 Work No: 92
 @article{holder2001explicit, title= {Explicit variable step-size and time-reversible integration}, author= {Holder, Thomas and Leimkuhler, Ben and Reich, Sebastian}, journal= {Applied Numerical Mathematics}, volume= {39}, number= {3}, pages= {367--377}, year= {2001}, publisher= {North-Holland}}
-
 
 
 
@@ -727,10 +604,8 @@ Work No: 93
 
 
 
-
 Work No: 94
 @article{zhou2000elastic, title= {Elastic molecular dynamics with self-consistent flexible constraints}, author= {Zhou, Jin and Reich, Sebastian and Brooks, Bernard R}, journal= {The Journal of Chemical Physics}, volume= {112}, number= {18}, pages= {7919--7929}, year= {2000}, publisher= {AIP Publishing}}
-
 
 
 
@@ -741,10 +616,8 @@ Work No: 95
 
 
 
-
 Work No: 96
 @article{reich2000multi, title= {Multi-symplectic Runge--Kutta collocation methods for Hamiltonian wave equations}, author= {Reich, Sebastian}, journal= {Journal of Computational Physics}, volume= {157}, number= {2}, pages= {473--499}, year= {2000}, publisher= {Elsevier}}
-
 
 
 
@@ -755,22 +628,16 @@ Work No: 97
 
 
 
-
 Work No: 98
 Longer time steps for molecular dynamics
-
-
 
 
 Work No: 99
 Backward Error Analysis for Numerical Integrators
 
 
-
-
 Work No: 100
 @article{barth1999time, title= {A time-reversible variable-stepsize integrator for constrained dynamics}, author= {Barth, Eric and Leimkuhler, Benedict and Reich, Sebastian}, journal= {SIAM Journal on Scientific Computing}, volume= {21}, number= {3}, pages= {1027--1044}, year= {1999}, publisher= {Society for Industrial and Applied Mathematics}}
-
 
 
 
@@ -781,10 +648,8 @@ Work No: 101
 
 
 
-
 Work No: 102
 @incollection{ascher1999some, title= {On some difficulties in integrating highly oscillatory Hamiltonian systems}, author= {Ascher, Uri M and Reich, Sebastian}, booktitle= {Computational Molecular Dynamics: Challenges, Methods, Ideas}, pages= {281--296}, year= {1999}, publisher= {Springer Berlin Heidelberg}}
-
 
 
 
@@ -795,10 +660,8 @@ Work No: 103
 
 
 
-
 Work No: 104
 @incollection{nettesheim1999symplectic, title= {Symplectic multiple-time-stepping integrators for quantum-classical molecular dynamics}, author= {Nettesheim, Peter and Reich, Sebastian}, booktitle= {Computational Molecular Dynamics: Challenges, Methods, Ideas}, pages= {412--420}, year= {1999}, publisher= {Springer Berlin Heidelberg}}
-
 
 
 
@@ -809,10 +672,8 @@ Work No: 105
 
 
 
-
 Work No: 106
 @article{reich1998modified, title= {Modified potential energy functions for constrained molecular dynamics}, author= {Reich, Sebastian}, journal= {Numerical Algorithms}, volume= {19}, number= {1-4}, pages= {213--221}, year= {1998}, publisher= {Kluwer Academic Publishers}}
-
 
 
 
@@ -823,16 +684,12 @@ Work No: 107
 
 
 
-
 Work No: 108
 Symplectic Integration of Constrained Hamiltonian Systems by Composition Methods
 
 
-
-
 Work No: 109
 @article{reich1996enhancing, title= {Enhancing energy conserving methods}, author= {Reich, Sebastian}, journal= {BIT Numerical Mathematics}, volume= {36}, number= {1}, pages= {122--134}, year= {1996}, publisher= {Kluwer Academic Publishers}}
-
 
 
 
@@ -843,10 +700,8 @@ Work No: 110
 
 
 
-
 Work No: 111
 @article{reich1996symplectic, title= {Symplectic integrators for systems of rigid bodies}, author= {Reich, Sebastian}, journal= {Fields Inst. Commun}, volume= {10}, pages= {181--191}, year= {1996}}
-
 
 
 
@@ -857,10 +712,8 @@ Work No: 112
 
 
 
-
 Work No: 113
 @article{reich1995local, title= {On the local qualitative behavior of differential-algebraic equations}, author= {Reich, Sebastian}, journal= {Circuits, Systems and Signal Processing}, volume= {14}, number= {4}, pages= {427--443}, year= {1995}, publisher= {Birkh{\"a}user-Verlag}}
-
 
 
 
@@ -871,17 +724,12 @@ Work No: 114
 
 
 
-
 Work No: 115
-@article{ascher1995stabilization, title= {Stabilization of constrained mechanical systems with daes and invariant manifolds}, author= {Ascher, Uri M and Chin, Hongsheng and Petzold, Linda R and Reich, Sebastian}, journal= {Journal of Structural Mechanics}, volume= {23}, number= {2}, pages= {135--157}, year= {1995}, publisher= {Taylor \& Francis Group}}
-
-
-
+Stabilization of constrained mechanical systems with daes and invariant manifolds
 
 
 Work No: 116
 @article{reich1994momentum, title= {Momentum conserving symplectic integrators}, author= {Reich, Sebastian}, journal= {Physica D: Nonlinear Phenomena}, volume= {76}, number= {4}, pages= {375--383}, year= {1994}, publisher= {Elsevier}}
-
 
 
 
@@ -892,12 +740,8 @@ Work No: 117
 
 
 
-
 Work No: 118
-@article{leimkuhler1994symplectic, title= {Symplectic integration of constrained Hamiltonian systems}, author= {Leimkuhler, Benedict and Reich, Sebastian}, journal= {Mathematics of Computation}, volume= {63}, number= {208}, pages= {589--605}, year= {1994}}
-
-
-
+Symplectic integration of constrained Hamiltonian systems
 
 
 Work No: 119
@@ -906,15 +750,13 @@ Work No: 119
 
 
 
-
 Work No: 120
 On a geometrical interpretation of differential-algebraic equations
 
 
-
-
 Work No: 121
 @article{eich1990stabilization, title= {Stabilization and projection methods for multibody dynamics}, author= {Eich, Edda and Fuehrer, Claus and Leimkuhler, Benedict and Reich, Sebastian}, journal= {Unknown}, volume= {1}, year= {1990}}
+
 
 
 

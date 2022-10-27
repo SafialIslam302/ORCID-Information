@@ -18,7 +18,6 @@ Work No: 1
 }
 
 
-
 Work No: 2
 @article{Castillo_Tibocha_2021,
 	doi = {10.1029/2020sw002672},
@@ -34,7 +33,6 @@ Work No: 2
 }
 
 
-
 Work No: 3
 @article{Castillo_Tibocha_2020,
 	doi = {10.1002/essoar.10504674.1},
@@ -45,6 +43,7 @@ Work No: 3
 	author = {Angelica Maria Castillo Tibocha and Jana de Wiljes and Yuri Y Shprits and Nikita A Aseev},
 	title = {Reconstructing the dynamics of the outer electron radiation belt by means of the standard and ensemble Kalman filter with the {VERB}-3D code}
 }
+
 
 
 Number of education: 0

@@ -10,37 +10,28 @@ Work No: 1
 @article{2021,	doi = {10.1002/psp4.12745},	url = {https://doi.org/10.1002%2Fpsp4.12745},	year = 2021,	month = {nov},	publisher = {Wiley},	author = {Corinna Maier and Jana de Wiljes and Niklas Hartung and Charlotte Kloft and Wilhelm Huisinga},	title = {A continued learning approach for model-informed precision dosing: updating models in clinical practice}}
 
 
-
 Work No: 2
 @article{2021,	doi = {10.1029/2020sw002672},	url = {https://doi.org/10.1029%2F2020sw002672},	year = 2021,	month = {oct},	publisher = {American Geophysical Union ({AGU})},	volume = {19},	number = {10},	author = {Angelica M. Castillo Tibocha and Jana Wiljes and Yuri Y. Shprits and Nikita A. Aseev},	title = {Reconstructing the Dynamics of the Outer Electron Radiation Belt by Means of the Standard and Ensemble Kalman Filter With the {VERB}-3D Code}}
-
 
 
 Work No: 3
 @article{2021,	doi = {10.31223/x5f026},	url = {https://doi.org/10.31223%2Fx5f026},	year = 2021,	month = {may},	publisher = {California Digital Library ({CDL})},	author = {Swinda Falkena and Jana de Wiljes and Antje Weisheimer and Theodore Shepherd},	title = {Towards a Robust Detection of Interannual Ensemble Forecast Signals over the North Atlantic and Europe using Atmospheric Circulation Regimes}}
 
 
-
 Work No: 4
 @article{2021,	doi = {10.1002/psp4.12588},	url = {https://doi.org/10.1002%2Fpsp4.12588},	year = 2021,	month = {mar},	publisher = {Wiley},	volume = {10},	number = {3},	pages = {241--254},	author = {Corinna Maier and Niklas Hartung and Charlotte Kloft and Wilhelm Huisinga and Jana Wiljes},	title = {Reinforcement learning and Bayesian data assimilation for model-informed precision dosing in oncology}}
-
 
 
 Work No: 5
 @article{2021,	doi = {10.5194/npg-28-23-2021},	url = {https://doi.org/10.5194%2Fnpg-28-23-2021},	year = 2021,	month = {jan},	publisher = {Copernicus {GmbH}},	volume = {28},	number = {1},	pages = {23--41},	author = {Sangeetika Ruchi and Svetlana Dubinkina and Jana de Wiljes},	title = {Fast hybrid tempered ensemble transform filter formulation for Bayesian elliptical problems via Sinkhorn approximation}}
 
 
-
 Work No: 6
 Randomized maximum likelihood based posterior sampling
 
 
-
-
 Work No: 7
 Reconstructing regime-dependent causal relationships from observational time series
-
-
 
 
 Work No: 8
@@ -59,25 +50,20 @@ Work No: 8
 }
 
 
-
 Work No: 9
 @article{2020,	doi = {10.1093/mnras/staa1755},	url = {https://doi.org/10.1093%2Fmnras%2Fstaa1755},	year = 2020,	month = {jun},	publisher = {Oxford University Press ({OUP})},	volume = {496},	number = {3},	pages = {2776--2785},	author = {M Hamm and I Pelivan and M Grott and J de~Wiljes},	title = {Thermophysical modelling and parameter estimation of small Solar system bodies via data assimilation}}
-
 
 
 Work No: 10
 @article{2020,	doi = {10.1002/qj.3818},	url = {https://doi.org/10.1002%2Fqj.3818},	year = 2020,	month = {jun},	publisher = {Wiley},	volume = {146},	number = {731},	pages = {2801--2814},	author = {Swinda K.J. Falkena and Jana Wiljes and Antje Weisheimer and Theodore G. Shepherd},	title = {Revisiting the identification of wintertime atmospheric circulation regimes in the Euro-Atlantic sector}}
 
 
-
 Work No: 11
 @article{2020,	doi = {10.1002/psp4.12492},	url = {https://doi.org/10.1002%2Fpsp4.12492},	year = 2020,	month = {mar},	publisher = {Wiley},	volume = {9},	number = {3},	pages = {153--164},	author = {Corinna Maier and Niklas Hartung and Jana Wiljes and Charlotte Kloft and Wilhelm Huisinga},	title = {Bayesian Data Assimilation to Support Informed Decision Making in Individualized Chemotherapy}}
 
 
-
 Work No: 12
 @article{2020,	doi = {10.1137/19m1239544},	url = {https://doi.org/10.1137%2F19m1239544},	year = 2020,	month = {jan},	publisher = {Society for Industrial {\&} Applied Mathematics ({SIAM})},	volume = {42},	number = {1},	pages = {A87--A114},	author = {Jana de Wiljes and Sahani Pathiraja and Sebastian Reich},	title = {Ensemble Transform Algorithms for Nonlinear Smoothing Problems}}
-
 
 
 Work No: 13
@@ -96,35 +82,29 @@ Work No: 13
 }
 
 
-
 Work No: 14
 @article{2017,	doi = {10.1115/1.4037780},	url = {https://doi.org/10.1115%2F1.4037780},	year = 2017,	month = {nov},	publisher = {{ASME} International},	volume = {140},	number = {3},	author = {Amirhossein Taghvaei and Jana de Wiljes and Prashant G. Mehta and Sebastian Reich},	title = {Kalman Filter and Its Modern Extensions for the Continuous-Time Nonlinear Filtering Problem}}
-
 
 
 Work No: 15
 @article{2018,	doi = {10.1137/17m1119056},	url = {https://doi.org/10.1137%2F17m1119056},	year = 2018,	month = {jan},	publisher = {Society for Industrial {\&} Applied Mathematics ({SIAM})},	volume = {17},	number = {2},	pages = {1152--1181},	author = {Jana de Wiljes and Sebastian Reich and Wilhelm Stannat},	title = {Long-Time Stability and Accuracy of the Ensemble Kalman--Bucy Filter for Fully Observed Processes and Small Measurement Noise}}
 
 
-
 Work No: 16
 Interacting particle filters for simultaneous state and parameter estimation
-
-
 
 
 Work No: 17
 @article{2017,	doi = {10.1137/16m1095184},	url = {https://doi.org/10.1137%2F16m1095184},	year = 2017,	month = {jan},	publisher = {Society for Industrial {\&} Applied Mathematics ({SIAM})},	volume = {39},	number = {5},	pages = {A1834--A1850},	author = {Walter Acevedo and Jana de Wiljes and Sebastian Reich},	title = {Second-order Accurate Ensemble Transform Particle Filters}}
 
 
-
 Work No: 18
 @article{2014,	doi = {10.2140/camcos.2014.9.1},	url = {https://doi.org/10.2140%2Fcamcos.2014.9.1},	year = 2014,	month = {mar},	publisher = {Mathematical Sciences Publishers},	volume = {9},	number = {1},	pages = {1--46},	author = {Jana de Wiljes and Lars Putzig and Illia Horenko},	title = {Discrete nonhomogeneous and nonstationary logistic and Markov regression models for spatiotemporal data with unresolved external influences}}
 
 
-
 Work No: 19
 @article{2013,	doi = {10.1137/120881981},	url = {https://doi.org/10.1137%2F120881981},	year = 2013,	month = {jan},	publisher = {Society for Industrial {\&} Applied Mathematics ({SIAM})},	volume = {11},	number = {2},	pages = {415--441},	author = {Jana de Wiljes and Andrew Majda and Illia Horenko},	title = {An Adaptive Markov Chain Monte Carlo Approach to Time Series Clustering of Processes with Regime Transition Behavior}}
+
 
 
 Number of education: 0

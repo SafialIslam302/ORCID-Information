@@ -10,30 +10,24 @@ Work No: 1
 @article{Freitag2021,title = {Autonomous exploration and identification of high performing adsorbents using active learning},journal = {ChemRxiv},year = {2021},author = {Donval, G. and Hand, C. and Hook, J. and Dupont, E. and Landman, M.S. and Freitag, M.A. and Lennox, M.J. and D{\"u}ren, T.}}
 
 
-
 Work No: 2
 @article{Freitag2021,title = {Optimization based model order reduction for stochastic systems},journal = {Applied Mathematics and Computation},year = {2021},volume = {398},author = {Redmann, M. and Freitag, M.A.}}
-
 
 
 Work No: 3
 @article{Freitag2021,title = {POD-GALERKIN REDUCED ORDER MODELS and PHYSICS-INFORMED NEURAL NETWORKS for SOLVING INVERSE PROBLEMS for the NAVIER-STOKES EQUATIONS},journal = {arXiv},year = {2021},author = {Hijazi, S. and Freitag, M. and Landwehr, N.}}
 
 
-
 Work No: 4
 @article{K_rschner_2020,	doi = {10.1007/s10543-020-00813-4},	url = {https://doi.org/10.1007%2Fs10543-020-00813-4},	year = 2020,	month = {jun},	publisher = {Springer Science and Business Media {LLC}},	volume = {60},	number = {4},	pages = {1221--1259},	author = {Patrick Kürschner and Melina A. Freitag},	title = {Inexact methods for the low rank solution to large scale Lyapunov equations},	journal = {{BIT} Numerical Mathematics}}
-
 
 
 Work No: 5
 @article{Freitag2020,title = {Numerical linear algebra in data assimilation},journal = {GAMM Mitteilungen},year = {2020},volume = {43},number = {3},author = {Freitag, M.A.}}
 
 
-
 Work No: 6
 @article{Freitag2020,title = {Optimization based model order reduction for stochastic systems},journal = {arXiv},year = {2020},author = {Redmann, M. and Freitag, M.A.}}
-
 
 
 Work No: 7
@@ -54,10 +48,8 @@ Work No: 7
 }
 
 
-
 Work No: 8
 @article{Freitag2019,title = {Numerical Linear Algebra in Data Assimilation},journal = {arXiv},year = {2019},author = {Freitag, M.A.}}
-
 
 
 Work No: 9
@@ -80,7 +72,6 @@ Work No: 9
 }
 
 
-
 Work No: 10
 @article{9dde101d11e34c5593e2880ce6a1c0d6,
   title     = "A low-rank approach to the solution of weak constraint variational data assimilation problems",
@@ -100,15 +91,12 @@ Work No: 10
 }
 
 
-
 Work No: 11
 @article{Freitag2018,title = {Inexact methods for the low rank solution to large scale Lyapunov equations},journal = {arXiv},year = {2018},author = {K{\"u}rschner, P. and Freitag, M.A.}}
 
 
-
 Work No: 12
 @article{Freitag2017,title = {A low-rank approach to the solution of weak constraint variational data assimilation problems},journal = {arXiv},year = {2017},author = {Freitag, M.A. and Green, L.H.}}
-
 
 
 Work No: 13
@@ -128,35 +116,28 @@ Work No: 13
 }
 
 
-
 Work No: 14
 @article{Freitag2015,title = {The effect of numerical model error on data assimilation},journal = {Journal of Computational and Applied Mathematics},year = {2015},volume = {290},pages = {567-588},author = {Jenkins, S.E. and Budd, C.J. and Freitag, M.A. and Smith, N.D.}}
-
 
 
 Work No: 15
 @article{Freitag2015,title = {Tuned preconditioners for inexact two-sided inverse and Rayleigh quotient iteration},journal = {Numerical Linear Algebra with Applications},year = {2015},volume = {22},number = {1},pages = {175-196},author = {Freitag, M.A. and K{\"u}rschner, P.}}
 
 
-
 Work No: 16
 @article{Freitag2014,title = {A new approach for calculating the real stability radius},journal = {BIT Numerical Mathematics},year = {2014},volume = {54},number = {2},pages = {381-400},author = {Freitag, M.A. and Spence, A.}}
-
 
 
 Work No: 17
 @article{Freitag2014,title = {Calculating the H<inf>?</inf>-norm using the implicit determinant method},journal = {SIAM Journal on Matrix Analysis and Applications},year = {2014},volume = {35},number = {2},pages = {619-635},author = {Freitag, M.A. and Spence, A. and Van Dooren, P.}}
 
 
-
 Work No: 18
 @article{Freitag2014,title = {The calculation of the distance to a nearby defective matrix},journal = {Numerical Linear Algebra with Applications},year = {2014},volume = {21},number = {3},pages = {403-414},author = {Akinola, R.O. and Freitag, M.A. and Spence, A.}}
 
 
-
 Work No: 19
 @article{Freitag2014,title = {The computation of Jordan blocks in parameter-dependent matrices},journal = {IMA Journal of Numerical Analysis},year = {2014},volume = {34},number = {3},pages = {955-976},author = {Akinola, R.O. and Freitag, M.A. and Spence, A.}}
-
 
 
 Work No: 20
@@ -175,12 +156,10 @@ Work No: 20
 }
 
 
-
 Work No: 21
 @conference { dnb:1103856642
 , title ={ Large Scale Inverse Problems. Computational Methods and Applications in the Earth Sciences }, publisher ={ De Gruyter }, address ={ Berlin/Boston }, year ={ 2013 }, author ={ Mike Cullen, Melina A. Freitag, Stefan Kindermann, Robert Scheichl }, pages ={ Online-Ressource }, number ={ 13 }, language ={ ENGLISCH }, keywords ={ Inverses Problem }, type ={ KONFERENZSCHRIFT }, isbn ={ 3-11-028226-7 }, urn ={ urn:nbn:de:101:1-201606178182 }, biburl ={ https://d-nb.info/1103856642 } 
 }
-
 
 
 Work No: 22
@@ -189,10 +168,8 @@ Work No: 22
 }
 
 
-
 Work No: 23
 @article{Freitag2013,title = {Resolution of sharp fronts in the presence of model error in variational data assimilation},journal = {Quarterly Journal of the Royal Meteorological Society},year = {2013},volume = {139},number = {672},pages = {742-757},author = {Freitag, M.A. and Nichols, N.K. and Budda, C.J.}}
-
 
 
 Work No: 24
@@ -211,20 +188,16 @@ Work No: 24
 }
 
 
-
 Work No: 25
 @article{Freitag2013,title = {The origin of power-law emergent scaling in large binary networks},journal = {Physica A: Statistical Mechanics and its Applications},year = {2013},volume = {392},number = {4},pages = {1004-1027},author = {Almond, D.P. and Budd, C.J. and Freitag, M.A. and Hunt, G.W. and McCullen, N.J. and Smith, N.D.}}
-
 
 
 Work No: 26
 @article{Freitag2011,title = {A Newton-based method for the calculation of the distance to instability},journal = {Linear Algebra and Its Applications},year = {2011},volume = {435},number = {12},pages = {3189-3205},author = {Freitag, M.A. and Spence, A.}}
 
 
-
 Work No: 27
 @article{Freitag2011,title = {Regularization techniques for ill-posed inverse problems in data assimilation},journal = {Computers and Fluids},year = {2011},volume = {46},number = {1},pages = {168-173},author = {Budd, C.J. and Freitag, M.A. and Nichols, N.K.}}
-
 
 
 Work No: 28
@@ -245,7 +218,6 @@ Work No: 28
 }
 
 
-
 Work No: 29
 @inproceedings{1861aeec5e06431f86cbf2ac082f3346,
   title     = "The calculation of the distance to instability by the computation of a Jordan block",
@@ -263,10 +235,8 @@ Work No: 29
 }
 
 
-
 Work No: 30
 @article{Freitag2009,title = {Shift-invert Arnoldi{'}s method with preconditioned iterative solves},journal = {SIAM Journal on Matrix Analysis and Applications},year = {2009},volume = {31},number = {3},pages = {942-969},author = {Freitag, M.A. and Alastair, S.}}
-
 
 
 Work No: 31
@@ -282,15 +252,12 @@ Work No: 31
 }
 
 
-
 Work No: 32
 @article{Freitag2008,title = {A tuned preconditioner for inexact inverse iteration applied to Hermitian eigenvalue problems},journal = {IMA Journal of Numerical Analysis},year = {2008},volume = {28},number = {3},pages = {522-551},author = {Freitag, M.A. and Spence, A.}}
 
 
-
 Work No: 33
 @article{Freitag2008,title = {Rayleigh quotient iteration and simplified Jacobi-Davidson method with preconditioned iterative solves},journal = {Linear Algebra and Its Applications},year = {2008},volume = {428},number = {8-9},pages = {2049-2060},author = {Freitag, M.A. and Spence, A.}}
-
 
 
 Work No: 34
@@ -299,31 +266,27 @@ Work No: 34
 }
 
 
-
 Work No: 35
 @article{Freitag2007,title = {Convergence of inexact inverse iteration with application to preconditioned iterative solves},journal = {BIT Numerical Mathematics},year = {2007},volume = {47},number = {1},pages = {27-44},author = {Freitag, M.A. and Spence, A.}}
-
 
 
 Work No: 36
 @article{Freitag2007,title = {Convergence theory for inexact inverse iteration applied to the generalised nonsymmetric eigenproblem},journal = {Electronic Transactions on Numerical Analysis},year = {2007},volume = {28},pages = {40-64},author = {Freitag, M.A. and Spence, A.}}
 
 
-
 Work No: 37
 @article{Freitag2007,title = {The Preissmann box scheme and its modification for transcritical flows},journal = {International Journal for Numerical Methods in Engineering},year = {2007},volume = {70},number = {7},pages = {791-811},author = {Freitag, M.A. and Morton, K.W.}}
-
 
 
 Work No: 38
 @article{Freitag2005,title = {Analytical and numerical studies on the influence of multiplication operators for the ill-posedness of inverse problems},journal = {Journal of Inverse and Ill-Posed Problems},year = {2005},volume = {13},number = {2},pages = {123-148},author = {Freitag, M. and Hofmann, B.}}
 
 
-
 Work No: 39
 @book { dnb:1211829227
 , title ={ On the Influence of Multiplication Operators on the Ill-posedness of Inverse Problems. Zum Einfluss von Multiplikationsoperatoren auf die Inkorrektheit Inverser Probleme }, publisher ={ Universitätsbibliothek Chemnitz }, address ={ Chemnitz }, year ={ 2004 }, author ={ Melina A. Freitag, Bernd Hofmann, Arnd Meyer }, pages ={ Online-Ressource }, school ={ Chemnitz, Technische Universität Chemnitz }, language ={ ENGLISCH }, urn ={ urn:nbn:de:swb:ch1-200401504 }, biburl ={ https://d-nb.info/1211829227 } 
 }
+
 
 
 Number of education: 0

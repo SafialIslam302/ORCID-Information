@@ -10,8 +10,6 @@ Work No: 1
 Pre-Training on In Vitro and Fine-Tuning on Patient-Derived Data Improves Deep Neural Networks for Anti-Cancer Drug-Sensitivity Prediction
 
 
-
-
 Work No: 2
 Matching anticancer compounds and tumor cell lines by neural networks with ranking loss
 

@@ -12,16 +12,14 @@ Work No: 1
 
 
 
-
 Work No: 2
 @article{paape2021, title= {Does local coherence lead to targeted regressions and illusions of grammaticality?}, author= {Paape, Dario and Vasishth, Shravan and Engbert, Ralf}, journal= {Open Mind}, volume= {5}, pages= {42--58}, year= {2021}, doi= {10.1162/opmi_a_00041}, url= {https://doi.org/10.1162/opmi_a_00041}}
 
 
 
 
-
 Work No: 3
-Dynamical Models in Neurocognitive Psychology
+@book{engbert2021, title= {Dynamical {M}odels in {N}eurocognitive {P}sychology}, author= {Engbert, Ralf}, year= {2021}, publisher= {Springer Nature Publishing}, doi= {10.1007/978-3-030-67299-7}, url= {https://doi.org/10.1007/978-3-030-67299-7}}
 
 
 
@@ -32,10 +30,8 @@ Work No: 4
 
 
 
-
 Work No: 5
 @article{engbert2021sequential, title= {Sequential data assimilation of the stochastic {SEIR} epidemic model for regional {COVID}-19 dynamics}, author= {Engbert, Ralf and Rabe, Maximilian M and Kliegl, Reinhold and Reich, Sebastian}, journal= {Bulletin of Mathematical Biology}, volume= {83}, number= {1}, pages= {1--16}, year= {2021}, publisher= {Springer}, doi= {10.1007/s11538-020-00834-8}}
-
 
 
 
@@ -46,10 +42,8 @@ Work No: 6
 
 
 
-
 Work No: 7
 @article{cajar2020spatial, title= {How spatial frequencies and color drive object search in real-world scenes: A new eye-movement corpus}, author= {Cajar, Anke and Engbert, Ralf and Laubrock, Jochen}, journal= {Journal of Vision}, volume= {20}, number= {7}, pages= {8--8}, year= {2020}, publisher= {The Association for Research in Vision and Ophthalmology}, doi= {10.1167/jov.20.7.8}}
-
 
 
 
@@ -60,16 +54,12 @@ Work No: 8
 
 
 
-
 Work No: 9
 Modulation of oculomotor control during reading of mirrored and inverted texts
 
 
-
-
 Work No: 10
 @article{backhaus2020task, title= {Task-dependence in scene perception: Head unrestrained viewing using mobile eye-tracking}, author= {Backhaus, Daniel and Engbert, Ralf and Rothkegel, Lars OM and Trukenbrod, Hans A}, journal= {Journal of Vision}, volume= {20}, number= {5}, pages= {3--3}, year= {2020}, publisher= {The Association for Research in Vision and Ophthalmology}, doi= {10.1167/jov.20.5.3}}
-
 
 
 
@@ -80,10 +70,8 @@ Work No: 11
 
 
 
-
 Work No: 12
 @Article{Chandra2019, author= {Johan Chandra and André Krügel and Ralf Engbert}, title= {Experimental test of Bayesian saccade targeting under reversed reading direction}, journal= {Attention, Perception, & Psychophysics}, year= {2019}, month= {Jul}, day= {25}, abstract= {During reading, rapid eye movements (saccades) shift the reader's line of sight from one word to another for high-acuity visual information processing. While experimental data and theoretical models show that readers aim at word centers, the eye-movement (oculomotor) accuracy is low compared to other tasks. As a consequence, distributions of saccadic landing positions indicate large (i) random errors and (ii) systematic over- and undershoot of word centers, which additionally depend on saccade lengths (McConkie et al. Visual Research, 28(10), 1107--1118, 1988). Here we show that both error components can be simultaneously reduced by reading texts from right to left in German language (N ={\thinspace}32). We used our experimental data to test a Bayesian model of saccade planning. First, experimental data are consistent with the model. Second, the model makes specific predictions of the effects of the precision of prior and (sensory) likelihood. Our results suggest that it is a more precise sensory likelihood that can explain the reduction of both random and systematic error components.}, issn= {1943-393X}, doi= {10.3758/s13414-019-01814-4}, url= {https://doi.org/10.3758/s13414-019-01814-4}, filename= {Experimental_test_of_Bayesian_saccade_targeting_under_reversed_reading_direction.bib}}
-
 
 
 
@@ -94,10 +82,8 @@ Work No: 13
 
 
 
-
 Work No: 14
 @Article{Trukenbrod2019, author= {Hans A. Trukenbrod and Simon Barthelmé and Felix A. Wichmann and Ralf Engbert}, title= {Spatial statistics for gaze patterns in scene viewing: Effects of repeated viewing}, journal= {Journal of Vision}, volume= {19(6):5}, pages= {1-19}, year= {2019}, doi= {10.1167/19.6.5}, url= {http://dx.doi.org/10.1167/19.6.5}, filename= {Spatial_statistics_for_gaze_patterns_in_scene_viewing_Effects_of_repeated_viewing.bib}}
-
 
 
 
@@ -108,12 +94,8 @@ Work No: 15
 
 
 
-
 Work No: 16
-@Article{schutt2017image, title= {An image-computable psychophysical spatial vision model}, author= {Heiko H Schütt and Felix A Wichmann}, journal= {Journal of Vision}, volume= {17(12):12}, pages= {1-35}, year= {2017}, publisher= {The Association for Research in Vision and Ophthalmology}, doi= {10.1167/17.12.12}, filename= {An_imagecomputable_psychophysical_spatial_vision_model.bib}, outgroup= {T}}
-
-
-
+An image-computable psychophysical spatial vision model
 
 
 Work No: 17
@@ -122,12 +104,8 @@ Work No: 17
 
 
 
-
 Work No: 18
-@Article{schuett2017likelihood, title= {Likelihood-based parameter estimation and comparison of dynamical cognitive models}, author= {Heiko H Schütt and Lars OM Rothkegel and Hans A Trukenbrod and Sebastian Reich and Felix A Wichmann and Ralf Engbert}, journal= {Psychological Review}, volume= {124}, number= {4}, pages= {505-524}, year= {2017}, publisher= {American Psychological Association}, doi= {10.1037/rev0000068}, filename= {Likelihoodbased_parameter_estimation_and_comparison_of_dynamical_cognitive_models.bib}}
-
-
-
+Likelihood-based parameter estimation and comparison of dynamical cognitive models
 
 
 Work No: 19
@@ -136,17 +114,12 @@ Work No: 19
 
 
 
-
 Work No: 20
-@Article{doi:10.1167/17.13.3, author= {Lars O. M. Rothkegel and Hans A. Trukenbrod and Heiko H. Schütt and Felix A. Wichmann and Ralf Engbert}, title= {Temporal evolution of the central fixation bias in scene viewing}, journal= {Journal of Vision}, volume= {17(13):3}, pages= {1-18}, year= {2017}, doi= {10.1167/17.13.3}, url= {http://dx.doi.org/10.1167/17.13.3}, eprint= {/data/journals/jov/936571/i1534-7362-17-13-3.pdf}, filename= {Temporal_evolution_of_the_central_fixation_bias_in_scene_viewing.bib}}
-
-
-
+Temporal evolution of the central fixation bias in scene viewing
 
 
 Work No: 21
 @Article{10.1371/journal.pone.0162449, author= {Antje Nuthmann and Françoise Vitu and Ralf Engbert and Reinhold Kliegl}, journal= {PLOS ONE}, publisher= {Public Library of Science}, title= {No evidence for a saccadic range effect for visually guided and memory-guided saccades in simple saccade-targeting tasks}, year= {2016}, month= {09}, volume= {11}, url= {https://doi.org/10.1371/journal.pone.0162449}, pages= {1-27}, number= {9}, doi= {10.1371/journal.pone.0162449}, filename= {No_Evidence_for_a_Saccadic_Range_Effect_for_Visually_Guided_and_MemoryGuided_Saccades_in_Simple_SaccadeTargeting_Tasks.bib}}
-
 
 
 
@@ -157,10 +130,8 @@ Work No: 22
 
 
 
-
 Work No: 23
 @Article{ROTHKEGEL201633, title= {Influence of initial fixation position in scene viewing}, journal= {Vision Research}, volume= {129}, pages= {33 - 49}, year= {2016}, issn= {0042-6989}, doi= {https://doi.org/10.1016/j.visres.2016.09.012}, url= {http://www.sciencedirect.com/science/article/pii/S0042698916301274}, author= {Lars O.M. Rothkegel and Hans A. Trukenbrod and Heiko H. Schütt and Felix A. Wichmann and Ralf Engbert}, keywords= {Visual scanpath, Visual attention, Inhibition of return, Eye movements, Saliency}, filename= {Influence_of_initial_fixation_position_in_scene_viewing.bib}}
-
 
 
 
@@ -171,17 +142,12 @@ Work No: 24
 
 
 
-
 Work No: 25
-@Article{SINN2016132, title= {Small saccades versus microsaccades: Experimental distinction and model-based unification}, journal= {Vision Research}, volume= {118}, pages= {132 - 143}, year= {2016}, note= {Fixational eye movements and perception}, issn= {0042-6989}, doi= {https://doi.org/10.1016/j.visres.2015.05.012}, url= {http://www.sciencedirect.com/science/article/pii/S004269891500214X}, author= {Petra Sinn and Ralf Engbert}, keywords= {Eye movements, Visual fixation, Microsaccades, Mathematical model}, filename= {Small_saccades_versus_microsaccades_Experimental_distinction_and_modelbased_unification.bib}}
-
-
-
+Small saccades versus microsaccades: Experimental distinction and model-based unification
 
 
 Work No: 26
 @Article{CAJAR2016186, title= {Spatial frequency processing in the central and peripheral visual field during scene viewing}, journal= {Vision Research}, volume= {127}, pages= {186 - 197}, year= {2016}, issn= {0042-6989}, doi= {https://doi.org/10.1016/j.visres.2016.05.008}, url= {http://www.sciencedirect.com/science/article/pii/S0042698916300827}, author= {Anke Cajar and Ralf Engbert and Jochen Laubrock}, keywords= {Eye movements, Scene viewing, Spatial frequencies, Gaze-contingent displays}, filename= {Spatial_frequency_processing_in_the_central_and_peripheral_visual_field_during_scene_viewing.bib}}
-
 
 
 
@@ -192,10 +158,8 @@ Work No: 27
 
 
 
-
 Work No: 28
 @Article{pereira2013processamento, title= {O processamento da anáfora pronominal em crianças com transtorno de déficit de atenção e hiperatividade e em crianças disléxicas: um estudo através da análise dos movimentos oculares}, author= {Angela I. Klein and André Krügel and Sarah Risse and Günther Esser and Ralf Engbert and Vera Wannmacher Pereira}, journal= {Letras de Hoje}, year= {2015}, volume= {50}, number= {1}, pages= {40-48}, doi= {10.15448/1984-7726.2015.1.18406}, publisher= {Pontifícia Universidade Católica do Rio Grande do Sul}, filename= {O_processamento_da_anáfora_pronominal_em_crianças_com_transtorno_de_déficit_de_atenção_e_hiperatividade_e_em_crianças_disléxicas_um_estudo_através_da_análise_dos_movimentos_oculares.bib}}
-
 
 
 
@@ -206,24 +170,16 @@ Work No: 29
 
 
 
-
 Work No: 30
-@Article{doi:10.1080/13506285.2014.894166, author= {André Krügel and Ralf Engbert}, title= {A model of saccadic landing positions in reading under the influence of sensory noise}, journal= {Visual Cognition}, volume= {22}, number= {3}, pages= {334-353}, year= {2014}, doi= {10.1080/13506285.2014.894166}, url= {https://doi.org/10.1080/13506285.2014.894166}, eprint= {https://doi.org/10.1080/13506285.2014.894166}, filename= {A_model_of_saccadic_landing_positions_in_reading_under_the_influence_of_sensory_noise.bib}}
-
-
-
+A model of saccadic landing positions in reading under the influence of sensory noise
 
 
 Work No: 31
-@Article{doi:10.1080/13506285.2014.881444, author= {Sarah Risse and Sven Hohenstein and Reinhold Kliegl and Ralf Engbert}, title= {A theoretical analysis of the perceptual span based on SWIFT simulations of the n + 2 boundary paradigm}, journal= {Visual Cognition}, volume= {22}, number= {3}, pages= {283-308}, year= {2014}, doi= {10.1080/13506285.2014.881444}, note= {PMID: 24771996}, url= {https://doi.org/10.1080/13506285.2014.881444}, eprint= {https://doi.org/10.1080/13506285.2014.881444}, filename= {A_theoretical_analysis_of_the_perceptual_span_based_on_SWIFT_simulations_of_the_n__2_boundary_paradigm.bib}}
-
-
-
+A theoretical analysis of the perceptual span based on SWIFT simulations of the n + 2 boundary paradigm
 
 
 Work No: 32
 @Article{Trukenbrod2014, author= {Hans A. Trukenbrod and Ralf Engbert}, title= {ICAT: A computational model for the adaptive control of fixation durations}, journal= {Psychonomic Bulletin & Review}, year= {2014}, month= {Aug}, day= {01}, volume= {21}, number= {4}, pages= {907--934}, issn= {1531-5320}, doi= {10.3758/s13423-013-0575-0}, url= {https://doi.org/10.3758/s13423-013-0575-0}, filename= {ICAT_a_computational_model_for_the_adaptive_control_of_fixation_durations.bib}}
-
 
 
 
@@ -234,10 +190,8 @@ Work No: 33
 
 
 
-
 Work No: 34
 @Article{TOPS:TOPS12026, author= {Felix Engelmann and Shravan Vasishth and Ralf Engbert and Reinhold Kliegl}, title= {A framework for modeling the interaction of syntactic processing and eye movement control}, journal= {Topics in Cognitive Science}, volume= {5}, number= {3}, issn= {1756-8765}, url= {http://dx.doi.org/10.1111/tops.12026}, doi= {10.1111/tops.12026}, pages= {452-474}, keywords= {Sentence comprehension, Eye movements, Reading, Parsing difficulty, Working memory, Surprisal, Computational modeling}, year= {2013}, filename= {A_Framework_for_Modeling_the_Interaction_of_Syntactic_Processing_and_Eye_Movement_Control.bib}}
-
 
 
 
@@ -248,24 +202,18 @@ Work No: 35
 
 
 
-
 Work No: 36
 @Article{doi:10.1080/17470218.2013.772214, author= {Elke B. Lange and Ralf Engbert}, title= {Differentiating between verbal and spatial encoding using eye-movement recordings}, journal= {The Quarterly Journal of Experimental Psychology}, volume= {66}, number= {9}, pages= {1840-1857}, year= {2013}, publisher= {Routledge}, doi= {10.1080/17470218.2013.772214}, note= {PMID: 23472620}, url= {https://doi.org/10.1080/17470218.2013.772214}, eprint= {https://doi.org/10.1080/17470218.2013.772214}, filename= {Differentiating_between_verbal_and_spatial_encoding_using_eyemovement_recordings.bib}}
 
 
 
 
-
 Work No: 37
-@InCollection{kliegl2011evaluating, title= {Evaluating a computational model of eye-movement control during reading}, editor= {U Gähde and S Hartmann and J H Wolf}, publisher= {DeGruyter}, pages= {153-178}, year= {2013}, booktitle= {Models, simulations, and the reduction of complexity}, author= {R Kliegl and R Engbert}, address= {Berlin}, isbn= {978-3-11-031360-4}, filename= {Evaluating_a_computational_model_of_eyemovement_control_during_reading.bib}}
-
-
-
+Evaluating a computational model of eye-movement control during reading
 
 
 Work No: 38
 @Article{doi:10.1167/13.12.1, author= {Simon Barthelmé and Hans A Trukenbrod and Ralf Engbert and Felix Wichmann}, title= {Modeling fixation locations using spatial point processes}, journal= {Journal of Vision}, volume= {13(12):1}, pages= {1-34}, year= {2013}, doi= {10.1167/13.12.1}, url= {http://dx.doi.org/10.1167/13.12.1}, eprint= {/data/journals/jov/932808/i1534-7362-13-12-1.pdf}, filename= {Modeling_fixation_locations_using_spatial_point_processes.bib}}
-
 
 
 
@@ -276,17 +224,12 @@ Work No: 39
 
 
 
-
 Work No: 40
-@Article{10.1371/journal.pone.0043388, author= {Mario Bettenbühl and Marco Rusconi and Ralf Engbert and Matthias Holschneider}, journal= {PLOS ONE}, publisher= {Public Library of Science}, title= {Bayesian selection of Markov models for symbol sequences: Application to microsaccadic eye movements}, year= {2012}, month= {09}, volume= {7}, url= {https://doi.org/10.1371/journal.pone.0043388}, pages= {1-10}, number= {9}, note= {e43388}, doi= {10.1371/journal.pone.0043388}, filename= {Bayesian_Selection_of_Markov_Models_for_Symbol_Sequences_Application_to_Microsaccadic_Eye_Movements.bib}}
-
-
-
+Bayesian selection of Markov models for symbol sequences: Application to microsaccadic eye movements
 
 
 Work No: 41
 @Article{Kruegel2012, author= {André Krügel and Françoise Vitu and Ralf Engbert}, title= {A single space makes a large difference: Fixation positions after skipping saccades}, journal= {Attention, Perception, & Psychophysics}, year= {2012}, month= {Nov}, day= {01}, volume= {74}, number= {8}, pages= {1556--1561}, issn= {1943-393X}, doi= {10.3758/s13414-012-0365-1}, url= {https://doi.org/10.3758/s13414-012-0365-1}, filename= {A_single_space_makes_a_large_difference_Fixation_positions_after_skipping_saccades.bib}}
-
 
 
 
@@ -297,10 +240,8 @@ Work No: 42
 
 
 
-
 Work No: 43
 @Article{Lange2012, author= {Elke B. Lange and Christian Starzynski and Ralf Engbert}, title= {Capture of the gaze does not capture the mind}, journal= {Attention, Perception, & Psychophysics}, year= {2012}, month= {Aug}, day= {01}, volume= {74}, number= {6}, pages= {1168--1182}, issn= {1943-393X}, doi= {10.3758/s13414-012-0318-8}, url= {https://doi.org/10.3758/s13414-012-0318-8}, filename= {Capture_of_the_gaze_does_not_capture_the_mind.bib}}
-
 
 
 
@@ -311,10 +252,8 @@ Work No: 44
 
 
 
-
 Work No: 45
 @Article{doi:10.1167/12.1.5, author= {Hans A. Trukenbrod and Ralf Engbert}, title= {Eye movements in a sequential scanning task: Evidence for distributed processing}, journal= {Journal of Vision}, volume= {12(1):5}, pages= {1-12}, year= {2012}, doi= {10.1167/12.1.5}, url= {http://dx.doi.org/10.1167/12.1.5}, eprint= {/data/journals/jov/933488/jov-12-1-5.pdf}, filename= {Eye_movements_in_a_sequential_scanning_task_Evidence_for_distributed_processing.bib}}
-
 
 
 
@@ -325,10 +264,8 @@ Work No: 46
 
 
 
-
 Work No: 47
 @Article{SCHAD2012179, title= {Your mind wanders weakly, your mind wanders deeply: Objective measures reveal mindless reading at different levels}, journal= {Cognition}, volume= {125}, number= {2}, pages= {179 - 194}, year= {2012}, issn= {0010-0277}, doi= {https://doi.org/10.1016/j.cognition.2012.07.004}, url= {http://www.sciencedirect.com/science/article/pii/S0010027712001436}, author= {Daniel J. Schad and Antje Nuthmann and Ralf Engbert}, keywords= {Mind wandering, Reading, Eye movements, Signal detection theory, Levels of processing, Sustained attention}, filename= {Your_mind_wanders_weakly_your_mind_wanders_deeply_Objective_measures_reveal_mindless_reading_at_different_levels.bib}}
-
 
 
 
@@ -339,10 +276,8 @@ Work No: 48
 
 
 
-
 Work No: 49
 @InCollection{EngbertKlieglOxford, author= {R Engbert and R Kliegl}, title= {Parallel graded attention models of reading}, editor= {S. P. Liversedge and I. D. Gilchrist and S. Everling}, booktitle= {Oxford Handbook of Eye Movements}, publisher= {Oxford: Oxford University Press}, year= {2011}, pages= {787-800}, filename= {Parallel_graded_attention_models_of_reading.bib}}
-
 
 
 
@@ -353,10 +288,8 @@ Work No: 50
 
 
 
-
 Work No: 51
 @Article{nuthmann2010crisp, title= {CRISP: A computational model of fixation durations in scene viewing.}, author= {Antje Nuthmann and Tim J Smith and Ralf Engbert and John M Henderson}, journal= {Psychological Review}, volume= {117}, number= {2}, pages= {382-405}, year= {2010}, doi= {10.1037/a0018924}, filename= {CRISP_a_computational_model_of_fixation_durations_in_scene_viewing.bib}}
-
 
 
 
@@ -367,10 +300,8 @@ Work No: 52
 
 
 
-
 Work No: 53
 @Article{JEMR2306, author= {Mario Bettenbühl and Claudia Paladini and Konstantin Mergenthaler and Reinhold Kliegl and Ralf Engbert and Matthias Holschneider}, title= {Microsaccade characterization using the continuous wavelet transform and principal component analysis}, journal= {Journal of Eye Movement Research}, volume= {3(5):1}, pages= {1-14}, year= {2010}, issn= {1995-8692}, url= {https://bop.unibe.ch/index.php/JEMR/article/view/2306}, doi= {http://dx.doi.org/10.16910/jemr.3.5.1}, filename= {Microsaccade_characterization_using_the_continuous_wavelet_transform_and_principal_component_analysis.bib}}
-
 
 
 
@@ -381,10 +312,8 @@ Work No: 54
 
 
 
-
 Work No: 55
 @Article{KRUGEL20101532, title= {On the launch-site effect for skipped words during reading}, journal= {Vision Research}, volume= {50}, number= {16}, pages= {1532 - 1539}, year= {2010}, issn= {0042-6989}, doi= {https://doi.org/10.1016/j.visres.2010.05.009}, url= {http://www.sciencedirect.com/science/article/pii/S0042698910002300}, author= {André Krügel and Ralf Engbert}, keywords= {Eye movements, Reading, Launch-site effect, Skipping, Mislocated fixations, Center-of-gravity}, filename= {On_the_launchsite_effect_for_skipped_words_during_reading.bib}}
-
 
 
 
@@ -395,17 +324,12 @@ Work No: 56
 
 
 
-
 Work No: 57
-@Article{Laubrock2010, author= {Jochen Laubrock and Reinhold Kliegl and Martin Rolfs and Ralf Engbert}, title= {When do microsaccades follow spatial attention?}, journal= {Attention, Perception, & Psychophysics}, year= {2010}, month= {Apr}, day= {01}, volume= {72}, number= {3}, pages= {683--694}, issn= {1943-393X}, doi= {10.3758/APP.72.3.683}, url= {https://doi.org/10.3758/APP.72.3.683}, filename= {When_do_microsaccades_follow_spatial_attention.bib}}
-
-
-
+When do microsaccades follow spatial attention?
 
 
 Work No: 58
 @Article{doi:10.1063/1.3072784, author= {M. Carmen Romano and Marco Thiel and Jürgen Kurths and Konstantin Mergenthaler and Ralf Engbert}, title= {Hypothesis test for synchronization: Twin surrogates revisited}, journal= {Chaos: An Interdisciplinary Journal of Nonlinear Science}, volume= {19}, number= {1}, pages= {015108}, year= {2009}, doi= {10.1063/1.3072784}, url= {https://doi.org/10.1063/1.3072784}, eprint= {https://doi.org/10.1063/1.3072784}, filename= {Hypothesis_test_for_synchronization_Twin_surrogates_revisited.bib}}
-
 
 
 
@@ -416,10 +340,8 @@ Work No: 59
 
 
 
-
 Work No: 60
 @Article{doi:10.1063/1.3098950, author= {Christian Starzynski and Ralf Engbert}, title= {Noise-enhanced target discrimination under the influence of fixational eye movements and external noise}, journal= {Chaos: An Interdisciplinary Journal of Nonlinear Science}, volume= {19}, number= {1}, pages= {015112}, year= {2009}, doi= {10.1063/1.3098950}, url= {https://doi.org/10.1063/1.3098950}, eprint= {https://doi.org/10.1063/1.3098950}, filename= {Noiseenhanced_target_discrimination_under_the_influence_of_fixational_eye_movements_and_external_noise.bib}}
-
 
 
 
@@ -430,10 +352,8 @@ Work No: 61
 
 
 
-
 Work No: 62
 @InCollection{RisseEngbertKlieglTianjin, author= {S Risse and R Engbert and R Kliegl}, title= {Eye-movement control in reading: Experimental and corpus-analytical challenges for a computational model}, editor= {K Rayner and D Shen and X Bai and G Yan}, booktitle= {Cognitive and Cultural Influences on Eye Movements}, publisher= {Tianjin People's Publishing House}, year= {2008}, chapter= {3}, pages= {65-91}, filename= {Eyemovement_control_in_reading_Experimental_and_corpusanalytical_challenges_for_a_computational_model.bib}}
-
 
 
 
@@ -444,10 +364,8 @@ Work No: 63
 
 
 
-
 Work No: 64
 @Article{Kliegl2008, author= {Reinhold Kliegl and Martin Rolfs and Jochen Laubrock and Ralf Engbert}, title= {Microsaccadic modulation of response times in spatial attention tasks}, journal= {Psychological Research}, year= {2008}, month= {Dec}, day= {09}, volume= {73}, number= {2}, pages= {136-146}, issn= {1430-2772}, doi= {10.1007/s00426-008-0202-2}, url= {https://doi.org/10.1007/s00426-008-0202-2}, filename= {Microsaccadic_modulation_of_response_times_in_spatial_attention_tasks.bib}}
-
 
 
 
@@ -458,10 +376,8 @@ Work No: 65
 
 
 
-
 Work No: 66
 @Article{doi:10.1063/1.2890843, author= {M. S. Baptista and C. Bohn and R. Kliegl and R. Engbert and J. Kurths}, title= {Reconstruction of eye movements during blinks}, journal= {Chaos: An Interdisciplinary Journal of Nonlinear Science}, volume= {18}, number= {1}, pages= {013126}, year= {2008}, doi= {10.1063/1.2890843}, url= {https://doi.org/10.1063/1.2890843}, eprint= {https://doi.org/10.1063/1.2890843}, filename= {Reconstruction_of_eye_movements_during_blinks.bib}}
-
 
 
 
@@ -472,10 +388,8 @@ Work No: 67
 
 
 
-
 Work No: 68
 @InCollection{EngbertNuthmannKlieglElsevier, author= {Ralf Engbert and Antje Nuthmann and Reinhold Kliegl}, title= {An iterative algorithm for the estimation of the distribution of mislocated fixations during reading}, editor= {R. P. G. {van Gompel} and M. H. Fischer and W. S. Murray and R. L. Hill}, booktitle= {Eye Movements: A window on mind and brain}, publisher= {Elsevier Science}, address= {Oxford}, year= {2007}, pages= {319-337}, filename= {An_iterative_algorithm_for_the_estimation_of_the_distribution_of_mislocated_fixations_during_reading.bib}}
-
 
 
 
@@ -486,10 +400,8 @@ Work No: 69
 
 
 
-
 Work No: 70
 @Article{PhysRevLett.98.138104, title= {Modeling the control of fixational eye movements with neurophysiological delays}, author= {Konstantin Mergenthaler and Ralf Engbert}, journal= {Physical Review Letters}, volume= {98}, issue= {13}, pages= {138104}, numpages= {4}, year= {2007}, month= {Mar}, publisher= {American Physical Society}, doi= {10.1103/PhysRevLett.98.138104}, url= {https://link.aps.org/doi/10.1103/PhysRevLett.98.138104}, filename= {Modeling_the_Control_of_Fixational_Eye_Movements_with_Neurophysiological_Delays.bib}}
-
 
 
 
@@ -500,12 +412,8 @@ Work No: 71
 
 
 
-
 Work No: 72
-@Article{NUTHMANN2007990, title= {The IOVP effect in mindless reading: Experiment and modeling}, journal= {Vision Research}, volume= {47}, number= {7}, pages= {990 - 1002}, year= {2007}, issn= {0042-6989}, doi= {https://doi.org/10.1016/j.visres.2006.11.005}, url= {http://www.sciencedirect.com/science/article/pii/S0042698906005347}, author= {Antje Nuthmann and Ralf Engbert and Reinhold Kliegl}, keywords= {Reading, Saccades, Optimal viewing position, Oculomotor errors, Mislocated fixations}, filename= {The_IOVP_effect_in_mindless_reading_Experiment_and_modeling.bib}}
-
-
-
+The IOVP effect in mindless reading: Experiment and modeling
 
 
 Work No: 73
@@ -514,17 +422,12 @@ Work No: 73
 
 
 
-
 Work No: 74
-@Article{ENGBERT2006168, title= {Flick-induced flips in perception}, journal= {Neuron}, volume= {49}, number= {2}, pages= {168 - 170}, year= {2006}, issn= {0896-6273}, doi= {https://doi.org/10.1016/j.neuron.2006.01.005}, url= {http://www.sciencedirect.com/science/article/pii/S0896627306000067}, author= {Ralf Engbert}, filename= {FlickInduced_Flips_in_Perception.bib}}
-
-
-
+Flick-induced flips in perception
 
 
 Work No: 75
 @InCollection{NuthmannEngbertKlieglHandbuch, author= {A. Nuthmann and R. Engbert and R. Kliegl}, title= {Messung von Blickbewegungen}, editor= {J. Funke and P. A. Frensch}, booktitle= {Handbuch der Allgemeinen Psychologie: Kognition}, publisher= {Hogrefe}, address= {Göttingen}, year= {2006}, pages= {705-711}, filename= {Messung_von_Blickbewegungen.bib}}
-
 
 
 
@@ -535,10 +438,8 @@ Work No: 76
 
 
 
-
 Work No: 77
 @Article{ENGBERT2006177, author= {Ralf Engbert}, title= {Microsaccades: A microcosm for research on oculomotor control, attention, and visual perception}, journal= {Progress in Brain Research}, volume= {154}, number= {Part A}, pages= {177 - 192}, year= {2006}, doi= {https://doi.org/10.1016/S0079-6123(06)54009-9}, url= {http://www.sciencedirect.com/science/article/pii/S0079612306540099}, keywords= {fixational eye movements, microsaccades, random walk, visual perception, covert attention}, filename= {Microsaccades_a_microcosm_for_research_on_oculomotor_control_attention_and_visual_perception.bib}}
-
 
 
 
@@ -549,10 +450,8 @@ Work No: 78
 
 
 
-
 Work No: 79
 @InCollection{RomanoHandbook, author= {M. C. Romano and M. Thiel and J. Kurths and J. Rolfs and R. Engbert and R. Kliegl}, title= {Synchronization analysis and recurrence in complex systems}, editor= {M. Winterhalder and B. Schelter and J. Timmer}, booktitle= {Handbook of Time Series Analysis}, publisher= {Wiley-VCH}, address= {Berlin}, year= {2006}, pages= {231-264}, filename= {Synchronization_analysis_and_recurrence_in_complex_systems.bib}}
-
 
 
 
@@ -563,10 +462,8 @@ Work No: 80
 
 
 
-
 Work No: 81
 @Article{Rolfs2005, author= {Martin Rolfs and Ralf Engbert and Reinhold Kliegl}, title= {Crossmodal coupling of oculomotor control and spatial attention in vision and audition}, journal= {Experimental Brain Research}, year= {2005}, month= {Oct}, day= {01}, volume= {166}, number= {3}, pages= {427--439}, issn= {1432-1106}, doi= {10.1007/s00221-005-2382-y}, url= {https://doi.org/10.1007/s00221-005-2382-y}, filename= {Crossmodal_coupling_of_oculomotor_control_and_spatial_attention_in_vision_and_audition.bib}}
-
 
 
 
@@ -577,10 +474,8 @@ Work No: 82
 
 
 
-
 Work No: 83
 @Article{LAUBROCK2005721, title= {Microsaccade dynamics during covert attention}, journal= {Vision Research}, volume= {45}, number= {6}, pages= {721 - 730}, year= {2005}, issn= {0042-6989}, doi= {https://doi.org/10.1016/j.visres.2004.09.029}, url= {http://www.sciencedirect.com/science/article/pii/S004269890400495X}, author= {Jochen Laubrock and Ralf Engbert and Reinhold Kliegl}, keywords= {Attention, Eye movements, Fixation, Reaction time}, filename= {Microsaccade_dynamics_during_covert_attention.bib}}
-
 
 
 
@@ -591,10 +486,8 @@ Work No: 84
 
 
 
-
 Work No: 85
 @PhdThesis{Engbert2005, author= {Ralf Engbert}, title= {Nichtlineare Dynamik kognitiv-motorischer Prozesse : Tempoinduzierte Übergänge bei der Produktion von Polyrhythmen}, type= {doctoralthesis}, school= {Universität Potsdam}, year= {2005}, filename= {Nichtlineare_Dynamik_kognitivmotorischer_Prozesse__tempoinduzierte_Übergänge_bei_der_Produktion_von_Polyrhythmen.bib}, url= {https://publishup.uni-potsdam.de/opus4-ubp/frontdoor/index/index/docId/1}}
-
 
 
 
@@ -605,10 +498,8 @@ Work No: 86
 
 
 
-
 Work No: 87
 @InCollection{KrampeEngbert, author= {R. T. Krampe and R. Engbert}, title= {Produktion und Synchronisation von Rhythmen}, editor= {T. H. Stoffer and R. Oerter}, booktitle= {Enzyklopädie der Psychologie, D. Vol. VII: Allgemeine Musikpsychologie: Allgemeinpsychologische Grundlagen musikalischen Handelns}, publisher= {Hogrefe}, address= {Göttingen}, year= {2005}, pages= {483-536}, filename= {Produktion_und_Synchronisation_von_Rhythmen.bib}}
-
 
 
 
@@ -619,10 +510,8 @@ Work No: 88
 
 
 
-
 Work No: 89
 @Article{PhysRevE.71.031909, title= {Scaling of horizontal and vertical fixational eye movements}, author= {Jin-Rong Liang and Shay Moshel and Ari Z. Zivotofsky and Avi Caspi and Ralf Engbert and Reinhold Kliegl and Shlomo Havlin}, journal= {Physical Review E}, volume= {71}, issue= {3}, pages= {031909}, numpages= {6}, year= {2005}, month= {Mar}, publisher= {American Physical Society}, doi= {10.1103/PhysRevE.71.031909}, url= {https://link.aps.org/doi/10.1103/PhysRevE.71.031909}, filename= {Scaling_of_horizontal_and_vertical_fixational_eye_movements.bib}}
-
 
 
 
@@ -633,24 +522,18 @@ Work No: 90
 
 
 
-
 Work No: 91
 @Article{doi:10.1080/09541440340000213, author= {Reinhold Kliegl and Ellen Grabner and Martin Rolfs and Ralf Engbert}, title= {Length, frequency, and predictability effects of words on eye movements in reading}, journal= {European Journal of Cognitive Psychology}, volume= {16}, number= {1-2}, pages= {262-284}, year= {2004}, publisher= {Routledge}, doi= {10.1080/09541440340000213}, url= {https://doi.org/10.1080/09541440340000213}, eprint= {https://doi.org/10.1080/09541440340000213}, filename= {Length_frequency_and_predictability_effects_of_words_on_eye_movements_in_reading.bib}}
 
 
 
 
-
 Work No: 92
-@Article{doi:10.1111/j.0956-7976.2004.00744.x, author= {Martin Rolfs and Ralf Engbert and Reinhold Kliegl}, title= {Microsaccade orientation supports attentional enhancement opposite a peripheral cue: Commentary on Tse, Sheinberg, and Logothetis (2003)}, journal= {Psychological Science}, volume= {15}, number= {10}, pages= {705-707}, year= {2004}, doi= {10.1111/j.0956-7976.2004.00744.x}, note= {PMID: 15447643}, url= {https://doi.org/10.1111/j.0956-7976.2004.00744.x}, eprint= {https://doi.org/10.1111/j.0956-7976.2004.00744.x}, filename= {Microsaccade_Orientation_Supports_Attentional_Enhancement_Opposite_a_Peripheral_Cue_Commentary_on_Tse_Sheinberg_and_Logothetis_2003.bib}}
-
-
-
+Microsaccade orientation supports attentional enhancement opposite a peripheral cue: Commentary on Tse, Sheinberg, and Logothetis (2003)
 
 
 Work No: 93
 @Article{doi:10.1111/j.0956-7976.2004.00697.x, author= {Ralf Engbert and Reinhold Kliegl}, title= {Microsaccades keep the eyes' balance during fixation}, journal= {Psychological Science}, volume= {15}, number= {6}, pages= {431-431}, year= {2004}, doi= {10.1111/j.0956-7976.2004.00697.x}, note= {PMID: 15147499}, url= {https://doi.org/10.1111/j.0956-7976.2004.00697.x}, eprint= {https://doi.org/10.1111/j.0956-7976.2004.00697.x}, filename= {Microsaccades_Keep_the_Eyes_Balance_During_Fixation.bib}}
-
 
 
 
@@ -661,10 +544,8 @@ Work No: 94
 
 
 
-
 Work No: 95
 @Article{kliegl_engbert_2003, title= {How tight is the link between lexical processing and saccade programs?}, volume= {26}, doi= {10.1017/S0140525X03360108}, number= {4}, journal= {Behavioral and Brain Sciences}, publisher= {Cambridge University Press}, author= {Reinhold Kliegl and Ralf Engbert}, year= {2003}, pages= {491–492}, filename= {How_tight_is_the_link_between_lexical_processing_and_saccade_programs.bib}}
-
 
 
 
@@ -675,10 +556,8 @@ Work No: 96
 
 
 
-
 Work No: 97
 @Article{ENGBERT2003473, title= {Noise-enhanced performance in reading}, journal= {Neurocomputing}, volume= {50}, pages= {473 - 478}, year= {2003}, issn= {0925-2312}, doi= {https://doi.org/10.1016/S0925-2312(01)00711-1}, url= {http://www.sciencedirect.com/science/article/pii/S0925231201007111}, author= {Ralf Engbert and Reinhold Kliegl}, keywords= {Reading, Eye movements, Saccade, Noise, Modelling}, filename= {Noiseenhanced_performance_in_reading.bib}}
-
 
 
 
@@ -689,10 +568,8 @@ Work No: 98
 
 
 
-
 Work No: 99
 @Article{engbert_kliegl_2003, title= {The game of word skipping: Who are the competitors?}, volume= {26}, doi= {10.1017/S0140525X03270102}, number= {4}, journal= {Behavioral and Brain Sciences}, publisher= {Cambridge University Press}, author= {Ralf Engbert and Reinhold Kliegl}, year= {2003}, pages= {481–482}, filename= {The_game_of_word_skipping_Who_are_the_competitors.bib}}
-
 
 
 
@@ -703,24 +580,18 @@ Work No: 100
 
 
 
-
 Work No: 101
 @Misc{KRAMPE20021, title= {Representational Models and Nonlinear Dynamics: Irreconcilable Approaches to Human Movement Timing and Coordination or Two Sides of the Same Coin? Introduction to the Special Issue on Movement Timing and Coordination}, journal= {Brain and Cognition}, volume= {48}, number= {1}, pages= {1 - 6}, year= {2002}, issn= {0278-2626}, doi= {https://doi.org/10.1006/brcg.2001.1300}, url= {http://www.sciencedirect.com/science/article/pii/S0278262601913004}, author= {Ralf Th. Krampe and Ralf Engbert and Reinhold Kliegl}, filename= {Representational_Models_and_Nonlinear_Dynamics_Irreconcilable_Approaches_to_Human_Movement_Timing_and_Coordination_or_Two_Sides_of_the_Same_Coin_Introduction_to_the_Special_Issue_on_Movement_Timing_and_Coordination.bib}}
 
 
 
 
-
 Work No: 102
-@Article{ENGBERT2002107, title= {Synchronizing movements with the metronome: Nonlinear error correction and unstable periodic orbits}, journal= {Brain and Cognition}, volume= {48}, number= {1}, pages= {107 - 116}, year= {2002}, issn= {0278-2626}, doi= {https://doi.org/10.1006/brcg.2001.1307}, url= {http://www.sciencedirect.com/science/article/pii/S0278262601913077}, author= {Ralf Engbert and Ralf Th. Krampe and Jürgen Kurths and Reinhold Kliegl}, filename= {Synchronizing_Movements_with_the_Metronome_Nonlinear_Error_Correction_and_Unstable_Periodic_Orbits.bib}}
-
-
-
+Synchronizing movements with the metronome: Nonlinear error correction and unstable periodic orbits
 
 
 Work No: 103
 @Article{ENGBERT200279, title= {Testing for nonlinearity: the role of surrogate data}, journal= {Chaos, Solitons & Fractals}, volume= {13}, number= {1}, pages= {79 - 84}, year= {2002}, issn= {0960-0779}, doi= {https://doi.org/10.1016/S0960-0779(00)00236-8}, url= {http://www.sciencedirect.com/science/article/pii/S0960077900002368}, author= {Ralf Engbert}, filename= {Testing_for_nonlinearity_the_role_of_surrogate_data.bib}}
-
 
 
 
@@ -731,10 +602,8 @@ Work No: 104
 
 
 
-
 Work No: 105
 @Article{KrampeEngbertKliegl2001, author= {R T Krampe and R Engbert and R Kliegl}, title= {Age-specific problems in rhythmic timing}, journal= {Psychology and Aging}, year= {2001}, volume= {16}, number= {1}, pages= {12--30}, doi= {http://dx.doi.org/10.1037/0882-7974.16.1.12}, filename= {Agespecific_problems_in_rhythmic_timing.bib}}
-
 
 
 
@@ -745,10 +614,8 @@ Work No: 106
 
 
 
-
 Work No: 107
 @InCollection{KrampeEngbertKlieglKurths, author= {R.T. Krampe and R. Engbert and R. Kliegl and J. Kurths}, title= {Koordination und Synchronisation der Hände beim rhythmischen Timing}, editor= {K. Müller and G. Aschersleben}, booktitle= {Rhythmus. Ein interdisziplinäres Handbuch}, publisher= {Huber}, address= {Bern}, year= {2000}, pages= {163-183}, filename= {Koordination_und_Synchronisation_der_Hände_beim_rhythmischen_Timing.bib}}
-
 
 
 
@@ -759,10 +626,8 @@ Work No: 108
 
 
 
-
 Work No: 109
 @InCollection{EngbertScheffczyk, author= {R. Engbert and C. Scheffczyk and R. T. Krampe and J. Kurths and R. Kliegl}, title= {Symbolic dynamics of bimanual production of polyrhythms}, editor= {H. Kantz and J. Kurths and G. Mayer-Kress}, booktitle= {Nonlinear analysis of physiological data}, publisher= {Springer}, address= {Berlin - Heidelberg - New York}, year= {1998}, pages= {271-282}, filename= {Symbolic_dynamics_of_bimanual_production_of_polyrhythms.bib}}
-
 
 
 
@@ -773,10 +638,8 @@ Work No: 110
 
 
 
-
 Work No: 111
 @Article{doi:10.1142/S0218127497001163, author= {C. Scheffczyk and A. Zaikin and M. Rosenblum and R. Engbert and R. Krampe and J. Kurths}, title= {Modeling qualitative changes in bimanual movements}, journal= {International Journal of Bifurcation and Chaos}, volume= {7}, number= {6}, pages= {1441-1450}, year= {1997}, doi= {10.1142/S0218127497001163}, url= {http://www.worldscientific.com/doi/abs/10.1142/S0218127497001163}, eprint= {http://www.worldscientific.com/doi/pdf/10.1142/S0218127497001163}, filename= {Modeling_Qualitative_Changes_in_Bimanual_Movements.bib}}
-
 
 
 
@@ -787,10 +650,8 @@ Work No: 112
 
 
 
-
 Work No: 113
 @Article{PhysRevE.56.5823, title= {Tempo-induced transitions in polyrhythmic hand movements}, author= {R. Engbert and C. Scheffczyk and R. T. Krampe and M. Rosenblum and J. Kurths and R. Kliegl}, journal= {Physical Review E}, volume= {56}, issue= {5}, pages= {5823--5833}, numpages= {0}, year= {1997}, month= {Nov}, publisher= {American Physical Society}, doi= {10.1103/PhysRevE.56.5823}, url= {https://link.aps.org/doi/10.1103/PhysRevE.56.5823}, filename= {Tempoinduced_transitions_in_polyrhythmic_hand_movements.bib}}
-
 
 
 
@@ -801,10 +662,8 @@ Work No: 114
 
 
 
-
 Work No: 115
 @InProceedings{Engbert1996, author= {R. Engbert and C. Scheffczyk and J. Kurths and R. Krampe and Kliegl R.}, title= {Nonlinear phenomena in polyrhythmic hand movements}, booktitle= {Proceedings of the 3rd Experimental Chaos Conference}, editor= {R. G. Harrison and W. Lu and L. Ditto and M. Pecora and S. Spano}, year= {1996}, month= {August}, day= {21-23}, venue= {Edinburgh, UK}, publisher= {World Scientific}, address= {Singapore}, filename= {Nonlinear_phenomena_in_polyrhythmic_hand_movements.bib}}
-
 
 
 
@@ -815,10 +674,8 @@ Work No: 116
 
 
 
-
 Work No: 117
 @Article{ENGBERT19941147, title= {Chance and chaos in population biology—Models of recurrent epidemics and food chain dynamics}, journal= {Chaos, Solitons & Fractals}, volume= {4}, number= {7}, pages= {1147 - 1169}, year= {1994}, issn= {0960-0779}, doi= {https://doi.org/10.1016/0960-0779(94)90028-0}, url= {http://www.sciencedirect.com/science/article/pii/0960077994900280}, author= {R. Engbert and F.R. Drepper}, filename= {Chance_and_chaos_in_population_biology—Models_of_recurrent_epidemics_and_food_chain_dynamics.bib}}
-
 
 
 
@@ -829,6 +686,44 @@ Work No: 118
 
 
 
+Work No: 119
+@InCollection{Engbert1994, author= {R. Engbert and F. R. Drepper}, title= {Qualitative analysis of unpredictability: A case study from childhood epidemics}, editor= {J. Grasman and G. {van Straten}}, booktitle= {Predictability and nonlinear modelling in natural sciences and economics}, publisher= {Kluwer}, address= {Dordrecht}, year= {1994}, pages= {204-215}, filename= {Qualitative_analysis_of_unpredictability_a_case_study_from_childhood_epidemics.bib}}
+
+
+
+
+Work No: 120
+@MastersThesis{VuFind-123011, title= {Chance and chaos in seasonally driven epidemics}, series= {Berichte des Forschungszentrums Jülich}, author= {Ralf Engbert}, address= {Jülich}, publisher= {Forschungszentrum, Zentralbibliothek}, school= {Forschungszentrum Jülich}, year= {1993}, pages= {VI, 81 Seiten}, note= {Diploma Thesis}, filename= {Chance_and_chaos_in_seasonally_driven_epidemics.bib}, url= {https://julib.fz-juelich.de/vufind/Record/293826}}
+
+
+
+
+
+Number of education: 0
+
+Education Details
+
+
+Number of employment: 1
+
+Employment Details
+1 University of Potsdam
+blisher= {The International Institute For Advanced Studies In Systems Research and Cybernetics}, address= {Univ. of Windsow, Ontario, Canada}, year= {1995}, filename= {Complexity_in_Cognitive_Processes.bib}}
+
+
+
+
+Work No: 117
+@Article{ENGBERT19941147, title= {Chance and chaos in population biology—Models of recurrent epidemics and food chain dynamics}, journal= {Chaos, Solitons & Fractals}, volume= {4}, number= {7}, pages= {1147 - 1169}, year= {1994}, issn= {0960-0779}, doi= {https://doi.org/10.1016/0960-0779(94)90028-0}, url= {http://www.sciencedirect.com/science/article/pii/0960077994900280}, author= {R. Engbert and F.R. Drepper}, filename= {Chance_and_chaos_in_population_biology—Models_of_recurrent_epidemics_and_food_chain_dynamics.bib}}
+
+
+
+
+Work No: 118
+@Article{DREPPER1994171, title= {Nonlinear time series analysis of empirical population dynamics}, journal= {Ecological Modelling}, volume= {75-76}, pages= {171 - 181}, year= {1994}, note= {State-of-the-Art in Ecological Modelling proceedings of ISEM's 8th International Conference}, issn= {0304-3800}, doi= {https://doi.org/10.1016/0304-3800(94)90016-7}, url= {http://www.sciencedirect.com/science/article/pii/0304380094900167}, author= {F.R. Drepper and R. Engbert and N. Stollenwerk}, keywords= {Attractor reconstruction, Bifurcation analysis, Measles, Population dynamics, Radial basis functions, Transient chaos}, filename= {Nonlinear_time_series_analysis_of_empirical_population_dynamics.bib}}
+
+
+
 
 Work No: 119
 @InCollection{Engbert1994, author= {R. Engbert and F. R. Drepper}, title= {Qualitative analysis of unpredictability: A case study from childhood epidemics}, editor= {J. Grasman and G. {van Straten}}, booktitle= {Predictability and nonlinear modelling in natural sciences and economics}, publisher= {Kluwer}, address= {Dordrecht}, year= {1994}, pages= {204-215}, filename= {Qualitative_analysis_of_unpredictability_a_case_study_from_childhood_epidemics.bib}}
@@ -836,9 +731,9 @@ Work No: 119
 
 
 
-
 Work No: 120
 @MastersThesis{VuFind-123011, title= {Chance and chaos in seasonally driven epidemics}, series= {Berichte des Forschungszentrums Jülich}, author= {Ralf Engbert}, address= {Jülich}, publisher= {Forschungszentrum, Zentralbibliothek}, school= {Forschungszentrum Jülich}, year= {1993}, pages= {VI, 81 Seiten}, note= {Diploma Thesis}, filename= {Chance_and_chaos_in_seasonally_driven_epidemics.bib}, url= {https://julib.fz-juelich.de/vufind/Record/293826}}
+
 
 
 

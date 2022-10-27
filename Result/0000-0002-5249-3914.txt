@@ -13,7 +13,6 @@ Work No: 1
 
 
 
-
 Work No: 2
 @article{Busse_2021,
 	doi = {10.1111/bcp.15115},
@@ -30,7 +29,6 @@ Work No: 2
 }
 
 
-
 Work No: 3
 @article{Hethey_2021,
 	doi = {10.1007/s00204-021-03107-y},
@@ -42,7 +40,6 @@ Work No: 3
 	title = {Physiology-based toxicokinetic modelling of aluminium in rat and man},
 	journal = {Archives of Toxicology}
 }
-
 
 
 Work No: 4
@@ -61,7 +58,6 @@ Work No: 4
 }
 
 
-
 Work No: 5
 @article{Kluwe_2020,
 	doi = {10.1002/cpt.2049},
@@ -78,7 +74,6 @@ Work No: 5
 }
 
 
-
 Work No: 6
 @article{Melin_2020,
 	doi = {10.1210/clinem/dgaa071},
@@ -93,6 +88,7 @@ Work No: 6
 	title = {Pharmacokinetic/Pharmacodynamic Evaluation of Hydrocortisone Therapy in Pediatric Patients with Congenital Adrenal Hyperplasia},
 	journal = {The Journal of Clinical Endocrinology {\&} Metabolism}
 }
+
 
 
 Number of education: 0

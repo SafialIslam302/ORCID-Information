@@ -22,7 +22,6 @@ Work No: 1
 }
 
 
-
 Work No: 2
 @article{Rabe_2021,
 	doi = {10.1037/rev0000268},
@@ -39,7 +38,6 @@ Work No: 2
 }
 
 
-
 Work No: 3
 @article{Rabe_2021,
 	doi = {10.31234/osf.io/erzvp},
@@ -52,11 +50,8 @@ Work No: 3
 }
 
 
-
 Work No: 4
 Dynamical Cognitive Modeling of Syntactic Processing and Eye Movement Control in Reading
-
-
 
 
 Work No: 5
@@ -74,20 +69,17 @@ Work No: 5
 }
 
 
-
 Work No: 6
 hypr: An R package for hypothesis-driven contrast coding
-
-
 
 
 Work No: 7
 @article{Rabe2020,title = {Bayesian parameter estimation for the SWIFT model of eye-movement control during reading},journal = {Journal of Mathematical Psychology},year = {2020},volume = {95},author = {Seelig, S.A. and Rabe, M.M. and Malem-Shinitski, N. and Risse, S. and Reich, S. and Engbert, R.}}
 
 
-
 Work No: 8
 @article{Rabe2017,title = {Modulation of additive and interactive effects by trial history revisited},journal = {Memory and Cognition},year = {2017},volume = {45},number = {3},pages = {480-492},author = {Masson, M.E.J. and Rabe, M.M. and Kliegl, R.}}
+
 
 
 Number of education: 3

@@ -44,7 +44,7 @@ for line in lines:
             try:
                 if orcid_res.publications[i].citation_value is None:
                     output.writelines(orcid_res.publications[i].title) #orcid_res.publications[i].title/No thing Found
-                    output.writelines("\n\n")
+                    output.writelines("\n")
                 else:
                     output.writelines(orcid_res.publications[i].citation_value)
                     output.writelines("\n")
@@ -52,25 +52,25 @@ for line in lines:
                 try:
                     if orcid_res.publications[i].title is None:
                         output.writelines("No Information found") #orcid_res.publications[i].title/No thing Found
-                        output.writelines("\n\n")
+                        output.writelines("\n")
                     else:
                         output.writelines(orcid_res.publications[i].title)
-                        output.writelines("\n\n")
+                        output.writelines("\n")
                 except ValueError:
                     output.writelines("No Information found")
                     output.writelines("\n")
 
-            output.writelines("\n\n")
+            output.writelines("\n")
+
+        output.writelines("\n\n")
 
         output.writelines("Number of education: " + str(education_number) + "\n")
         output.writelines("\n")
         output.writelines("Education Details")
         output.writelines("\n")
 
-
         for j in range(education_number):
             output.writelines(str(j+1) + " " + orcid_res.educations[j] + "\n")
-
 
         output.writelines("\n\n")
 
