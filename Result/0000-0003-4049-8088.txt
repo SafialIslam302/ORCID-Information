@@ -4,7 +4,7 @@ Given Name: Ulrike
 
 Number of Works: 1
 
-Work Details
+Works Details
 
 Work No: 1
 @article{Lemcke_2021,
@@ -25,14 +25,37 @@ Work No: 1
 
 Number of education: 3
 
-Education Details
-1 University of Rostock
-2 University of Rostock
-3 University of Rostock
+Education Details: 1
+Department name : Dpt. of Computer Science
+Role : Habilitation
+Organization : University of Rostock
+Address : Rostock
+
+Education Details: 2
+Department name : Dpt. of Computer Science
+Role : PhD (Dr.-Ing.)
+Organization : University of Rostock
+Address : Rostock
+
+Education Details: 3
+Department name : Dpt. of Computer Science
+Role : Diploma
+Organization : University of Rostock
+Address : Rostock
+
 
 
 Number of employment: 2
 
-Employment Details
-1 University of Potsdam
-2 University of Rostock
+Employmenr Details: 1
+Department name : None
+Role : None
+Organization : University of Potsdam
+Address : Potsdam
+
+Employmenr Details: 2
+Department name : None
+Role : None
+Organization : University of Rostock
+Address : Rostock
+

@@ -78,10 +78,10 @@ AuthorBase = dictmapper('AuthorBase', {
     'family_name'       :['person', 'name', 'family-name','value'],
     'given_name'        :['person', 'name', 'given-names','value'],
     'biography'         :['person', 'biography', 'content'],
-    'keywords'          :to(['person', 'keywords'], _parse_keywords),
-    'researcher_urls'   :to(['person', 'researcher-urls','researcher-url'], _parse_researcher_urls),
-    'educations'        :to(['activities-summary', 'educations', 'education-summary'], _parse_affiliations),
-    'employments'       :to(['activities-summary', 'employments', 'employment-summary'], _parse_affiliations)
+    'keywords'          :['person', 'keywords'],
+    'researcher_urls'   :['person', 'researcher-urls','researcher-url'],
+    'educations'        :['activities-summary', 'educations', 'education-summary'],
+    'employments'       :['activities-summary', 'employments', 'employment-summary']
 })
 
 

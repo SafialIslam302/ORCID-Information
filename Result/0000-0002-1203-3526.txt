@@ -4,7 +4,7 @@ Given Name: Angelica Maria
 
 Number of Works: 3
 
-Work Details
+Works Details
 
 Work No: 1
 @article{Castillo_Tibocha_2022,
@@ -17,6 +17,7 @@ Work No: 1
 	title = {Reconstructing the Dynamics of the Outer Electron Radiation Belt by Means of the Standard and Ensemble Kalman Filter With the {VERB}-3D Code}
 }
 
+Works Details
 
 Work No: 2
 @article{Castillo_Tibocha_2021,
@@ -32,6 +33,7 @@ Work No: 2
 	journal = {Space Weather}
 }
 
+Works Details
 
 Work No: 3
 @article{Castillo_Tibocha_2020,
@@ -48,10 +50,13 @@ Work No: 3
 
 Number of education: 0
 
-Education Details
 
 
 Number of employment: 1
 
-Employment Details
-1 Helmholtz-Zentrum Potsdam - Deutsches GeoForschungsZentrum GFZ
+Employmenr Details: 1
+Department name : None
+Role : None
+Organization : Helmholtz-Zentrum Potsdam - Deutsches GeoForschungsZentrum GFZ
+Address : Potsdam
+

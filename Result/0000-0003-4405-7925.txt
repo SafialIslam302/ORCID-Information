@@ -4,11 +4,12 @@ Given Name: Tobias
 
 Number of Works: 2
 
-Work Details
+Works Details
 
 Work No: 1
 Pre-Training on In Vitro and Fine-Tuning on Patient-Derived Data Improves Deep Neural Networks for Anti-Cancer Drug-Sensitivity Prediction
 
+Works Details
 
 Work No: 2
 Matching anticancer compounds and tumor cell lines by neural networks with ranking loss
@@ -17,10 +18,13 @@ Matching anticancer compounds and tumor cell lines by neural networks with ranki
 
 Number of education: 0
 
-Education Details
 
 
 Number of employment: 1
 
-Employment Details
-1 University of Potsdam
+Employmenr Details: 1
+Department name : Department of Computer Science
+Role : Professor
+Organization : University of Potsdam
+Address : Potsdam
+

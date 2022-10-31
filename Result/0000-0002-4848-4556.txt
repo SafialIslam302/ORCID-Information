@@ -4,7 +4,7 @@ Given Name: Noa
 
 Number of Works: 6
 
-Work Details
+Works Details
 
 Work No: 1
 @article{Malem_Shinitski_2022,
@@ -21,10 +21,12 @@ Work No: 1
 	journal = {Entropy}
 }
 
+Works Details
 
 Work No: 2
 Malem-Shinitski, N., Opper, M., Reich, S., Schwetlick, L., Seelig, S.A. and Engbert, R., 2020. A mathematical model of local and global attention in natural scene viewing. PLOS Computational Biology, 16(12), p.e1007880.
 
+Works Details
 
 Work No: 3
 @article{Malem_Shinitski_2020,
@@ -37,14 +39,17 @@ Work No: 3
 	title = {A Mathematical Model of Exploration and Exploitation in Natural Scene Viewing}
 }
 
+Works Details
 
 Work No: 4
 A Mathematical Model of Exploration and Exploitation in Natural Scene Viewing
 
+Works Details
 
 Work No: 5
 A separable two-dimensional random field model of binary response data from multi-day behavioral experiments
 
+Works Details
 
 Work No: 6
 @article{zhang2018estimating, title= {Estimating a Separably Markov Random Field from Binary Observations}, author= {Zhang, Yingzhuo and Malem-Shinitski, Noa and Allsop, Stephen A and M. Tye, Kay and Ba, Demba}, journal= {Neural computation}, volume= {30}, number= {4}, pages= {1046--1079}, year= {2018}, publisher= {MIT Press}}
@@ -55,12 +60,25 @@ Work No: 6
 
 Number of education: 3
 
-Education Details
-1 Universität Potsdam
-2 Technische Universität Berlin
-3 Hebrew University of Jerusalem
+Education Details: 1
+Department name : Mathematics
+Role : PhD
+Organization : Universität Potsdam
+Address : Potsdam
+
+Education Details: 2
+Department name : Computer Science
+Role : Msc.
+Organization : Technische Universität Berlin
+Address : Berlin
+
+Education Details: 3
+Department name : Physics
+Role : Bsc.
+Organization : Hebrew University of Jerusalem
+Address : Jerusalem
+
 
 
 Number of employment: 0
 
-Employment Details

@@ -4,7 +4,7 @@ Given Name: Maximilian
 
 Number of Works: 8
 
-Work Details
+Works Details
 
 Work No: 1
 @article{Engbert_2022,
@@ -21,6 +21,7 @@ Work No: 1
 	journal = {Trends in Cognitive Sciences}
 }
 
+Works Details
 
 Work No: 2
 @article{Rabe_2021,
@@ -37,6 +38,7 @@ Work No: 2
 	journal = {Psychological Review}
 }
 
+Works Details
 
 Work No: 3
 @article{Rabe_2021,
@@ -49,10 +51,12 @@ Work No: 3
 	title = {{ROC} Asymmetry Is Not Diagnostic of Unequal Residual Variance in Gaussian Signal Detection Theory}
 }
 
+Works Details
 
 Work No: 4
 Dynamical Cognitive Modeling of Syntactic Processing and Eye Movement Control in Reading
 
+Works Details
 
 Work No: 5
 @article{Engbert_2020,
@@ -68,14 +72,17 @@ Work No: 5
 	journal = {Bulletin of Mathematical Biology}
 }
 
+Works Details
 
 Work No: 6
 hypr: An R package for hypothesis-driven contrast coding
 
+Works Details
 
 Work No: 7
 @article{Rabe2020,title = {Bayesian parameter estimation for the SWIFT model of eye-movement control during reading},journal = {Journal of Mathematical Psychology},year = {2020},volume = {95},author = {Seelig, S.A. and Rabe, M.M. and Malem-Shinitski, N. and Risse, S. and Reich, S. and Engbert, R.}}
 
+Works Details
 
 Work No: 8
 @article{Rabe2017,title = {Modulation of additive and interactive effects by trial history revisited},journal = {Memory and Cognition},year = {2017},volume = {45},number = {3},pages = {480-492},author = {Masson, M.E.J. and Rabe, M.M. and Kliegl, R.}}
@@ -84,15 +91,43 @@ Work No: 8
 
 Number of education: 3
 
-Education Details
-1 Universität Potsdam
-2 University of Victoria
-3 Universität Potsdam
+Education Details: 1
+Department name : Cognitive Science
+Role : PhD
+Organization : Universität Potsdam
+Address : Potsdam
+
+Education Details: 2
+Department name : Psychology
+Role : Master of Science
+Organization : University of Victoria
+Address : Victoria
+
+Education Details: 3
+Department name : Psychology
+Role : Bachelor of Science
+Organization : Universität Potsdam
+Address : Potsdam
+
 
 
 Number of employment: 3
 
-Employment Details
-1 Universität Potsdam
-2 University of Victoria
-3 Universität Potsdam
+Employmenr Details: 1
+Department name : Experimental and Biological Psychology
+Role : None
+Organization : Universität Potsdam
+Address : Potsdam
+
+Employmenr Details: 2
+Department name : Psychology
+Role : Teaching Assistant
+Organization : University of Victoria
+Address : Victoria
+
+Employmenr Details: 3
+Department name : Psychology
+Role : Teaching and Research Assistant
+Organization : Universität Potsdam
+Address : Potsdam
+

@@ -4,7 +4,7 @@ Given Name: Lisa
 
 Number of Works: 6
 
-Work Details
+Works Details
 
 Work No: 1
 <head>
@@ -12,6 +12,7 @@ Work No: 1
 </head>
 
 
+Works Details
 
 Work No: 2
 @article{Engbert_2021,
@@ -25,6 +26,7 @@ Work No: 2
 	journal = {Trends in Cognitive Sciences}
 }
 
+Works Details
 
 Work No: 3
 @article{Malem_Shinitski_2020,
@@ -42,10 +44,12 @@ Work No: 3
 	journal = {{PLOS} Computational Biology}
 }
 
+Works Details
 
 Work No: 4
 Modeling the effects of perisaccadic attention on gaze statistics during scene viewing
 
+Works Details
 
 Work No: 5
 @article{Malem_Shinitski_2020,
@@ -58,6 +62,7 @@ Work No: 5
 	title = {A Mathematical Model of Exploration and Exploitation in Natural Scene Viewing}
 }
 
+Works Details
 
 Work No: 6
 Modeling the effects of perisaccadic attention on gaze statistics during scene viewing
@@ -66,10 +71,13 @@ Modeling the effects of perisaccadic attention on gaze statistics during scene v
 
 Number of education: 0
 
-Education Details
 
 
 Number of employment: 1
 
-Employment Details
-1 University of Potsdam
+Employmenr Details: 1
+Department name : Biological and Experimental Psychology
+Role : None
+Organization : University of Potsdam
+Address : Potsdam
+

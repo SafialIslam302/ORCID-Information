@@ -4,16 +4,23 @@ Given Name: Agniva
 
 Number of Works: 0
 
-Work Details
 
 
 Number of education: 1
 
-Education Details
-1 Presidency University Kolkata
+Education Details: 1
+Department name : Physics
+Role : MSc
+Organization : Presidency University Kolkata
+Address : Kolkata
+
 
 
 Number of employment: 1
 
-Employment Details
-1 Universität Potsdam
+Employmenr Details: 1
+Department name : Physcis
+Role : Doctoral Research
+Organization : Universität Potsdam
+Address : Potsdam
+

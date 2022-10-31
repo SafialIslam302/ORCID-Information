@@ -28,12 +28,12 @@ Traceback (most recent call last):
     retries = retries.increment(
   File "/mnt/beegfs/apps/miniconda/lib/python3.9/site-packages/urllib3/util/retry.py", line 574, in increment
     raise MaxRetryError(_pool, url, error or ResponseError(cause))
-urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='pub.orcid.org', port=443): Max retries exceeded with url: /v2.1/0000-0002-2909-5811/work/72912336 (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1129)')))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='pub.orcid.org', port=443): Max retries exceeded with url: /v2.1/0000-0002-2909-5811/work/72912337 (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1129)')))
 
 During handling of the above exception, another exception occurred:
 
 Traceback (most recent call last):
-  File "/mnt/beegfs/home/ayon/ORCID-Information/run.py", line 45, in <module>
+  File "/mnt/beegfs/home/ayon/ORCID-Information/run.py", line 46, in <module>
     if orcid_res.publications[i].citation_value is None:
   File "/mnt/beegfs/home/ayon/ORCID-Information/restfull.py", line 131, in publications
     return self._loaded_works.publications
@@ -53,8 +53,5 @@ Traceback (most recent call last):
     r = adapter.send(request, **kwargs)
   File "/mnt/beegfs/apps/miniconda/lib/python3.9/site-packages/requests/adapters.py", line 517, in send
     raise SSLError(e, request=request)
-requests.exceptions.SSLError: HTTPSConnectionPool(host='pub.orcid.org', port=443): Max retries exceeded with url: /v2.1/0000-0002-2909-5811/work/72912336 (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1129)')))
-srun: error: hpc-node28: task 1: Exited with exit code 1
-srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
-slurmstepd-hpc-node28: error: *** JOB 185469 ON hpc-node28 CANCELLED AT 2022-10-24T21:58:35 ***
-slurmstepd-hpc-node28: error: *** STEP 185469.0 ON hpc-node28 CANCELLED AT 2022-10-24T21:58:35 ***
+requests.exceptions.SSLError: HTTPSConnectionPool(host='pub.orcid.org', port=443): Max retries exceeded with url: /v2.1/0000-0002-2909-5811/work/72912337 (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1129)')))
+srun: error: hpc-node28: task 0: Exited with exit code 1

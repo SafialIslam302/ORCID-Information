@@ -4,7 +4,7 @@ Given Name: Alexander
 
 Number of Works: 2
 
-Work Details
+Works Details
 
 Work No: 1
 @article{Houdebert_2022,
@@ -19,6 +19,7 @@ Work No: 1
 	journal = {Journal of Applied Probability}
 }
 
+Works Details
 
 Work No: 2
 @article{R_lly_2020,
@@ -39,11 +40,19 @@ Work No: 2
 
 Number of education: 0
 
-Education Details
 
 
 Number of employment: 2
 
-Employment Details
-1 WIAS Berlin
-2 Universität Potsdam
+Employmenr Details: 1
+Department name : None
+Role : PostDoc
+Organization : WIAS Berlin
+Address : Berlin
+
+Employmenr Details: 2
+Department name : Mathematics
+Role : PhD student
+Organization : Universität Potsdam
+Address : Potsdam
+

@@ -4,7 +4,7 @@ Given Name: Wilhelm
 
 Number of Works: 6
 
-Work Details
+Works Details
 
 Work No: 1
 <head>
@@ -12,6 +12,7 @@ Work No: 1
 </head>
 
 
+Works Details
 
 Work No: 2
 @article{Busse_2021,
@@ -28,6 +29,7 @@ Work No: 2
 	journal = {British Journal of Clinical Pharmacology}
 }
 
+Works Details
 
 Work No: 3
 @article{Hethey_2021,
@@ -41,6 +43,7 @@ Work No: 3
 	journal = {Archives of Toxicology}
 }
 
+Works Details
 
 Work No: 4
 @article{Busse_2021,
@@ -57,6 +60,7 @@ Work No: 4
 	journal = {Pharmaceutics}
 }
 
+Works Details
 
 Work No: 5
 @article{Kluwe_2020,
@@ -73,6 +77,7 @@ Work No: 5
 	journal = {Clinical Pharmacology {\&} Therapeutics}
 }
 
+Works Details
 
 Work No: 6
 @article{Melin_2020,
@@ -93,9 +98,7 @@ Work No: 6
 
 Number of education: 0
 
-Education Details
 
 
 Number of employment: 0
 
-Employment Details
