@@ -4,9 +4,9 @@ Given Name: Christian
 
 Number of Works: 7
 
-Works Details
 
-Work No: 1
+
+Work Details No: 1
 @article{Marco_Figuera_2022,
 	doi = {10.3390/rs14030450},
 	url = {https://doi.org/10.3390%2Frs14030450},
@@ -21,17 +21,17 @@ Work No: 1
 	journal = {Remote Sensing}
 }
 
-Works Details
 
-Work No: 2
+
+Work Details No: 2
 <head>
 <META HTTP-EQUIV="Refresh" CONTENT="0;URL=/servlet/useragent">
 </head>
 
 
-Works Details
 
-Work No: 3
+
+Work Details No: 3
 @article{Orgel_2020,
 	doi = {10.1029/2019je006212},
 	url = {https://doi.org/10.1029%2F2019je006212},
@@ -45,9 +45,9 @@ Work No: 3
 	journal = {Journal of Geophysical Research: Planets}
 }
 
-Works Details
 
-Work No: 4
+
+Work Details No: 4
 @article{Riedel_2020,
 	doi = {10.1029/2019je006273},
 	url = {https://doi.org/10.1029%2F2019je006273},
@@ -61,9 +61,9 @@ Work No: 4
 	journal = {Journal of Geophysical Research: Planets}
 }
 
-Works Details
 
-Work No: 5
+
+Work Details No: 5
 @article{Riedel_2018,
 	doi = {10.1002/2018ea000383},
 	url = {https://doi.org/10.1002%2F2018ea000383},
@@ -78,14 +78,14 @@ Work No: 5
 	journal = {Earth and Space Science}
 }
 
-Works Details
 
-Work No: 6
+
+Work Details No: 6
 @article{Orgel_2018,	doi = {10.1002/2017je005451},	url = {https://doi.org/10.1002%2F2017je005451},	year = 2018,	month = {mar},	publisher = {American Geophysical Union ({AGU})},	volume = {123},	number = {3},	pages = {748--762},	author = {Csilla Orgel and Gregory Michael and Caleb I. Fassett and Carolyn H. van~der~Bogert and Christian Riedel and Thomas Kneissl and Harald Hiesinger},	title = {Ancient Bombardment of the Inner Solar System: Reinvestigation of the {\textquotedblleft}Fingerprints{\textquotedblright} of Different Impactor Populations on the Lunar Surface},	journal = {Journal of Geophysical Research: Planets}}
 
-Works Details
 
-Work No: 7
+
+Work Details No: 7
 @article{Riedel2018,title = {Ancient Bombardment of the Inner Solar System: Reinvestigation of the ?Fingerprints? of Different Impactor Populations on the Lunar Surface},journal = {Journal of Geophysical Research: Planets},year = {2018},volume = {123},number = {3},pages = {748-762},author = {Orgel, C. and Michael, G. and Fassett, C.I. and van~der~Bogert, C.H. and Riedel, C. and Kneissl, T. and Hiesinger, H.}}
 
 

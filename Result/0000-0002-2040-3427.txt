@@ -4,9 +4,9 @@ Given Name: Vladimir
 
 Number of Works: 87
 
-Works Details
 
-Work No: 1
+
+Work Details No: 1
 @article{ISI:000262636800001, Author= {Dalalyan, Arnak S. and Juditsky, Anatoly and Spokoiny, Vladimir}, Title= {{A New Algorithm for Estimating the Effective Dimension-Reduction
    Subspace}}, Journal= {{JOURNAL OF MACHINE LEARNING RESEARCH}}, Year= {{2008}}, Volume= {{9}}, Pages= {{1647-1678}}, Month= {{AUG}}, Abstract= {{The statistical problem of estimating the effective dimension-reduction
    (EDR) subspace in the multi-index regression model with deterministic
@@ -37,9 +37,9 @@ Work No: 1
 
 
 
-Works Details
 
-Work No: 2
+
+Work Details No: 2
 @inproceedings{ISI:000236486300019, Author= {Kawanabe, M and Blanchard, G and Sugiyama, M and Spokoiny, V and Muller,
    KR}, Editor= {{Rosca, J and Erdogmus, D and Principe, JC and Haykin, S}}, Title= {{A novel dimension reduction procedure for searching non-Gaussian
    subspaces}}, Booktitle= {{INDEPENDENT COMPONENT ANALYSIS AND BLIND SIGNAL SEPARATION, PROCEEDINGS}}, Series= {{Lecture Notes in Computer Science}}, Year= {{2006}}, Volume= {{3889}}, Pages= {{149-156}}, Note= {{6th International Conference on Independent Component Analysis and Blind
@@ -61,9 +61,9 @@ Work No: 2
 
 
 
-Works Details
 
-Work No: 3
+
+Work Details No: 3
 @article{ISI:000476740600018, Author= {Efimov, Kirill and Adamyan, Larisa and Spokoiny, Vladimir}, Title= {{Adaptive Nonparametric Clustering}}, Journal= {{IEEE TRANSACTIONS ON INFORMATION THEORY}}, Year= {{2019}}, Volume= {{65}}, Number= {{8}}, Pages= {{4875-4892}}, Month= {{AUG}}, Abstract= {{This paper presents a new approach to non-parametric cluster analysis
    called adaptive weights' clustering. The method is fully adaptive and
    does not require to specify the number of clusters or their structure.
@@ -85,9 +85,9 @@ Work No: 3
 
 
 
-Works Details
 
-Work No: 4
+
+Work Details No: 4
 @article{ISI:000165456000007, Author= {Spokoiny, VG}, Title= {{Adaptive drift estimation for nonparametric diffusion model}}, Journal= {{ANNALS OF STATISTICS}}, Year= {{2000}}, Volume= {{28}}, Number= {{3}}, Pages= {{815-836}}, Month= {{JUN}}, Abstract= {{We consider a nonparametric diffusion process whose drift and diffusion
    coefficients are nonparametric functions of the state variable. The goal
    is to estimate the unknown drift coefficient. We apply a locally linear
@@ -103,9 +103,9 @@ Work No: 4
 
 
 
-Works Details
 
-Work No: 5
+
+Work Details No: 5
 @article{ISI:000366638500022, Author= {Gitis, V. G. and Derendyaev, A. B. and Pirogov, S. A. and Spokoiny, V.
    G. and Yurkov, E. F.}, Title= {{Adaptive estimation of seismic parameter fields from earthquake catalogs}}, Journal= {{JOURNAL OF COMMUNICATIONS TECHNOLOGY AND ELECTRONICS}}, Year= {{2015}}, Volume= {{60}}, Number= {{12}}, Pages= {{1459-1465}}, Month= {{DEC}}, Abstract= {{A new approach to estimation of the parameters of inhomogeneous
    spatio-temporal marked point fields is considered. The approach is based
@@ -122,9 +122,9 @@ Work No: 5
 
 
 
-Works Details
 
-Work No: 6
+
+Work Details No: 6
 @article{ISI:000379343100022, Author= {Gitis, V. G. and Derendyaev, A. B. and Pirogov, S. A. and Spokoiny, V.
    G. and Yurkov, E. F.}, Title= {{Adaptive estimation of seismic parameter fields from earthquake catalogs
    (vol 60, pg 1459, 2015)}}, Journal= {{JOURNAL OF COMMUNICATIONS TECHNOLOGY AND ELECTRONICS}}, Year= {{2016}}, Volume= {{61}}, Number= {{6}}, Pages= {{747}}, Month= {{JUN}}, DOI= {{10.1134/S106422691606019X}}, ISSN= {{1064-2269}}, EISSN= {{1555-6557}}, ResearcherID-Numbers= {{Spokoiny, Vladimir/L-5441-2015
@@ -133,9 +133,9 @@ Work No: 6
 
 
 
-Works Details
 
-Work No: 7
+
+Work Details No: 7
 @article{ISI:A1996WK45900008, Author= {Spokoiny, VG}, Title= {{Adaptive hypothesis testing using wavelets}}, Journal= {{ANNALS OF STATISTICS}}, Year= {{1996}}, Volume= {{24}}, Number= {{6}}, Pages= {{2477-2498}}, Month= {{DEC}}, Abstract= {{Let a function f be observed with a noise. We wish to test the null
    hypothesis that the function is identically zero, against a composite
    nonparametric alternative: functions from the alternative set are
@@ -156,9 +156,9 @@ Work No: 7
 
 
 
-Works Details
 
-Work No: 8
+
+Work Details No: 8
 @inproceedings{ISI:000083408300077, Author= {Polzehl, J and Spokoiny, VG}, Editor= {{Weisberg, S}}, Title= {{Adaptive image denoising with applications to MRI}}, Booktitle= {{DIMENSION REDUCTION, COMPUTATIONAL COMPLEXITY AND INFORMATION}}, Series= {{COMPUTING SCIENCE AND STATISTICS (SERIES)}}, Year= {{1998}}, Volume= {{30}}, Pages= {{437-442}}, Note= {{30th Symposium on Interface Between Computing Science and Statistics,
    MINNEAPOLIS, MN, MAY 13-16, 1998}}, Organization= {{Nat Security Agcy; Univ Minnesota, Coll Liberal Arts; SAS Inst Inc}}, Abstract= {{In many regression problems discontinuities of the regression function
    play an important role. This is especially the case when analyzing data
@@ -178,9 +178,9 @@ Work No: 8
 
 
 
-Works Details
 
-Work No: 9
+
+Work Details No: 9
 @article{ISI:000268217700004, Author= {Cizek, P. and Haerdle, W. and Spokoiny, V.}, Title= {{Adaptive pointwise estimation in time-inhomogeneous conditional
    heteroscedasticity models}}, Journal= {{ECONOMETRICS JOURNAL}}, Year= {{2009}}, Volume= {{12}}, Number= {{2}}, Pages= {{248-271}}, Abstract= {{This paper offers a new method for estimation and forecasting of the
    volatility of financial time series when the stationarity assumption is
@@ -204,9 +204,9 @@ Work No: 9
 
 
 
-Works Details
 
-Work No: 10
+
+Work Details No: 10
 @article{ISI:000086433600008, Author= {Polzehl, J and Spokoiny, VG}, Title= {{Adaptive weights smoothing with applications to image restoration}}, Journal= {{JOURNAL OF THE ROYAL STATISTICAL SOCIETY SERIES B-STATISTICAL
    METHODOLOGY}}, Year= {{2000}}, Volume= {{62}}, Number= {{2}}, Pages= {{335-354}}, Abstract= {{We propose a new method of nonparametric estimation which is based on
    locally constant smoothing with an adaptive choice of weights for every
@@ -222,9 +222,9 @@ Work No: 10
 
 
 
-Works Details
 
-Work No: 11
+
+Work Details No: 11
 @article{ISI:000177425500004, Author= {Kent, JT and Bowman, A and Velilla, S and Zhang, WY and Critchley, F and
    Atkinson, A and Yao, QW and Welsh, AH and Cui, HJ and Li, GY and
    Spokoiny, V and Chan, KS and Li, MC and Cizek, P and Hardle, W and Yang,
@@ -247,9 +247,9 @@ Work No: 11
 
 
 
-Works Details
 
-Work No: 12
+
+Work Details No: 12
 @article{ISI:000518567600002, Author= {Puchkin, Nikita and Spokoiny, Vladimir}, Title= {{An adaptive multiclass nearest neighbor classifier{*}}}, Journal= {{ESAIM-PROBABILITY AND STATISTICS}}, Year= {{2020}}, Volume= {{24}}, Pages= {{69-99}}, Month= {{FEB 27}}, Abstract= {{We consider a problem of multiclass classification, where the training
    sample S\_n=\{(X-i,Y-i)\}(n)(i=1) is generated from the model
    DOUBLE-STRUCK CAPITAL P(Y = m|X = x) = eta(m)(x), 1 <= m <= M, and
@@ -272,9 +272,9 @@ Work No: 12
 
 
 
-Works Details
 
-Work No: 13
+
+Work Details No: 13
 @article{ISI:000168438500003, Author= {Horowitz, JL and Spokoiny, VG}, Title= {{An adaptive, rate-optimal test of a parametric mean-regression model
    against a nonparametric alternative}}, Journal= {{ECONOMETRICA}}, Year= {{2001}}, Volume= {{69}}, Number= {{3}}, Pages= {{599-631}}, Month= {{MAY}}, Abstract= {{We develop a new test of a parametric model of a conditional mean
    function against a nonparametric alternative. The test adapts to the
@@ -295,9 +295,9 @@ Work No: 13
 
 
 
-Works Details
 
-Work No: 14
+
+Work Details No: 14
 @article{ISI:000178018500023, Author= {Horowitz, JL and Spokoiny, VG}, Title= {{An adaptive, rate-optimal test of linearity for median regression models}}, Journal= {{JOURNAL OF THE AMERICAN STATISTICAL ASSOCIATION}}, Year= {{2002}}, Volume= {{97}}, Number= {{459}}, Pages= {{822-835}}, Month= {{SEP}}, Abstract= {{This article is concerned with testing the hypothesis that a conditional
    median function is linear against a nonparametric alternative with
    unknown smoothness. We develop a test that is uniformly consistent
@@ -312,9 +312,9 @@ Work No: 14
 
 
 
-Works Details
 
-Work No: 15
+
+Work Details No: 15
 @article{ISI:000241209800008, Author= {Tabelow, Karsten and Polzehl, Joerg and Voss, Henning U. and Spokoiny,
    Vladimir}, Title= {{Analyzing fMRI experiments with structural adaptive smoothing procedures}}, Journal= {{NEUROIMAGE}}, Year= {{2006}}, Volume= {{33}}, Number= {{1}}, Pages= {{55-62}}, Month= {{OCT 15}}, Abstract= {{Data from functional magnetic resonance imaging (fMRI) consist of time
    series of brain images that are characterized by a low signal-to-noise
@@ -343,9 +343,9 @@ Work No: 15
 
 
 
-Works Details
 
-Work No: 16
+
+Work Details No: 16
 @article{ISI:000363437900012, Author= {Spokoiny, Vladimir and Zhilova, Mayya}, Title= {{BOOTSTRAP CONFIDENCE SETS UNDER MODEL MISSPECIFICATION}}, Journal= {{ANNALS OF STATISTICS}}, Year= {{2015}}, Volume= {{43}}, Number= {{6}}, Pages= {{2653-2675}}, Month= {{DEC}}, Abstract= {{A multiplier bootstrap procedure for construction of likelihood-based
    confidence sets is considered for finite samples and a possible model
    misspecification. Theoretical results justify the bootstrap validity for
@@ -364,9 +364,9 @@ Work No: 16
 
 
 
-Works Details
 
-Work No: 17
+
+Work Details No: 17
 @article{ISI:000458503800006, Author= {Spokoiny, Vladimir and Willrich, Niklas}, Title= {{BOOTSTRAP TUNING IN GAUSSIAN ORDERED MODEL SELECTION}}, Journal= {{ANNALS OF STATISTICS}}, Year= {{2019}}, Volume= {{47}}, Number= {{3}}, Pages= {{1351-1380}}, Month= {{JUN}}, Abstract= {{The paper focuses on the problem of model selection in linear Gaussian
    regression with unknown possibly inhomogeneous noise. For a given family
    of linear estimators \{(theta) over tilde (m), m is an element of M\},
@@ -391,9 +391,9 @@ Work No: 17
 
 
 
-Works Details
 
-Work No: 18
+
+Work Details No: 18
 @article{ISI:000438839900059, Author= {Silin, Igor and Spokoiny, Vladimir}, Title= {{Bayesian inference for spectral projectors of the covariance matrix}}, Journal= {{ELECTRONIC JOURNAL OF STATISTICS}}, Year= {{2018}}, Volume= {{12}}, Number= {{1}}, Pages= {{1948-1987}}, Abstract= {{Let X-1, . . . , X-n be an i.i.d. sample in R-P with zero mean and the
    covariance matrix Sigma{*}. The classical PCA approach recovers the
    projector P{*}(J) onto the principal eigenspace of Sigma{*} by its
@@ -418,9 +418,9 @@ Work No: 18
 
 
 
-Works Details
 
-Work No: 19
+
+Work Details No: 19
 @article{ISI:000475710400010, Author= {Naumov, Alexey and Spokoiny, Vladimir and Ulyanov, Vladimir}, Title= {{Bootstrap confidence sets for spectral projectors of sample covariance}}, Journal= {{PROBABILITY THEORY AND RELATED FIELDS}}, Year= {{2019}}, Volume= {{174}}, Number= {{3-4}}, Pages= {{1091-1132}}, Month= {{AUG}}, Abstract= {{Let X1, ... ,X-n be i.i.d. sample in Rp with zero mean and the
    covariance matrix Sigma. The problem of recovering the projector onto an
    eigenspace of Sigma from these observations naturally arises in many
@@ -447,9 +447,9 @@ Work No: 19
 
 
 
-Works Details
 
-Work No: 20
+
+Work Details No: 20
 @article{ISI:000337502000008, Author= {Belomestny, D. and Spokoiny, V.}, Title= {{CONCENTRATION INEQUALITIES FOR SMOOTH RANDOM FIELDS}}, Journal= {{THEORY OF PROBABILITY AND ITS APPLICATIONS}}, Year= {{2014}}, Volume= {{58}}, Number= {{2}}, Pages= {{314-U180}}, Abstract= {{In this paper we derive a sharp concentration inequality for the
    supremum of a smooth random field over a finite dimensional set. It is
    shown that this supremum can be bounded with high probability by the
@@ -466,9 +466,9 @@ Work No: 20
 
 
 
-Works Details
 
-Work No: 21
+
+Work Details No: 21
 @article{ISI:000233311300007, Author= {Samarov, A and Spokoiny, V and Vial, C}, Title= {{Component identification and estimation in nonlinear high-dimensional
    regression models by structural adaptation}}, Journal= {{JOURNAL OF THE AMERICAN STATISTICAL ASSOCIATION}}, Year= {{2005}}, Volume= {{100}}, Number= {{470}}, Pages= {{429-445}}, Month= {{JUN}}, Abstract= {{This article proposes a new method of analysis of a partially linear
    model whose nonlinear component is completely unknown. The target of
@@ -492,9 +492,9 @@ Work No: 21
 
 
 
-Works Details
 
-Work No: 22
+
+Work Details No: 22
 @article{ISI:000449956100025, Author= {Naumov, A. A. and Spokoiny, V. G. and Ulyanov, V. V.}, Title= {{Confidence Sets for Spectral Projectors of Covariance Matrices}}, Journal= {{DOKLADY MATHEMATICS}}, Year= {{2018}}, Volume= {{98}}, Number= {{2}}, Pages= {{511-514}}, Month= {{SEP}}, Abstract= {{A sample consisting of independent identically distributed vectors in
    with zero mean and a covariance matrix is considered. The recovery of
    spectral projectors of high-dimensional covariance matrices from a
@@ -519,9 +519,9 @@ Work No: 22
 
 
 
-Works Details
 
-Work No: 23
+
+Work Details No: 23
 @article{ISI:000346853800019, Author= {Milstein, G. N. and Spokoiny, V.}, Title= {{Construction of Mean-Self-Financing Strategies for European Options
    under Regime-Switching}}, Journal= {{SIAM JOURNAL ON FINANCIAL MATHEMATICS}}, Year= {{2014}}, Volume= {{5}}, Number= {{1}}, Pages= {{532-556}}, Abstract= {{The paper focuses on the problem of pricing and hedging a European
    contingent claim for an incomplete market model, in which evolution of
@@ -543,9 +543,9 @@ Work No: 23
 
 
 
-Works Details
 
-Work No: 24
+
+Work Details No: 24
 @article{ISI:000391522300001, Author= {Andresen, Andreas and Spokoiny, Vladimir}, Title= {{Convergence of an Alternating Maximization Procedure}}, Journal= {{JOURNAL OF MACHINE LEARNING RESEARCH}}, Year= {{2016}}, Volume= {{17}}, Abstract= {{We derive two convergence results for a sequential alternating
    maximization procedure to approximate the maximizer of random
    functionals such as the realized log likelihood in MLE estimation. We
@@ -560,9 +560,9 @@ Work No: 24
 
 
 
-Works Details
 
-Work No: 25
+
+Work Details No: 25
 @article{ISI:000350817200072, Author= {Andresen, Andreas and Spokoiny, Vladimir}, Title= {{Critical dimension in profile semiparametric estimation}}, Journal= {{ELECTRONIC JOURNAL OF STATISTICS}}, Year= {{2014}}, Volume= {{8}}, Pages= {{3077-3125}}, Abstract= {{This paper revisits the classical inference results for profile quasi
    maximum likelihood estimators (profile MLE) in semiparametric models. We
    mainly focus on two prominent theorems: the Wilks phenomenon and Fisher
@@ -584,9 +584,9 @@ Work No: 25
 
 
 
-Works Details
 
-Work No: 26
+
+Work Details No: 26
 @article{ISI:000348379600014, Author= {Panov, Maxim E. and Spokoiny, Vladimir G.}, Title= {{Critical dimension in the semiparametric Bernstein-von Mises theorem}}, Journal= {{PROCEEDINGS OF THE STEKLOV INSTITUTE OF MATHEMATICS}}, Year= {{2014}}, Volume= {{287}}, Number= {{1}}, Pages= {{232-255}}, Month= {{DEC}}, Abstract= {{The classical parametric and semiparametric Bernstein-von Mises (BvM)
    results are reconsidered in a nonclassical setup allowing finite samples
    and model misspecification. In the parametric case and in the case of a
@@ -608,9 +608,9 @@ Work No: 26
 
 
 
-Works Details
 
-Work No: 27
+
+Work Details No: 27
 @article{ISI:000376653200003, Author= {Kalinina, Anastasia S. and Suvorikova, Alexandra L. and Spokoiny,
    Vladimir G. and Gelfand, Mikhail S.}, Title= {{Detection of homologous recombination in closely related strains}}, Journal= {{JOURNAL OF BIOINFORMATICS AND COMPUTATIONAL BIOLOGY}}, Year= {{2016}}, Volume= {{14}}, Number= {{2, SI}}, Month= {{APR}}, Abstract= {{Detection of recombination events in a bacterial genome is both
    important from the evolutionary point of view, and of practical
@@ -640,9 +640,9 @@ Work No: 27
 
 
 
-Works Details
 
-Work No: 28
+
+Work Details No: 28
 @article{ISI:000084521600004, Author= {Liptser, R and Spokoiny, V}, Title= {{Deviation probability bound for martingales with applications to
    statistical estimation}}, Journal= {{STATISTICS \& PROBABILITY LETTERS}}, Year= {{2000}}, Volume= {{46}}, Number= {{4}}, Pages= {{347-357}}, Month= {{FEB 15}}, Abstract= {{Let M-t be a vector martingale and {[}M](t) denote its predictable
    quadratic variation. In this paper we present a bound for the
@@ -657,9 +657,9 @@ Work No: 28
 
 
 
-Works Details
 
-Work No: 29
+
+Work Details No: 29
 @article{ISI:000253241800025, Author= {Tabelow, Karsten and Polzehl, Joerg and Spokoiny, Vladimir and Voss,
    Henning U.}, Title= {{Diffusion tensor imaging: Structural adaptive smoothing}}, Journal= {{NEUROIMAGE}}, Year= {{2008}}, Volume= {{39}}, Number= {{4}}, Pages= {{1763-1773}}, Month= {{FEB 15}}, Abstract= {{Diffusion Tensor Imaging (DTI) data is characterized by a high noise
    level. Thus, estimation errors of quantities like anisotropy indices or
@@ -688,9 +688,9 @@ Work No: 29
 
 
 
-Works Details
 
-Work No: 30
+
+Work Details No: 30
 @article{ISI:000171964300001, Author= {Hristache, M and Juditsky, A and Spokoiny, V}, Title= {{Direct estimation of the index coefficient in a single-index model}}, Journal= {{ANNALS OF STATISTICS}}, Year= {{2001}}, Volume= {{29}}, Number= {{3}}, Pages= {{595-623}}, Month= {{JUN}}, Abstract= {{Single-index modeling is widely applied in, for example, econometric
    studies as a compromise between too restrictive parametric models and
    flexible but hardly estimable purely nonparametric, models. By such
@@ -715,9 +715,9 @@ Work No: 30
 
 
 
-Works Details
 
-Work No: 31
+
+Work Details No: 31
 @inproceedings{ISI:000188793600021, Author= {Cheng, MY and Fan, JQ and Spokoiny, V}, Editor= {{Akritas, MG and Politis, DN}}, Title= {{Dynamic nonparametric filtering with application to volatility
    estimation}}, Booktitle= {{RECENT ADVANCES AND TRENDS IN NONPARAMETRIC STATISTICS}}, Year= {{2003}}, Pages= {{315-333}}, Note= {{International Conference on Recent Advances and Trends in NonParametric
    Statistics, IRAKLION, GREECE, JUL 15-19, 2002}}, Abstract= {{Problems of nonparametric filtering arises frequently in engineering and
@@ -740,9 +740,9 @@ Work No: 31
 
 
 
-Works Details
 
-Work No: 32
+
+Work Details No: 32
 @article{ISI:000079135600007, Author= {Spokoiny, VG}, Title= {{Estimation of a function with discontinuities via local polynomial fit
    with an adaptive window choice}}, Journal= {{ANNALS OF STATISTICS}}, Year= {{1998}}, Volume= {{26}}, Number= {{4}}, Pages= {{1356-1378}}, Month= {{AUG}}, Abstract= {{We propose a method of adaptive estimation of a regression function
    which is near optimal in the classical sense of the mean integrated
@@ -760,9 +760,9 @@ Work No: 32
 
 
 
-Works Details
 
-Work No: 33
+
+Work Details No: 33
 @article{ISI:A1996UR80700002, Author= {Korostelev, AP and Spokoiny, VG}, Title= {{Exact asymptotics of minimax Bahadur risk in Lipschitz regression}}, Journal= {{STATISTICS}}, Year= {{1996}}, Volume= {{28}}, Number= {{1}}, Pages= {{13-24}}, Abstract= {{The estimation problem for a Lipschitz regression at a point is studied.
    The exact limiting performance of the Bahadur risk is found in the
    minimax sense, the asymptotics being presented in the explicit form in
@@ -772,9 +772,9 @@ Work No: 33
 
 
 
-Works Details
 
-Work No: 34
+
+Work Details No: 34
 @article{ISI:000207855200029, Author= {Golubev, Yuri and Spokoiny, Vladimir}, Title= {{Exponential bounds for minimum contrast estimators}}, Journal= {{ELECTRONIC JOURNAL OF STATISTICS}}, Year= {{2009}}, Volume= {{3}}, Pages= {{712-746}}, Abstract= {{The paper focuses on general properties of parametric minimum contrast
    estimators. The quality of estimation is measured in terms of the rate
    function related to the contrast, thus allowing to derive exponential
@@ -802,9 +802,9 @@ Work No: 34
 
 
 
-Works Details
 
-Work No: 35
+
+Work Details No: 35
 @article{ISI:000358998700005, Author= {Panov, Maxim and Spokoiny, Vladimir}, Title= {{Finite Sample Bernstein - von Mises Theorem for Semiparametric Problems}}, Journal= {{BAYESIAN ANALYSIS}}, Year= {{2015}}, Volume= {{10}}, Number= {{3}}, Pages= {{665-710}}, Month= {{SEP}}, Abstract= {{The classical parametric and semiparametric Bernstein - von Mises (BvM)
    results are reconsidered in a non-classical setup allowing finite
    samples and model misspecification. In the case of a finite dimensional
@@ -827,9 +827,9 @@ Work No: 35
 
 
 
-Works Details
 
-Work No: 36
+
+Work Details No: 36
 @article{ISI:000248769900006, Author= {Milstein, G. N. and Schoenmakers, J. G. M. and Spokoiny, V.}, Title= {{Forward and reverse representations for Markov chains}}, Journal= {{STOCHASTIC PROCESSES AND THEIR APPLICATIONS}}, Year= {{2007}}, Volume= {{117}}, Number= {{8}}, Pages= {{1052-1075}}, Month= {{AUG}}, Abstract= {{In this paper we carry over the concept of reverse probabilistic
    representations developed in Milstein, Schoenmakers, Spokoiny {[}G.N.
    Milstein, J.G.M. Schoenmakers, V. Spokoiny, Transition density
@@ -847,9 +847,9 @@ Work No: 36
 
 
 
-Works Details
 
-Work No: 37
+
+Work Details No: 37
 @article{ISI:000171983000006, Author= {Polzehl, J and Spokoiny, VG}, Title= {{Functional and dynamic magnetic resonance imaging using vector adaptive
    weights smoothing}}, Journal= {{JOURNAL OF THE ROYAL STATISTICAL SOCIETY SERIES C-APPLIED STATISTICS}}, Year= {{2001}}, Volume= {{50}}, Number= {{4}}, Pages= {{485-501}}, Abstract= {{We consider the problem of statistical inference for functional and
    dynamic magnetic resonance imaging (MRI). A new approach is proposed
@@ -868,9 +868,9 @@ Work No: 37
 
 
 
-Works Details
 
-Work No: 38
+
+Work Details No: 38
 @article{ISI:000276124200006, Author= {Chen, Ying and Haerdle, Wolfgang and Spokoiny, Vladimir}, Title= {{GHICA - Risk analysis with GH distributions and independent components}}, Journal= {{JOURNAL OF EMPIRICAL FINANCE}}, Year= {{2010}}, Volume= {{17}}, Number= {{2, SI}}, Pages= {{255-269}}, Month= {{MAR}}, Note= {{Deutsche Bundesbank Fall Conference, Eltville, GERMANY, NOV 10-12, 2005}}, Abstract= {{Over recent years, a study on risk management has been prompted by the
    Basel committee for regular banking supervisory. There are however
    limitations of some widely-used risk management methods that either
@@ -902,9 +902,9 @@ Work No: 38
 
 
 
-Works Details
 
-Work No: 39
+
+Work Details No: 39
 @article{ISI:000587719400008, Author= {Bachoc, Francois and Suvorikova, Alexandra and Ginsbourger, David and
    Loubes, Jean-Michel and Spokoiny, Vladimir}, Title= {{Gaussian processes with multidimensional distribution inputs via optimal
    transport and Hilbertian embedding}}, Journal= {{ELECTRONIC JOURNAL OF STATISTICS}}, Year= {{2020}}, Volume= {{14}}, Number= {{2}}, Pages= {{2742-2772}}, Abstract= {{In this work, we propose a way to construct Gaussian processes indexed
@@ -922,9 +922,9 @@ Work No: 39
 
 
 
-Works Details
 
-Work No: 40
+
+Work Details No: 40
 @article{ISI:000181574200002, Author= {Polzehl, J and Spokoiny, V}, Title= {{Image denoising: Pointwise adaptive approach}}, Journal= {{ANNALS OF STATISTICS}}, Year= {{2003}}, Volume= {{31}}, Number= {{1}}, Pages= {{30-57}}, Month= {{FEB}}, Abstract= {{A new method of pointwise adaptation has been proposed and studied in
    Spokoiny {[}(1998) Ann. Statist. 26 1356-1378] in the context of
    estimation of piecewise smooth univariate functions. The present paper
@@ -951,9 +951,9 @@ Work No: 40
 
 
 
-Works Details
 
-Work No: 41
+
+Work Details No: 41
 @article{ISI:000236331700003, Author= {Blanchard, G and Kawanabe, M and Sugiyama, M and Spokoiny, V and Muller,
    KR}, Title= {{In search of non-Gaussian components of a high-dimensional distribution}}, Journal= {{JOURNAL OF MACHINE LEARNING RESEARCH}}, Year= {{2006}}, Volume= {{7}}, Pages= {{247-282}}, Month= {{FEB}}, Abstract= {{Finding non-Gaussian components of high-dimensional data is an important
    preprocessing step for efficient information processing. This article
@@ -977,9 +977,9 @@ Work No: 41
 
 
 
-Works Details
 
-Work No: 42
+
+Work Details No: 42
 @article{ISI:000268506500007, Author= {Giacomini, Enzo and Haerdle, Wolfgang and Spokoiny, Vladimir}, Title= {{Inhomogeneous Dependence Modeling with Time-Varying Copulae}}, Journal= {{JOURNAL OF BUSINESS \& ECONOMIC STATISTICS}}, Year= {{2009}}, Volume= {{27}}, Number= {{2}}, Pages= {{224-234}}, Month= {{APR}}, Abstract= {{Measuring dependence in multivariate time series is tantamount to
    modeling its dynamic structure in space and time. In risk management,
    the nonnormal behavior of most financial time series calls for
@@ -998,9 +998,9 @@ Work No: 42
 
 
 
-Works Details
 
-Work No: 43
+
+Work Details No: 43
 @article{ISI:000485825100005, Author= {Goetze, Friedrich and Naumov, Alexey and Spokoiny, Vladimir and Ulyanov,
    Vladimir}, Title= {{Large ball probabilities, Gaussian comparison and anti-concentration}}, Journal= {{BERNOULLI}}, Year= {{2019}}, Volume= {{25}}, Number= {{4A}}, Pages= {{2538-2563}}, Month= {{NOV}}, Abstract= {{We derive tight non-asymptotic bounds for the Kolmogorov distance
    between the probabilities of two Gaussian elements to hit a ball in a
@@ -1021,9 +1021,9 @@ Work No: 43
 
 
 
-Works Details
 
-Work No: 44
+
+Work Details No: 44
 @article{ISI:000320416700001, Author= {Spokoiny, Vladimir and Wang, Weining and Haerdle, Wolfgang Karl}, Title= {{Local quantile regression}}, Journal= {{JOURNAL OF STATISTICAL PLANNING AND INFERENCE}}, Year= {{2013}}, Volume= {{143}}, Number= {{7}}, Pages= {{1109-1129}}, Month= {{JUL}}, Abstract= {{Quantile regression is a technique to estimate conditional quantile
    curves. It provides a comprehensive picture of a response contingent on
    explanatory variables. In a flexible modeling framework, a specific form
@@ -1049,9 +1049,9 @@ Work No: 44
 
 
 
-Works Details
 
-Work No: 45
+
+Work Details No: 45
 @article{ISI:000357816300002, Author= {Chen, Ying and Spokoiny, Vladimir}, Title= {{MODELING NONSTATIONARY AND LEPTOKURTIC FINANCIAL TIME SERIES}}, Journal= {{ECONOMETRIC THEORY}}, Year= {{2015}}, Volume= {{31}}, Number= {{4}}, Pages= {{703-728}}, Month= {{AUG}}, Abstract= {{Financial time series is often assumed to be stationary and has a normal
    distribution in the literature. Both assumptions are however
    unrealistic. This paper proposes a new methodology with a focus on
@@ -1073,9 +1073,9 @@ Work No: 45
 
 
 
-Works Details
 
-Work No: 46
+
+Work Details No: 46
 @article{ISI:000418655700008, Author= {Suvorikova, A. and Spokoiny, V.}, Title= {{MULTISCALE CHANGE POINT DETECTION}}, Journal= {{THEORY OF PROBABILITY AND ITS APPLICATIONS}}, Year= {{2017}}, Volume= {{61}}, Number= {{4}}, Pages= {{665-691}}, Abstract= {{In this paper we present a multiscale approach for change point
    detection. The algorithm estimates likelihood-ratio (LR) test in several
    scrolling windows simultaneously. This makes the method adaptive to
@@ -1089,9 +1089,9 @@ Work No: 46
 
 
 
-Works Details
 
-Work No: 47
+
+Work Details No: 47
 @article{ISI:000265619700011, Author= {Spokoiny, Vladimir}, Title= {{MULTISCALE LOCAL CHANGE POINT DETECTION WITH APPLICATIONS TO
    VALUE-AT-RISK}}, Journal= {{ANNALS OF STATISTICS}}, Year= {{2009}}, Volume= {{37}}, Number= {{3}}, Pages= {{1405-1436}}, Month= {{JUN}}, Abstract= {{This paper offers a new approach to modeling and forecasting of
    nonstationary time series with applications to volatility modeling for
@@ -1116,9 +1116,9 @@ Work No: 47
 
 
 
-Works Details
 
-Work No: 48
+
+Work Details No: 48
 @article{ISI:000084941800009, Author= {Lepski, OV and Spokoiny, VG}, Title= {{Minimax nonparametric hypothesis testing: the case of an inhomogeneous
    alternative}}, Journal= {{BERNOULLI}}, Year= {{1999}}, Volume= {{5}}, Number= {{2}}, Pages= {{333-358}}, Month= {{APR}}, Abstract= {{We study, the problem of testing a simple hypothesis for a nonparametric
    ``signal + white-noise{''} model.:It is assumed under the null
@@ -1140,9 +1140,9 @@ Work No: 48
 
 
 
-Works Details
 
-Work No: 49
+
+Work Details No: 49
 @article{ISI:000169443700010, Author= {Dumbgen, L and Spokoiny, VG}, Title= {{Multiscale testing of qualitative hypotheses}}, Journal= {{ANNALS OF STATISTICS}}, Year= {{2001}}, Volume= {{29}}, Number= {{1}}, Pages= {{124-152}}, Month= {{FEB}}, Abstract= {{Suppose that one observes a process Y on the unit interval, where dY(t)
    = n(1/2)f(t) dt + dW (t) with an unknown function parameter f, given
    scale parameter n greater than or equal to 1 ({''}sample size{''}) and
@@ -1157,9 +1157,9 @@ Work No: 49
 
 
 
-Works Details
 
-Work No: 50
+
+Work Details No: 50
 @article{ISI:000449956100020, Author= {Naumov, A. A. and Spokoiny, V. G. and Tavyrikov, Yu. E. and Ulyanov, V.
    V.}, Title= {{Nonasymptotic Estimates for the Closeness of Gaussian Measures on Balls}}, Journal= {{DOKLADY MATHEMATICS}}, Year= {{2018}}, Volume= {{98}}, Number= {{2}}, Pages= {{490-493}}, Month= {{SEP}}, Abstract= {{Upper bounds for the closeness of two centered Gaussian measures in the
    class of balls in a separable Hilbert space are obtained. The bounds are
@@ -1175,18 +1175,18 @@ Work No: 50
 
 
 
-Works Details
 
-Work No: 51
+
+Work Details No: 51
 @inproceedings{ISI:A1991BU28F00028, Author= {SPOKOINY, VG}, Editor= {{DIMASI, GB and GOMBANI, A and KURZHANSKY, AB}}, Title= {{ON CONSTRUCTION OF ASYMPTOTICALLY OPTIMAL STRATEGIES IN ESTIMATION
    PROBLEM FOR CONTROLLED SYSTEMS}}, Booktitle= {{MODELING, ESTIMATION AND CONTROL OF SYSTEMS WITH UNCERTAINTY}}, Series= {{PROGRESS IN SYSTEMS AND CONTROL THEORY}}, Year= {{1991}}, Volume= {{10}}, Pages= {{409-422}}, Note= {{CONF ON MODELING, ESTIMATION AND CONTROL OF SYSTEMS WITH UNCERTAINTY,
    SOPRON, HUNGARY, SEP 03-07, 1990}}, Organization= {{INT INST APPL SYST ANAL}}, ISBN= {{0-8176-3580-7}}, Unique-ID= {{ISI:A1991BU28F00028}}}
 
 
 
-Works Details
 
-Work No: 52
+
+Work Details No: 52
 @article{ISI:000562508800005, Author= {Belomestny, Denis and Schoenmakers, John and Spokoiny, Vladimir and
    Zharkynbay, Bakhyt}, Title= {{OPTIMAL STOPPING VIA REINFORCED REGRESSION}}, Journal= {{COMMUNICATIONS IN MATHEMATICAL SCIENCES}}, Year= {{2020}}, Volume= {{18}}, Number= {{1}}, Pages= {{109-121}}, Abstract= {{In this note we propose a new approach towards solving numerically
    optimal stopping problems via reinforced regression-based Monte Carlo
@@ -1198,9 +1198,9 @@ Work No: 52
 
 
 
-Works Details
 
-Work No: 53
+
+Work Details No: 53
 @inproceedings{ISI:000245559903176, Author= {Sugiyama, M. and Kawanabe, M. and Blanchard, G. and Spokoiny, V. and
    Mueller, K.-R.}, Book-Group-Author= {{IEEE}}, Title= {{Obtaining the best linear unbiased estimator of noisy signals by
    non-Gaussian component analysis}}, Booktitle= {{2006 IEEE INTERNATIONAL CONFERENCE ON ACOUSTICS, SPEECH AND SIGNAL
@@ -1219,9 +1219,9 @@ Work No: 53
 
 
 
-Works Details
 
-Work No: 54
+
+Work Details No: 54
 @article{ISI:000078850600004, Author= {Lepski, O and Nemirovski, A and Spokoiny, V}, Title= {{On estimation of the L-r norm of a regression function}}, Journal= {{PROBABILITY THEORY AND RELATED FIELDS}}, Year= {{1999}}, Volume= {{113}}, Number= {{2}}, Pages= {{221-253}}, Month= {{FEB}}, Abstract= {{Let a Holder continuous function f be observed with noise. In the
    present paper we study the problem of nonparametric estimation of
    certain nonsmooth functionals of f, specifically, L-r norms
@@ -1249,9 +1249,9 @@ Work No: 54
 
 
 
-Works Details
 
-Work No: 55
+
+Work Details No: 55
 @article{ISI:000075372300004, Author= {Puhalskii, A and Spokoiny, V}, Title= {{On large-deviation efficiency in statistical inference}}, Journal= {{BERNOULLI}}, Year= {{1998}}, Volume= {{4}}, Number= {{2}}, Pages= {{203-272}}, Month= {{JUN}}, Abstract= {{We present a general approach to statistical problems with criteria
    based on probabilities of large deviations. Our main idea, which
    originates from similarity in the definitions of the large-deviation
@@ -1276,9 +1276,9 @@ Work No: 55
 
 
 
-Works Details
 
-Work No: 56
+
+Work Details No: 56
 @article{ISI:000354067600006, Author= {Gasnikov, A. V. and Nesterov, Yu. E. and Spokoiny, V. G.}, Title= {{On the efficiency of a randomized mirror descent algorithm in online
    optimization problems}}, Journal= {{COMPUTATIONAL MATHEMATICS AND MATHEMATICAL PHYSICS}}, Year= {{2015}}, Volume= {{55}}, Number= {{4}}, Pages= {{580-596}}, Month= {{APR}}, Abstract= {{A randomized online version of the mirror descent method is proposed. It
    differs from the existing versions by the randomization method.
@@ -1297,9 +1297,9 @@ Work No: 56
 
 
 
-Works Details
 
-Work No: 57
+
+Work Details No: 57
 @article{ISI:000186957000005, Author= {Goldenshluger, A and Spokoiny, V}, Title= {{On the shape-from-moments problem and recovering edges from noisy Radon
    data}}, Journal= {{PROBABILITY THEORY AND RELATED FIELDS}}, Year= {{2004}}, Volume= {{128}}, Number= {{1}}, Pages= {{123-140}}, Month= {{JAN}}, Abstract= {{We consider the problem of reconstructing a planar convex set from noisy
    observations of its moments. An estimation method based on pointwise
@@ -1316,9 +1316,9 @@ Work No: 57
 
 
 
-Works Details
 
-Work No: 58
+
+Work Details No: 58
 @article{ISI:000081996000009, Author= {Kutoyants, YA and Spokoiny, V}, Title= {{Optimal choice of observation window for Poisson observations}}, Journal= {{STATISTICS \& PROBABILITY LETTERS}}, Year= {{1999}}, Volume= {{44}}, Number= {{3}}, Pages= {{291-298}}, Month= {{SEP 15}}, Abstract= {{We consider the possibility of optimal choice of observation window in
    the problem of parameter estimation by the observations of an
    inhomogeneous Poisson process. A minimax lower bound is proposed for the
@@ -1333,9 +1333,9 @@ Work No: 58
 
 
 
-Works Details
 
-Work No: 59
+
+Work Details No: 59
 @article{ISI:000079135100012, Author= {Lepski, OV and Spokoiny, VG}, Title= {{Optimal pointwise adaptive methods in nonparametric estimation}}, Journal= {{ANNALS OF STATISTICS}}, Year= {{1997}}, Volume= {{25}}, Number= {{6}}, Pages= {{2512-2546}}, Month= {{DEC}}, Abstract= {{The problem of optimal adaptive estimation of a function at a given
    point from noisy data is considered. Two procedures are proved to be
    asymptotically optimal for different settings.
@@ -1361,9 +1361,9 @@ Work No: 59
 
 
 
-Works Details
 
-Work No: 60
+
+Work Details No: 60
 @article{ISI:000079134800002, Author= {Lepski, OV and Mammen, E and Spokoiny, VG}, Title= {{Optimal spatial adaptation to inhomogeneous smoothness: An approach
    based on kernel estimates with variable bandwidth selectors}}, Journal= {{ANNALS OF STATISTICS}}, Year= {{1997}}, Volume= {{25}}, Number= {{3}}, Pages= {{929-947}}, Month= {{JUN}}, Abstract= {{A new variable bandwidth selector for kernel estimation is proposed. The
    application of this bandwidth selector leads to kernel estimates that
@@ -1378,9 +1378,9 @@ Work No: 60
 
 
 
-Works Details
 
-Work No: 61
+
+Work Details No: 61
 @article{ISI:000268605000008, Author= {Spokoiny, Vladimir and Vial, Celine}, Title= {{PARAMETER TUNING IN POINTWISE ADAPTATION USING A PROPAGATION APPROACH}}, Journal= {{ANNALS OF STATISTICS}}, Year= {{2009}}, Volume= {{37}}, Number= {{5B}}, Pages= {{2783-2807}}, Month= {{OCT}}, Abstract= {{This paper discusses the problem of adaptive estimation Of a univariate
    object like the value of a regression function at a given point or a
    linear functional in a linear inverse problem. We consider an adaptive
@@ -1406,9 +1406,9 @@ Work No: 61
 
 
 
-Works Details
 
-Work No: 62
+
+Work Details No: 62
 @article{ISI:000321845400005, Author= {Spokoiny, Vladimir}, Title= {{PARAMETRIC ESTIMATION. FINITE SAMPLE THEORY}}, Journal= {{ANNALS OF STATISTICS}}, Year= {{2012}}, Volume= {{40}}, Number= {{6}}, Pages= {{2877-2909}}, Month= {{DEC}}, Abstract= {{The paper aims at reconsidering the famous Le Cam LAN theory. The main
    features of the approach which make it different from the classical one
    are as follows: (1) the study is nonasymptotic, that is, the sample size
@@ -1437,9 +1437,9 @@ Work No: 62
 
 
 
-Works Details
 
-Work No: 63
+
+Work Details No: 63
 @article{ISI:000394730000015, Author= {Spokoiny, Vladimir}, Title= {{Penalized maximum likelihood estimation and effective dimension}}, Journal= {{ANNALES DE L INSTITUT HENRI POINCARE-PROBABILITES ET STATISTIQUES}}, Year= {{2017}}, Volume= {{53}}, Number= {{1}}, Pages= {{389-429}}, Month= {{FEB}}, Abstract= {{This paper extends some prominent statistical results including Fisher
    Theorem and Wilks phenomenon to the penalized maximum likelihood
    estimation with a quadratic penalization. It appears that sharp
@@ -1458,9 +1458,9 @@ Work No: 63
 
 
 
-Works Details
 
-Work No: 64
+
+Work Details No: 64
 @article{ISI:000246994600044, Author= {Chen, Ying and Hardle, Wolfgang and Spokoiny, Vladimir}, Title= {{Portfolio value at risk based on independent component analysis}}, Journal= {{JOURNAL OF COMPUTATIONAL AND APPLIED MATHEMATICS}}, Year= {{2007}}, Volume= {{205}}, Number= {{1}}, Pages= {{594-607}}, Month= {{AUG 1}}, Abstract= {{Risk management technology applied to high-dimensional portfolios needs
    simple and fast methods for calculation of value at risk (VaR). The
    multivariate normal framework provides a simple off-the-shelf
@@ -1481,9 +1481,9 @@ Work No: 64
 
 
 
-Works Details
 
-Work No: 65
+
+Work Details No: 65
 @article{ISI:000357343100002, Author= {Dvurechensky, Pavel and Nesterov, Yurii and Spokoiny, Vladimir}, Title= {{Primal-Dual Methods for Solving Infinite-Dimensional Games}}, Journal= {{JOURNAL OF OPTIMIZATION THEORY AND APPLICATIONS}}, Year= {{2015}}, Volume= {{166}}, Number= {{1}}, Pages= {{23-51}}, Month= {{JUL}}, Abstract= {{In this paper, we show that the infinite-dimensional differential games
    with simple objective functional can be solved in a finite-dimensional
    dual form in the space of dual multipliers for the constraints related
@@ -1497,9 +1497,9 @@ Work No: 65
 
 
 
-Works Details
 
-Work No: 66
+
+Work Details No: 66
 @article{ISI:000236952300002, Author= {Polzehl, J and Spokoiny, V}, Title= {{Propagation-separation approach for local likelihood estimation}}, Journal= {{PROBABILITY THEORY AND RELATED FIELDS}}, Year= {{2006}}, Volume= {{135}}, Number= {{3}}, Pages= {{335-362}}, Month= {{JUL}}, Abstract= {{The paper presents a unified approach to local likelihood estimation for
    a broad class of nonparametric models, including e.g. the regression,
    density, Poisson and binary response model. The method extends the
@@ -1525,9 +1525,9 @@ Work No: 66
 
 
 
-Works Details
 
-Work No: 67
+
+Work Details No: 67
 @article{ISI:000325700500005, Author= {Zaitsev, A. A. and Burnaev, E. V. and Spokoiny, V. G.}, Title= {{Properties of the posterior distribution of a regression model based on
    Gaussian random fields}}, Journal= {{AUTOMATION AND REMOTE CONTROL}}, Year= {{2013}}, Volume= {{74}}, Number= {{10}}, Pages= {{1645-1655}}, Month= {{OCT}}, Abstract= {{We consider the regression problem based on Gaussian processes. We
    assume that the prior distribution on the vector of parameters in the
@@ -1546,9 +1546,9 @@ Work No: 67
 
 
 
-Works Details
 
-Work No: 68
+
+Work Details No: 68
 @article{ISI:000398888500006, Author= {Nesterov, Yurii and Spokoiny, Vladimir}, Title= {{Random Gradient-Free Minimization of Convex Functions}}, Journal= {{FOUNDATIONS OF COMPUTATIONAL MATHEMATICS}}, Year= {{2017}}, Volume= {{17}}, Number= {{2}}, Pages= {{527-566}}, Month= {{APR}}, Abstract= {{In this paper, we prove new complexity bounds for methods of convex
    optimization based only on computation of the function value. The search
    directions of our schemes are normally distributed random Gaussian
@@ -1568,9 +1568,9 @@ Work No: 68
 
 
 
-Works Details
 
-Work No: 69
+
+Work Details No: 69
 @article{ISI:000236714000003, Author= {Goldenshluger, A and Spokoiny, V}, Title= {{Recovering convex edges of an image from noisy tomographic data}}, Journal= {{IEEE TRANSACTIONS ON INFORMATION THEORY}}, Year= {{2006}}, Volume= {{52}}, Number= {{4}}, Pages= {{1322-1334}}, Month= {{APR}}, Abstract= {{We consider the problem of recovering edges of an image from noisy
    tomographic data. The original image is assumed to have a discontinuity
    jump (edge) along the boundary of a compact convex set. The Radon
@@ -1585,9 +1585,9 @@ Work No: 69
 
 
 
-Works Details
 
-Work No: 70
+
+Work Details No: 70
 @article{ISI:000265290200007, Author= {Belomestny, Denis and Milstein, Grigori and Spokoiny, Vladimir}, Title= {{Regression methods in pricing American and Bermudan options using
    consumption processes}}, Journal= {{QUANTITATIVE FINANCE}}, Year= {{2009}}, Volume= {{9}}, Number= {{3}}, Pages= {{315-327}}, Abstract= {{Numerical algorithms for the efficient pricing of multidimensional
    discrete-time American and Bermudan options are constructed using
@@ -1607,9 +1607,9 @@ Work No: 70
 
 
 
-Works Details
 
-Work No: 71
+
+Work Details No: 71
 @article{ISI:000320416700007, Author= {Spokoiny, Vladimir and Wang, Weining and Haerdle, Wolfgang Karl}, Title= {{Rejoinder: Local quantile regression}}, Journal= {{JOURNAL OF STATISTICAL PLANNING AND INFERENCE}}, Year= {{2013}}, Volume= {{143}}, Number= {{7}}, Pages= {{1145-1149}}, Month= {{JUL}}, DOI= {{10.1016/j.jspi.2013.03.016}}, ISSN= {{0378-3758}}, EISSN= {{1873-1171}}, ResearcherID-Numbers= {{Spokoiny, Vladimir/L-5441-2015
    Spokoiny, Vladimir/AAF-4942-2021
    Hardle, Wolfgang K/C-5963-2013
@@ -1619,9 +1619,9 @@ Work No: 71
 
 
 
-Works Details
 
-Work No: 72
+
+Work Details No: 72
 @article{ISI:000079134600008, Author= {Hardle, W and Spokoiny, V and Sperlich, S}, Title= {{Semiparametric single index versus fixed line function modelling}}, Journal= {{ANNALS OF STATISTICS}}, Year= {{1997}}, Volume= {{25}}, Number= {{1}}, Pages= {{212-243}}, Month= {{FEB}}, Abstract= {{Discrete choice models are frequently used in statistical and
    econometric practice. Standard models such as legit models are based on
    exact knowledge of the form of the link and linear index function.
@@ -1642,9 +1642,9 @@ Work No: 72
 
 
 
-Works Details
 
-Work No: 73
+
+Work Details No: 73
 @article{ISI:000277880200041, Author= {Diederichs, Elmar and Juditsky, Anatoli and Spokoiny, Vladimir and
    Schuette, Christof}, Title= {{Sparse Non-Gaussian Component Analysis}}, Journal= {{IEEE TRANSACTIONS ON INFORMATION THEORY}}, Year= {{2010}}, Volume= {{56}}, Number= {{6}}, Pages= {{3033-3047}}, Month= {{JUN}}, Abstract= {{Non-Gaussian component analysis (NGCA) introduced in {[}24] offered a
    method for high-dimensional data analysis allowing for identifying a
@@ -1659,9 +1659,9 @@ Work No: 73
 
 
 
-Works Details
 
-Work No: 74
+
+Work Details No: 74
 @article{ISI:000317476800003, Author= {Diederichs, Elmar and Juditsky, Anatoli and Nemirovski, Arkadi and
    Spokoiny, Vladimir}, Title= {{Sparse non Gaussian component analysis by semidefinite programming}}, Journal= {{MACHINE LEARNING}}, Year= {{2013}}, Volume= {{91}}, Number= {{2}}, Pages= {{211-238}}, Month= {{MAY}}, Abstract= {{Sparse non-Gaussian component analysis is an unsupervised linear method
    of extracting any structure from high-dimensional distributed data based
@@ -1683,9 +1683,9 @@ Work No: 74
 
 
 
-Works Details
 
-Work No: 75
+
+Work Details No: 75
 @article{ISI:000251096100018, Author= {Belomestny, Denis and Spokoiny, Vladimir}, Title= {{Spatial aggregation of local likelihood estimates with applications to
    classification}}, Journal= {{ANNALS OF STATISTICS}}, Year= {{2007}}, Volume= {{35}}, Number= {{5}}, Pages= {{2287-2311}}, Month= {{OCT}}, Abstract= {{This paper presents a new method for spatially adaptive local (constant)
    likelihood estimation which applies to a broad class of nonparametric
@@ -1712,9 +1712,9 @@ Work No: 75
 
 
 
-Works Details
 
-Work No: 76
+
+Work Details No: 76
 @article{ISI:000322351200012, Author= {Gach, Florian and Nickl, Richard and Spokoiny, Vladimir}, Title= {{Spatially adaptive density estimation by localised Haar projections}}, Journal= {{ANNALES DE L INSTITUT HENRI POINCARE-PROBABILITES ET STATISTIQUES}}, Year= {{2013}}, Volume= {{49}}, Number= {{3}}, Pages= {{900-914}}, Month= {{AUG}}, Abstract= {{Given a random sample from some unknown density f(0):R -> {[}0,
    infinity) we devise Haar wavelet estimators for f(0) with variable
    resolution levels constructed from localised test procedures (as in
@@ -1731,9 +1731,9 @@ Work No: 76
 
 
 
-Works Details
 
-Work No: 77
+
+Work Details No: 77
 @article{ISI:000253358400001, Author= {Katkovnik, Vladimir and Spokoiny, Vladimir}, Title= {{Spatially adaptive estimation via fitted local likelihood techniques}}, Journal= {{IEEE TRANSACTIONS ON SIGNAL PROCESSING}}, Year= {{2008}}, Volume= {{56}}, Number= {{3}}, Pages= {{873-886}}, Month= {{MAR}}, Abstract= {{This paper offers a new technique for spatially adaptive estimation. The
    local likelihood is exploited for nonparametric modeling of observations
    and estimated signals. The approach is based on the assumption of a
@@ -1756,9 +1756,9 @@ Work No: 77
 
 
 
-Works Details
 
-Work No: 78
+
+Work Details No: 78
 @article{ISI:000221411000014, Author= {Mercurio, D and Spokoiny, V}, Title= {{Statistical inference for time-inhomogeneous volatility models}}, Journal= {{ANNALS OF STATISTICS}}, Year= {{2004}}, Volume= {{32}}, Number= {{2}}, Pages= {{577-602}}, Month= {{APR}}, Abstract= {{This paper offers a new approach for estimating and forecasting the
    volatility of financial time series. No assumption is made about the
    parametric form of the processes. On the contrary, we only suppose that
@@ -1778,9 +1778,9 @@ Work No: 78
 
 
 
-Works Details
 
-Work No: 79
+
+Work Details No: 79
 @article{ISI:000258243000008, Author= {Grama, Ion and Spokoiny, Vladimir}, Title= {{Statistics of extremes by oracle estimation}}, Journal= {{ANNALS OF STATISTICS}}, Year= {{2008}}, Volume= {{36}}, Number= {{4}}, Pages= {{1619-1648}}, Month= {{AUG}}, Abstract= {{We use the fitted Pareto law to construct an accompanying approximation
    of the excess distribution function. A selection rule of the location of
    the excess distribution function is proposed based on a stagewise
@@ -1791,9 +1791,9 @@ Work No: 79
 
 
 
-Works Details
 
-Work No: 80
+
+Work Details No: 80
 @article{ISI:000172728000027, Author= {Hardle, W and Sperlich, S and Spokoiny, V}, Title= {{Structural tests in additive regression}}, Journal= {{JOURNAL OF THE AMERICAN STATISTICAL ASSOCIATION}}, Year= {{2001}}, Volume= {{96}}, Number= {{456}}, Pages= {{1333-1347}}, Month= {{DEC}}, Note= {{160th Annual Meeting of the American-Statistical-Association, BOSTON,
    MA, FEB, 2000}}, Organization= {{Amer Stat Assoc}}, Abstract= {{We consider the component analysis problem for a regression model with
    an additive structure. The problem is to test whether some of the
@@ -1816,9 +1816,9 @@ Work No: 80
 
 
 
-Works Details
 
-Work No: 81
+
+Work Details No: 81
 @article{ISI:000174055100001, Author= {Hristache, M and Juditsky, A and Polzehl, J and Spokoiny, V}, Title= {{Structure adaptive approach for dimension reduction}}, Journal= {{ANNALS OF STATISTICS}}, Year= {{2001}}, Volume= {{29}}, Number= {{6}}, Pages= {{1537-1566}}, Month= {{DEC}}, Abstract= {{We propose a new method of effective dimension reduction for a
    multi-index model which is based on iterative improvement of the family
    of average derivative estimates. The procedure is computationally
@@ -1834,9 +1834,9 @@ Work No: 81
 
 
 
-Works Details
 
-Work No: 82
+
+Work Details No: 82
 @article{ISI:000329123400006, Author= {Burnaev, E. V. and Zaytsev, A. A. and Spokoiny, V. G.}, Title= {{The Bernstein-von Mises theorem for regression based on Gaussian
    Processes}}, Journal= {{RUSSIAN MATHEMATICAL SURVEYS}}, Year= {{2013}}, Volume= {{68}}, Number= {{5}}, Pages= {{954-956}}, DOI= {{10.1070/RM2013v068n05ABEH004863}}, ISSN= {{0036-0279}}, EISSN= {{1468-4829}}, ResearcherID-Numbers= {{Spokoiny, Vladimir/L-5441-2015
    Burnaev, Evgeny/A-3703-2016
@@ -1848,9 +1848,9 @@ Work No: 82
 
 
 
-Works Details
 
-Work No: 83
+
+Work Details No: 83
 @article{ISI:000222951600004, Author= {Berner, YN and Kimchi, OL and Spokoiny, V and Finkeltov, B}, Title= {{The effect of electric stimulation treatment on the functional
    rehabilitation of acute geriatric patients with stroke - a preliminary
    study}}, Journal= {{ARCHIVES OF GERONTOLOGY AND GERIATRICS}}, Year= {{2004}}, Volume= {{39}}, Number= {{2}}, Pages= {{125-132}}, Month= {{SEP-OCT}}, Abstract= {{The most common neurological damage in acute stroke/cerebrovascular
@@ -1878,9 +1878,9 @@ Work No: 83
 
 
 
-Works Details
 
-Work No: 84
+
+Work Details No: 84
 @article{ISI:000224916000004, Author= {Milstein, GN and Schoenmakers, JGM and Spokoiny, V}, Title= {{Transition density estimation for stochastic differential equations via
    forward-reverse representations}}, Journal= {{BERNOULLI}}, Year= {{2004}}, Volume= {{10}}, Number= {{2}}, Pages= {{281-312}}, Month= {{APR}}, Abstract= {{The general reverse diffusion equations are derived and applied to the
    problem of transition density estimation of diffusion processes between
@@ -1893,9 +1893,9 @@ Work No: 84
 
 
 
-Works Details
 
-Work No: 85
+
+Work Details No: 85
 @article{ISI:000325700500006, Author= {Zhilova, M. M. and Spokoiny, V. G.}, Title= {{Uniform properties of the local maximum likelihood estimate}}, Journal= {{AUTOMATION AND REMOTE CONTROL}}, Year= {{2013}}, Volume= {{74}}, Number= {{10}}, Pages= {{1656-1669}}, Month= {{OCT}}, Abstract= {{Consideration was given to the properties of the local maximum
    likelihood estimate for the generalized regression model. The
    local-parameter uniform confidence belt for the regression function was
@@ -1905,9 +1905,9 @@ Work No: 85
 
 
 
-Works Details
 
-Work No: 86
+
+Work Details No: 86
 @article{ISI:000177010400006, Author= {Spokoiny, V}, Title= {{Variance estimation for high-dimensional regression models}}, Journal= {{JOURNAL OF MULTIVARIATE ANALYSIS}}, Year= {{2002}}, Volume= {{82}}, Number= {{1}}, Pages= {{111-133}}, Month= {{JUL}}, Abstract= {{The paper is concerned with the problem of variance estimation for a
    high-dimensional regression model. The results show that the accuracy
    n(-1/2) of variance estimation can be achieved only under some
@@ -1923,9 +1923,9 @@ Work No: 86
 
 
 
-Works Details
 
-Work No: 87
+
+Work Details No: 87
 @article{ISI:A1995QL97000002, Author= {SPECKMAN, PL and MARRON, JS and SILVERMAN, B and NASON, G and WANG, KM
    and SEIFERT, B and GASSER, T and EFROMOVITCH, S and NUSSBAUM, M and
    WANG, YZ and VONSACHS, R and BRILLINGER, DR and NEUMANN, MH and HASTIE,

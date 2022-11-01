@@ -4,9 +4,9 @@ Given Name: Cristina
 
 Number of Works: 5
 
-Works Details
 
-Work No: 1
+
+Work Details No: 1
 @article{van_Buren_2022,
 	doi = {10.1101/2022.01.25.477663},
 	url = {https://doi.org/10.1101%2F2022.01.25.477663},
@@ -17,14 +17,14 @@ Work No: 1
 	title = {{DisGUVery}: a versatile open-source software for high-throughput image analysis of Giant Unilamellar Vesicles}
 }
 
-Works Details
 
-Work No: 2
+
+Work Details No: 2
 Revealing the assembly of filamentous proteins with scanning transmission electron microscopy
 
-Works Details
 
-Work No: 3
+
+Work Details No: 3
 @article{Vos_2019,
 	doi = {10.1101/797464},
 	url = {https://doi.org/10.1101%2F797464},
@@ -35,9 +35,9 @@ Work No: 3
 	title = {Revealing the molecular origins of fibrin's elastomeric properties by in situ X-ray scattering}
 }
 
-Works Details
 
-Work No: 4
+
+Work Details No: 4
 @article{Martinez_Torres_2019,
 	doi = {10.1101/697649},
 	url = {https://doi.org/10.1101%2F697649},
@@ -48,9 +48,9 @@ Work No: 4
 	title = {Revealing the Assembly of Filamentous Proteins with Scanning Transmission Electron Microscopy}
 }
 
-Works Details
 
-Work No: 5
+
+Work Details No: 5
 @article{G_Lopez_2018,doi = {10.1039/c8sm01007b},url = {https://doi.org/10.1039%2Fc8sm01007b},year = 2018,publisher = {Royal Society of Chemistry ({RSC})},volume = {14},number = {42},pages = {8445--8454},author = {Carlos G. Lopez and Oliva Saldanha and Anders Aufderhorst-Roberts and Cristina Martinez-Torres and Merel Kuijs and Gijsje H. Koenderink and Sarah KÃ¶ster and Klaus Huber},title = {Effect of ionic strength on the structure and elongational kinetics of vimentin filaments},journal = {Soft Matter}}
 
 

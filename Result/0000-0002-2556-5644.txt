@@ -4,9 +4,9 @@ Given Name: Maximilian
 
 Number of Works: 8
 
-Works Details
 
-Work No: 1
+
+Work Details No: 1
 @article{Engbert_2022,
 	doi = {10.1016/j.tics.2021.11.006},
 	url = {https://doi.org/10.1016%2Fj.tics.2021.11.006},
@@ -21,9 +21,9 @@ Work No: 1
 	journal = {Trends in Cognitive Sciences}
 }
 
-Works Details
 
-Work No: 2
+
+Work Details No: 2
 @article{Rabe_2021,
 	doi = {10.1037/rev0000268},
 	url = {https://doi.org/10.1037%2Frev0000268},
@@ -38,9 +38,9 @@ Work No: 2
 	journal = {Psychological Review}
 }
 
-Works Details
 
-Work No: 3
+
+Work Details No: 3
 @article{Rabe_2021,
 	doi = {10.31234/osf.io/erzvp},
 	url = {https://doi.org/10.31234%2Fosf.io%2Ferzvp},
@@ -51,14 +51,14 @@ Work No: 3
 	title = {{ROC} Asymmetry Is Not Diagnostic of Unequal Residual Variance in Gaussian Signal Detection Theory}
 }
 
-Works Details
 
-Work No: 4
+
+Work Details No: 4
 Dynamical Cognitive Modeling of Syntactic Processing and Eye Movement Control in Reading
 
-Works Details
 
-Work No: 5
+
+Work Details No: 5
 @article{Engbert_2020,
 	doi = {10.1007/s11538-020-00834-8},
 	url = {https://doi.org/10.1007%2Fs11538-020-00834-8},
@@ -72,19 +72,19 @@ Work No: 5
 	journal = {Bulletin of Mathematical Biology}
 }
 
-Works Details
 
-Work No: 6
+
+Work Details No: 6
 hypr: An R package for hypothesis-driven contrast coding
 
-Works Details
 
-Work No: 7
+
+Work Details No: 7
 @article{Rabe2020,title = {Bayesian parameter estimation for the SWIFT model of eye-movement control during reading},journal = {Journal of Mathematical Psychology},year = {2020},volume = {95},author = {Seelig, S.A. and Rabe, M.M. and Malem-Shinitski, N. and Risse, S. and Reich, S. and Engbert, R.}}
 
-Works Details
 
-Work No: 8
+
+Work Details No: 8
 @article{Rabe2017,title = {Modulation of additive and interactive effects by trial history revisited},journal = {Memory and Cognition},year = {2017},volume = {45},number = {3},pages = {480-492},author = {Masson, M.E.J. and Rabe, M.M. and Kliegl, R.}}
 
 

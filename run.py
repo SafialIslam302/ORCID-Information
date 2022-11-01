@@ -39,9 +39,9 @@ for line in lines:
         for i in range(publication_number):
             #print(type(i))
             #print("\nWork No: " + str(i + 1) + "\n")
-            output.writelines("Works Details")
+            #output.writelines("Works Details")
             output.writelines("\n")
-            output.writelines("\nWork No: " + str(i + 1) + "\n")
+            output.writelines("\nWork Details No: " + str(i + 1) + "\n")
             try:
                 if orcid_res.publications[i].citation_value is None:
                     output.writelines(orcid_res.publications[i].title) #orcid_res.publications[i].title/No thing Found
@@ -95,4 +95,4 @@ for line in lines:
             output.writelines("\nAddress : " + str(orcid_res.employments[k]['organization']['address']['city']))
             output.writelines("\n\n") 
         
-        print("Finish: " + orcid_res.orcid)
+        print("ID Finish: " + orcid_res.orcid)

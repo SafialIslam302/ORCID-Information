@@ -4,79 +4,79 @@ Given Name: Milena
 
 Number of Works: 15
 
-Works Details
 
-Work No: 1
+
+Work Details No: 1
 @article{Rabovsky2020,title = {Change in a probabilistic representation of meaning can account for N400 effects on articles: A neural network model},journal = {Neuropsychologia},year = {2020},volume = {143},author = {Rabovsky, M.}}
 
-Works Details
 
-Work No: 2
+
+Work Details No: 2
 @article{Rabovsky2020,title = {Dissociating neural learning signals in human sign- and goal-trackers},journal = {Nature Human Behaviour},year = {2020},volume = {4},number = {2},pages = {201-214},author = {Schad, D.J. and Rapp, M.A. and Garbusow, M. and Nebe, S. and Sebold, M. and Obst, E. and Sommer, C. and Deserno, L. and Rabovsky, M. and Friedel, E. and Romanczuk-Seiferth, N. and Wittchen, H.-U. and Zimmermann, U.S. and Walter, H. and Sterzer, P. and Smolka, M.N. and Schlagenhauf, F. and Heinz, A. and Dayan, P. and Huys, Q.J.M.}}
 
-Works Details
 
-Work No: 3
+
+Work Details No: 3
 @article{Rabovsky2020,title = {Quasi-compositional mapping from form to meaning: A neural network-based approach to capturing neural responses during human language comprehension},journal = {Philosophical Transactions of the Royal Society B: Biological Sciences},year = {2020},volume = {375},number = {1791},author = {Rabovsky, M. and McClelland, J.L.}}
 
-Works Details
 
-Work No: 4
+
+Work Details No: 4
 @article{Rabovsky2019,title = {Attentional modulation of orthographic neighborhood effects during reading: Evidence from event-related brain potentials in a psychological refractory period paradigm},journal = {PLoS ONE},year = {2019},volume = {14},number = {1},author = {Rabovsky, M. and Conrad, M. and ?lvarez, C.J. and Paschke-Goldt, J. and Sommer, W.}}
 
-Works Details
 
-Work No: 5
+
+Work Details No: 5
 @article{Rabovsky2018,title = {Clear Judgments Based on Unclear Evidence: Person Evaluation Is Strongly Influenced by Untrustworthy Gossip},journal = {Emotion},year = {2018},author = {Baum, J. and Rabovsky, M. and Rose, S.B. and Rahman, R.A.}}
 
-Works Details
 
-Work No: 6
+
+Work Details No: 6
 @article{Rabovsky2018,title = {Modelling the N400 brain potential as change in a probabilistic representation of meaning},journal = {Nature Human Behaviour},year = {2018},volume = {2},number = {9},pages = {693-705},author = {Rabovsky, M. and Hansen, S.S. and McClelland, J.L.}}
 
-Works Details
 
-Work No: 7
+
+Work Details No: 7
 @article{Rabovsky2018,title = {Semantic knowledge enhances conscious awareness of visual objects},journal = {Journal of Cognitive Neuroscience},year = {2018},volume = {31},number = {8},pages = {1216-1226},author = {Weller, P.D. and Rabovsky, M. and Rahman, R.A.}}
 
-Works Details
 
-Work No: 8
+
+Work Details No: 8
 @article{Rabovsky2016,title = {Access to awareness for faces during continuous flash suppression is not modulated by affective knowledge},journal = {PLoS ONE},year = {2016},volume = {11},number = {4},author = {Rabovsky, M. and Stein, T. and Abdel Rahman, R.}}
 
-Works Details
 
-Work No: 9
+
+Work Details No: 9
 @article{Rabovsky2016,title = {Language production is facilitated by semantic richness but inhibited by semantic density: Evidence from picture naming},journal = {Cognition},year = {2016},volume = {146},pages = {240-244},author = {Rabovsky, M. and Schad, D.J. and Abdel Rahman, R.}}
 
-Works Details
 
-Work No: 10
+
+Work Details No: 10
 @article{Rabovsky2014,title = {Simulating the N400 ERP component as semantic network error: Insights from a feature-based connectionist attractor model of word meaning},journal = {Cognition},year = {2014},volume = {132},number = {1},pages = {68-89},author = {Rabovsky, M. and McRae, K.}}
 
-Works Details
 
-Work No: 11
+
+Work Details No: 11
 @article{Rabovsky2013,title = {Perceiving emotions in neutral faces: Expression processing is biased by affective person knowledge},journal = {Social Cognitive and Affective Neuroscience},year = {2013},volume = {10},number = {4},pages = {531-536},author = {Suess, F. and Rabovsky, M. and Rahman, R.A.}}
 
-Works Details
 
-Work No: 12
+
+Work Details No: 12
 @article{Rabovsky2012,title = {Depth of conceptual knowledge modulates visual processes during word reading},journal = {Journal of Cognitive Neuroscience},year = {2012},volume = {24},number = {4},pages = {990-1005},author = {Rabovsky, M. and Sommer, W. and Rahman, R.A.}}
 
-Works Details
 
-Work No: 13
+
+Work Details No: 13
 @article{Rabovsky2012,title = {Implicit word learning benefits from semantic richness: Electrophysiological and behavioral evidence},journal = {Journal of Experimental Psychology: Learning Memory and Cognition},year = {2012},volume = {38},number = {4},pages = {1076-1083},author = {Rabovsky, M. and Sommer, W. and Abdel Rahman, R.}}
 
-Works Details
 
-Work No: 14
+
+Work Details No: 14
 @article{Rabovsky2012,title = {The time course of semantic richness effects in visual word recognition},journal = {Frontiers in Human Neuroscience},year = {2012},number = {JANUARY 2012},author = {Rabovsky, M. and Sommer, W. and Rahman, R.A.}}
 
-Works Details
 
-Work No: 15
+
+Work Details No: 15
 @article{Rabovsky2008,title = {Is lexical access autonomous? Evidence from combining overlapping tasks with recording event-related brain potentials},journal = {Brain Research},year = {2008},volume = {1222},pages = {156-165},author = {Rabovsky, M. and ?lvarez, C.J. and Hohlfeld, A. and Sommer, W.}}
 
 

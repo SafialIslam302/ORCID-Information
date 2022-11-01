@@ -4,9 +4,9 @@ Given Name: Ulrike
 
 Number of Works: 1
 
-Works Details
 
-Work No: 1
+
+Work Details No: 1
 @article{Lemcke_2021,
 	doi = {10.1365/s40702-021-00771-7},
 	url = {https://doi.org/10.1365%2Fs40702-021-00771-7},

@@ -4,9 +4,9 @@ Given Name: Angelica Maria
 
 Number of Works: 3
 
-Works Details
 
-Work No: 1
+
+Work Details No: 1
 @article{Castillo_Tibocha_2022,
 	doi = {10.5194/egusphere-egu22-11658},
 	url = {https://doi.org/10.5194%2Fegusphere-egu22-11658},
@@ -17,9 +17,9 @@ Work No: 1
 	title = {Reconstructing the Dynamics of the Outer Electron Radiation Belt by Means of the Standard and Ensemble Kalman Filter With the {VERB}-3D Code}
 }
 
-Works Details
 
-Work No: 2
+
+Work Details No: 2
 @article{Castillo_Tibocha_2021,
 	doi = {10.1029/2020sw002672},
 	url = {https://doi.org/10.1029%2F2020sw002672},
@@ -33,9 +33,9 @@ Work No: 2
 	journal = {Space Weather}
 }
 
-Works Details
 
-Work No: 3
+
+Work Details No: 3
 @article{Castillo_Tibocha_2020,
 	doi = {10.1002/essoar.10504674.1},
 	url = {https://doi.org/10.1002%2Fessoar.10504674.1},

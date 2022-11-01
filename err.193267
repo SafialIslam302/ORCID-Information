@@ -1,0 +1,3 @@
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+slurmstepd-hpc-node28: error: *** STEP 193267.0 ON hpc-node28 CANCELLED AT 2022-10-31T19:09:34 ***
+slurmstepd-hpc-node28: error: *** JOB 193267 ON hpc-node28 CANCELLED AT 2022-10-31T19:09:34 ***

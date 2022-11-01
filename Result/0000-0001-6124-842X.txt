@@ -4,9 +4,9 @@ Given Name: Alexander
 
 Number of Works: 2
 
-Works Details
 
-Work No: 1
+
+Work Details No: 1
 @article{Houdebert_2022,
 	doi = {10.1017/jpr.2021.70},
 	url = {https://doi.org/10.1017%2Fjpr.2021.70},
@@ -19,9 +19,9 @@ Work No: 1
 	journal = {Journal of Applied Probability}
 }
 
-Works Details
 
-Work No: 2
+
+Work Details No: 2
 @article{R_lly_2020,
 	doi = {10.1007/s10955-020-02559-3},
 	url = {https://doi.org/10.1007%2Fs10955-020-02559-3},

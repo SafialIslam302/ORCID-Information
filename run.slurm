@@ -6,8 +6,8 @@
 #SBATCH --error=err.%j
 #SBATCH --job-name=kes_10
 #SBATCH --nodes=1          # number of nodes
-#SBATCH --ntasks=2         # number of processor cores (i.e. tasks)
-#SBATCH --gres=gpu:2 # number of tasks per node
+#SBATCH --ntasks=1         # number of processor cores (i.e. tasks)
+#SBATCH --gres=gpu:1 # number of tasks per node
 #SBATCH --exclusive
 #SBATCH --partition=long   # partition
 #SBATCH --time=150:00:00    # walltime

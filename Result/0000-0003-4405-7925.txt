@@ -4,14 +4,14 @@ Given Name: Tobias
 
 Number of Works: 2
 
-Works Details
 
-Work No: 1
+
+Work Details No: 1
 Pre-Training on In Vitro and Fine-Tuning on Patient-Derived Data Improves Deep Neural Networks for Anti-Cancer Drug-Sensitivity Prediction
 
-Works Details
 
-Work No: 2
+
+Work Details No: 2
 Matching anticancer compounds and tumor cell lines by neural networks with ranking loss
 
 

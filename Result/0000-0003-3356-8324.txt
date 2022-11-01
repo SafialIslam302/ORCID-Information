@@ -4,17 +4,17 @@ Given Name: Lisa
 
 Number of Works: 6
 
-Works Details
 
-Work No: 1
+
+Work Details No: 1
 <head>
 <META HTTP-EQUIV="Refresh" CONTENT="0;URL=/servlet/useragent">
 </head>
 
 
-Works Details
 
-Work No: 2
+
+Work Details No: 2
 @article{Engbert_2021,
 	doi = {10.1016/j.tics.2021.11.006},
 	url = {https://doi.org/10.1016%2Fj.tics.2021.11.006},
@@ -26,9 +26,9 @@ Work No: 2
 	journal = {Trends in Cognitive Sciences}
 }
 
-Works Details
 
-Work No: 3
+
+Work Details No: 3
 @article{Malem_Shinitski_2020,
 	doi = {10.1371/journal.pcbi.1007880},
 	url = {https://doi.org/10.1371%2Fjournal.pcbi.1007880},
@@ -44,14 +44,14 @@ Work No: 3
 	journal = {{PLOS} Computational Biology}
 }
 
-Works Details
 
-Work No: 4
+
+Work Details No: 4
 Modeling the effects of perisaccadic attention on gaze statistics during scene viewing
 
-Works Details
 
-Work No: 5
+
+Work Details No: 5
 @article{Malem_Shinitski_2020,
 	doi = {10.1101/2020.04.16.044677},
 	url = {https://doi.org/10.1101%2F2020.04.16.044677},
@@ -62,9 +62,9 @@ Work No: 5
 	title = {A Mathematical Model of Exploration and Exploitation in Natural Scene Viewing}
 }
 
-Works Details
 
-Work No: 6
+
+Work Details No: 6
 Modeling the effects of perisaccadic attention on gaze statistics during scene viewing
 
 
