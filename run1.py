@@ -24,7 +24,7 @@ for line in lines:
     #outputfile = output_path + "/" + file_name
     #print(outputfile)
 
-    output_file_name = "Result/" + file_name
+    output_file_name = "Result_1/" + file_name
 
     with open(output_file_name, 'w', encoding='utf-8') as output:
         print("ID Running: " + orcid_res.orcid)
@@ -35,21 +35,48 @@ for line in lines:
 
         output.writelines("Number of Works: " + str(publication_number) + "\n")
         output.writelines("\n")
-        output.writelines("Work Details")
+
+        for i in range(publication_number):
+            #print(type(i))
+            #print("\nWork No: " + str(i + 1) + "\n")
+            #output.writelines("Works Details")
+            output.writelines("\n")
+            output.writelines("\nWork Details No: " + str(i + 1) + "\n")
+            try:
+                if orcid_res.publications[i].citation_value is None:
+                    output.writelines(orcid_res.publications[i].title) #orcid_res.publications[i].title/No thing Found
+                    output.writelines("\n")
+                else:
+                    output.writelines(orcid_res.publications[i].citation_value)
+                    output.writelines("\n")
+            except ValueError:
+                try:
+                    if orcid_res.publications[i].title is None:
+                        output.writelines("No Information found") #orcid_res.publications[i].title/No thing Found
+                        output.writelines("\n")
+                    else:
+                        output.writelines(orcid_res.publications[i].title)
+                        output.writelines("\n")
+                except ValueError:
+                    output.writelines("No Information found")
+                    output.writelines("\n")
+
+            output.writelines("\n")
+
+        output.writelines("\n\n")
+
+        output.writelines("Number of education: " + str(education_number) + "\n")
         output.writelines("\n")
 
-        
         for j in range(education_number):
-            #print(type(j))
             output.writelines("Education Details: " + str(j+1))
-            #temp_education = orcid_res.educations[j]
             #print(orcid_res.educations[j])
             output.writelines("\n")
             #print(type(orcid_res.educations[j]))
             output.writelines("Department name : " + str(orcid_res.educations[j]['department-name']))
             output.writelines("\nRole : " + str(orcid_res.educations[j]['role-title']))
             output.writelines("\nOrganization : " + str(orcid_res.educations[j]['organization']['name']))
-            output.writelines("\nAddress : " + str(orcid_res.educations[j]['organization']['address']['city']))          
+            output.writelines("\nAddress : " + str(orcid_res.educations[j]['organization']['address']['city']))
             output.writelines("\n\n")
 
         output.writelines("\n\n")
@@ -68,4 +95,4 @@ for line in lines:
             output.writelines("\nAddress : " + str(orcid_res.employments[k]['organization']['address']['city']))
             output.writelines("\n\n")
 
-        print("Finish: " + orcid_res.orcid)
+        print("ID Finish: " + orcid_res.orcid)

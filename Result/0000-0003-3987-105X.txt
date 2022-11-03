@@ -7,626 +7,607 @@ Number of Works: 120
 
 
 Work Details No: 1
-@article{Holschneider2017,title = {Calculation of Confidence Intervals for the Maximum Magnitude of Earthquakes in Different Seismotectonic Zones of Iran},journal = {Pure and Applied Geophysics},year = {2017},volume = {174},number = {3},pages = {763-777},author = {Salamat, M. and Zare, M. and Holschneider, M. and Z{\"o}ller, G.}}
-
+Paper title: Calculation of Confidence Intervals for the Maximum Magnitude of Earthquakes in Different Seismotectonic Zones of Iran
+DOI: 2-s2.0-85013758100
 
 
 Work Details No: 2
-@article{Holschneider2017,title = {Interpolation in reproducing kernel Hilbert spaces based on random subdivision schemes},journal = {Journal of Computational and Applied Mathematics},year = {2017},volume = {311},pages = {342-353},author = {Cotronei, M. and Di Salvo, R. and Holschneider, M. and Puccio, L.}}
-
+Paper title: Interpolation in reproducing kernel Hilbert spaces based on random subdivision schemes
+DOI: 2-s2.0-84983514580
 
 
 Work Details No: 3
-@article{Holschneider2016,title = {Correlation-based modeling and separation of geomagnetic field components},journal = {Journal of Geophysical Research: Solid Earth},year = {2016},volume = {121},number = {5},pages = {3142-3160},author = {Holschneider, M. and Lesur, V. and Mauerberger, S. and Baerenzung, J.}}
-
+Paper title: Correlation-based modeling and separation of geomagnetic field components
+DOI: 2-s2.0-84966354995
 
 
 Work Details No: 4
-@article{Holschneider2016,title = {Enhanced DySEM imaging of cantilever motion using artificial structures patterned by focused ion beam techniques},journal = {Journal of Micromechanics and Microengineering},year = {2016},volume = {26},number = {3},author = {Schr{\"o}ter, M.-A. and Ritter, M. and Holschneider, M. and Sturm, H.}}
-
+Paper title: Enhanced DySEM imaging of cantilever motion using artificial structures patterned by focused ion beam techniques
+DOI: 2-s2.0-84959421878
 
 
 Work Details No: 5
-@article{Holschneider2016,title = {The earthquake history in a fault zone tells Us almost nothing about mmax},journal = {Seismological Research Letters},year = {2016},volume = {87},number = {1},pages = {132-137},author = {Z{\"o}ller, G. and Holschneider, M.}}
-
+Paper title: The earthquake history in a fault zone tells Us almost nothing about mmax
+DOI: 2-s2.0-84954201236
 
 
 Work Details No: 6
-@article{Holschneider2016,title = {The flow at the Earth{'}s core-mantle boundary under weak prior constraints},journal = {Journal of Geophysical Research B: Solid Earth},year = {2016},volume = {121},number = {3},pages = {1343-1364},author = {Baerenzung, J. and Holschneider, M. and Lesur, V.}}
-
+Paper title: The flow at the Earth's core-mantle boundary under weak prior constraints
+DOI: 2-s2.0-84960433833
 
 
 Work Details No: 7
-@article{Holschneider2016,title = {The maximum possible and the maximum expected earthquake magnitude for production-induced earthquakes at the gas field in Groningen, The Netherlands},journal = {Bulletin of the Seismological Society of America},year = {2016},volume = {106},number = {6},pages = {2917-2921},author = {Z{\"o}ller, G. and Holschneider, M.}}
-
+Paper title: The maximum possible and the maximum expected earthquake magnitude for production-induced earthquakes at the gas field in Groningen, The Netherlands
+DOI: 2-s2.0-85002199013
 
 
 Work Details No: 8
-@article{Holschneider2015,title = {Discovery of starspots on Vega: First spectroscopic detection of surface structures on a normal A-type star},journal = {Astronomy and Astrophysics},year = {2015},volume = {577},author = {B{\"o}hm, T. and Holschneider, M. and Ligni{\`e}res, F. and Petit, P. and Rainer, M. and Paletou, F. and Wade, G. and Alecian, E. and Carfantan, H. and Blaz{\`e}re, A. and Mirouh, G.M.}}
-
+Paper title: Discovery of starspots on Vega: First spectroscopic detection of surface structures on a normal A-type star
+DOI: 2-s2.0-84930504760
 
 
 Work Details No: 9
-@article{Holschneider2015,title = {Smoothing spline ANOVA decomposition of arbitrary splines: An application to eye movements in reading},journal = {PLoS ONE},year = {2015},volume = {10},number = {3},author = {Matuschek, H. and Kliegl, R. and Holschneider, M.}}
-
+Paper title: Smoothing spline ANOVA decomposition of arbitrary splines: An application to eye movements in reading
+DOI: 2-s2.0-84929497505
 
 
 Work Details No: 10
-@article{Holschneider2014,title = {Bayesian inversion for the filtered flow at the Earth{'}s core-mantle boundary},journal = {Journal of Geophysical Research: Solid Earth},year = {2014},volume = {119},number = {4},pages = {2695-2720},author = {Baerenzung, J. and Holschneider, M. and Lesur, V.}}
-
+Paper title: Bayesian inversion for the filtered flow at the Earth's core-mantle boundary
+DOI: 2-s2.0-84900993154
 
 
 Work Details No: 11
-@article{Holschneider2014,title = {Can we test for the maximum possible earthquake magnitude?},journal = {Journal of Geophysical Research: Solid Earth},year = {2014},volume = {119},number = {3},pages = {2019-2028},author = {Holschneider, M. and Z{\"o}ller, G. and Clements, R. and Schorlemmer, D.}}
-
+Paper title: Can we test for the maximum possible earthquake magnitude?
+DOI: 2-s2.0-84906101776
 
 
 Work Details No: 12
-@article{Holschneider2014,title = {Combining earthquake forecasts using differential probability gains},journal = {Earth, Planets and Space},year = {2014},volume = {66},number = {1},author = {Shebalin, P.N. and Narteau, C. and Zechar, J.D. and Holschneider, M.}}
-
+Paper title: Combining earthquake forecasts using differential probability gains
+DOI: 2-s2.0-84903790118
 
 
 Work Details No: 13
-@article{Holschneider2014,title = {Induced seismicity: What is the size of the largest expected earthquake?},journal = {Bulletin of the Seismological Society of America},year = {2014},volume = {104},number = {6},pages = {3153-3158},author = {Z{\"o}ller, G. and Holschneider, M.}}
-
+Paper title: Induced seismicity: What is the size of the largest expected earthquake?
+DOI: 2-s2.0-84915782453
 
 
 Work Details No: 14
-@article{Holschneider2014,title = {Quantifying the degree of persistence in random amoeboid motion based on the Hurst exponent of fractional Brownian motion},journal = {Physical Review E - Statistical, Nonlinear, and Soft Matter Physics},year = {2014},volume = {90},number = {4},author = {Makarava, N. and Menz, S. and Theves, M. and Huisinga, W. and Beta, C. and Holschneider, M.}}
-
+Paper title: Quantifying the degree of persistence in random amoeboid motion based on the Hurst exponent of fractional Brownian motion
+DOI: 2-s2.0-84907835171
 
 
 Work Details No: 15
-@article{Holschneider2014,title = {The largest expected earthquake magnitudes in Japan: The statistical perspective},journal = {Bulletin of the Seismological Society of America},year = {2014},volume = {104},number = {2},pages = {769-779},author = {Z{\"o}ller, G. and Holschneider, M. and Hainzl, S. and Zhuang, J.}}
-
+Paper title: The largest expected earthquake magnitudes in Japan: The statistical perspective
+DOI: 2-s2.0-84897518758
 
 
 Work Details No: 16
-@article{Holschneider2013,title = {Fractal dynamics of geomagnetic storms},journal = {Arabian Journal of Geosciences},year = {2013},volume = {6},number = {6},pages = {1693-1702},author = {Zaourar, N. and Hamoudi, M. and Holschneider, M. and Mandea, M.}}
-
+Paper title: Fractal dynamics of geomagnetic storms
+DOI: 2-s2.0-84878332289
 
 
 Work Details No: 17
-@article{Holschneider2013,title = {Irregular gabor frames},journal = {Kyushu Journal of Mathematics},year = {2013},volume = {67},number = {1},pages = {237-247},author = {Iglewska-Nowak, I. and Holschneider, M.}}
-
+Paper title: Irregular gabor frames
+DOI: 2-s2.0-84880826274
 
 
 Work Details No: 18
-@article{Holschneider2013,title = {Partial parameterization of orthogonal wavelet matrix filters},journal = {Journal of Computational and Applied Mathematics},year = {2013},volume = {243},number = {1},pages = {113-125},author = {Cotronei, M. and Holschneider, M.}}
-
+Paper title: Partial parameterization of orthogonal wavelet matrix filters
+DOI: 2-s2.0-84871415689
 
 
 Work Details No: 19
-@article{Holschneider2013,title = {Phase and amplitude patterns in DySEM mappings of vibrating microstructures},journal = {Nanotechnology},year = {2013},volume = {24},number = {21},author = {Schr{\"o}ter, M.-A. and Sturm, H. and Holschneider, M.}}
-
+Paper title: Phase and amplitude patterns in DySEM mappings of vibrating microstructures
+DOI: 2-s2.0-84876889417
 
 
 Work Details No: 20
-@article{Holschneider2013,title = {The maximum earthquake magnitude in a time horizon: Theory and case studies},journal = {Bulletin of the Seismological Society of America},year = {2013},volume = {103},number = {2 A},pages = {860-875},author = {Z{\"o}ller, G. and Holschneider, M. and Hainzl, S.}}
-
+Paper title: The maximum earthquake magnitude in a time horizon: Theory and case studies
+DOI: 2-s2.0-84875473205
 
 
 Work Details No: 21
-@article{Holschneider2013,title = {Wavelet-based multiscale analysis of geomagnetic disturbance},journal = {Earth, Planets and Space},year = {2013},volume = {65},number = {12},pages = {1525-1540},author = {Zaourar, N. and Hamoudi, M. and Mandea, M. and Balasis, G. and Holschneider, M.}}
-
+Paper title: Wavelet-based multiscale analysis of geomagnetic disturbance
+DOI: 2-s2.0-84896537005
 
 
 Work Details No: 22
-@article{Holschneider2012,title = {Analytical and numerical analysis of imaging mechanism of dynamic scanning electron microscopy},journal = {Nanotechnology},year = {2012},volume = {23},number = {43},author = {Schr{\"o}ter, M.-A. and Holschneider, M. and Sturm, H.}}
-
+Paper title: Analytical and numerical analysis of imaging mechanism of dynamic scanning electron microscopy
+DOI: 2-s2.0-84867471842
 
 
 Work Details No: 23
-@article{Holschneider2012,title = {Bayesian Selection of Markov Models for Symbol Sequences: Application to Microsaccadic Eye Movements},journal = {PLoS ONE},year = {2012},volume = {7},number = {9},author = {Bettenb{\"u}hl, M. and Rusconi, M. and Engbert, R. and Holschneider, M.}}
-
+Paper title: Bayesian Selection of Markov Models for Symbol Sequences: Application to Microsaccadic Eye Movements
+DOI: 2-s2.0-84866067766
 
 
 Work Details No: 24
-@article{Holschneider2012,title = {Bayesian analysis of the modified Omori law},journal = {Journal of Geophysical Research: Solid Earth},year = {2012},volume = {117},number = {6},author = {Holschneider, M. and Narteau, C. and Shebalin, P. and Peng, Z. and Schorlemmer, D.}}
-
+Paper title: Bayesian analysis of the modified Omori law
+DOI: 2-s2.0-84863485776
 
 
 Work Details No: 25
-@article{Holschneider2012,title = {Bayesian estimation of the scaling parameter of fixational eye movements},journal = {EPL},year = {2012},volume = {100},number = {4},author = {Makarava, N. and Bettenb{\"u}hl, M. and Engbert, R. and Holschneider, M.}}
-
+Paper title: Bayesian estimation of the scaling parameter of fixational eye movements
+DOI: 2-s2.0-84871222591
 
 
 Work Details No: 26
-@article{Holschneider2012,title = {Error distribution in regional modelling of the geomagnetic field},journal = {Geophysical Journal International},year = {2012},volume = {191},number = {3},pages = {1015-1024},author = {Schachtschneider, R. and Holschneider, M. and Mandea, M.}}
-
+Paper title: Error distribution in regional modelling of the geomagnetic field
+DOI: 2-s2.0-84869080118
 
 
 Work Details No: 27
-@article{Holschneider2012,title = {Estimation of the Hurst exponent from noisy data: A Bayesian approach},journal = {European Physical Journal B},year = {2012},volume = {85},number = {8},author = {Makarava, N. and Holschneider, M.}}
-
+Paper title: Estimation of the Hurst exponent from noisy data: A Bayesian approach
+DOI: 2-s2.0-84866530775
 
 
 Work Details No: 28
-@article{Holschneider2012,title = {Flexible Dataset Combination and Modelling by Domain Decomposition Approaches},journal = {International Association of Geodesy Symposia},year = {2012},volume = {137},pages = {67-73},author = {Panet, I. and Kuroishi, Y. and Holschneider, M.}}
-
+Paper title: Flexible Dataset Combination and Modelling by Domain Decomposition Approaches
+DOI: 2-s2.0-84884371225
 
 
 Work Details No: 29
-@article{Holschneider2012,title = {From Alarm-Based to Rate-Based Earthquake Forecast Models},journal = {Bulletin of the Seismological Society of America},year = {2012},volume = {102},number = {1},pages = {64-72},author = {Shebalin, P. and Narteau, C. and Holschneider, M.}}
-
+Paper title: From Alarm-Based to Rate-Based Earthquake Forecast Models
+DOI: 2-s2.0-84857376676
 
 
 Work Details No: 30
-@article{Holschneider2012,title = {Improved daily GRACE gravity field solutions using a Kalman smoother},journal = {Journal of Geodynamics},year = {2012},volume = {59-60},pages = {39-48},author = {Kurtenbach, E. and Eicker, A. and Mayer-G{\"u}rr, T. and Holschneider, M. and Hayn, M. and Fuhrmann, M. and Kusche, J.}}
-
+Paper title: Improved daily GRACE gravity field solutions using a Kalman smoother
+DOI: 2-s2.0-84863829724
 
 
 Work Details No: 31
-@article{Holschneider2012,title = {Numerical modeling of solar wind influences on the dynamics of the high-latitude upper atmosphere},journal = {Advances in Radio Science},year = {2012},volume = {10},pages = {299-312},author = {F{\"o}rster, M. and Prokhorov, B.E. and Namgaladze, A.A. and Holschneider, M.}}
-
+Paper title: Numerical modeling of solar wind influences on the dynamics of the high-latitude upper atmosphere
+DOI: 2-s2.0-84880707512
 
 
 Work Details No: 32
-@article{Holschneider2012,title = {Stress- and aftershock-constrained joint inversions for coseismic and postseismic slip applied to the 2004 M6.0 Parkfield earthquake},journal = {Journal of Geophysical Research: Solid Earth},year = {2012},volume = {117},number = {7},author = {Wang, L. and Hainzl, S. and Z{\"o}ller, G. and Holschneider, M.}}
-
+Paper title: Stress- and aftershock-constrained joint inversions for coseismic and postseismic slip applied to the 2004 M6.0 Parkfield earthquake
+DOI: 2-s2.0-84864576358
 
 
 Work Details No: 33
-@article{Holschneider2012,title = {Wavelet-based directional analysis of the gravity field: Evidence for large-scale undulations},journal = {Geophysical Journal International},year = {2012},volume = {189},number = {3},pages = {1430-1456},author = {Hayn, M. and Panet, I. and Diament, M. and Holschneider, M. and Mandea, M. and Davaille, A.}}
-
+Paper title: Wavelet-based directional analysis of the gravity field: Evidence for large-scale undulations
+DOI: 2-s2.0-84860841396
 
 
 Work Details No: 34
-@article{Holschneider2011,title = {A multigrid solver for modeling complex interseismic stress fields},journal = {Computers and Geosciences},year = {2011},volume = {37},number = {8},pages = {1075-1082},author = {Shin, S. and Z{\"o}ller, G. and Holschneider, M. and Reich, S.}}
-
+Paper title: A multigrid solver for modeling complex interseismic stress fields
+DOI: 2-s2.0-79960921763
 
 
 Work Details No: 35
-@article{Holschneider2011,title = {Bayesian estimation of self-similarity exponent},journal = {Physical Review E - Statistical, Nonlinear, and Soft Matter Physics},year = {2011},volume = {84},number = {2},author = {Makarava, N. and Benmehdi, S. and Holschneider, M.}}
-
+Paper title: Bayesian estimation of self-similarity exponent
+DOI: 2-s2.0-79960212934
 
 
 Work Details No: 36
-@article{Holschneider2011,title = {Bayesian estimation of the self-similarity exponent of the Nile River fluctuation},journal = {Nonlinear Processes in Geophysics},year = {2011},volume = {18},number = {3},pages = {441-446},author = {Benmehdi, S. and Makarava, N. and Benhamidouche, N. and Holschneider, M.}}
-
+Paper title: Bayesian estimation of the self-similarity exponent of the Nile River fluctuation
+DOI: 2-s2.0-79960281188
 
 
 Work Details No: 37
-@article{Holschneider2011,title = {Detection of trend changes in time series using Bayesian inference},journal = {Physical Review E - Statistical, Nonlinear, and Soft Matter Physics},year = {2011},volume = {84},number = {2},author = {Sch{\"u}tz, N. and Holschneider, M.}}
-
+Paper title: Detection of trend changes in time series using Bayesian inference
+DOI: 2-s2.0-80051612659
 
 
 Work Details No: 38
-@article{Holschneider2011,title = {Estimation of the maximum possible magnitude in the framework of a doubly truncated Gutenberg-Richter model},journal = {Bulletin of the Seismological Society of America},year = {2011},volume = {101},number = {4},pages = {1649-1659},author = {Holschneider, M. and Z{\"o}ller, G. and Hainzl, S.}}
-
+Paper title: Estimation of the maximum possible magnitude in the framework of a doubly truncated Gutenberg-Richter model
+DOI: 2-s2.0-79961147940
 
 
 Work Details No: 39
-@article{Holschneider2011,title = {Regularity analysis applied to sonic logs data: A case study from KTB borehole site},journal = {Arabian Journal of Geosciences},year = {2011},volume = {4},number = {1-2},pages = {221-227},author = {Gaci, S. and Zaourar, N. and Briqueu, L. and Holschneider, M.}}
-
+Paper title: Regularity analysis applied to sonic logs data: A case study from KTB borehole site
+DOI: 2-s2.0-84928566336
 
 
 Work Details No: 40
-@article{Holschneider2011,title = {Short-term earthquake forecasting using early aftershock statistics},journal = {Bulletin of the Seismological Society of America},year = {2011},volume = {101},number = {1},pages = {297-312},author = {Shebalin, P. and Narteau, C. and Holschneider, M. and Schorlemmer, D.}}
-
+Paper title: Short-term earthquake forecasting using early aftershock statistics
+DOI: 2-s2.0-79251642227
 
 
 Work Details No: 41
-@article{Holschneider2011,title = {Steady-state solutions of rupture propagation in an earthquake simulator governed by rate and state dependent friction},journal = {European Physical Journal: Special Topics},year = {2011},volume = {191},number = {1},pages = {105-115},author = {Z{\"o}ller, G. and Hainzl, S. and Holschneider, M. and Brietzke, G.B.}}
-
+Paper title: Steady-state solutions of rupture propagation in an earthquake simulator governed by rate and state dependent friction
+DOI: 2-s2.0-79952017568
 
 
 Work Details No: 42
-@article{Holschneider2011,title = {Variability patterns differ between standing stock and process rates},journal = {Oikos},year = {2011},volume = {120},number = {1},pages = {17-25},author = {Rocha, M.R. and Vasseur, D.A. and Hayn, M. and Holschneider, M. and Gaedke, U.}}
-
+Paper title: Variability patterns differ between standing stock and process rates
+DOI: 2-s2.0-78650183023
 
 
 Work Details No: 43
-@article{Holschneider2011,title = {Wavelet modelling of the gravity field by domain decomposition methods: An example over Japan},journal = {Geophysical Journal International},year = {2011},volume = {184},number = {1},pages = {203-219},author = {Panet, I. and Kuroishi, Y. and Holschneider, M.}}
-
+Paper title: Wavelet modelling of the gravity field by domain decomposition methods: An example over Japan
+DOI: 2-s2.0-78650086703
 
 
 Work Details No: 44
-@article{Holschneider2010,title = {Error distribution in regional inversion of potential field data},journal = {Geophysical Journal International},year = {2010},volume = {181},number = {3},pages = {1428-1440},author = {Schachtschneider, R. and Holschneider, M. and Mandea, M.}}
-
+Paper title: Error distribution in regional inversion of potential field data
+DOI: 2-s2.0-77954070792
 
 
 Work Details No: 45
-@article{Holschneider2010,title = {ExPlanes: exploring planes in triplet data.},journal = {Journal of integrative bioinformatics},year = {2010},volume = {7},number = {3},author = {Schwenk, B.B. and Selbig, J. and Ben-Zion, Y. and Holschneider, M.}}
-
+Paper title: ExPlanes: exploring planes in triplet data.
+DOI: 2-s2.0-77954518995
 
 
 Work Details No: 46
-@article{Holschneider2010,title = {Frames of Poisson wavelets on the sphere},journal = {Applied and Computational Harmonic Analysis},year = {2010},volume = {28},number = {2},pages = {227-248},author = {Iglewska-Nowak, I. and Holschneider, M.}}
-
+Paper title: Frames of Poisson wavelets on the sphere
+DOI: 2-s2.0-75949097912
 
 
 Work Details No: 47
-@article{Holschneider2010,title = {Local regularity analysis of strata heterogeneities from sonic logs},journal = {Nonlinear Processes in Geophysics},year = {2010},volume = {17},number = {5},pages = {455-466},author = {Gaci, S. and Zaourar, N. and Hamoudi, M. and Holschneider, M.}}
-
+Paper title: Local regularity analysis of strata heterogeneities from sonic logs
+DOI: 2-s2.0-77956948400
 
 
 Work Details No: 48
-@article{Holschneider2010,title = {Quantifying focal mechanism heterogeneity for fault zones in central and southern California},journal = {Geophysical Journal International},year = {2010},volume = {183},number = {1},pages = {433-450},author = {Bailey, I.W. and Ben-Zion, Y. and Becker, T.W. and Holschneider, M.}}
-
+Paper title: Quantifying focal mechanism heterogeneity for fault zones in central and southern California
+DOI: 2-s2.0-78349253898
 
 
 Work Details No: 49
-@article{Holschneider2010,title = {Recurrence of large earthquakes: Bayesian inference from catalogs in the presence of magnitude uncertainties},journal = {Pure and Applied Geophysics},year = {2010},volume = {167},number = {6},pages = {845-853},author = {Z{\"o}ller, G. and Hainzl, S. and Holschneider, M.}}
-
+Paper title: Recurrence of large earthquakes: Bayesian inference from catalogs in the presence of magnitude uncertainties
+DOI: 2-s2.0-77954310177
 
 
 Work Details No: 50
-@article{Holschneider2009,title = {Directional spherical multipole wavelets},journal = {Journal of Mathematical Physics},year = {2009},volume = {50},number = {7},author = {Hayn, M. and Holschneider, M.}}
-
+Paper title: Directional spherical multipole wavelets
+DOI: 2-s2.0-68749107195
 
 
 Work Details No: 51
-@article{Holschneider2009,title = {Local multi-polar expansions in potential field modeling},journal = {Earth, Planets and Space},year = {2009},volume = {61},number = {10},pages = {1127-1141},author = {Minchev, B. and Chambodut, A. and Holschneider, M. and Panet, I. and Sch{\"o}Il, E. and Mandea, M. and Ramillien, G.}}
-
+Paper title: Local multi-polar expansions in potential field modeling
+DOI: 2-s2.0-76249126205
 
 
 Work Details No: 52
-@article{Holschneider2008,title = {Adaptive metrics in the nearest neighbours method},journal = {Physica D: Nonlinear Phenomena},year = {2008},volume = {237},number = {3},pages = {283-291},author = {Kulesh, M. and Holschneider, M. and Kurennaya, K.}}
-
+Paper title: Adaptive metrics in the nearest neighbours method
+DOI: 2-s2.0-38749135531
 
 
 Work Details No: 53
-@article{Holschneider2008,title = {Geophysical wavelet library: Applications of the continuous wavelet transform to the polarization and dispersion analysis of signals},journal = {Computers and Geosciences},year = {2008},volume = {34},number = {12},pages = {1732-1752},author = {Kulesh, M. and Holschneider, M. and Diallo, M.S.}}
-
+Paper title: Geophysical wavelet library: Applications of the continuous wavelet transform to the polarization and dispersion analysis of signals
+DOI: 2-s2.0-52049110275
 
 
 Work Details No: 54
-@article{Holschneider2008,title = {Inverse problems and parameter identification in image processing},journal = {Understanding Complex Systems},year = {2008},volume = {2008},pages = {111-151},author = {Acker, J.F. and Berkels, B. and Bredies, K. and Diallo, M.S. and Droske, M. and Garbe, C.S. and Holschneider, M. and Hron, J. and Kondermann, C. and Kulesh, M. and Maass, P. and Olischl{\"a}ger, N. and Peitgen, H.-O. and Preusser, T. and Rumopf, M. and Schaller, K. and Scherbaum, F. and Turek, S.}}
-
+Paper title: Inverse problems and parameter identification in image processing
+DOI: 2-s2.0-37549033069
 
 
 Work Details No: 55
-@article{Holschneider2008,title = {Loading rates in California inferred from aftershocks},journal = {Nonlinear Processes in Geophysics},year = {2008},volume = {15},number = {2},pages = {245-263},author = {Narteau, C. and Shebalin, P. and Holschneider, M.}}
-
+Paper title: Loading rates in California inferred from aftershocks
+DOI: 2-s2.0-40849096276
 
 
 Work Details No: 56
-@article{Holschneider2008,title = {Modeling of wave dispersion using continuous wavelet transforms II: Wavelet-based frequency-velocity analysis},journal = {Pure and Applied Geophysics},year = {2008},volume = {165},number = {2},pages = {255-270},author = {Kulesh, M. and Holschneider, M. and Ohrnberger, M. and L{\"u}ck, E.}}
-
+Paper title: Modeling of wave dispersion using continuous wavelet transforms II: Wavelet-based frequency-velocity analysis
+DOI: 2-s2.0-42549103291
 
 
 Work Details No: 57
-@article{Holschneider2008,title = {Recurrent large earthquakes in a fault region: What can be inferred from small and intermediate events?},journal = {Bulletin of the Seismological Society of America},year = {2008},volume = {98},number = {6},pages = {2641-2651},author = {Z{\"o}ller, G. and Hainzl, S. and Holschneider, M.}}
-
+Paper title: Recurrent large earthquakes in a fault region: What can be inferred from small and intermediate events?
+DOI: 2-s2.0-63049110107
 
 
 Work Details No: 58
-@article{Holschneider2007,title = {Coseismic and post-seismic signatures of the Sumatra 2004 December and 2005 March earthquakes in GRACE satellite gravity},journal = {Geophysical Journal International},year = {2007},volume = {171},number = {1},pages = {177-190},author = {Panet, I. and Mikhailov, V. and Diament, M. and Pollitz, F. and King, G. and de Viron, O. and Holschneider, M. and Biancale, R. and Lemoine, J.-M.}}
-
+Paper title: Coseismic and post-seismic signatures of the Sumatra 2004 December and 2005 March earthquakes in GRACE satellite gravity
+DOI: 2-s2.0-35248886049
 
 
 Work Details No: 59
-@article{Holschneider2007,title = {Estimating recurrence times and seismic hazard of large earthquakes on an individual fault},journal = {Geophysical Journal International},year = {2007},volume = {170},number = {3},pages = {1300-1310},author = {Z{\"o}ller, G. and Ben-Zion, Y. and Holschneider, M. and Hainzl, S.}}
-
+Paper title: Estimating recurrence times and seismic hazard of large earthquakes on an individual fault
+DOI: 2-s2.0-34548142307
 
 
 Work Details No: 60
-@article{Holschneider2007,title = {Influence of multiple scattering on the resolution of an imaging system: A Cram{\'e}r-Rao analysis},journal = {Optics Express},year = {2007},volume = {15},number = {3},pages = {1340-1347},author = {Sentenac, A. and Gu{\'e}rin, C.-A. and Chaumet, P.C. and Drsek, F. and Giovannini, H. and Bertaux, N. and Holschneider, M.}}
-
+Paper title: Influence of multiple scattering on the resolution of an imaging system: A Cramér-Rao analysis
+DOI: 2-s2.0-33846891596
 
 
 Work Details No: 61
-@article{Holschneider2007,title = {Nonstationary Gaussian processes in wavelet domain: Synthesis, estimation, and significance testing},journal = {Physical Review E - Statistical, Nonlinear, and Soft Matter Physics},year = {2007},volume = {75},number = {1},author = {Maraun, D. and Kurths, J. and Holschneider, M.}}
-
+Paper title: Nonstationary Gaussian processes in wavelet domain: Synthesis, estimation, and significance testing
+DOI: 2-s2.0-33846536764
 
 
 Work Details No: 62
-@article{Holschneider2007,title = {Poisson wavelets on the sphere},journal = {Proceedings of SPIE - The International Society for Optical Engineering},year = {2007},volume = {6701},author = {Holschneider, M.}}
-
+Paper title: Poisson wavelets on the sphere
+DOI: 2-s2.0-42149194905
 
 
 Work Details No: 63
-@article{Holschneider2007,title = {Poisson wavelets on the sphere},journal = {Journal of Fourier Analysis and Applications},year = {2007},volume = {13},number = {4},pages = {405-419},author = {Holschneider, M. and Iglewska-Nowak, I.}}
-
+Paper title: Poisson wavelets on the sphere
+DOI: 2-s2.0-34547542497
 
 
 Work Details No: 64
-@article{Holschneider2007,title = {Polarization analysis in the wavelet domain based on the adaptive covariance method},journal = {Geophysical Journal International},year = {2007},volume = {170},number = {2},pages = {667-678},author = {Kulesh, M. and Diallo, M.S. and Holschneider, M. and Kurennaya, K. and Kr{\"u}ger, F. and Ohrnberger, M. and Scherbaum, F.}}
-
+Paper title: Polarization analysis in the wavelet domain based on the adaptive covariance method
+DOI: 2-s2.0-34547209223
 
 
 Work Details No: 65
-@article{Holschneider2007,title = {Polarization analysis of a Pi2 pulsation using continuous wavelet transform},journal = {Earth, Planets and Space},year = {2007},volume = {59},number = {8},pages = {961-970},author = {Kulesh, M. and Nos{\'e}, M. and Holschneider, M. and Yumoto, K.}}
-
+Paper title: Polarization analysis of a Pi2 pulsation using continuous wavelet transform
+DOI: 2-s2.0-34948850891
 
 
 Work Details No: 66
-@article{Holschneider2007,title = {Robust detection and verification of linear relationships to generate metabolic networks using estimates of technical errors},journal = {BMC Bioinformatics},year = {2007},volume = {8},author = {Kose, F. and Budczies, J. and Holschneider, M. and Fiehn, O.}}
-
+Paper title: Robust detection and verification of linear relationships to generate metabolic networks using estimates of technical errors
+DOI: 2-s2.0-34250782109
 
 
 Work Details No: 67
-@article{Holschneider2007,title = {What drives high flow events in the Swiss Alps? Recent developments in wavelet spectral analysis and their application to hydrology},journal = {Advances in Water Resources},year = {2007},volume = {30},number = {12},pages = {2511-2525},author = {Schaefli, B. and Maraun, D. and Holschneider, M.}}
-
+Paper title: What drives high flow events in the Swiss Alps? Recent developments in wavelet spectral analysis and their application to hydrology
+DOI: 2-s2.0-34748833473
 
 
 Work Details No: 68
-@article{Holschneider2006,title = {Characterization of polarization attributes of seismic waves using continuous wavelet transforms},journal = {Geophysics},year = {2006},volume = {71},number = {3},author = {Diallo, M.S. and Kulesh, M. and Holschneider, M. and Scherbaum, F. and Adler, F.}}
-
+Paper title: Characterization of polarization attributes of seismic waves using continuous wavelet transforms
+DOI: 2-s2.0-33745065800
 
 
 Work Details No: 69
-@article{Holschneider2006,title = {Dissipation at the core-mantle boundary on a small-scale topography},journal = {Journal of Geophysical Research: Solid Earth},year = {2006},volume = {111},number = {4},author = {Le Mou{\"e}l, J.L. and Narteau, C. and Greff-Lefftz, M. and Holschneider, M.}}
-
+Paper title: Dissipation at the core-mantle boundary on a small-scale topography
+DOI: 2-s2.0-33744919582
 
 
 Work Details No: 70
-@article{Holschneider2006,title = {Earthquake activity related to seismic cycles in a model for a heterogeneous strike-slip fault},journal = {Tectonophysics},year = {2006},volume = {423},number = {1-4},pages = {137-145},author = {Z{\"o}ller, G. and Hainzl, S. and Ben-Zion, Y. and Holschneider, M.}}
-
+Paper title: Earthquake activity related to seismic cycles in a model for a heterogeneous strike-slip fault
+DOI: 2-s2.0-33746931722
 
 
 Work Details No: 71
-@article{Holschneider2006,title = {Existence and computation of optimally localized coherent states},journal = {Journal of Mathematical Physics},year = {2006},volume = {47},number = {12},author = {Holschneider, M. and Teschke, G.}}
-
+Paper title: Existence and computation of optimally localized coherent states
+DOI: 2-s2.0-33846097644
 
 
 Work Details No: 72
-@article{Holschneider2006,title = {Instantaneous polarization attributes based on an adaptive approximate covariance method},journal = {Geophysics},year = {2006},volume = {71},number = {5},author = {Diallo, M.S. and Kulesh, M. and Holschneider, M. and Kurennaya, K. and Scherbaum, F.}}
-
+Paper title: Instantaneous polarization attributes based on an adaptive approximate covariance method
+DOI: 2-s2.0-33748861068
 
 
 Work Details No: 73
-@article{Holschneider2006,title = {New insights on intraplate volcanism in French Polynesia from wavelet analysis of GRACE, CHAMP, and sea surface data},journal = {Journal of Geophysical Research: Solid Earth},year = {2006},volume = {111},number = {9},author = {Panet, I. and Chambodut, A. and Diament, M. and Holschneider, M. and Jamet, O.}}
-
+Paper title: New insights on intraplate volcanism in French Polynesia from wavelet analysis of GRACE, CHAMP, and sea surface data
+DOI: 2-s2.0-34250841650
 
 
 Work Details No: 74
-@article{Holschneider2005,title = {Aftershocks resulting from creeping sections in a heterogeneous fault},journal = {Geophysical Research Letters},year = {2005},volume = {32},number = {3},pages = {1-4},author = {Z{\"o}ller, G. and Hainzl, S. and Holschneider, M. and Ben-Zion, Y.}}
-
+Paper title: Aftershocks resulting from creeping sections in a heterogeneous fault
+DOI: 2-s2.0-17744370930
 
 
 Work Details No: 75
-@article{Holschneider2005,title = {Characterization of dispersive surface waves using continuous wavelet transforms},journal = {Geophysical Journal International},year = {2005},volume = {163},number = {2},pages = {463-478},author = {Holschneider, M. and Diallo, M.S. and Kulesh, M. and Ohrnberger, M. and L{\"u}ck, E. and Scherbaum, F.}}
-
+Paper title: Characterization of dispersive surface waves using continuous wavelet transforms
+DOI: 2-s2.0-33745277116
 
 
 Work Details No: 76
-@article{Holschneider2005,title = {Instantaneous polarization attributes in the time-frequency domain and wavefield separation},journal = {Geophysical Prospecting},year = {2005},volume = {53},number = {5},pages = {723-731},author = {Diallo, M.S. and Kulesh, M. and Holschneider, M. and Scherbaum, R.}}
-
+Paper title: Instantaneous polarization attributes in the time-frequency domain and wavefield separation
+DOI: 2-s2.0-28244472998
 
 
 Work Details No: 77
-@article{Holschneider2005,title = {MathletFactory: Component framework and authoring environments for mathematical applets of interactive e-learning platforms | MathletFactory: Komponentenframework und autorenumgebungen f{\"u}r mathematische applets interaktiver eLearning-plattformen},journal = {Lecture Notes in Informatics (LNI), Proceedings - Series of the Gesellschaft fur Informatik (GI)},year = {2005},volume = {P-72},pages = {188-194},author = {Enss, V. and Holschneider, M. and Jeschke, S. and Paehler, T. and Seiler, R.}}
-
+Paper title: MathletFactory: Component framework and authoring environments for mathematical applets of interactive e-learning platforms | MathletFactory: Komponentenframework und autorenumgebungen für mathematische applets interaktiver eLearning-plattformen
+DOI: 2-s2.0-84880234731
 
 
 Work Details No: 78
-@article{Holschneider2005,title = {Modeling of wave dispersion using continuous wavelet transforms},journal = {Pure and Applied Geophysics},year = {2005},volume = {162},number = {5},pages = {843-855},author = {Kulesh, M. and Holschneider, M. and Diallo, M.S. and Xie, Q. and Scherbaum, F.}}
-
+Paper title: Modeling of wave dispersion using continuous wavelet transforms
+DOI: 2-s2.0-17444396754
 
 
 Work Details No: 79
-@article{Holschneider2005,title = {Onset of power law aftershock decay rates in southern California},journal = {Geophysical Research Letters},year = {2005},volume = {32},number = {22},pages = {1-5},author = {Narteau, C. and Shebalin, P. and Holschneider, M.}}
-
+Paper title: Onset of power law aftershock decay rates in southern California
+DOI: 2-s2.0-30744473680
 
 
 Work Details No: 80
-@article{Holschneider2005,title = {The role of heterogeneities as a tuning parameter of earthquake dynamics},journal = {Pure and Applied Geophysics},year = {2005},volume = {162},number = {6-7},pages = {1027-1049},author = {Z{\"o}ller, G. and Holschneider, M. and Ben-Zion, Y.}}
-
+Paper title: The role of heterogeneities as a tuning parameter of earthquake dynamics
+DOI: 2-s2.0-17744376849
 
 
 Work Details No: 81
-@article{Holschneider2005,title = {Wavelet analysis of ellipticity, dispersion, and dissipation properties of Rayleigh waves},journal = {Acoustical Physics},year = {2005},volume = {51},number = {4},pages = {425-434},author = {Kulesh, M.A. and Diallo, M.S. and Holschneider, M.}}
-
+Paper title: Wavelet analysis of ellipticity, dispersion, and dissipation properties of Rayleigh waves
+DOI: 2-s2.0-23844481427
 
 
 Work Details No: 82
-@article{Holschneider2005,title = {Wavelet frames: An alternative to spherical harmonic representation of potential fields},journal = {Geophysical Journal International},year = {2005},volume = {163},number = {3},pages = {875-899},author = {Chambodut, A. and Panet, I. and Mandea, M. and Diament, M. and Holschneider, M. and Jamet, O.}}
-
+Paper title: Wavelet frames: An alternative to spherical harmonic representation of potential fields
+DOI: 2-s2.0-33745231171
 
 
 Work Details No: 83
-@article{Holschneider2004,title = {On the relevance of the spatial distribution of events for seismic hazard evaluation},journal = {Natural Hazards},year = {2004},volume = {31},number = {1},pages = {1-19},author = {Holschneider, M. and Teramo, A. and Bottari, A. and Termini, D.}}
-
+Paper title: On the relevance of the spatial distribution of events for seismic hazard evaluation
+DOI: 2-s2.0-2342502603
 
 
 Work Details No: 84
-@article{Holschneider2004,title = {Quasi-static and quasi-dynamic modeling of earthquake failure at intermediate scales},journal = {Pure and Applied Geophysics},year = {2004},volume = {161},number = {9-10},pages = {2103-2118},author = {Z{\"o}ller, G. and Holschneider, M. and Ben-Zion, Y.}}
-
+Paper title: Quasi-static and quasi-dynamic modeling of earthquake failure at intermediate scales
+DOI: 2-s2.0-4444248816
 
 
 Work Details No: 85
-@article{Holschneider2003,title = {Correlation dimension of self-similar surfaces and application to Kirchhoff integrals},journal = {Journal of Physics A: Mathematical and General},year = {2003},volume = {36},number = {34},pages = {9067-9079},author = {Gu{\'e}rin, C.-A. and Holschneider, M.}}
-
+Paper title: Correlation dimension of self-similar surfaces and application to Kirchhoff integrals
+DOI: 2-s2.0-0242298108
 
 
 Work Details No: 86
-@article{Holschneider2003,title = {Emergence of a band-limited power law in the aftershock decay rate of a slider-block model},journal = {Geophysical Research Letters},year = {2003},volume = {30},number = {11},pages = {22-1},author = {Narteau, C. and Shebalin, P. and Hainzl, S. and Z{\"o}ller, G. and Holschneider, M.}}
-
+Paper title: Emergence of a band-limited power law in the aftershock decay rate of a slider-block model
+DOI: 2-s2.0-0041911080
 
 
 Work Details No: 87
-@article{Holschneider2003,title = {From global to regional analysis of the magnetic field on the sphere using wavelet frames},journal = {Physics of the Earth and Planetary Interiors},year = {2003},volume = {135},number = {2-3},pages = {107-124},author = {Holschneider, M. and Chambodut, A. and Mandea, M.}}
-
+Paper title: From global to regional analysis of the magnetic field on the sphere using wavelet frames
+DOI: 2-s2.0-0037465164
 
 
 Work Details No: 88
-@article{Holschneider2002,title = {Deconvolution from instrumental devices and source effect in acoustic experiments},journal = {IEEE Transactions on Instrumentation and Measurement},year = {2002},volume = {51},number = {2},pages = {268-276},author = {Valero, H.-P. and Gautier, S. and Saracco, G. and Holschneider, M.}}
-
+Paper title: Deconvolution from instrumental devices and source effect in acoustic experiments
+DOI: 2-s2.0-0036543466
 
 
 Work Details No: 89
-@article{Holschneider2002,title = {Temporal limits of the power law aftershock decay rate},journal = {Journal of Geophysical Research B: Solid Earth},year = {2002},volume = {107},number = {12},author = {Narteau, C. and Shebalin, P. and Holschneider, M.}}
-
+Paper title: Temporal limits of the power law aftershock decay rate
+DOI: 2-s2.0-0038066156
 
 
 Work Details No: 90
-@article{Holschneider2001,title = {Rate matrices for analyzing large families of protein sequences},journal = {Journal of Computational Biology},year = {2001},volume = {8},number = {4},pages = {381-399},author = {Devauchelle, C. and Grossmann, A. and H{\'e}naut, A. and Holschneider, M. and Monnerot, M. and Risler, J.L. and Torr{\'e}sani, B.}}
-
+Paper title: Rate matrices for analyzing large families of protein sequences
+DOI: 2-s2.0-0034786417
 
 
 Work Details No: 91
-@article{Holschneider2000,title = {Diffusion through time-dependent media},journal = {Geophysical Journal International},year = {2000},volume = {141},number = {2},pages = {299-306},author = {Holschneider, M. and Gensane, O. and Le Mou{\"e}l, J.L.}}
-
+Paper title: Diffusion through time-dependent media
+DOI: 2-s2.0-0034101041
 
 
 Work Details No: 92
-@article{Holschneider2000,title = {Direct simulations of the stress redistribution in the scaling organization of fracture tectonics (SOFT) model},journal = {Geophysical Journal International},year = {2000},volume = {141},number = {1},pages = {115-135},author = {Narteau, C. and Shebalin, P. and Holschneider, M. and Le Mou{\`e}t, J.-L. and All{\`e}gre, C.J.}}
-
+Paper title: Direct simulations of the stress redistribution in the scaling organization of fracture tectonics (SOFT) model
+DOI: 2-s2.0-0034096161
 
 
 Work Details No: 93
-@article{Holschneider2000,title = {Two-Channel Perfect Reconstruction FIR Filter Banks over Commutative Rings},journal = {Applied and Computational Harmonic Analysis},year = {2000},volume = {8},number = {1},pages = {113-121},author = {Klappenecker, A. and Holschneider, M. and Flornes, K.}}
-
+Paper title: Two-Channel Perfect Reconstruction FIR Filter Banks over Commutative Rings
+DOI: 2-s2.0-0001215248
 
 
 Work Details No: 94
-@article{Holschneider1999,title = {Approximation of nonessential spectrum of transfer operators},journal = {Nonlinearity},year = {1999},volume = {12},number = {3},pages = {525-538},author = {Baladi, V. and Holschneider, M.}}
-
+Paper title: Approximation of nonessential spectrum of transfer operators
+DOI: 2-s2.0-0040715794
 
 
 Work Details No: 95
-@article{Holschneider1999,title = {Identification of sources of potential fields with the continuous wavelet transform: Basic theory},journal = {Journal of Geophysical Research: Solid Earth},year = {1999},volume = {104},number = {B3},pages = {5003-5013},author = {Moreau, F. and Gibert, D. and Holschneider, M. and Saracco, G.}}
-
+Paper title: Identification of sources of potential fields with the continuous wavelet transform: Basic theory
+DOI: 2-s2.0-0033541059
 
 
 Work Details No: 96
-@article{Holschneider1998,title = {A unified view on filter banks},journal = {Proceedings of SPIE - The International Society for Optical Engineering},year = {1998},volume = {3458},pages = {2-13},author = {Klappenecker, A. and Holschneider, M.}}
-
+Paper title: A unified view on filter banks
+DOI: 2-s2.0-0032401161
 
 
 Work Details No: 97
-@article{Holschneider1998,title = {Time-dependent scattering on fractal measures},journal = {Journal of Mathematical Physics},year = {1998},volume = {39},number = {8},pages = {4165-4194},author = {Guerin, C.-A. and Holschneider, M.}}
-
+Paper title: Time-dependent scattering on fractal measures
+DOI: 2-s2.0-0032394001
 
 
 Work Details No: 98
-@article{Holschneider1998,title = {Wavelet analysis of the Chandler wobble},journal = {Journal of Geophysical Research: Solid Earth},year = {1998},volume = {103},number = {B11},pages = {27069-27089},author = {Gibert, D. and Holschneider, M. and Le Mou{\"e}l, J.-L.}}
-
+Paper title: Wavelet analysis of the Chandler wobble
+DOI: 2-s2.0-0032464089
 
 
 Work Details No: 99
-@article{Holschneider1997,title = {Electromagnetic scattering from multi-scale rough surfaces},journal = {Waves Random Media},year = {1997},volume = {7},number = {3},pages = {331-349},author = {Gu{\'e}rin, C.A. and Holschneider, M. and Saillard, M.}}
-
+Paper title: Electromagnetic scattering from multi-scale rough surfaces
+DOI: 2-s2.0-0031173005
 
 
 Work Details No: 100
-@article{Holschneider1997,title = {On equivalent definitions of the correlation dimension for a probability measure},journal = {Journal of Statistical Physics},year = {1997},volume = {86},number = {3-4},pages = {707-720},author = {Guerin, C.-A. and Holschneider, M.}}
-
+Paper title: On equivalent definitions of the correlation dimension for a probability measure
+DOI: 2-s2.0-0031065037
 
 
 Work Details No: 101
-@article{Holschneider1997,title = {Some directional elliptic regularity for domains with cusps},journal = {Wavelet Analysis and Its Applications},year = {1997},volume = {6},number = {C},pages = {541-565},author = {Holschneider, M.}}
-
+Paper title: Some directional elliptic regularity for domains with cusps
+DOI: 2-s2.0-77957156960
 
 
 Work Details No: 102
-@article{Holschneider1997,title = {Wavelet analysis of potential fields},journal = {Inverse Problems},year = {1997},volume = {13},number = {1},pages = {165-178},author = {Moreau, F. and Gibert, D. and Holschneider, M. and Saracco, G.}}
-
+Paper title: Wavelet analysis of potential fields
+DOI: 2-s2.0-0000544826
 
 
 Work Details No: 103
-@article{Holschneider1996,title = {Continuous wavelet transforms on the sphere},journal = {Journal of Mathematical Physics},year = {1996},volume = {37},number = {8},pages = {4156-4165},author = {Holschneider, M.}}
-
+Paper title: Continuous wavelet transforms on the sphere
+DOI: 2-s2.0-0030504577
 
 
 Work Details No: 104
-@article{Holschneider1996,title = {Large-scale renormalisation of fourier transforms of self-similar measures and self-similarity of riesz measures},journal = {Journal of Mathematical Analysis and Applications},year = {1996},volume = {200},number = {2},pages = {307-314},author = {Holschneider, M.}}
-
+Paper title: Large-scale renormalisation of fourier transforms of self-similar measures and self-similarity of riesz measures
+DOI: 2-s2.0-0030161244
 
 
 Work Details No: 105
-@article{Holschneider1996,title = {Scattering on fractal measures},journal = {Journal of Physics A: Mathematical and General},year = {1996},volume = {29},number = {23},pages = {7651-7667},author = {Guerin, C.-A. and Holschneider, M.}}
-
+Paper title: Scattering on fractal measures
+DOI: 2-s2.0-0030574388
 
 
 Work Details No: 106
-@article{Holschneider1995,title = {Wavelet Analysis over Abelian Groups},journal = {Applied and Computational Harmonic Analysis},year = {1995},volume = {2},number = {1},pages = {52-60},author = {Holschneider, M.}}
-
+Paper title: Wavelet Analysis over Abelian Groups
+DOI: 2-s2.0-0029207718
 
 
 Work Details No: 107
-@article{Holschneider1994,title = {Fractal Wavelet Dimensions and Time Evolution},journal = {Wavelet Analysis and Its Applications},year = {1994},volume = {5},number = {C},pages = {363-381},author = {Holschneider, M.}}
-
+Paper title: Fractal Wavelet Dimensions and Time Evolution
+DOI: 2-s2.0-85011629801
 
 
 Work Details No: 108
-@article{Holschneider1994,title = {Functional calculus using wavelet transforms},journal = {Journal of Mathematical Physics},year = {1994},volume = {35},number = {7},pages = {3745-3752},author = {Holschneider, M.}}
-
+Paper title: Functional calculus using wavelet transforms
+DOI: 2-s2.0-36449009213
 
 
 Work Details No: 109
-@article{Holschneider1994,title = {Wavelets on discrete fields},journal = {Applied and Computational Harmonic Analysis},year = {1994},volume = {1},number = {2},pages = {137-146},author = {Flornes, K. and Grossmann, A. and Holschneider, M. and Torresani, B.}}
-
+Paper title: Wavelets on discrete fields
+DOI: 2-s2.0-0028400695
 
 
 Work Details No: 110
-@article{Holschneider1993,title = {General inversion formulas for wavelet transforms},journal = {Journal of Mathematical Physics},year = {1993},volume = {34},number = {9},pages = {4190-4198},author = {Holschneider, M.}}
-
+Paper title: General inversion formulas for wavelet transforms
+DOI: 2-s2.0-21144479930
 
 
 Work Details No: 111
-@article{Holschneider1993,title = {Localization properties of wavelet transforms},journal = {Journal of Mathematical Physics},year = {1993},volume = {34},number = {7},pages = {3227-3244},author = {Holschneider, M.}}
-
+Paper title: Localization properties of wavelet transforms
+DOI: 2-s2.0-21144468165
 
 
 Work Details No: 112
-@article{Holschneider1991,title = {Interpretation of two-dimensional turbulence energy spectrum in terms of quasi-singularity in some vortex cores},journal = {EPL},year = {1991},volume = {15},number = {7},pages = {737-743},author = {Farge, M. and Holschneider, M.}}
-
+Paper title: Interpretation of two-dimensional turbulence energy spectrum in terms of quasi-singularity in some vortex cores
+DOI: 2-s2.0-84956242105
 
 
 Work Details No: 113
-@article{Holschneider1991,title = {Inverse Radon transforms through inverse wavelet transforms},journal = {Inverse Problems},year = {1991},volume = {7},number = {6},pages = {853-861},author = {Holschneider, M.}}
-
+Paper title: Inverse Radon transforms through inverse wavelet transforms
+DOI: 2-s2.0-0040866924
 
 
 Work Details No: 114
-@article{Holschneider1991,title = {Pointwise analysis of Riemann{'}s {"}nondifferentiable{"} function},journal = {Inventiones Mathematicae},year = {1991},volume = {105},number = {1},pages = {157-175},author = {Holschneider, M. and Tchamitchian, Ph.}}
-
+Paper title: Pointwise analysis of Riemann's "nondifferentiable" function
+DOI: 2-s2.0-0000635823
 
 
 Work Details No: 115
-@article{Holschneider1990,title = {Wavelet analysis on the circle},journal = {Journal of Mathematical Physics},year = {1990},volume = {31},number = {1},pages = {39-44},author = {Holschneider, M.}}
-
+Paper title: Wavelet analysis on the circle
+DOI: 2-s2.0-0002824297
 
 
 Work Details No: 116
-@article{Holschneider1988,title = {Fractal dimensions and homeomorphic conjugacies},journal = {Journal of Statistical Physics},year = {1988},volume = {50},number = {5-6},pages = {995-1020},author = {Arneodo, A. and Holschneider, M.}}
-
+Paper title: Fractal dimensions and homeomorphic conjugacies
+DOI: 2-s2.0-0012005192
 
 
 Work Details No: 117
-@article{Holschneider1988,title = {On the wavelet transformation of fractal objects},journal = {Journal of Statistical Physics},year = {1988},volume = {50},number = {5-6},pages = {963-993},author = {Holschneider, M.}}
-
+Paper title: On the wavelet transformation of fractal objects
+DOI: 2-s2.0-34250085766
 
 
 Work Details No: 118
-@article{Holschneider1988,title = {Wavelet transform of multifractals},journal = {Physical Review Letters},year = {1988},volume = {61},number = {20},pages = {2281-2284},author = {Arneodo, A. and Grasseau, G. and Holschneider, M.}}
-
+Paper title: Wavelet transform of multifractals
+DOI: 2-s2.0-0000732455
 
 
 Work Details No: 119
-@article{Holschneider1987,title = {Crossover effect in the f() spectrum for quasiperiodic trajectories at the onset of chaos},journal = {Physical Review Letters},year = {1987},volume = {58},number = {20},pages = {2007-2010},author = {Arneodo, A. and Holschneider, M.}}
-
+Paper title: Crossover effect in the f() spectrum for quasiperiodic trajectories at the onset of chaos
+DOI: 2-s2.0-35949011088
 
 
 Work Details No: 120
-@article{Holschneider1980,title = {Wavelet analysis on the circle},journal = {Journal of Mathematical Physics},year = {1980},volume = {22},number = {1},pages = {39-44},author = {Holschneider, M.}}
+Paper title: Wavelet analysis on the circle
+DOI: 2-s2.0-36749120400
 
 
-
-Number of education: 2
-
-Education Details: 1
-Department name : Department of Mathematics
-Role : Habilitation
-Organization : Technische Universität Berlin
-Address : Berlin
-
-Education Details: 2
-Department name : None
-Role : PhD
-Organization : University of Provence Aix-Marseille I
-Address : Aix-en- Provence/Marseille
-
-
-
-Number of employment: 1
-
-Employmenr Details: 1
+Current Employee
 Department name : Department of Mathematics
 Role : Chair of Applied Mathematics
 Organization : Universität Potsdam
 Address : Potsdam
-

@@ -7,24 +7,17 @@ Number of Works: 2
 
 
 Work Details No: 1
-Pre-Training on In Vitro and Fine-Tuning on Patient-Derived Data Improves Deep Neural Networks for Anti-Cancer Drug-Sensitivity Prediction
-
+Paper title: Pre-Training on In Vitro and Fine-Tuning on Patient-Derived Data Improves Deep Neural Networks for Anti-Cancer Drug-Sensitivity Prediction
+DOI: https://doi.org/10.3390/cancers14163950
 
 
 Work Details No: 2
-Matching anticancer compounds and tumor cell lines by neural networks with ranking loss
+Paper title: Matching anticancer compounds and tumor cell lines by neural networks with ranking loss
+DOI: https://doi.org/10.1093/nargab/lqab128
 
 
-
-Number of education: 0
-
-
-
-Number of employment: 1
-
-Employmenr Details: 1
+Current Employee
 Department name : Department of Computer Science
 Role : Professor
 Organization : University of Potsdam
 Address : Potsdam
-

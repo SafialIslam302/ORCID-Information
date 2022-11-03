@@ -91,7 +91,7 @@ Works = dictmapper('Works', {
 
 PublicationBase = dictmapper('PublicationBase',{
     'title'         : ['title', 'title', 'value'],
-    'url'           : ['external-ids','external-id', 'external-id-url'],
+    'url'           : ['external-ids','external-id'],
     #'citation'      : to(['citation'], lambda l: map(CitationBase, l) if l is not None else None),
     'citation_value': ['citation', 'citation-value'],
     'citation_type' : ['citation', 'citation-type'],

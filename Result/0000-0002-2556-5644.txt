@@ -7,127 +7,47 @@ Number of Works: 8
 
 
 Work Details No: 1
-@article{Engbert_2022,
-	doi = {10.1016/j.tics.2021.11.006},
-	url = {https://doi.org/10.1016%2Fj.tics.2021.11.006},
-	year = 2022,
-	month = {feb},
-	publisher = {Elsevier {BV}},
-	volume = {26},
-	number = {2},
-	pages = {99--102},
-	author = {Ralf Engbert and Maximilian M. Rabe and Lisa Schwetlick and Stefan A. Seelig and Sebastian Reich and Shravan Vasishth},
-	title = {Data assimilation in dynamical cognitive science},
-	journal = {Trends in Cognitive Sciences}
-}
-
+Paper title: Data assimilation in dynamical cognitive science
+DOI: https://doi.org/10.1016/j.tics.2021.11.006
 
 
 Work Details No: 2
-@article{Rabe_2021,
-	doi = {10.1037/rev0000268},
-	url = {https://doi.org/10.1037%2Frev0000268},
-	year = 2021,
-	month = {oct},
-	publisher = {American Psychological Association ({APA})},
-	volume = {128},
-	number = {5},
-	pages = {803--823},
-	author = {Maximilian M. Rabe and Johan Chandra and Andr{\'{e}} KrÃ¼gel and Stefan A. Seelig and Shravan Vasishth and Ralf Engbert},
-	title = {A Bayesian approach to dynamical modeling of eye-movement control in reading of normal, mirrored, and scrambled texts.},
-	journal = {Psychological Review}
-}
-
+Paper title: A Bayesian approach to dynamical modeling of eye-movement control in reading of normal, mirrored, and scrambled texts.
+DOI: https://doi.org/10.1037/rev0000268
 
 
 Work Details No: 3
-@article{Rabe_2021,
-	doi = {10.31234/osf.io/erzvp},
-	url = {https://doi.org/10.31234%2Fosf.io%2Ferzvp},
-	year = 2021,
-	month = {mar},
-	publisher = {Center for Open Science},
-	author = {Maximilian M. Rabe and D. Stephen Lindsay and Reinhold Kliegl},
-	title = {{ROC} Asymmetry Is Not Diagnostic of Unequal Residual Variance in Gaussian Signal Detection Theory}
-}
-
+Paper title: ROC asymmetry is not diagnostic of unequal residual variance in Gaussian signal detection theory
+DOI: https://doi.org/10.31234/osf.io/erzvp
 
 
 Work Details No: 4
-Dynamical Cognitive Modeling of Syntactic Processing and Eye Movement Control in Reading
-
+Paper title: Dynamical Cognitive Modeling of Syntactic Processing and Eye Movement Control in Reading
+DOI: https://doi.org/10.31234/osf.io/w89zt
 
 
 Work Details No: 5
-@article{Engbert_2020,
-	doi = {10.1007/s11538-020-00834-8},
-	url = {https://doi.org/10.1007%2Fs11538-020-00834-8},
-	year = 2020,
-	month = {dec},
-	publisher = {Springer Science and Business Media {LLC}},
-	volume = {83},
-	number = {1},
-	author = {Ralf Engbert and Maximilian M. Rabe and Reinhold Kliegl and Sebastian Reich},
-	title = {Sequential Data Assimilation of the Stochastic {SEIR} Epidemic Model for Regional {COVID}-19 Dynamics},
-	journal = {Bulletin of Mathematical Biology}
-}
-
+Paper title: Sequential Data Assimilation of the Stochastic SEIR Epidemic Model for Regional COVID-19 Dynamics
+DOI: https://doi.org/10.1007/s11538-020-00834-8
 
 
 Work Details No: 6
-hypr: An R package for hypothesis-driven contrast coding
-
+Paper title: hypr: An R package for hypothesis-driven contrast coding
+DOI: https://doi.org/10.21105/joss.02134
 
 
 Work Details No: 7
-@article{Rabe2020,title = {Bayesian parameter estimation for the SWIFT model of eye-movement control during reading},journal = {Journal of Mathematical Psychology},year = {2020},volume = {95},author = {Seelig, S.A. and Rabe, M.M. and Malem-Shinitski, N. and Risse, S. and Reich, S. and Engbert, R.}}
-
+Paper title: Bayesian parameter estimation for the SWIFT model of eye-movement control during reading
+DOI: 10960880 00222496
 
 
 Work Details No: 8
-@article{Rabe2017,title = {Modulation of additive and interactive effects by trial history revisited},journal = {Memory and Cognition},year = {2017},volume = {45},number = {3},pages = {480-492},author = {Masson, M.E.J. and Rabe, M.M. and Kliegl, R.}}
+Paper title: Modulation of additive and interactive effects by trial history revisited
+DOI: 15325946 0090502X
 
 
-
-Number of education: 3
-
-Education Details: 1
-Department name : Cognitive Science
-Role : PhD
-Organization : Universität Potsdam
-Address : Potsdam
-
-Education Details: 2
-Department name : Psychology
-Role : Master of Science
-Organization : University of Victoria
-Address : Victoria
-
-Education Details: 3
-Department name : Psychology
-Role : Bachelor of Science
-Organization : Universität Potsdam
-Address : Potsdam
-
-
-
-Number of employment: 3
-
-Employmenr Details: 1
+Current Employee
 Department name : Experimental and Biological Psychology
 Role : None
 Organization : Universität Potsdam
 Address : Potsdam
-
-Employmenr Details: 2
-Department name : Psychology
-Role : Teaching Assistant
-Organization : University of Victoria
-Address : Victoria
-
-Employmenr Details: 3
-Department name : Psychology
-Role : Teaching and Research Assistant
-Organization : Universität Potsdam
-Address : Potsdam
-

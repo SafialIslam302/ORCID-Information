@@ -7,77 +7,37 @@ Number of Works: 6
 
 
 Work Details No: 1
-<head>
-<META HTTP-EQUIV="Refresh" CONTENT="0;URL=/servlet/useragent">
-</head>
-
-
+Paper title: A dynamical scan-path model for task-dependence during scene viewing.
+DOI: https://doi.org/10.1037/rev0000379
 
 
 Work Details No: 2
-@article{Engbert_2021,
-	doi = {10.1016/j.tics.2021.11.006},
-	url = {https://doi.org/10.1016%2Fj.tics.2021.11.006},
-	year = 2021,
-	month = {dec},
-	publisher = {Elsevier {BV}},
-	author = {Ralf Engbert and Maximilian M. Rabe and Lisa Schwetlick and Stefan A. Seelig and Sebastian Reich and Shravan Vasishth},
-	title = {Data assimilation in dynamical cognitive science},
-	journal = {Trends in Cognitive Sciences}
-}
-
+Paper title: Data assimilation in dynamical cognitive science
+DOI: https://doi.org/10.1016/j.tics.2021.11.006
 
 
 Work Details No: 3
-@article{Malem_Shinitski_2020,
-	doi = {10.1371/journal.pcbi.1007880},
-	url = {https://doi.org/10.1371%2Fjournal.pcbi.1007880},
-	year = 2020,
-	month = {dec},
-	publisher = {Public Library of Science ({PLoS})},
-	volume = {16},
-	number = {12},
-	pages = {e1007880},
-	author = {Noa Malem-Shinitski and Manfred Opper and Sebastian Reich and Lisa Schwetlick and Stefan A. Seelig and Ralf Engbert},
-	editor = {Jakob H Macke},
-	title = {A mathematical model of local and global attention in natural scene viewing},
-	journal = {{PLOS} Computational Biology}
-}
-
+Paper title: A mathematical model of local and global attention in natural scene viewing
+DOI: https://doi.org/10.1371/journal.pcbi.1007880
 
 
 Work Details No: 4
-Modeling the effects of perisaccadic attention on gaze statistics during scene viewing
-
+Paper title: Modeling the effects of perisaccadic attention on gaze statistics during scene viewing
+DOI: https://doi.org/10.1038/s42003-020-01429-8
 
 
 Work Details No: 5
-@article{Malem_Shinitski_2020,
-	doi = {10.1101/2020.04.16.044677},
-	url = {https://doi.org/10.1101%2F2020.04.16.044677},
-	year = 2020,
-	month = {apr},
-	publisher = {Cold Spring Harbor Laboratory},
-	author = {Noa Malem-Shinitski and Manfred Opper and Sebastian Reich and Lisa Schwetlick and Stefan Alexander Seelig and Ralf Engbert},
-	title = {A Mathematical Model of Exploration and Exploitation in Natural Scene Viewing}
-}
-
+Paper title: A Mathematical Model of Exploration and Exploitation in Natural Scene Viewing
+DOI: https://doi.org/10.1101/2020.04.16.044677
 
 
 Work Details No: 6
-Modeling the effects of perisaccadic attention on gaze statistics during scene viewing
+Paper title: Modeling the effects of perisaccadic attention on gaze statistics during scene viewing
+DOI: https://doi.org/10.31234/osf.io/zcbny
 
 
-
-Number of education: 0
-
-
-
-Number of employment: 1
-
-Employmenr Details: 1
+Current Employee
 Department name : Biological and Experimental Psychology
 Role : None
 Organization : University of Potsdam
 Address : Potsdam
-

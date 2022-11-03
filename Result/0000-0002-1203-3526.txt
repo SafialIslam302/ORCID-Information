@@ -7,56 +7,22 @@ Number of Works: 3
 
 
 Work Details No: 1
-@article{Castillo_Tibocha_2022,
-	doi = {10.5194/egusphere-egu22-11658},
-	url = {https://doi.org/10.5194%2Fegusphere-egu22-11658},
-	year = 2022,
-	month = {mar},
-	publisher = {Copernicus {GmbH}},
-	author = {Angelica M. Castillo Tibocha and Jana de Wiljes and Yuri Y. Shprits and Nikita A. Aseev},
-	title = {Reconstructing the Dynamics of the Outer Electron Radiation Belt by Means of the Standard and Ensemble Kalman Filter With the {VERB}-3D Code}
-}
-
+Paper title: Reconstructing the Dynamics of the Outer Electron Radiation Belt by Means of the Standard and Ensemble Kalman Filter With the VERB-3D Code
+DOI: https://doi.org/10.5194/egusphere-egu22-11658
 
 
 Work Details No: 2
-@article{Castillo_Tibocha_2021,
-	doi = {10.1029/2020sw002672},
-	url = {https://doi.org/10.1029%2F2020sw002672},
-	year = 2021,
-	month = {oct},
-	publisher = {American Geophysical Union ({AGU})},
-	volume = {19},
-	number = {10},
-	author = {Angelica M. Castillo Tibocha and Jana Wiljes and Yuri Y. Shprits and Nikita A. Aseev},
-	title = {Reconstructing the Dynamics of the Outer Electron Radiation Belt by Means of the Standard and Ensemble Kalman Filter With the {VERB}-3D Code},
-	journal = {Space Weather}
-}
-
+Paper title: Reconstructing the Dynamics of the Outer Electron Radiation Belt by Means of the Standard and Ensemble Kalman Filter With the VERB‐3D Code
+DOI: https://doi.org/10.1029/2020SW002672
 
 
 Work Details No: 3
-@article{Castillo_Tibocha_2020,
-	doi = {10.1002/essoar.10504674.1},
-	url = {https://doi.org/10.1002%2Fessoar.10504674.1},
-	year = 2020,
-	month = {nov},
-	publisher = {Wiley},
-	author = {Angelica Maria Castillo Tibocha and Jana de Wiljes and Yuri Y Shprits and Nikita A Aseev},
-	title = {Reconstructing the dynamics of the outer electron radiation belt by means of the standard and ensemble Kalman filter with the {VERB}-3D code}
-}
+Paper title: Reconstructing the dynamics of the outer electron radiation belt by means of the standard and ensemble Kalman filter with the VERB-3D code
+DOI: https://doi.org/10.1002/essoar.10504674.1
 
 
-
-Number of education: 0
-
-
-
-Number of employment: 1
-
-Employmenr Details: 1
+Current Employee
 Department name : None
 Role : None
 Organization : Helmholtz-Zentrum Potsdam - Deutsches GeoForschungsZentrum GFZ
 Address : Potsdam
-

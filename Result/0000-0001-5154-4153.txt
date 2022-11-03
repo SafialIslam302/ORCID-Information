@@ -7,110 +7,42 @@ Number of Works: 7
 
 
 Work Details No: 1
-@article{Marco_Figuera_2022,
-	doi = {10.3390/rs14030450},
-	url = {https://doi.org/10.3390%2Frs14030450},
-	year = 2022,
-	month = {jan},
-	publisher = {{MDPI} {AG}},
-	volume = {14},
-	number = {3},
-	pages = {450},
-	author = {Ramiro Marco Figuera and Christian Riedel and Angelo Pio Rossi and Vikram Unnithan},
-	title = {Depth to Diameter Analysis on Small Simple Craters at the Lunar South Pole{\textemdash}Possible Implications for Ice Harboring},
-	journal = {Remote Sensing}
-}
-
+Paper title: Depth to Diameter Analysis on Small Simple Craters at the Lunar South Pole—Possible Implications for Ice Harboring
+DOI: https://doi.org/10.3390/rs14030450
 
 
 Work Details No: 2
-<head>
-<META HTTP-EQUIV="Refresh" CONTENT="0;URL=/servlet/useragent">
-</head>
-
-
+Paper title: Studying the Global Spatial Randomness of Impact Craters on Mercury, Venus, and the Moon With Geodesic Neighborhood Relationships
+DOI: https://doi.org/10.1029/2020JE006693
 
 
 Work Details No: 3
-@article{Orgel_2020,
-	doi = {10.1029/2019je006212},
-	url = {https://doi.org/10.1029%2F2019je006212},
-	year = 2020,
-	month = {aug},
-	publisher = {American Geophysical Union ({AGU})},
-	volume = {125},
-	number = {8},
-	author = {Csilla Orgel and Caleb I. Fassett and Gregory Michael and Christian Riedel and Carolyn H. Bogert and Harald Hiesinger},
-	title = {Re-examination of the Population, Stratigraphy, and Sequence of Mercurian Basins: Implications for Mercury{\textquotesingle}s Early Impact History and Comparison With the Moon},
-	journal = {Journal of Geophysical Research: Planets}
-}
-
+Paper title: Re‐examination of the Population, Stratigraphy, and Sequence of Mercurian Basins: Implications for Mercury's Early Impact History and Comparison With the Moon
+DOI: https://doi.org/10.1029/2019JE006212
 
 
 Work Details No: 4
-@article{Riedel_2020,
-	doi = {10.1029/2019je006273},
-	url = {https://doi.org/10.1029%2F2019je006273},
-	year = 2020,
-	month = {apr},
-	publisher = {American Geophysical Union ({AGU})},
-	volume = {125},
-	number = {4},
-	author = {Christian Riedel and David A. Minton and Gregory Michael and Csilla Orgel and Carolyn H. Bogert and Harald Hiesinger},
-	title = {Degradation of Small Simple and Large Complex Lunar Craters: Not a Simple Scale Dependence},
-	journal = {Journal of Geophysical Research: Planets}
-}
-
+Paper title: Degradation of Small Simple and Large Complex Lunar Craters: Not a Simple Scale Dependence
+DOI: https://doi.org/10.1029/2019JE006273
 
 
 Work Details No: 5
-@article{Riedel_2018,
-	doi = {10.1002/2018ea000383},
-	url = {https://doi.org/10.1002%2F2018ea000383},
-	year = 2018,
-	month = {jun},
-	publisher = {Wiley},
-	volume = {5},
-	number = {6},
-	pages = {258--267},
-	author = {Christian Riedel and Gregory Michael and Thomas Kneissl and Csilla Orgel and Harald Hiesinger and Carolyn H. van der Bogert},
-	title = {A New Tool to Account for Crater Obliteration Effects in Crater Size-Frequency Distribution Measurements},
-	journal = {Earth and Space Science}
-}
-
+Paper title: A New Tool to Account for Crater Obliteration Effects in Crater Size-Frequency Distribution Measurements
+DOI: https://doi.org/10.1002/2018EA000383
 
 
 Work Details No: 6
-@article{Orgel_2018,	doi = {10.1002/2017je005451},	url = {https://doi.org/10.1002%2F2017je005451},	year = 2018,	month = {mar},	publisher = {American Geophysical Union ({AGU})},	volume = {123},	number = {3},	pages = {748--762},	author = {Csilla Orgel and Gregory Michael and Caleb I. Fassett and Carolyn H. van~der~Bogert and Christian Riedel and Thomas Kneissl and Harald Hiesinger},	title = {Ancient Bombardment of the Inner Solar System: Reinvestigation of the {\textquotedblleft}Fingerprints{\textquotedblright} of Different Impactor Populations on the Lunar Surface},	journal = {Journal of Geophysical Research: Planets}}
-
+Paper title: Ancient Bombardment of the Inner Solar System: Reinvestigation of the “Fingerprints” of Different Impactor Populations on the Lunar Surface
+DOI: https://portal.issn.org/resource/ISSN/2169-9097
 
 
 Work Details No: 7
-@article{Riedel2018,title = {Ancient Bombardment of the Inner Solar System: Reinvestigation of the ?Fingerprints? of Different Impactor Populations on the Lunar Surface},journal = {Journal of Geophysical Research: Planets},year = {2018},volume = {123},number = {3},pages = {748-762},author = {Orgel, C. and Michael, G. and Fassett, C.I. and van~der~Bogert, C.H. and Riedel, C. and Kneissl, T. and Hiesinger, H.}}
+Paper title: Ancient Bombardment of the Inner Solar System: Reinvestigation of the “Fingerprints” of Different Impactor Populations on the Lunar Surface
+DOI: 21699100 21699097
 
 
-
-Number of education: 1
-
-Education Details: 1
-Department name : None
-Role : M.Sc. Geoinformation
-Organization : Beuth University of Applied Sciences
-Address : Berlin
-
-
-
-Number of employment: 2
-
-Employmenr Details: 1
+Current Employee
 Department name : Institute of Computer Science
 Role : None
 Organization : University of Potsdam
 Address : Potsdam
-
-Employmenr Details: 2
-Department name : Department of Earth Sciences, Planetary Sciences and Remote Sensing
-Role : None
-Organization : Freie Universität Berlin
-Address : Berlin
-

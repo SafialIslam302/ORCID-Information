@@ -7,55 +7,12 @@ Number of Works: 1
 
 
 Work Details No: 1
-@article{Lemcke_2021,
-	doi = {10.1365/s40702-021-00771-7},
-	url = {https://doi.org/10.1365%2Fs40702-021-00771-7},
-	year = 2021,
-	month = {aug},
-	publisher = {Springer Fachmedien Wiesbaden {GmbH}},
-	volume = {58},
-	number = {5},
-	pages = {1020--1037},
-	author = {Stefanie Lemcke and Ariane Lehmann and Denny Trommler and Ulrike Lucke},
-	title = {Akzeptanz und Effekte der Digitalisierung in der Hochschulverwaltung},
-	journal = {{HMD} Praxis der Wirtschaftsinformatik}
-}
+Paper title: Akzeptanz und Effekte der Digitalisierung in der Hochschulverwaltung
+DOI: https://doi.org/10.1365/s40702-021-00771-7
 
 
-
-Number of education: 3
-
-Education Details: 1
-Department name : Dpt. of Computer Science
-Role : Habilitation
-Organization : University of Rostock
-Address : Rostock
-
-Education Details: 2
-Department name : Dpt. of Computer Science
-Role : PhD (Dr.-Ing.)
-Organization : University of Rostock
-Address : Rostock
-
-Education Details: 3
-Department name : Dpt. of Computer Science
-Role : Diploma
-Organization : University of Rostock
-Address : Rostock
-
-
-
-Number of employment: 2
-
-Employmenr Details: 1
+Current Employee
 Department name : None
 Role : None
 Organization : University of Potsdam
 Address : Potsdam
-
-Employmenr Details: 2
-Department name : None
-Role : None
-Organization : University of Rostock
-Address : Rostock
-

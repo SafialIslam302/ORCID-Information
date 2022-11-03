@@ -6,15 +6,8 @@ Number of Works: 0
 
 
 
-Number of education: 0
-
-
-
-Number of employment: 1
-
-Employmenr Details: 1
+Current Employee
 Department name : None
 Role : Doctoral Researcher
 Organization : University of Potsdam
 Address : Potsdam
-

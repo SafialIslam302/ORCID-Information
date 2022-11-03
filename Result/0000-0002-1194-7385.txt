@@ -7,377 +7,257 @@ Number of Works: 57
 
 
 Work Details No: 1
-@article{Carpentier2019,title = {Adaptive estimation of the sparsity in the Gaussian vector model},journal = {Annals of Statistics},year = {2019},volume = {47},number = {1},pages = {93-126},author = {Carpentier, A. and Verzelen, N.}}
-
+Paper title: Adaptive estimation of the sparsity in the Gaussian vector model
+DOI: 2-s2.0-85057870763
 
 
 Work Details No: 2
-@ARTICLE{Carpentier20182429, author= {Carpentier, A. and Klopp, O. and Löffler, M. and Nickl, R.}, title= {Adaptive confidence sets for matrix completion}, journal= {Bernoulli}, year= {2018}, volume= {24}, number= {4A}, pages= {2429-2460}, doi= {10.3150/17-BEJ933}, note= {cited By 0}, url= {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85045888830&doi=10.3150%2f17-BEJ933&partnerID=40&md5=6c376b2f74724cfcdfc2f3f12945d4d9}, document_type= {Article}, source= {Scopus}}
-
-
-
+Paper title: Adaptive confidence sets for matrix completion
+DOI: 10.3150/17-BEJ933
 
 
 Work Details No: 3
-@inproceedings{locatelli2018adaptivity, title= {Adaptivity to Smoothness in X-armed bandits}, author= {Locatelli, Andrea and Carpentier, Alexandra}, booktitle= {Conference On Learning Theory}, pages= {1463--1492}, year= {2018}}
-
-
-
+Paper title: Adaptivity to Smoothness in X-armed bandits
 
 
 Work Details No: 4
-@ARTICLE{Carpentier20181371, author= {Carpentier, A. and Kim, A.K.H.}, title= {An iterative hard thresholding estimator for low rank matrix recovery with explicit limiting distribution}, journal= {Statistica Sinica}, year= {2018}, volume= {28}, number= {3}, pages= {1371-1393}, doi= {10.5705/ss.202016.0103}, note= {cited By 0}, url= {https://www.scopus.com/inward/record.uri?eid=2-s2.0-85048711230&doi=10.5705%2fss.202016.0103&partnerID=40&md5=f9d9bc7a046f577f54fd4d88abc23881}, document_type= {Article}, source= {Scopus}}
-
-
-
+Paper title: An iterative hard thresholding estimator for low rank matrix recovery with explicit limiting distribution
+DOI: 10.5705/ss.202016.0103
 
 
 Work Details No: 5
-@article{carpentier2018minimax, title= {Minimax rate of testing in sparse linear regression}, author= {Carpentier, Alexandra and Collier, Olivier and Comminges, La{\"e}titia and Tsybakov, Alexandre B and Wang, Yuhao}, journal= {arXiv preprint arXiv:1804.06494}, year= {2018}}
-
-
-
+Paper title: Minimax rate of testing in sparse linear regression
 
 
 Work Details No: 6
-@article{carpentier2017adaptive, title= {Adaptive estimation of the sparsity in the Gaussian vector model}, author= {Carpentier, Alexandra and Verzelen, Nicolas}, journal= {arXiv preprint arXiv:1703.00167}, year= {2017}}
-
-
-
+Paper title: Adaptive estimation of the sparsity in the Gaussian vector model
 
 
 Work Details No: 7
-@article{locatelli2017adaptivity, title= {Adaptivity to noise parameters in nonparametric active learning}, author= {Locatelli, Andrea and Carpentier, Alexandra and Kpotufe, Samory}, journal= {arXiv preprint arXiv:1703.05841}, year= {2017}}
-
-
-
+Paper title: Adaptivity to noise parameters in nonparametric active learning
 
 
 Work Details No: 8
-@article{ghoshdastidar2017two, title= {Two-sample Tests for Random Graphs}, author= {Ghoshdastidar, Debarghya and Gutzeit, Maurilio and Carpentier, Alexandra and von Luxburg, Ulrike}, journal= {arXiv preprint arXiv:1707.00833}, year= {2017}}
-
-
-
+Paper title: Two-sample Tests for Random Graphs
 
 
 Work Details No: 9
-@article{ghoshdastidar2017two, title= {Two-sample tests for large random graphs using network statistics}, author= {Ghoshdastidar, Debarghya and Gutzeit, Maurilio and Carpentier, Alexandra and von Luxburg, Ulrike}, journal= {arXiv preprint arXiv:1705.06168}, year= {2017}}
-
-
-
+Paper title: Two-sample tests for large random graphs using network statistics
 
 
 Work Details No: 10
-@CONFERENCE{Locatelli20162539, author= {Locatelli, A. and Gutzeit, M. and Carpentier, A.}, title= {An optimal algorithm for the thresholding bandit problem}, journal= {33rd International Conference on Machine Learning, ICML 2016}, year= {2016}, volume= {4}, pages= {2539-2554}, note= {cited By 0}, url= {https://www.scopus.com/inward/record.uri?eid=2-s2.0-84998655069&partnerID=40&md5=06e3c574fac654b974a22e62445ca35e}, document_type= {Conference Paper}, source= {Scopus}}
-
-
-
+Paper title: An optimal algorithm for the thresholding bandit problem
 
 
 Work Details No: 11
-@article{Carpentier2016,title = {An optimal algorithm for the thresholding bandit problem},journal = {33rd International Conference on Machine Learning, ICML 2016},year = {2016},volume = {4},pages = {2539-2554},author = {Locatelli, A. and Gutzeit, M. and Carpentier, A.}}
-
+Paper title: An optimal algorithm for the thresholding bandit problem
+DOI: 2-s2.0-84998655069
 
 
 Work Details No: 12
-@article{carpentier2016learning, title= {Learning relationships between data obtained independently}, author= {Carpentier, Alexandra and Schlueter, Teresa}, journal= {Journal of Machine Learning Research W\&CP AISTATS}, volume= {51}, pages= {658–-666}, year= {2016}}
-
-
-
+Paper title: Learning relationships between data obtained independently
 
 
 Work Details No: 13
-@CONFERENCE{Erraqabi20163122, author= {Erraqabi, A. and Valko, M. and Carpentier, A. and Maillard, O.-A.}, title= {Pliable rejection sampling}, journal= {33rd International Conference on Machine Learning, ICML 2016}, year= {2016}, volume= {5}, pages= {3122-3137}, note= {cited By 0}, url= {https://www.scopus.com/inward/record.uri?eid=2-s2.0-84998631721&partnerID=40&md5=d11143e8aed91a656606b4119c65d4f1}, document_type= {Conference Paper}, source= {Scopus}}
-
-
-
+Paper title: Pliable rejection sampling
 
 
 Work Details No: 14
-@article{Carpentier2016,title = {Pliable rejection sampling},journal = {33rd International Conference on Machine Learning, ICML 2016},year = {2016},volume = {5},pages = {3122-3137},author = {Erraqabi, A. and Valko, M. and Carpentier, A. and Maillard, O.-A.}}
-
+Paper title: Pliable rejection sampling
+DOI: 2-s2.0-84998631721
 
 
 Work Details No: 15
-@article{carpentier2016revealing, title= {Revealing graph bandits for maximizing local influence}, author= {Carpentier, Alexandra and Valko, Michal}, journal= {Journal of Machine Learning Research W\&CP AISTATS}, volume= {51}, pages= {10--18}, year= {2016}}
-
-
-
+Paper title: Revealing graph bandits for maximizing local influence
 
 
 Work Details No: 16
-@article{carpentier2016tight, title= {Tight (Lower) Bounds for the Fixed Budget Best Arm Identification Bandit Problem}, author= {Carpentier, Alexandra and Locatelli, Andrea}, journal= {Journal of Machine Learning Research W\&CP COLT}, volume= {49}, pages= {1--15}, year= {2016}}
-
-
-
+Paper title: Tight (Lower) Bounds for the Fixed Budget Best Arm Identification Bandit Problem
 
 
 Work Details No: 17
-@ARTICLE{Carpentier20151133, author= {Carpentier, A. and Kim, A.K.H.}, title= {Adaptive and minimax optimal estimation of the tail coefficient}, journal= {Statistica Sinica}, year= {2015}, volume= {25}, number= {3}, pages= {1133-1144}, doi= {10.5705/ss.2013.272}, note= {cited By 3}, url= {https://www.scopus.com/inward/record.uri?eid=2-s2.0-84990046293&doi=10.5705%2fss.2013.272&partnerID=40&md5=3d34584d6c45dd55bd85dd4f12196906}, document_type= {Article}, source= {Scopus}}
-
-
-
+Paper title: Adaptive and minimax optimal estimation of the tail coefficient
+DOI: 10.5705/ss.2013.272
 
 
 Work Details No: 18
-@ARTICLE{Carpentier20152231, author= {Carpentier, A. and Munos, R. and Antosy, A.}, title= {Adaptive strategy for stratified Monte Carlo sampling}, journal= {Journal of Machine Learning Research}, year= {2015}, volume= {16}, pages= {2231-2271}, note= {cited By 0}, url= {https://www.scopus.com/inward/record.uri?eid=2-s2.0-84962267721&partnerID=40&md5=3008a739bf77c3f182e7b6ee6863bcb7}, document_type= {Article}, source= {Scopus}}
-
-
-
+Paper title: Adaptive strategy for stratified Monte Carlo sampling
 
 
 Work Details No: 19
-@article{Carpentier2015,title = {Adaptive strategy for stratified Monte Carlo sampling},journal = {Journal of Machine Learning Research},year = {2015},volume = {16},pages = {2231-2271},author = {Carpentier, A. and Munos, R. and Antosy, A.}}
-
+Paper title: Adaptive strategy for stratified Monte Carlo sampling
+DOI: 2-s2.0-84962267721
 
 
 Work Details No: 20
-@article{carpentier2015iterative, title= {An iterative hard thresholding estimator for low rank matrix recovery with explicit limiting distribution}, author= {Carpentier, Alexandra and Kim, Arlene KH}, journal= {arXiv preprint arXiv:1502.04654}, year= {2015}}
-
-
-
+Paper title: An iterative hard thresholding estimator for low rank matrix recovery with explicit limiting distribution
 
 
 Work Details No: 21
-@ARTICLE{Carpentier2015120, author= {Carpentier, A.}, title= {Implementable confidence sets in high dimensional regression}, journal= {Journal of Machine Learning Research}, year= {2015}, volume= {38}, pages= {120-128}, note= {cited By 0}, url= {https://www.scopus.com/inward/record.uri?eid=2-s2.0-84954315014&partnerID=40&md5=aa75d3cf6c4bdafae9ac1cfa973625a6}, document_type= {Conference Paper}, source= {Scopus}}
-
-
-
+Paper title: Implementable confidence sets in high dimensional regression
 
 
 Work Details No: 22
-@article{carpentier2015implementable, title= {Implementable confidence sets in high dimensional regression}, author= {Carpentier, Alexandra}, journal= {Journal of Machine Learning Research W\&CP AISTATS}, volume= {38}, pages= {120–-128}, year= {2015}}
-
-
-
+Paper title: Implementable confidence sets in high dimensional regression
 
 
 Work Details No: 23
-@article{Carpentier2015,title = {Implementable confidence sets in high dimensional regression},journal = {Journal of Machine Learning Research},year = {2015},volume = {38},pages = {120-128},author = {Carpentier, A.}}
-
+Paper title: Implementable confidence sets in high dimensional regression
+DOI: 2-s2.0-84954315014
 
 
 Work Details No: 24
-@ARTICLE{Carpentier20152675, author= {Carpentier, A. and Nickl, R.}, title= {On signal detection and confidence sets for low rank inference problems}, journal= {Electronic Journal of Statistics}, year= {2015}, volume= {9}, number= {2}, pages= {2675-2688}, doi= {10.1214/15-EJS1087}, note= {cited By 1}, url= {https://www.scopus.com/inward/record.uri?eid=2-s2.0-84955500258&doi=10.1214%2f15-EJS1087&partnerID=40&md5=0e588bd52d095aacc5d5741fbb5b2a79}, document_type= {Article}, source= {Scopus}}
-
-
-
+Paper title: On signal detection and confidence sets for low rank inference problems
+DOI: 10.1214/15-EJS1087
 
 
 Work Details No: 25
-@CONFERENCE{Carpentier20151133, author= {Carpentier, A. and Valko, M.}, title= {Simple regret for infinitely many armed bandits}, journal= {32nd International Conference on Machine Learning, ICML 2015}, year= {2015}, volume= {2}, pages= {1133-1141}, note= {cited By 6}, url= {https://www.scopus.com/inward/record.uri?eid=2-s2.0-84969793393&partnerID=40&md5=d74b41c4b250f30aedb0cf5d977a57b9}, document_type= {Conference Paper}, source= {Scopus}}
-
-
-
+Paper title: Simple regret for infinitely many armed bandits
 
 
 Work Details No: 26
-@article{Carpentier2015,title = {Simple regret for infinitely many armed bandits},journal = {32nd International Conference on Machine Learning, ICML 2015},year = {2015},volume = {2},pages = {1133-1141},author = {Carpentier, A. and Valko, M.}}
-
+Paper title: Simple regret for infinitely many armed bandits
+DOI: 2-s2.0-84969793393
 
 
 Work Details No: 27
-@ARTICLE{Carpentier2015465, author= {Carpentier, A.}, title= {Testing the regularity of a smooth signal}, journal= {Bernoulli}, year= {2015}, volume= {21}, number= {1}, pages= {465-488}, doi= {10.3150/13-BEJ575}, note= {cited By 1}, url= {https://www.scopus.com/inward/record.uri?eid=2-s2.0-84924970252&doi=10.3150%2f13-BEJ575&partnerID=40&md5=395891f58ca3e584643839a082ede950}, document_type= {Article}, source= {Scopus}}
-
-
-
+Paper title: Testing the regularity of a smooth signal
+DOI: 10.3150/13-BEJ575
 
 
 Work Details No: 28
-@article{carpentier2015uncertainty, title= {Uncertainty quantification for matrix compressed sensing and quantum tomography problems}, author= {Carpentier, Alexandra and Eisert, Jens and Gross, David and Nickl, Richard}, journal= {arXiv preprint arXiv:1504.03234}, year= {2015}}
-
-
-
+Paper title: Uncertainty quantification for matrix compressed sensing and quantum tomography problems
 
 
 Work Details No: 29
-@ARTICLE{Carpentier20142066, author= {Carpentier, A. and Kim, A.K.H.}, title= {Adaptive confidence intervals for the tail coefficient in a wide second order class of Pareto models}, journal= {Electronic Journal of Statistics}, year= {2014}, number= {1}, pages= {2066-2110}, doi= {10.1214/14-EJS944}, note= {cited By 2}, url= {https://www.scopus.com/inward/record.uri?eid=2-s2.0-84908688862&doi=10.1214%2f14-EJS944&partnerID=40&md5=fa6523e4b92ad33ae5c84b95cb9e1d79}, document_type= {Article}, source= {Scopus}}
-
-
-
+Paper title: Adaptive confidence intervals for the tail coefficient in a wide second order class of Pareto models
+DOI: 10.1214/14-EJS944
 
 
 Work Details No: 30
-@article{thomas2014coadapt, title= {CoAdapt P300 speller: optimized flashing sequences and online learning}, author= {Thomas, Eoin and Dauc{\'e}, Emmanuel and Devlaminck, Dieter and Mah{\'e}, Lo{\"\i}c and Carpentier, Alexandra and Munos, R{\'e}mi and Perrin, Margaux and Maby, Emmanuel and Mattout, J{\'e}r{\'e}mie and Papadopoulo, Th{\'e}odore}, journal= {6th International Brain Computer Interface Conference}, year= {2014}}
-
-
-
+Paper title: CoAdapt P300 speller: optimized flashing sequences and online learning
 
 
 Work Details No: 31
-@CONFERENCE{Carpentier20141089, author= {Carpentier, A. and Valko, M.}, title= {Extreme bandits}, journal= {Advances in Neural Information Processing Systems}, year= {2014}, volume= {2}, number= {January}, pages= {1089-1097}, note= {cited By 5}, url= {https://www.scopus.com/inward/record.uri?eid=2-s2.0-84937857255&partnerID=40&md5=aba641bbbc13a28d8e638f621cfa420d}, document_type= {Conference Paper}, source= {Scopus}}
-
-
-
+Paper title: Extreme bandits
 
 
 Work Details No: 32
-@article{Carpentier2014,title = {Extreme bandits},journal = {Advances in Neural Information Processing Systems},year = {2014},volume = {2},number = {January},pages = {1089-1097},author = {Carpentier, A. and Valko, M.}}
-
+Paper title: Extreme bandits
+DOI: 2-s2.0-84937857255
 
 
 Work Details No: 33
-@ARTICLE{Carpentier201477, author= {Carpentier, A. and Munos, R.}, title= {Minimax number of strata for online stratified sampling: The case of noisy samples}, journal= {Theoretical Computer Science}, year= {2014}, volume= {558}, number= {C}, pages= {77-106}, doi= {10.1016/j.tcs.2014.09.027}, note= {cited By 0}, url= {https://www.scopus.com/inward/record.uri?eid=2-s2.0-84926294486&doi=10.1016%2fj.tcs.2014.09.027&partnerID=40&md5=42a789a362ef9def56058478919cfb96}, document_type= {Article}, source= {Scopus}}
-
-
-
+Paper title: Minimax number of strata for online stratified sampling: The case of noisy samples
+DOI: 10.1016/j.tcs.2014.09.027
 
 
 Work Details No: 34
-@ARTICLE{Fruitet2013, author= {Fruitet, J. and Carpentier, A. and Munos, R. and Clerc, M.}, title= {Automatic motor task selection via a bandit algorithm for a brain-controlled button}, journal= {Journal of Neural Engineering}, year= {2013}, volume= {10}, number= {1}, doi= {10.1088/1741-2560/10/1/016012}, art_number= {016012}, note= {cited By 4}, url= {https://www.scopus.com/inward/record.uri?eid=2-s2.0-84875387405&doi=10.1088%2f1741-2560%2f10%2f1%2f016012&partnerID=40&md5=bf353cb9c35bacf4c1653e47f340f44c}, document_type= {Article}, source= {Scopus}}
-
-
-
+Paper title: Automatic motor task selection via a bandit algorithm for a brain-controlled button
+DOI: 10.1088/1741-2560/10/1/016012
 
 
 Work Details No: 35
-@ARTICLE{Carpentier20132875, author= {Carpentier, A.}, title= {Honest and adaptive confidence sets in L<inf>p</inf>}, journal= {Electronic Journal of Statistics}, year= {2013}, volume= {7}, number= {1}, pages= {2875-2923}, doi= {10.1214/13-EJS867}, note= {cited By 4}, url= {https://www.scopus.com/inward/record.uri?eid=2-s2.0-84892403865&doi=10.1214%2f13-EJS867&partnerID=40&md5=af32905e00486d69afb4b3c9e791746c}, document_type= {Article}, source= {Scopus}}
-
-
-
+Paper title: Honest and adaptive confidence sets in L<inf>p</inf>
+DOI: 10.1214/13-EJS867
 
 
 Work Details No: 36
-@CONFERENCE{Thomas20131062, author= {Thomas, E. and Clerc, M. and Carpentier, A. and Daucea, E. and Devlaminck, D. and Munos, R.}, title= {Optimizing P300-speller sequences by RIP-ping groups apart}, journal= {International IEEE/EMBS Conference on Neural Engineering, NER}, year= {2013}, pages= {1062-1065}, doi= {10.1109/NER.2013.6696120}, art_number= {6696120}, note= {cited By 3}, url= {https://www.scopus.com/inward/record.uri?eid=2-s2.0-84897731885&doi=10.1109%2fNER.2013.6696120&partnerID=40&md5=c5940bf05f7ce0b5b72ba7541c59005a}, document_type= {Conference Paper}, source= {Scopus}}
-
-
-
+Paper title: Optimizing P300-speller sequences by RIP-ping groups apart
+DOI: 10.1109/NER.2013.6696120
 
 
 Work Details No: 37
-@CONFERENCE{Valko2013678, author= {Valko, M. and Carpentier, A. and Munos, R.}, title= {Stochastic simultaneous optimistic optimization}, journal= {30th International Conference on Machine Learning, ICML 2013}, year= {2013}, number= {PART 1}, pages= {678-686}, note= {cited By 24}, url= {https://www.scopus.com/inward/record.uri?eid=2-s2.0-84897517236&partnerID=40&md5=8d725d00c2d784414cb1baa5b8059301}, document_type= {Conference Paper}, source= {Scopus}}
-
-
-
+Paper title: Stochastic simultaneous optimistic optimization
 
 
 Work Details No: 38
-@article{Carpentier2013,title = {Stochastic simultaneous optimistic optimization},journal = {30th International Conference on Machine Learning, ICML 2013},year = {2013},number = {PART 1},pages = {678-686},author = {Valko, M. and Carpentier, A. and Munos, R.}}
-
+Paper title: Stochastic simultaneous optimistic optimization
+DOI: 2-s2.0-84897517236
 
 
 Work Details No: 39
-@CONFERENCE{Carpentier2013687, author= {Carpentier, A. and Munos, R.}, title= {Toward optimal stratification for stratified Monte-Carlo integration}, journal= {30th International Conference on Machine Learning, ICML 2013}, year= {2013}, number= {PART 1}, pages= {687-695}, note= {cited By 0}, url= {https://www.scopus.com/inward/record.uri?eid=2-s2.0-84897482684&partnerID=40&md5=7dbd35afe9576c1090149e120902ecd6}, document_type= {Conference Paper}, source= {Scopus}}
-
-
-
+Paper title: Toward optimal stratification for stratified Monte-Carlo integration
 
 
 Work Details No: 40
-@article{Carpentier2013,title = {Toward optimal stratification for stratified Monte-Carlo integration},journal = {30th International Conference on Machine Learning, ICML 2013},year = {2013},number = {PART 1},pages = {687-695},author = {Carpentier, A. and Munos, R.}}
-
+Paper title: Toward optimal stratification for stratified Monte-Carlo integration
+DOI: 2-s2.0-84897482684
 
 
 Work Details No: 41
-@CONFERENCE{Carpentier2012251, author= {Carpentier, A. and Munos, R.}, title= {Adaptive stratified sampling for Monte-Carlo integration of differentiable functions}, journal= {Advances in Neural Information Processing Systems}, year= {2012}, volume= {1}, pages= {251-259}, note= {cited By 4}, url= {https://www.scopus.com/inward/record.uri?eid=2-s2.0-84877779540&partnerID=40&md5=be2b7a3e5f97cb0d3152a2bb8eff1485}, document_type= {Conference Paper}, source= {Scopus}}
-
-
-
+Paper title: Adaptive stratified sampling for Monte-Carlo integration of differentiable functions
 
 
 Work Details No: 42
-@article{Carpentier2012,title = {Adaptive stratified sampling for Monte-Carlo integration of differentiable functions},journal = {Advances in Neural Information Processing Systems},year = {2012},volume = {1},pages = {251-259},author = {Carpentier, A. and Munos, R.}}
-
+Paper title: Adaptive stratified sampling for Monte-Carlo integration of differentiable functions
+DOI: 2-s2.0-84877779540
 
 
 Work Details No: 43
-@ARTICLE{Carpentier2012190, author= {Carpentier, A. and Munos, R.}, title= {Bandit Theory meets Compressed Sensing for high-dimensional Stochastic Linear Bandit}, journal= {Journal of Machine Learning Research}, year= {2012}, volume= {22}, pages= {190-198}, note= {cited By 13}, url= {https://www.scopus.com/inward/record.uri?eid=2-s2.0-84896062989&partnerID=40&md5=d8118905e1d43e9c3c02fb59eb298a41}, document_type= {Conference Paper}, source= {Scopus}}
-
-
-
+Paper title: Bandit Theory meets Compressed Sensing for high-dimensional Stochastic Linear Bandit
 
 
 Work Details No: 44
-@article{Carpentier2012,title = {Bandit Theory meets Compressed Sensing for high-dimensional Stochastic Linear Bandit},journal = {Journal of Machine Learning Research},year = {2012},volume = {22},pages = {190-198},author = {Carpentier, A. and Munos, R.}}
-
+Paper title: Bandit Theory meets Compressed Sensing for high-dimensional Stochastic Linear Bandit
+DOI: 2-s2.0-84896062989
 
 
 Work Details No: 45
-@CONFERENCE{Fruitet2012449, author= {Fruitet, J. and Carpentier, A. and Munos, R. and Clerc, M.}, title= {Bandit algorithms boost motor-task selection for brain computer interfaces}, journal= {Advances in Neural Information Processing Systems}, year= {2012}, volume= {1}, pages= {449-457}, note= {cited By 0}, url= {https://www.scopus.com/inward/record.uri?eid=2-s2.0-84877750940&partnerID=40&md5=10d0795d88e0fcb7df5114aac6ca46cc}, document_type= {Conference Paper}, source= {Scopus}}
-
-
-
+Paper title: Bandit algorithms boost motor-task selection for brain computer interfaces
 
 
 Work Details No: 46
-@article{Carpentier2012,title = {Bandit algorithms boost motor-task selection for brain computer interfaces},journal = {Advances in Neural Information Processing Systems},year = {2012},volume = {1},pages = {449-457},author = {Fruitet, J. and Carpentier, A. and Munos, R. and Clerc, M.}}
-
+Paper title: Bandit algorithms boost motor-task selection for brain computer interfaces
+DOI: 2-s2.0-84877750940
 
 
 Work Details No: 47
-@phdthesis{carpentier2012echantillonage, title= {De l'{\'e}chantillonage optimal en grande et petite dimension}, author= {Carpentier, Alexandra}, year= {2012}, school= {Lille 1 and INRIA Lille Nord-Europe}}
-
-
-
+Paper title: De l'échantillonage optimal en grande et petite dimension
 
 
 Work Details No: 48
-@ARTICLE{Carpentier2012229, author= {Carpentier, A. and Munos, R.}, title= {Minimax number of strata for online stratified sampling given noisy samples}, journal= {Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)}, year= {2012}, volume= {7568 LNAI}, pages= {229-244}, doi= {10.1007/978-3-642-34106-9_20}, note= {cited By 5}, url= {https://www.scopus.com/inward/record.uri?eid=2-s2.0-84867890934&doi=10.1007%2f978-3-642-34106-9_20&partnerID=40&md5=4a2c5487c9862c54319a3c358fd9d990}, document_type= {Conference Paper}, source= {Scopus}}
-
-
-
+Paper title: Minimax number of strata for online stratified sampling given noisy samples
+DOI: 10.1007/978-3-642-34106-9_20
 
 
 Work Details No: 49
-@CONFERENCE{Maillard20121961, author= {Maillard, O.A. and Carpentier, A.}, title= {Online allocation and homogeneous partitioning for piecewise constant mean-approximation}, journal= {Advances in Neural Information Processing Systems}, year= {2012}, volume= {3}, pages= {1961-1969}, note= {cited By 0}, url= {https://www.scopus.com/inward/record.uri?eid=2-s2.0-84877761120&partnerID=40&md5=cd15cf19fcd9589cbe0d95e1c0205153}, document_type= {Conference Paper}, source= {Scopus}}
-
-
-
+Paper title: Online allocation and homogeneous partitioning for piecewise constant mean-approximation
 
 
 Work Details No: 50
-@article{Carpentier2012,title = {Online allocation and homogeneous partitioning for piecewise constant mean-approximation},journal = {Advances in Neural Information Processing Systems},year = {2012},volume = {3},pages = {1961-1969},author = {Maillard, O.A. and Carpentier, A.}}
-
+Paper title: Online allocation and homogeneous partitioning for piecewise constant mean-approximation
+DOI: 2-s2.0-84877761120
 
 
 Work Details No: 51
-@article{carpentier2011finite, title= {Finite time analysis of stratified sampling for Monte Carlo}, author= {Carpentier, Alexandra and Munos, R{\'e}mi}, journal= {Advances in Neural Information Processing Systems NIPS}, pages= {1278--1286}, year= {2011}}
-
-
-
+Paper title: Finite time analysis of stratified sampling for Monte Carlo
 
 
 Work Details No: 52
-@CONFERENCE{Carpentier2011, author= {Carpentier, A. and Munos, R.}, title= {Finite-time analysis of stratified sampling for Monte Carlo}, journal= {Advances in Neural Information Processing Systems 24: 25th Annual Conference on Neural Information Processing Systems 2011, NIPS 2011}, year= {2011}, page_count= {9}, note= {cited By 9}, url= {https://www.scopus.com/inward/record.uri?eid=2-s2.0-84860621666&partnerID=40&md5=63ef94b49aec5888c8ada09b3e3d3335}, document_type= {Conference Paper}, source= {Scopus}}
-
-
-
+Paper title: Finite-time analysis of stratified sampling for Monte Carlo
 
 
 Work Details No: 53
-@article{Carpentier2011,title = {Finite-time analysis of stratified sampling for Monte Carlo},journal = {Advances in Neural Information Processing Systems 24: 25th Annual Conference on Neural Information Processing Systems 2011, NIPS 2011},year = {2011},author = {Carpentier, A. and Munos, R.}}
-
+Paper title: Finite-time analysis of stratified sampling for Monte Carlo
+DOI: 2-s2.0-84860621666
 
 
 Work Details No: 54
-@article{guillot2011informativeness, title= {On the informativeness of dominant and co-dominant genetic markers for Bayesian supervised clustering}, author= {Guillot, Gilles and Carpentier-Skandalis, Alexandra}, journal= {The Open Statistics \& Probability Journal}, volume= {3}, pages= {7--12}, year= {2011}}
-
-
-
+Paper title: On the informativeness of dominant and co-dominant genetic markers for Bayesian supervised clustering
 
 
 Work Details No: 55
-@CONFERENCE{Carpentier2011, author= {Carpentier, A. and Maillard, O.-A. and Munos, R.}, title= {Sparse recovery with Brownian sensing}, journal= {Advances in Neural Information Processing Systems 24: 25th Annual Conference on Neural Information Processing Systems 2011, NIPS 2011}, year= {2011}, page_count= {9}, note= {cited By 0}, url= {https://www.scopus.com/inward/record.uri?eid=2-s2.0-84860603456&partnerID=40&md5=feaf143cfdccff39221c4c9ef16c8909}, document_type= {Conference Paper}, source= {Scopus}}
-
-
-
+Paper title: Sparse recovery with Brownian sensing
 
 
 Work Details No: 56
-@article{Carpentier2011,title = {Sparse recovery with Brownian sensing},journal = {Advances in Neural Information Processing Systems 24: 25th Annual Conference on Neural Information Processing Systems 2011, NIPS 2011},year = {2011},author = {Carpentier, A. and Maillard, O.-A. and Munos, R.}}
-
+Paper title: Sparse recovery with Brownian sensing
+DOI: 2-s2.0-84860603456
 
 
 Work Details No: 57
-@ARTICLE{Carpentier2011189, author= {Carpentier, A. and Lazaric, A. and Ghavamzadeh, M. and Munos, R. and Auer, P.}, title= {Upper-confidence-bound algorithms for active learning in multi-armed bandits}, journal= {Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)}, year= {2011}, volume= {6925 LNAI}, pages= {189-203}, doi= {10.1007/978-3-642-24412-4_17}, note= {cited By 10}, url= {https://www.scopus.com/inward/record.uri?eid=2-s2.0-80054099140&doi=10.1007%2f978-3-642-24412-4_17&partnerID=40&md5=dc9a2a4ef9efe5052d29e9e6a6d7d78f}, document_type= {Conference Paper}, source= {Scopus}}
+Paper title: Upper-confidence-bound algorithms for active learning in multi-armed bandits
+DOI: 10.1007/978-3-642-24412-4_17
 
-
-
-
-
-Number of education: 0
-
-
-
-Number of employment: 0
 

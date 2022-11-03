@@ -7,23 +7,17 @@ Number of Works: 3
 
 
 Work Details No: 1
-@misc{https://doi.org/10.48550/arxiv.2210.07850,  doi = {10.48550/ARXIV.2210.07850},  url = {https://arxiv.org/abs/2210.07850},  author = {Stankewitz, Bernhard},  keywords = {Statistics Theory (math.ST), FOS: Mathematics, FOS: Mathematics, 62G05, 62J07 (Primary), 62F35 (Secondary)},  title = {Early stopping for $ L^2 $-boosting in high-dimensional linear models},  publisher = {arXiv},  year = {2022},  copyright = {Creative Commons Attribution 4.0 International}}
-
+Paper title: Early stopping for $ L^2 $-boosting in high-dimensional linear models
+DOI: https://doi.org/10.48550/arxiv.2210.07850
 
 
 Work Details No: 2
-@article{Stankewitz_2022,	doi = {10.1007/s10589-022-00408-5},	url = {https://doi.org/10.1007%2Fs10589-022-00408-5},	year = 2022,	month = {aug},	publisher = {Springer Science and Business Media {LLC}},	author = {Bernhard Stankewitz and Nicole Mücke and Lorenzo Rosasco},	title = {From inexact optimization to learning via gradient concentration},	journal = {Computational Optimization and Applications}}
-
+Paper title: From inexact optimization to learning via gradient concentration
+DOI: https://portal.issn.org/resource/ISSN/1573-2894
 
 
 Work Details No: 3
-@article{Stankewitz_2020,	doi = {10.1214/20-ejs1747},	url = {https://doi.org/10.1214%2F20-ejs1747},	year = 2020,	month = {jan},	publisher = {Institute of Mathematical Statistics},	volume = {14},	number = {2},	author = {Bernhard Stankewitz},	title = {Smoothed residual stopping for statistical inverse problems via truncated {SVD} estimation},	journal = {Electronic Journal of Statistics}}
+Paper title: Smoothed residual stopping for statistical inverse problems via truncated SVD estimation
+DOI: https://portal.issn.org/resource/ISSN/1935-7524
 
-
-
-Number of education: 0
-
-
-
-Number of employment: 0
 
