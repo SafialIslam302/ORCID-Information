@@ -23,7 +23,7 @@ DOI: https://doi.org/10.1007/s11222-019-09898-6
 
 Work Details No: 4
 Paper title: Fréchet differentiable drift dependence of Perron–Frobenius and Koopman operators for non-deterministic dynamics
-DOI: https://portal.issn.org/resource/ISSN/1361-6544
+DOI: http://dx.doi.org/10.1088/1361-6544/ab1f2a
 
 
 Work Details No: 5
@@ -33,12 +33,12 @@ DOI: https://doi.org/10.1088/1361-6420/aae55b
 
 Work Details No: 6
 Paper title: Random forward models and log-likelihoods in Bayesian inverse problems
-DOI: https://doi.org/10.1137%2F18m1166523
+DOI: https://epubs.siam.org/doi/abs/10.1137/18M1166523
 
 
 Work Details No: 7
 Paper title: Equivalence of weak and strong modes of measures on topological vector spaces
-DOI: 10.1088/1361-6420/aadef2
+DOI: http://iopscience.iop.org/article/10.1088/1361-6420/aadef2
 
 
 Work Details No: 8
@@ -48,22 +48,22 @@ DOI: http://papers.nips.cc/paper/7955-implicit-probabilistic-integrators-for-ode
 
 Work Details No: 9
 Paper title: Quasi-invariance of countable products of Cauchy measures under non-unitary dilations
-DOI: 10.1214/18-ECP113
+DOI: https://doi.org/10.1214/18-ECP113
 
 
 Work Details No: 10
 Paper title: Some connections between importance sampling and enhanced sampling methods in molecular dynamics
-DOI: 10.1063/1.4989495
+DOI: https://doi.org/10.1063/1.4989495
 
 
 Work Details No: 11
 Paper title: Towards breaking the curse of dimensionality in computational methods for the conformational analysis of molecules
-DOI: 10.1186/1471-2105-15-S3-A2
+DOI: https://doi.org/10.1186/1471-2105-15-S3-A2
 
 
 Work Details No: 12
 Paper title: A Square Root Approximation of Transition Rates for a Markov State Model
-DOI: 10.1137/120899959
+DOI: https://doi.org/10.1137/120899959
 
 
 Current Employee
@@ -71,3 +71,4 @@ Department name : Institut für Mathematik
 Role : Junior Professor of Uncertainty Quantification
 Organization : Universität Potsdam
 Address : Potsdam
+

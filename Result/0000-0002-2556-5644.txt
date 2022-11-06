@@ -38,12 +38,12 @@ DOI: https://doi.org/10.21105/joss.02134
 
 Work Details No: 7
 Paper title: Bayesian parameter estimation for the SWIFT model of eye-movement control during reading
-DOI: 10960880 00222496
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-85078134928&partnerID=MN8TOARS
 
 
 Work Details No: 8
 Paper title: Modulation of additive and interactive effects by trial history revisited
-DOI: 15325946 0090502X
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-84992752951&partnerID=MN8TOARS
 
 
 Current Employee
@@ -51,3 +51,4 @@ Department name : Experimental and Biological Psychology
 Role : None
 Organization : Universität Potsdam
 Address : Potsdam
+

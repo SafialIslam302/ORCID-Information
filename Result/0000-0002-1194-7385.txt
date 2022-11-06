@@ -8,256 +8,286 @@ Number of Works: 57
 
 Work Details No: 1
 Paper title: Adaptive estimation of the sparsity in the Gaussian vector model
-DOI: 2-s2.0-85057870763
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-85057870763&partnerID=MN8TOARS
 
 
 Work Details No: 2
 Paper title: Adaptive confidence sets for matrix completion
-DOI: 10.3150/17-BEJ933
+DOI: https://www.scopus.com/inward/record.uri?eid=2-s2.0-85045888830&doi=10.3150%2f17-BEJ933&partnerID=40&md5=6c376b2f74724cfcdfc2f3f12945d4d9
 
 
 Work Details No: 3
 Paper title: Adaptivity to Smoothness in X-armed bandits
 
 
+
 Work Details No: 4
 Paper title: An iterative hard thresholding estimator for low rank matrix recovery with explicit limiting distribution
-DOI: 10.5705/ss.202016.0103
+DOI: https://www.scopus.com/inward/record.uri?eid=2-s2.0-85048711230&doi=10.5705%2fss.202016.0103&partnerID=40&md5=f9d9bc7a046f577f54fd4d88abc23881
 
 
 Work Details No: 5
 Paper title: Minimax rate of testing in sparse linear regression
 
 
+
 Work Details No: 6
 Paper title: Adaptive estimation of the sparsity in the Gaussian vector model
+
 
 
 Work Details No: 7
 Paper title: Adaptivity to noise parameters in nonparametric active learning
 
 
+
 Work Details No: 8
 Paper title: Two-sample Tests for Random Graphs
+
 
 
 Work Details No: 9
 Paper title: Two-sample tests for large random graphs using network statistics
 
 
+
 Work Details No: 10
 Paper title: An optimal algorithm for the thresholding bandit problem
+DOI: https://www.scopus.com/inward/record.uri?eid=2-s2.0-84998655069&partnerID=40&md5=06e3c574fac654b974a22e62445ca35e
 
 
 Work Details No: 11
 Paper title: An optimal algorithm for the thresholding bandit problem
-DOI: 2-s2.0-84998655069
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-84998655069&partnerID=MN8TOARS
 
 
 Work Details No: 12
 Paper title: Learning relationships between data obtained independently
 
 
+
 Work Details No: 13
 Paper title: Pliable rejection sampling
+DOI: https://www.scopus.com/inward/record.uri?eid=2-s2.0-84998631721&partnerID=40&md5=d11143e8aed91a656606b4119c65d4f1
 
 
 Work Details No: 14
 Paper title: Pliable rejection sampling
-DOI: 2-s2.0-84998631721
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-84998631721&partnerID=MN8TOARS
 
 
 Work Details No: 15
 Paper title: Revealing graph bandits for maximizing local influence
 
 
+
 Work Details No: 16
 Paper title: Tight (Lower) Bounds for the Fixed Budget Best Arm Identification Bandit Problem
 
 
+
 Work Details No: 17
 Paper title: Adaptive and minimax optimal estimation of the tail coefficient
-DOI: 10.5705/ss.2013.272
+DOI: https://www.scopus.com/inward/record.uri?eid=2-s2.0-84990046293&doi=10.5705%2fss.2013.272&partnerID=40&md5=3d34584d6c45dd55bd85dd4f12196906
 
 
 Work Details No: 18
 Paper title: Adaptive strategy for stratified Monte Carlo sampling
+DOI: https://www.scopus.com/inward/record.uri?eid=2-s2.0-84962267721&partnerID=40&md5=3008a739bf77c3f182e7b6ee6863bcb7
 
 
 Work Details No: 19
 Paper title: Adaptive strategy for stratified Monte Carlo sampling
-DOI: 2-s2.0-84962267721
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-84962267721&partnerID=MN8TOARS
 
 
 Work Details No: 20
 Paper title: An iterative hard thresholding estimator for low rank matrix recovery with explicit limiting distribution
 
 
+
 Work Details No: 21
 Paper title: Implementable confidence sets in high dimensional regression
+DOI: https://www.scopus.com/inward/record.uri?eid=2-s2.0-84954315014&partnerID=40&md5=aa75d3cf6c4bdafae9ac1cfa973625a6
 
 
 Work Details No: 22
 Paper title: Implementable confidence sets in high dimensional regression
 
 
+
 Work Details No: 23
 Paper title: Implementable confidence sets in high dimensional regression
-DOI: 2-s2.0-84954315014
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-84954315014&partnerID=MN8TOARS
 
 
 Work Details No: 24
 Paper title: On signal detection and confidence sets for low rank inference problems
-DOI: 10.1214/15-EJS1087
+DOI: https://www.scopus.com/inward/record.uri?eid=2-s2.0-84955500258&doi=10.1214%2f15-EJS1087&partnerID=40&md5=0e588bd52d095aacc5d5741fbb5b2a79
 
 
 Work Details No: 25
 Paper title: Simple regret for infinitely many armed bandits
+DOI: https://www.scopus.com/inward/record.uri?eid=2-s2.0-84969793393&partnerID=40&md5=d74b41c4b250f30aedb0cf5d977a57b9
 
 
 Work Details No: 26
 Paper title: Simple regret for infinitely many armed bandits
-DOI: 2-s2.0-84969793393
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-84969793393&partnerID=MN8TOARS
 
 
 Work Details No: 27
 Paper title: Testing the regularity of a smooth signal
-DOI: 10.3150/13-BEJ575
+DOI: https://www.scopus.com/inward/record.uri?eid=2-s2.0-84924970252&doi=10.3150%2f13-BEJ575&partnerID=40&md5=395891f58ca3e584643839a082ede950
 
 
 Work Details No: 28
 Paper title: Uncertainty quantification for matrix compressed sensing and quantum tomography problems
 
 
+
 Work Details No: 29
 Paper title: Adaptive confidence intervals for the tail coefficient in a wide second order class of Pareto models
-DOI: 10.1214/14-EJS944
+DOI: https://www.scopus.com/inward/record.uri?eid=2-s2.0-84908688862&doi=10.1214%2f14-EJS944&partnerID=40&md5=fa6523e4b92ad33ae5c84b95cb9e1d79
 
 
 Work Details No: 30
 Paper title: CoAdapt P300 speller: optimized flashing sequences and online learning
 
 
+
 Work Details No: 31
 Paper title: Extreme bandits
+DOI: https://www.scopus.com/inward/record.uri?eid=2-s2.0-84937857255&partnerID=40&md5=aba641bbbc13a28d8e638f621cfa420d
 
 
 Work Details No: 32
 Paper title: Extreme bandits
-DOI: 2-s2.0-84937857255
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-84937857255&partnerID=MN8TOARS
 
 
 Work Details No: 33
 Paper title: Minimax number of strata for online stratified sampling: The case of noisy samples
-DOI: 10.1016/j.tcs.2014.09.027
+DOI: https://www.scopus.com/inward/record.uri?eid=2-s2.0-84926294486&doi=10.1016%2fj.tcs.2014.09.027&partnerID=40&md5=42a789a362ef9def56058478919cfb96
 
 
 Work Details No: 34
 Paper title: Automatic motor task selection via a bandit algorithm for a brain-controlled button
-DOI: 10.1088/1741-2560/10/1/016012
+DOI: https://www.scopus.com/inward/record.uri?eid=2-s2.0-84875387405&doi=10.1088%2f1741-2560%2f10%2f1%2f016012&partnerID=40&md5=bf353cb9c35bacf4c1653e47f340f44c
 
 
 Work Details No: 35
 Paper title: Honest and adaptive confidence sets in L<inf>p</inf>
-DOI: 10.1214/13-EJS867
+DOI: https://www.scopus.com/inward/record.uri?eid=2-s2.0-84892403865&doi=10.1214%2f13-EJS867&partnerID=40&md5=af32905e00486d69afb4b3c9e791746c
 
 
 Work Details No: 36
 Paper title: Optimizing P300-speller sequences by RIP-ping groups apart
-DOI: 10.1109/NER.2013.6696120
+DOI: https://www.scopus.com/inward/record.uri?eid=2-s2.0-84897731885&doi=10.1109%2fNER.2013.6696120&partnerID=40&md5=c5940bf05f7ce0b5b72ba7541c59005a
 
 
 Work Details No: 37
 Paper title: Stochastic simultaneous optimistic optimization
+DOI: https://www.scopus.com/inward/record.uri?eid=2-s2.0-84897517236&partnerID=40&md5=8d725d00c2d784414cb1baa5b8059301
 
 
 Work Details No: 38
 Paper title: Stochastic simultaneous optimistic optimization
-DOI: 2-s2.0-84897517236
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-84897517236&partnerID=MN8TOARS
 
 
 Work Details No: 39
 Paper title: Toward optimal stratification for stratified Monte-Carlo integration
+DOI: https://www.scopus.com/inward/record.uri?eid=2-s2.0-84897482684&partnerID=40&md5=7dbd35afe9576c1090149e120902ecd6
 
 
 Work Details No: 40
 Paper title: Toward optimal stratification for stratified Monte-Carlo integration
-DOI: 2-s2.0-84897482684
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-84897482684&partnerID=MN8TOARS
 
 
 Work Details No: 41
 Paper title: Adaptive stratified sampling for Monte-Carlo integration of differentiable functions
+DOI: https://www.scopus.com/inward/record.uri?eid=2-s2.0-84877779540&partnerID=40&md5=be2b7a3e5f97cb0d3152a2bb8eff1485
 
 
 Work Details No: 42
 Paper title: Adaptive stratified sampling for Monte-Carlo integration of differentiable functions
-DOI: 2-s2.0-84877779540
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-84877779540&partnerID=MN8TOARS
 
 
 Work Details No: 43
 Paper title: Bandit Theory meets Compressed Sensing for high-dimensional Stochastic Linear Bandit
+DOI: https://www.scopus.com/inward/record.uri?eid=2-s2.0-84896062989&partnerID=40&md5=d8118905e1d43e9c3c02fb59eb298a41
 
 
 Work Details No: 44
 Paper title: Bandit Theory meets Compressed Sensing for high-dimensional Stochastic Linear Bandit
-DOI: 2-s2.0-84896062989
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-84896062989&partnerID=MN8TOARS
 
 
 Work Details No: 45
 Paper title: Bandit algorithms boost motor-task selection for brain computer interfaces
+DOI: https://www.scopus.com/inward/record.uri?eid=2-s2.0-84877750940&partnerID=40&md5=10d0795d88e0fcb7df5114aac6ca46cc
 
 
 Work Details No: 46
 Paper title: Bandit algorithms boost motor-task selection for brain computer interfaces
-DOI: 2-s2.0-84877750940
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-84877750940&partnerID=MN8TOARS
 
 
 Work Details No: 47
 Paper title: De l'échantillonage optimal en grande et petite dimension
 
 
+
 Work Details No: 48
 Paper title: Minimax number of strata for online stratified sampling given noisy samples
-DOI: 10.1007/978-3-642-34106-9_20
+DOI: https://www.scopus.com/inward/record.uri?eid=2-s2.0-84867890934&doi=10.1007%2f978-3-642-34106-9_20&partnerID=40&md5=4a2c5487c9862c54319a3c358fd9d990
 
 
 Work Details No: 49
 Paper title: Online allocation and homogeneous partitioning for piecewise constant mean-approximation
+DOI: https://www.scopus.com/inward/record.uri?eid=2-s2.0-84877761120&partnerID=40&md5=cd15cf19fcd9589cbe0d95e1c0205153
 
 
 Work Details No: 50
 Paper title: Online allocation and homogeneous partitioning for piecewise constant mean-approximation
-DOI: 2-s2.0-84877761120
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-84877761120&partnerID=MN8TOARS
 
 
 Work Details No: 51
 Paper title: Finite time analysis of stratified sampling for Monte Carlo
 
 
+
 Work Details No: 52
 Paper title: Finite-time analysis of stratified sampling for Monte Carlo
+DOI: https://www.scopus.com/inward/record.uri?eid=2-s2.0-84860621666&partnerID=40&md5=63ef94b49aec5888c8ada09b3e3d3335
 
 
 Work Details No: 53
 Paper title: Finite-time analysis of stratified sampling for Monte Carlo
-DOI: 2-s2.0-84860621666
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-84860621666&partnerID=MN8TOARS
 
 
 Work Details No: 54
 Paper title: On the informativeness of dominant and co-dominant genetic markers for Bayesian supervised clustering
 
 
+
 Work Details No: 55
 Paper title: Sparse recovery with Brownian sensing
+DOI: https://www.scopus.com/inward/record.uri?eid=2-s2.0-84860603456&partnerID=40&md5=feaf143cfdccff39221c4c9ef16c8909
 
 
 Work Details No: 56
 Paper title: Sparse recovery with Brownian sensing
-DOI: 2-s2.0-84860603456
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-84860603456&partnerID=MN8TOARS
 
 
 Work Details No: 57
 Paper title: Upper-confidence-bound algorithms for active learning in multi-armed bandits
-DOI: 10.1007/978-3-642-24412-4_17
+DOI: https://www.scopus.com/inward/record.uri?eid=2-s2.0-80054099140&doi=10.1007%2f978-3-642-24412-4_17&partnerID=40&md5=dc9a2a4ef9efe5052d29e9e6a6d7d78f
 
 

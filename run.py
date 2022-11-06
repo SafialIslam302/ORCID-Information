@@ -1,6 +1,6 @@
 import restfull
 import json
-import time
+import ssl
 
 with open('input_file_1.txt') as f:
     lines = [line.rstrip() for line in f]
@@ -35,36 +35,37 @@ for line in lines:
                     output.writelines("\n")
                 else:
                     data = orcid_res.publications[i].url
-                    res_dct = {k:v for e in data for (k,v) in e.items()}
+                    #res_dct = {k:v for e in data for (k,v) in e.items()}
                     try:
-                        doi_url = list(res_dct['external-id-url'].values())
+                        #doi_url = list(res_dct['external-id-url'].values())
+                        doi_url = list(data.values())
                         output.writelines("Paper title: " + orcid_res.publications[i].title + "\n")
                         output.writelines("DOI: " + doi_url[0])
                         output.writelines("\n")
                     except (AttributeError, KeyError) as e:
-                        doi_value = res_dct['external-id-value']
+                        #doi_value = res_dct['external-id-value']
                         output.writelines("Paper title: " + orcid_res.publications[i].title + "\n")
-                        output.writelines("DOI: " + doi_value)
+                        #output.writelines("DOI: " + doi_value)
                         output.writelines("\n")
             except (ValueError, KeyError) as e:
                 output.writelines("Paper title: " + orcid_res.publications[i].title)
                 output.writelines("\n")
-            
-            time.sleep(3)
+
+            #time.sleep(1)
 
         output.writelines("\n\n")
-       
+
         #output.writelines("Number of employment: " + str(employment_number) + "\n")
         #output.writelines("\n")
-        
+
         for k in range(employment_number):
-            #output.writelines("Current Employee\n") 
+            #output.writelines("Current Employee\n")
             if(str(orcid_res.employments[k]['end-date']) == 'None'):
                 output.writelines("Current Employee\n")
                 output.writelines("Department name : " + str(orcid_res.employments[k]['department-name']))
                 output.writelines("\nRole : " + str(orcid_res.employments[k]['role-title']))
                 output.writelines("\nOrganization : " + str(orcid_res.employments[k]['organization']['name']))
                 output.writelines("\nAddress : " + str(orcid_res.employments[k]['organization']['address']['city']))
-                output.writelines("\n") 
+                output.writelines("\n\n")
 
         print("ID Finish: " + orcid_res.orcid)

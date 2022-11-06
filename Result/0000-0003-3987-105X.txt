@@ -8,602 +8,602 @@ Number of Works: 120
 
 Work Details No: 1
 Paper title: Calculation of Confidence Intervals for the Maximum Magnitude of Earthquakes in Different Seismotectonic Zones of Iran
-DOI: 2-s2.0-85013758100
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-85013758100&partnerID=MN8TOARS
 
 
 Work Details No: 2
 Paper title: Interpolation in reproducing kernel Hilbert spaces based on random subdivision schemes
-DOI: 2-s2.0-84983514580
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-84983514580&partnerID=MN8TOARS
 
 
 Work Details No: 3
 Paper title: Correlation-based modeling and separation of geomagnetic field components
-DOI: 2-s2.0-84966354995
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-84966354995&partnerID=MN8TOARS
 
 
 Work Details No: 4
 Paper title: Enhanced DySEM imaging of cantilever motion using artificial structures patterned by focused ion beam techniques
-DOI: 2-s2.0-84959421878
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-84959421878&partnerID=MN8TOARS
 
 
 Work Details No: 5
 Paper title: The earthquake history in a fault zone tells Us almost nothing about mmax
-DOI: 2-s2.0-84954201236
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-84954201236&partnerID=MN8TOARS
 
 
 Work Details No: 6
 Paper title: The flow at the Earth's core-mantle boundary under weak prior constraints
-DOI: 2-s2.0-84960433833
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-84960433833&partnerID=MN8TOARS
 
 
 Work Details No: 7
 Paper title: The maximum possible and the maximum expected earthquake magnitude for production-induced earthquakes at the gas field in Groningen, The Netherlands
-DOI: 2-s2.0-85002199013
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-85002199013&partnerID=MN8TOARS
 
 
 Work Details No: 8
 Paper title: Discovery of starspots on Vega: First spectroscopic detection of surface structures on a normal A-type star
-DOI: 2-s2.0-84930504760
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-84930504760&partnerID=MN8TOARS
 
 
 Work Details No: 9
 Paper title: Smoothing spline ANOVA decomposition of arbitrary splines: An application to eye movements in reading
-DOI: 2-s2.0-84929497505
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-84929497505&partnerID=MN8TOARS
 
 
 Work Details No: 10
 Paper title: Bayesian inversion for the filtered flow at the Earth's core-mantle boundary
-DOI: 2-s2.0-84900993154
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-84900993154&partnerID=MN8TOARS
 
 
 Work Details No: 11
 Paper title: Can we test for the maximum possible earthquake magnitude?
-DOI: 2-s2.0-84906101776
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-84906101776&partnerID=MN8TOARS
 
 
 Work Details No: 12
 Paper title: Combining earthquake forecasts using differential probability gains
-DOI: 2-s2.0-84903790118
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-84903790118&partnerID=MN8TOARS
 
 
 Work Details No: 13
 Paper title: Induced seismicity: What is the size of the largest expected earthquake?
-DOI: 2-s2.0-84915782453
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-84915782453&partnerID=MN8TOARS
 
 
 Work Details No: 14
 Paper title: Quantifying the degree of persistence in random amoeboid motion based on the Hurst exponent of fractional Brownian motion
-DOI: 2-s2.0-84907835171
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-84907835171&partnerID=MN8TOARS
 
 
 Work Details No: 15
 Paper title: The largest expected earthquake magnitudes in Japan: The statistical perspective
-DOI: 2-s2.0-84897518758
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-84897518758&partnerID=MN8TOARS
 
 
 Work Details No: 16
 Paper title: Fractal dynamics of geomagnetic storms
-DOI: 2-s2.0-84878332289
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-84878332289&partnerID=MN8TOARS
 
 
 Work Details No: 17
 Paper title: Irregular gabor frames
-DOI: 2-s2.0-84880826274
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-84880826274&partnerID=MN8TOARS
 
 
 Work Details No: 18
 Paper title: Partial parameterization of orthogonal wavelet matrix filters
-DOI: 2-s2.0-84871415689
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-84871415689&partnerID=MN8TOARS
 
 
 Work Details No: 19
 Paper title: Phase and amplitude patterns in DySEM mappings of vibrating microstructures
-DOI: 2-s2.0-84876889417
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-84876889417&partnerID=MN8TOARS
 
 
 Work Details No: 20
 Paper title: The maximum earthquake magnitude in a time horizon: Theory and case studies
-DOI: 2-s2.0-84875473205
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-84875473205&partnerID=MN8TOARS
 
 
 Work Details No: 21
 Paper title: Wavelet-based multiscale analysis of geomagnetic disturbance
-DOI: 2-s2.0-84896537005
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-84896537005&partnerID=MN8TOARS
 
 
 Work Details No: 22
 Paper title: Analytical and numerical analysis of imaging mechanism of dynamic scanning electron microscopy
-DOI: 2-s2.0-84867471842
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-84867471842&partnerID=MN8TOARS
 
 
 Work Details No: 23
 Paper title: Bayesian Selection of Markov Models for Symbol Sequences: Application to Microsaccadic Eye Movements
-DOI: 2-s2.0-84866067766
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-84866067766&partnerID=MN8TOARS
 
 
 Work Details No: 24
 Paper title: Bayesian analysis of the modified Omori law
-DOI: 2-s2.0-84863485776
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-84863485776&partnerID=MN8TOARS
 
 
 Work Details No: 25
 Paper title: Bayesian estimation of the scaling parameter of fixational eye movements
-DOI: 2-s2.0-84871222591
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-84871222591&partnerID=MN8TOARS
 
 
 Work Details No: 26
 Paper title: Error distribution in regional modelling of the geomagnetic field
-DOI: 2-s2.0-84869080118
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-84869080118&partnerID=MN8TOARS
 
 
 Work Details No: 27
 Paper title: Estimation of the Hurst exponent from noisy data: A Bayesian approach
-DOI: 2-s2.0-84866530775
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-84866530775&partnerID=MN8TOARS
 
 
 Work Details No: 28
 Paper title: Flexible Dataset Combination and Modelling by Domain Decomposition Approaches
-DOI: 2-s2.0-84884371225
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-84884371225&partnerID=MN8TOARS
 
 
 Work Details No: 29
 Paper title: From Alarm-Based to Rate-Based Earthquake Forecast Models
-DOI: 2-s2.0-84857376676
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-84857376676&partnerID=MN8TOARS
 
 
 Work Details No: 30
 Paper title: Improved daily GRACE gravity field solutions using a Kalman smoother
-DOI: 2-s2.0-84863829724
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-84863829724&partnerID=MN8TOARS
 
 
 Work Details No: 31
 Paper title: Numerical modeling of solar wind influences on the dynamics of the high-latitude upper atmosphere
-DOI: 2-s2.0-84880707512
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-84880707512&partnerID=MN8TOARS
 
 
 Work Details No: 32
 Paper title: Stress- and aftershock-constrained joint inversions for coseismic and postseismic slip applied to the 2004 M6.0 Parkfield earthquake
-DOI: 2-s2.0-84864576358
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-84864576358&partnerID=MN8TOARS
 
 
 Work Details No: 33
 Paper title: Wavelet-based directional analysis of the gravity field: Evidence for large-scale undulations
-DOI: 2-s2.0-84860841396
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-84860841396&partnerID=MN8TOARS
 
 
 Work Details No: 34
 Paper title: A multigrid solver for modeling complex interseismic stress fields
-DOI: 2-s2.0-79960921763
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-79960921763&partnerID=MN8TOARS
 
 
 Work Details No: 35
 Paper title: Bayesian estimation of self-similarity exponent
-DOI: 2-s2.0-79960212934
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-79960212934&partnerID=MN8TOARS
 
 
 Work Details No: 36
 Paper title: Bayesian estimation of the self-similarity exponent of the Nile River fluctuation
-DOI: 2-s2.0-79960281188
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-79960281188&partnerID=MN8TOARS
 
 
 Work Details No: 37
 Paper title: Detection of trend changes in time series using Bayesian inference
-DOI: 2-s2.0-80051612659
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-80051612659&partnerID=MN8TOARS
 
 
 Work Details No: 38
 Paper title: Estimation of the maximum possible magnitude in the framework of a doubly truncated Gutenberg-Richter model
-DOI: 2-s2.0-79961147940
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-79961147940&partnerID=MN8TOARS
 
 
 Work Details No: 39
 Paper title: Regularity analysis applied to sonic logs data: A case study from KTB borehole site
-DOI: 2-s2.0-84928566336
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-84928566336&partnerID=MN8TOARS
 
 
 Work Details No: 40
 Paper title: Short-term earthquake forecasting using early aftershock statistics
-DOI: 2-s2.0-79251642227
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-79251642227&partnerID=MN8TOARS
 
 
 Work Details No: 41
 Paper title: Steady-state solutions of rupture propagation in an earthquake simulator governed by rate and state dependent friction
-DOI: 2-s2.0-79952017568
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-79952017568&partnerID=MN8TOARS
 
 
 Work Details No: 42
 Paper title: Variability patterns differ between standing stock and process rates
-DOI: 2-s2.0-78650183023
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-78650183023&partnerID=MN8TOARS
 
 
 Work Details No: 43
 Paper title: Wavelet modelling of the gravity field by domain decomposition methods: An example over Japan
-DOI: 2-s2.0-78650086703
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-78650086703&partnerID=MN8TOARS
 
 
 Work Details No: 44
 Paper title: Error distribution in regional inversion of potential field data
-DOI: 2-s2.0-77954070792
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-77954070792&partnerID=MN8TOARS
 
 
 Work Details No: 45
 Paper title: ExPlanes: exploring planes in triplet data.
-DOI: 2-s2.0-77954518995
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-77954518995&partnerID=MN8TOARS
 
 
 Work Details No: 46
 Paper title: Frames of Poisson wavelets on the sphere
-DOI: 2-s2.0-75949097912
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-75949097912&partnerID=MN8TOARS
 
 
 Work Details No: 47
 Paper title: Local regularity analysis of strata heterogeneities from sonic logs
-DOI: 2-s2.0-77956948400
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-77956948400&partnerID=MN8TOARS
 
 
 Work Details No: 48
 Paper title: Quantifying focal mechanism heterogeneity for fault zones in central and southern California
-DOI: 2-s2.0-78349253898
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-78349253898&partnerID=MN8TOARS
 
 
 Work Details No: 49
 Paper title: Recurrence of large earthquakes: Bayesian inference from catalogs in the presence of magnitude uncertainties
-DOI: 2-s2.0-77954310177
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-77954310177&partnerID=MN8TOARS
 
 
 Work Details No: 50
 Paper title: Directional spherical multipole wavelets
-DOI: 2-s2.0-68749107195
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-68749107195&partnerID=MN8TOARS
 
 
 Work Details No: 51
 Paper title: Local multi-polar expansions in potential field modeling
-DOI: 2-s2.0-76249126205
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-76249126205&partnerID=MN8TOARS
 
 
 Work Details No: 52
 Paper title: Adaptive metrics in the nearest neighbours method
-DOI: 2-s2.0-38749135531
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-38749135531&partnerID=MN8TOARS
 
 
 Work Details No: 53
 Paper title: Geophysical wavelet library: Applications of the continuous wavelet transform to the polarization and dispersion analysis of signals
-DOI: 2-s2.0-52049110275
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-52049110275&partnerID=MN8TOARS
 
 
 Work Details No: 54
 Paper title: Inverse problems and parameter identification in image processing
-DOI: 2-s2.0-37549033069
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-37549033069&partnerID=MN8TOARS
 
 
 Work Details No: 55
 Paper title: Loading rates in California inferred from aftershocks
-DOI: 2-s2.0-40849096276
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-40849096276&partnerID=MN8TOARS
 
 
 Work Details No: 56
 Paper title: Modeling of wave dispersion using continuous wavelet transforms II: Wavelet-based frequency-velocity analysis
-DOI: 2-s2.0-42549103291
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-42549103291&partnerID=MN8TOARS
 
 
 Work Details No: 57
 Paper title: Recurrent large earthquakes in a fault region: What can be inferred from small and intermediate events?
-DOI: 2-s2.0-63049110107
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-63049110107&partnerID=MN8TOARS
 
 
 Work Details No: 58
 Paper title: Coseismic and post-seismic signatures of the Sumatra 2004 December and 2005 March earthquakes in GRACE satellite gravity
-DOI: 2-s2.0-35248886049
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-35248886049&partnerID=MN8TOARS
 
 
 Work Details No: 59
 Paper title: Estimating recurrence times and seismic hazard of large earthquakes on an individual fault
-DOI: 2-s2.0-34548142307
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-34548142307&partnerID=MN8TOARS
 
 
 Work Details No: 60
 Paper title: Influence of multiple scattering on the resolution of an imaging system: A Cramér-Rao analysis
-DOI: 2-s2.0-33846891596
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-33846891596&partnerID=MN8TOARS
 
 
 Work Details No: 61
 Paper title: Nonstationary Gaussian processes in wavelet domain: Synthesis, estimation, and significance testing
-DOI: 2-s2.0-33846536764
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-33846536764&partnerID=MN8TOARS
 
 
 Work Details No: 62
 Paper title: Poisson wavelets on the sphere
-DOI: 2-s2.0-42149194905
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-42149194905&partnerID=MN8TOARS
 
 
 Work Details No: 63
 Paper title: Poisson wavelets on the sphere
-DOI: 2-s2.0-34547542497
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-34547542497&partnerID=MN8TOARS
 
 
 Work Details No: 64
 Paper title: Polarization analysis in the wavelet domain based on the adaptive covariance method
-DOI: 2-s2.0-34547209223
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-34547209223&partnerID=MN8TOARS
 
 
 Work Details No: 65
 Paper title: Polarization analysis of a Pi2 pulsation using continuous wavelet transform
-DOI: 2-s2.0-34948850891
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-34948850891&partnerID=MN8TOARS
 
 
 Work Details No: 66
 Paper title: Robust detection and verification of linear relationships to generate metabolic networks using estimates of technical errors
-DOI: 2-s2.0-34250782109
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-34250782109&partnerID=MN8TOARS
 
 
 Work Details No: 67
 Paper title: What drives high flow events in the Swiss Alps? Recent developments in wavelet spectral analysis and their application to hydrology
-DOI: 2-s2.0-34748833473
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-34748833473&partnerID=MN8TOARS
 
 
 Work Details No: 68
 Paper title: Characterization of polarization attributes of seismic waves using continuous wavelet transforms
-DOI: 2-s2.0-33745065800
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-33745065800&partnerID=MN8TOARS
 
 
 Work Details No: 69
 Paper title: Dissipation at the core-mantle boundary on a small-scale topography
-DOI: 2-s2.0-33744919582
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-33744919582&partnerID=MN8TOARS
 
 
 Work Details No: 70
 Paper title: Earthquake activity related to seismic cycles in a model for a heterogeneous strike-slip fault
-DOI: 2-s2.0-33746931722
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-33746931722&partnerID=MN8TOARS
 
 
 Work Details No: 71
 Paper title: Existence and computation of optimally localized coherent states
-DOI: 2-s2.0-33846097644
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-33846097644&partnerID=MN8TOARS
 
 
 Work Details No: 72
 Paper title: Instantaneous polarization attributes based on an adaptive approximate covariance method
-DOI: 2-s2.0-33748861068
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-33748861068&partnerID=MN8TOARS
 
 
 Work Details No: 73
 Paper title: New insights on intraplate volcanism in French Polynesia from wavelet analysis of GRACE, CHAMP, and sea surface data
-DOI: 2-s2.0-34250841650
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-34250841650&partnerID=MN8TOARS
 
 
 Work Details No: 74
 Paper title: Aftershocks resulting from creeping sections in a heterogeneous fault
-DOI: 2-s2.0-17744370930
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-17744370930&partnerID=MN8TOARS
 
 
 Work Details No: 75
 Paper title: Characterization of dispersive surface waves using continuous wavelet transforms
-DOI: 2-s2.0-33745277116
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-33745277116&partnerID=MN8TOARS
 
 
 Work Details No: 76
 Paper title: Instantaneous polarization attributes in the time-frequency domain and wavefield separation
-DOI: 2-s2.0-28244472998
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-28244472998&partnerID=MN8TOARS
 
 
 Work Details No: 77
 Paper title: MathletFactory: Component framework and authoring environments for mathematical applets of interactive e-learning platforms | MathletFactory: Komponentenframework und autorenumgebungen für mathematische applets interaktiver eLearning-plattformen
-DOI: 2-s2.0-84880234731
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-84880234731&partnerID=MN8TOARS
 
 
 Work Details No: 78
 Paper title: Modeling of wave dispersion using continuous wavelet transforms
-DOI: 2-s2.0-17444396754
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-17444396754&partnerID=MN8TOARS
 
 
 Work Details No: 79
 Paper title: Onset of power law aftershock decay rates in southern California
-DOI: 2-s2.0-30744473680
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-30744473680&partnerID=MN8TOARS
 
 
 Work Details No: 80
 Paper title: The role of heterogeneities as a tuning parameter of earthquake dynamics
-DOI: 2-s2.0-17744376849
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-17744376849&partnerID=MN8TOARS
 
 
 Work Details No: 81
 Paper title: Wavelet analysis of ellipticity, dispersion, and dissipation properties of Rayleigh waves
-DOI: 2-s2.0-23844481427
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-23844481427&partnerID=MN8TOARS
 
 
 Work Details No: 82
 Paper title: Wavelet frames: An alternative to spherical harmonic representation of potential fields
-DOI: 2-s2.0-33745231171
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-33745231171&partnerID=MN8TOARS
 
 
 Work Details No: 83
 Paper title: On the relevance of the spatial distribution of events for seismic hazard evaluation
-DOI: 2-s2.0-2342502603
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-2342502603&partnerID=MN8TOARS
 
 
 Work Details No: 84
 Paper title: Quasi-static and quasi-dynamic modeling of earthquake failure at intermediate scales
-DOI: 2-s2.0-4444248816
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-4444248816&partnerID=MN8TOARS
 
 
 Work Details No: 85
 Paper title: Correlation dimension of self-similar surfaces and application to Kirchhoff integrals
-DOI: 2-s2.0-0242298108
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-0242298108&partnerID=MN8TOARS
 
 
 Work Details No: 86
 Paper title: Emergence of a band-limited power law in the aftershock decay rate of a slider-block model
-DOI: 2-s2.0-0041911080
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-0041911080&partnerID=MN8TOARS
 
 
 Work Details No: 87
 Paper title: From global to regional analysis of the magnetic field on the sphere using wavelet frames
-DOI: 2-s2.0-0037465164
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-0037465164&partnerID=MN8TOARS
 
 
 Work Details No: 88
 Paper title: Deconvolution from instrumental devices and source effect in acoustic experiments
-DOI: 2-s2.0-0036543466
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-0036543466&partnerID=MN8TOARS
 
 
 Work Details No: 89
 Paper title: Temporal limits of the power law aftershock decay rate
-DOI: 2-s2.0-0038066156
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-0038066156&partnerID=MN8TOARS
 
 
 Work Details No: 90
 Paper title: Rate matrices for analyzing large families of protein sequences
-DOI: 2-s2.0-0034786417
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-0034786417&partnerID=MN8TOARS
 
 
 Work Details No: 91
 Paper title: Diffusion through time-dependent media
-DOI: 2-s2.0-0034101041
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-0034101041&partnerID=MN8TOARS
 
 
 Work Details No: 92
 Paper title: Direct simulations of the stress redistribution in the scaling organization of fracture tectonics (SOFT) model
-DOI: 2-s2.0-0034096161
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-0034096161&partnerID=MN8TOARS
 
 
 Work Details No: 93
 Paper title: Two-Channel Perfect Reconstruction FIR Filter Banks over Commutative Rings
-DOI: 2-s2.0-0001215248
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-0001215248&partnerID=MN8TOARS
 
 
 Work Details No: 94
 Paper title: Approximation of nonessential spectrum of transfer operators
-DOI: 2-s2.0-0040715794
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-0040715794&partnerID=MN8TOARS
 
 
 Work Details No: 95
 Paper title: Identification of sources of potential fields with the continuous wavelet transform: Basic theory
-DOI: 2-s2.0-0033541059
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-0033541059&partnerID=MN8TOARS
 
 
 Work Details No: 96
 Paper title: A unified view on filter banks
-DOI: 2-s2.0-0032401161
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-0032401161&partnerID=MN8TOARS
 
 
 Work Details No: 97
 Paper title: Time-dependent scattering on fractal measures
-DOI: 2-s2.0-0032394001
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-0032394001&partnerID=MN8TOARS
 
 
 Work Details No: 98
 Paper title: Wavelet analysis of the Chandler wobble
-DOI: 2-s2.0-0032464089
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-0032464089&partnerID=MN8TOARS
 
 
 Work Details No: 99
 Paper title: Electromagnetic scattering from multi-scale rough surfaces
-DOI: 2-s2.0-0031173005
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-0031173005&partnerID=MN8TOARS
 
 
 Work Details No: 100
 Paper title: On equivalent definitions of the correlation dimension for a probability measure
-DOI: 2-s2.0-0031065037
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-0031065037&partnerID=MN8TOARS
 
 
 Work Details No: 101
 Paper title: Some directional elliptic regularity for domains with cusps
-DOI: 2-s2.0-77957156960
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-77957156960&partnerID=MN8TOARS
 
 
 Work Details No: 102
 Paper title: Wavelet analysis of potential fields
-DOI: 2-s2.0-0000544826
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-0000544826&partnerID=MN8TOARS
 
 
 Work Details No: 103
 Paper title: Continuous wavelet transforms on the sphere
-DOI: 2-s2.0-0030504577
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-0030504577&partnerID=MN8TOARS
 
 
 Work Details No: 104
 Paper title: Large-scale renormalisation of fourier transforms of self-similar measures and self-similarity of riesz measures
-DOI: 2-s2.0-0030161244
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-0030161244&partnerID=MN8TOARS
 
 
 Work Details No: 105
 Paper title: Scattering on fractal measures
-DOI: 2-s2.0-0030574388
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-0030574388&partnerID=MN8TOARS
 
 
 Work Details No: 106
 Paper title: Wavelet Analysis over Abelian Groups
-DOI: 2-s2.0-0029207718
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-0029207718&partnerID=MN8TOARS
 
 
 Work Details No: 107
 Paper title: Fractal Wavelet Dimensions and Time Evolution
-DOI: 2-s2.0-85011629801
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-85011629801&partnerID=MN8TOARS
 
 
 Work Details No: 108
 Paper title: Functional calculus using wavelet transforms
-DOI: 2-s2.0-36449009213
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-36449009213&partnerID=MN8TOARS
 
 
 Work Details No: 109
 Paper title: Wavelets on discrete fields
-DOI: 2-s2.0-0028400695
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-0028400695&partnerID=MN8TOARS
 
 
 Work Details No: 110
 Paper title: General inversion formulas for wavelet transforms
-DOI: 2-s2.0-21144479930
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-21144479930&partnerID=MN8TOARS
 
 
 Work Details No: 111
 Paper title: Localization properties of wavelet transforms
-DOI: 2-s2.0-21144468165
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-21144468165&partnerID=MN8TOARS
 
 
 Work Details No: 112
 Paper title: Interpretation of two-dimensional turbulence energy spectrum in terms of quasi-singularity in some vortex cores
-DOI: 2-s2.0-84956242105
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-84956242105&partnerID=MN8TOARS
 
 
 Work Details No: 113
 Paper title: Inverse Radon transforms through inverse wavelet transforms
-DOI: 2-s2.0-0040866924
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-0040866924&partnerID=MN8TOARS
 
 
 Work Details No: 114
 Paper title: Pointwise analysis of Riemann's "nondifferentiable" function
-DOI: 2-s2.0-0000635823
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-0000635823&partnerID=MN8TOARS
 
 
 Work Details No: 115
 Paper title: Wavelet analysis on the circle
-DOI: 2-s2.0-0002824297
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-0002824297&partnerID=MN8TOARS
 
 
 Work Details No: 116
 Paper title: Fractal dimensions and homeomorphic conjugacies
-DOI: 2-s2.0-0012005192
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-0012005192&partnerID=MN8TOARS
 
 
 Work Details No: 117
 Paper title: On the wavelet transformation of fractal objects
-DOI: 2-s2.0-34250085766
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-34250085766&partnerID=MN8TOARS
 
 
 Work Details No: 118
 Paper title: Wavelet transform of multifractals
-DOI: 2-s2.0-0000732455
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-0000732455&partnerID=MN8TOARS
 
 
 Work Details No: 119
 Paper title: Crossover effect in the f() spectrum for quasiperiodic trajectories at the onset of chaos
-DOI: 2-s2.0-35949011088
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-35949011088&partnerID=MN8TOARS
 
 
 Work Details No: 120
 Paper title: Wavelet analysis on the circle
-DOI: 2-s2.0-36749120400
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-36749120400&partnerID=MN8TOARS
 
 
 Current Employee
@@ -611,3 +611,4 @@ Department name : Department of Mathematics
 Role : Chair of Applied Mathematics
 Organization : Universität Potsdam
 Address : Potsdam
+

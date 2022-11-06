@@ -28,6 +28,6 @@ DOI: https://doi.org/10.1101/697649
 
 Work Details No: 5
 Paper title: Effect of ionic strength on the structure and elongational kinetics of vimentin filaments
-DOI: 1744-683X
+
 
 

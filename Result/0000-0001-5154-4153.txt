@@ -2,7 +2,7 @@ ORCID: 0000-0001-5154-4153
 Family Name: Riedel
 Given Name: Christian
 
-Number of Works: 7
+Number of Works: 8
 
 
 
@@ -12,33 +12,38 @@ DOI: https://doi.org/10.3390/rs14030450
 
 
 Work Details No: 2
+Paper title: Including Data Management in Research Culture Increases the Reproducibility of Scientific Results
+DOI: http://dl.gi.de/handle/20.500.12116/39468
+
+
+Work Details No: 3
 Paper title: Studying the Global Spatial Randomness of Impact Craters on Mercury, Venus, and the Moon With Geodesic Neighborhood Relationships
 DOI: https://doi.org/10.1029/2020JE006693
 
 
-Work Details No: 3
+Work Details No: 4
 Paper title: Re‐examination of the Population, Stratigraphy, and Sequence of Mercurian Basins: Implications for Mercury's Early Impact History and Comparison With the Moon
 DOI: https://doi.org/10.1029/2019JE006212
 
 
-Work Details No: 4
+Work Details No: 5
 Paper title: Degradation of Small Simple and Large Complex Lunar Craters: Not a Simple Scale Dependence
 DOI: https://doi.org/10.1029/2019JE006273
 
 
-Work Details No: 5
+Work Details No: 6
 Paper title: A New Tool to Account for Crater Obliteration Effects in Crater Size-Frequency Distribution Measurements
 DOI: https://doi.org/10.1002/2018EA000383
 
 
-Work Details No: 6
-Paper title: Ancient Bombardment of the Inner Solar System: Reinvestigation of the “Fingerprints” of Different Impactor Populations on the Lunar Surface
-DOI: https://portal.issn.org/resource/ISSN/2169-9097
-
-
 Work Details No: 7
 Paper title: Ancient Bombardment of the Inner Solar System: Reinvestigation of the “Fingerprints” of Different Impactor Populations on the Lunar Surface
-DOI: 21699100 21699097
+DOI: http://dx.doi.org/10.1002/2017je005451
+
+
+Work Details No: 8
+Paper title: Ancient Bombardment of the Inner Solar System: Reinvestigation of the “Fingerprints” of Different Impactor Populations on the Lunar Surface
+DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-85044185317&partnerID=MN8TOARS
 
 
 Current Employee
@@ -46,3 +51,4 @@ Department name : Institute of Computer Science
 Role : None
 Organization : University of Potsdam
 Address : Potsdam
+
