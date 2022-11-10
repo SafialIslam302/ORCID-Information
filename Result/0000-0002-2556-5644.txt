@@ -8,42 +8,42 @@ Number of Works: 8
 
 Work Details No: 1
 Paper title: Data assimilation in dynamical cognitive science
-DOI: https://doi.org/10.1016/j.tics.2021.11.006
+Paper URL: https://doi.org/10.1016/j.tics.2021.11.006
 
 
 Work Details No: 2
 Paper title: A Bayesian approach to dynamical modeling of eye-movement control in reading of normal, mirrored, and scrambled texts.
-DOI: https://doi.org/10.1037/rev0000268
+Paper URL: https://doi.org/10.1037/rev0000268
 
 
 Work Details No: 3
 Paper title: ROC asymmetry is not diagnostic of unequal residual variance in Gaussian signal detection theory
-DOI: https://doi.org/10.31234/osf.io/erzvp
+Paper URL: https://doi.org/10.31234/osf.io/erzvp
 
 
 Work Details No: 4
 Paper title: Dynamical Cognitive Modeling of Syntactic Processing and Eye Movement Control in Reading
-DOI: https://doi.org/10.31234/osf.io/w89zt
+Paper URL: https://doi.org/10.31234/osf.io/w89zt
 
 
 Work Details No: 5
 Paper title: Sequential Data Assimilation of the Stochastic SEIR Epidemic Model for Regional COVID-19 Dynamics
-DOI: https://doi.org/10.1007/s11538-020-00834-8
+Paper URL: https://doi.org/10.1007/s11538-020-00834-8
 
 
 Work Details No: 6
 Paper title: hypr: An R package for hypothesis-driven contrast coding
-DOI: https://doi.org/10.21105/joss.02134
+Paper URL: https://doi.org/10.21105/joss.02134
 
 
 Work Details No: 7
 Paper title: Bayesian parameter estimation for the SWIFT model of eye-movement control during reading
-DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-85078134928&partnerID=MN8TOARS
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-85078134928&partnerID=MN8TOARS
 
 
 Work Details No: 8
 Paper title: Modulation of additive and interactive effects by trial history revisited
-DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-84992752951&partnerID=MN8TOARS
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84992752951&partnerID=MN8TOARS
 
 
 Current Employee

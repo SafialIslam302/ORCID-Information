@@ -8,12 +8,12 @@ Number of Works: 2
 
 Work Details No: 1
 Paper title: Pre-Training on In Vitro and Fine-Tuning on Patient-Derived Data Improves Deep Neural Networks for Anti-Cancer Drug-Sensitivity Prediction
-DOI: https://doi.org/10.3390/cancers14163950
+Paper URL: https://doi.org/10.3390/cancers14163950
 
 
 Work Details No: 2
 Paper title: Matching anticancer compounds and tumor cell lines by neural networks with ranking loss
-DOI: https://doi.org/10.1093/nargab/lqab128
+Paper URL: https://doi.org/10.1093/nargab/lqab128
 
 
 Current Employee

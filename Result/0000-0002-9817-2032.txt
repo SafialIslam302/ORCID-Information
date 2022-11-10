@@ -8,82 +8,82 @@ Number of Works: 16
 
 Work Details No: 1
 Paper title: From Single to Collective Motion of Social Amoebae: A Computational Study of Interacting Cells
-DOI: http://dx.doi.org/10.3389/fphy.2021.750187
+Paper URL: http://dx.doi.org/10.3389/fphy.2021.750187
 
 
 Work Details No: 2
 Paper title: Biohybrid active matter -- the emergent properties of cell-mediated microtransport
-DOI: https://arxiv.org/abs/2112.11295
+Paper URL: https://arxiv.org/abs/2112.11295
 
 
 Work Details No: 3
 Paper title: A particle-field approach bridges phase separation and collective motion in active matter
-DOI: http://dx.doi.org/10.1038/s41467-020-18978-5
+Paper URL: http://dx.doi.org/10.1038/s41467-020-18978-5
 
 
 Work Details No: 4
 Paper title: A novel approach to chemotaxis: Active particles guided by internal clocks
-DOI: http://dx.doi.org/10.1209/0295-5075/130/68002
+Paper URL: http://dx.doi.org/10.1209/0295-5075/130/68002
 
 
 Work Details No: 5
 Paper title: Chemotaxis strategies of bacteria with multiple run modes
-DOI: http://dx.doi.org/10.1126/sciadv.aaz6153
+Paper URL: http://dx.doi.org/10.1126/sciadv.aaz6153
 
 
 Work Details No: 6
 Paper title: Self-Propelled Rods: Insights and Perspectives for Active Matter
-DOI: http://dx.doi.org/10.1146/annurev-conmatphys-031119-050611
+Paper URL: http://dx.doi.org/10.1146/annurev-conmatphys-031119-050611
 
 
 Work Details No: 7
 Paper title: Markovian robots: Minimal navigation strategies for active particles
-DOI: http://dx.doi.org/10.1103/physreve.97.042604
+Paper URL: http://dx.doi.org/10.1103/physreve.97.042604
 
 
 Work Details No: 8
 Paper title: A polar bundle of flagella can drive bacterial swimming by pushing, pulling, or coiling around the cell body
-DOI: http://dx.doi.org/10.1038/s41598-017-16428-9
+Paper URL: http://dx.doi.org/10.1038/s41598-017-16428-9
 
 
 Work Details No: 9
 Paper title: Mesoscale pattern formation of self-propelled rods with velocity reversal
-DOI: http://dx.doi.org/10.1103/physreve.94.050602
+Paper URL: http://dx.doi.org/10.1103/physreve.94.050602
 
 
 Work Details No: 10
 Paper title: Diffusion properties of active particles with directional reversal
-
+No Paper URL found.
 
 
 Work Details No: 11
 Paper title: Superdiffusion, large-scale synchronization, and topological defects
-
+No Paper URL found.
 
 
 Work Details No: 12
 Paper title: A geometric approach to self-propelled motion in isotropic & anisotropic environments
-
+No Paper URL found.
 
 
 Work Details No: 13
 Paper title: Pattern formation in active particle systems due to competing alignment interactions
-
+No Paper URL found.
 
 
 Work Details No: 14
 Paper title: Vortex Arrays and Mesoscale Turbulence of Self-Propelled Particles
-
+No Paper URL found.
 
 
 Work Details No: 15
 Paper title: Self-propelled particles with selective attraction--repulsion interaction: from microscopic dynamics to coarse-grained theories
-
+No Paper URL found.
 
 
 Work Details No: 16
 Paper title: Active Brownian particles with velocity-alignment and active fluctuations
-
+No Paper URL found.
 
 
 Current Employee

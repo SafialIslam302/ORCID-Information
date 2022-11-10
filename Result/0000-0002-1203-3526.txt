@@ -8,17 +8,17 @@ Number of Works: 3
 
 Work Details No: 1
 Paper title: Reconstructing the Dynamics of the Outer Electron Radiation Belt by Means of the Standard and Ensemble Kalman Filter With the VERB-3D Code
-DOI: https://doi.org/10.5194/egusphere-egu22-11658
+Paper URL: https://doi.org/10.5194/egusphere-egu22-11658
 
 
 Work Details No: 2
 Paper title: Reconstructing the Dynamics of the Outer Electron Radiation Belt by Means of the Standard and Ensemble Kalman Filter With the VERB‐3D Code
-DOI: https://doi.org/10.1029/2020SW002672
+Paper URL: https://doi.org/10.1029/2020SW002672
 
 
 Work Details No: 3
 Paper title: Reconstructing the dynamics of the outer electron radiation belt by means of the standard and ensemble Kalman filter with the VERB-3D code
-DOI: https://doi.org/10.1002/essoar.10504674.1
+Paper URL: https://doi.org/10.1002/essoar.10504674.1
 
 
 Current Employee

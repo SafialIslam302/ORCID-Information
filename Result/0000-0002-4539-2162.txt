@@ -8,197 +8,197 @@ Number of Works: 39
 
 Work Details No: 1
 Paper title: Autonomous exploration and identification of high performing adsorbents using active learning
-DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-85109207187&partnerID=MN8TOARS
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-85109207187&partnerID=MN8TOARS
 
 
 Work Details No: 2
 Paper title: Optimization based model order reduction for stochastic systems
-DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-85100056779&partnerID=MN8TOARS
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-85100056779&partnerID=MN8TOARS
 
 
 Work Details No: 3
 Paper title: POD-GALERKIN REDUCED ORDER MODELS and PHYSICS-INFORMED NEURAL NETWORKS for SOLVING INVERSE PROBLEMS for the NAVIER-STOKES EQUATIONS
-DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-85121767835&partnerID=MN8TOARS
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-85121767835&partnerID=MN8TOARS
 
 
 Work Details No: 4
 Paper title: Inexact methods for the low rank solution to large scale Lyapunov equations
-DOI: http://dx.doi.org/10.1007/s10543-020-00813-4
+Paper URL: http://dx.doi.org/10.1007/s10543-020-00813-4
 
 
 Work Details No: 5
 Paper title: Numerical linear algebra in data assimilation
-DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-85090400962&partnerID=MN8TOARS
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-85090400962&partnerID=MN8TOARS
 
 
 Work Details No: 6
 Paper title: Optimization based model order reduction for stochastic systems
-DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-85095294287&partnerID=MN8TOARS
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-85095294287&partnerID=MN8TOARS
 
 
 Work Details No: 7
 Paper title: Teaching of computing to mathematics students
-
+No Paper URL found.
 
 
 Work Details No: 8
 Paper title: Numerical Linear Algebra in Data Assimilation
-DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-85094080795&partnerID=MN8TOARS
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-85094080795&partnerID=MN8TOARS
 
 
 Work Details No: 9
 Paper title: Balanced model order reduction for linear random dynamical systems driven by Lévy noise
-
+No Paper URL found.
 
 
 Work Details No: 10
 Paper title: A low-rank approach to the solution of weak constraint variational data assimilation problems
-
+No Paper URL found.
 
 
 Work Details No: 11
 Paper title: Inexact methods for the low rank solution to large scale Lyapunov equations
-DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-85092880900&partnerID=MN8TOARS
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-85092880900&partnerID=MN8TOARS
 
 
 Work Details No: 12
 Paper title: A low-rank approach to the solution of weak constraint variational data assimilation problems
-DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-85095314063&partnerID=MN8TOARS
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-85095314063&partnerID=MN8TOARS
 
 
 Work Details No: 13
 Paper title: GMRES convergence bounds for eigenvalue problems
-
+No Paper URL found.
 
 
 Work Details No: 14
 Paper title: The effect of numerical model error on data assimilation
-DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-84947264812&partnerID=MN8TOARS
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84947264812&partnerID=MN8TOARS
 
 
 Work Details No: 15
 Paper title: Tuned preconditioners for inexact two-sided inverse and Rayleigh quotient iteration
-DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-84917744471&partnerID=MN8TOARS
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84917744471&partnerID=MN8TOARS
 
 
 Work Details No: 16
 Paper title: A new approach for calculating the real stability radius
-DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-84902773839&partnerID=MN8TOARS
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84902773839&partnerID=MN8TOARS
 
 
 Work Details No: 17
 Paper title: Calculating the H<inf>∞</inf>-norm using the implicit determinant method
-DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-84903935659&partnerID=MN8TOARS
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84903935659&partnerID=MN8TOARS
 
 
 Work Details No: 18
 Paper title: The calculation of the distance to a nearby defective matrix
-DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-84898786197&partnerID=MN8TOARS
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84898786197&partnerID=MN8TOARS
 
 
 Work Details No: 19
 Paper title: The computation of Jordan blocks in parameter-dependent matrices
-DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-84902829219&partnerID=MN8TOARS
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84902829219&partnerID=MN8TOARS
 
 
 Work Details No: 20
 Paper title: Large Scale Inverse Problems
-
+No Paper URL found.
 
 
 Work Details No: 21
 Paper title: Large Scale Inverse Problems
-
+No Paper URL found.
 
 
 Work Details No: 22
 Paper title: Large scale inverse problems
-
+No Paper URL found.
 
 
 Work Details No: 23
 Paper title: Resolution of sharp fronts in the presence of model error in variational data assimilation
-DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-84897958535&partnerID=MN8TOARS
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84897958535&partnerID=MN8TOARS
 
 
 Work Details No: 24
 Paper title: Synergy of inverse problems and data assimilation techniques
-
+No Paper URL found.
 
 
 Work Details No: 25
 Paper title: The origin of power-law emergent scaling in large binary networks
-DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-84871719696&partnerID=MN8TOARS
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84871719696&partnerID=MN8TOARS
 
 
 Work Details No: 26
 Paper title: A Newton-based method for the calculation of the distance to instability
-DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-80051601686&partnerID=MN8TOARS
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-80051601686&partnerID=MN8TOARS
 
 
 Work Details No: 27
 Paper title: Regularization techniques for ill-posed inverse problems in data assimilation
-DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-79954922089&partnerID=MN8TOARS
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-79954922089&partnerID=MN8TOARS
 
 
 Work Details No: 28
 Paper title: L1-regularisation for ill-posed problems in variational data assimilation
-
+No Paper URL found.
 
 
 Work Details No: 29
 Paper title: The calculation of the distance to instability by the computation of a Jordan block
-
+No Paper URL found.
 
 
 Work Details No: 30
 Paper title: Shift-invert Arnoldi's method with preconditioned iterative solves
-DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-72449134748&partnerID=MN8TOARS
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-72449134748&partnerID=MN8TOARS
 
 
 Work Details No: 31
 Paper title: The Impact of Multiplication Operators on the Ill-Posedness of Inverse Problems
-
+No Paper URL found.
 
 
 Work Details No: 32
 Paper title: A tuned preconditioner for inexact inverse iteration applied to Hermitian eigenvalue problems
-DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-46349091457&partnerID=MN8TOARS
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-46349091457&partnerID=MN8TOARS
 
 
 Work Details No: 33
 Paper title: Rayleigh quotient iteration and simplified Jacobi-Davidson method with preconditioned iterative solves
-DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-39549120904&partnerID=MN8TOARS
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-39549120904&partnerID=MN8TOARS
 
 
 Work Details No: 34
 Paper title: The Impact of Multiplication Operators on the Ill-Posedness of Inverse Problems
-
+No Paper URL found.
 
 
 Work Details No: 35
 Paper title: Convergence of inexact inverse iteration with application to preconditioned iterative solves
-DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-33947213805&partnerID=MN8TOARS
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-33947213805&partnerID=MN8TOARS
 
 
 Work Details No: 36
 Paper title: Convergence theory for inexact inverse iteration applied to the generalised nonsymmetric eigenproblem
-DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-54549100376&partnerID=MN8TOARS
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-54549100376&partnerID=MN8TOARS
 
 
 Work Details No: 37
 Paper title: The Preissmann box scheme and its modification for transcritical flows
-DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-34249095782&partnerID=MN8TOARS
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-34249095782&partnerID=MN8TOARS
 
 
 Work Details No: 38
 Paper title: Analytical and numerical studies on the influence of multiplication operators for the ill-posedness of inverse problems
-DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-21244472723&partnerID=MN8TOARS
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-21244472723&partnerID=MN8TOARS
 
 
 Work Details No: 39
 Paper title: On the Influence of Multiplication Operators on the Ill-posedness of Inverse Problems
-
+No Paper URL found.
 
 
 Current Employee

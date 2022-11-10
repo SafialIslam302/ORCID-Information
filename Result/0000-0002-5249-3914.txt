@@ -8,31 +8,31 @@ Number of Works: 6
 
 Work Details No: 1
 Paper title: Quantification of the Time Course of CYP3A Inhibition, Activation, and Induction Using a Population Pharmacokinetic Model of Microdosed Midazolam Continuous Infusion
-DOI: https://doi.org/10.1007/s40262-022-01175-6
+Paper URL: https://doi.org/10.1007/s40262-022-01175-6
 
 
 Work Details No: 2
 Paper title: Evaluating prediction methods for glomerular filtration to optimise drug doses in obese and nonobese patients
-DOI: https://doi.org/10.1111/bcp.15115
+Paper URL: https://doi.org/10.1111/bcp.15115
 
 
 Work Details No: 3
 Paper title: Physiology-based toxicokinetic modelling of aluminium in rat and man
-DOI: https://doi.org/10.1007/s00204-021-03107-y
+Paper URL: https://doi.org/10.1007/s00204-021-03107-y
 
 
 Work Details No: 4
 Paper title: Similar Piperacillin/Tazobactam Target Attainment in Obese versus Nonobese Patients despite Differences in Interstitial Tissue Fluid Pharmacokinetics
-DOI: https://doi.org/10.3390/pharmaceutics13091380
+Paper URL: https://doi.org/10.3390/pharmaceutics13091380
 
 
 Work Details No: 5
 Paper title: Perspectives on Model‐Informed Precision Dosing in the Digital Health Era: Challenges, Opportunities, and Recommendations
-DOI: https://doi.org/10.1002/cpt.2049
+Paper URL: https://doi.org/10.1002/cpt.2049
 
 
 Work Details No: 6
 Paper title: Pharmacokinetic/Pharmacodynamic Evaluation of Hydrocortisone Therapy in Pediatric Patients with Congenital Adrenal Hyperplasia
-DOI: https://doi.org/10.1210/clinem/dgaa071
+Paper URL: https://doi.org/10.1210/clinem/dgaa071
 
 

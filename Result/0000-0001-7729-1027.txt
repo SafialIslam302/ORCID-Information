@@ -8,77 +8,77 @@ Number of Works: 15
 
 Work Details No: 1
 Paper title: Change in a probabilistic representation of meaning can account for N400 effects on articles: A neural network model
-DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-85083553291&partnerID=MN8TOARS
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-85083553291&partnerID=MN8TOARS
 
 
 Work Details No: 2
 Paper title: Dissociating neural learning signals in human sign- and goal-trackers
-DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-85075166533&partnerID=MN8TOARS
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-85075166533&partnerID=MN8TOARS
 
 
 Work Details No: 3
 Paper title: Quasi-compositional mapping from form to meaning: A neural network-based approach to capturing neural responses during human language comprehension
-DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-85076538526&partnerID=MN8TOARS
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-85076538526&partnerID=MN8TOARS
 
 
 Work Details No: 4
 Paper title: Attentional modulation of orthographic neighborhood effects during reading: Evidence from event-related brain potentials in a psychological refractory period paradigm
-DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-85060551651&partnerID=MN8TOARS
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-85060551651&partnerID=MN8TOARS
 
 
 Work Details No: 5
 Paper title: Clear Judgments Based on Unclear Evidence: Person Evaluation Is Strongly Influenced by Untrustworthy Gossip
-DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-85059280658&partnerID=MN8TOARS
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-85059280658&partnerID=MN8TOARS
 
 
 Work Details No: 6
 Paper title: Modelling the N400 brain potential as change in a probabilistic representation of meaning
-DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-85053000918&partnerID=MN8TOARS
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-85053000918&partnerID=MN8TOARS
 
 
 Work Details No: 7
 Paper title: Semantic knowledge enhances conscious awareness of visual objects
-DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-85068166019&partnerID=MN8TOARS
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-85068166019&partnerID=MN8TOARS
 
 
 Work Details No: 8
 Paper title: Access to awareness for faces during continuous flash suppression is not modulated by affective knowledge
-DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-84974575348&partnerID=MN8TOARS
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84974575348&partnerID=MN8TOARS
 
 
 Work Details No: 9
 Paper title: Language production is facilitated by semantic richness but inhibited by semantic density: Evidence from picture naming
-DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-84944705437&partnerID=MN8TOARS
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84944705437&partnerID=MN8TOARS
 
 
 Work Details No: 10
 Paper title: Simulating the N400 ERP component as semantic network error: Insights from a feature-based connectionist attractor model of word meaning
-DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-84899141626&partnerID=MN8TOARS
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84899141626&partnerID=MN8TOARS
 
 
 Work Details No: 11
 Paper title: Perceiving emotions in neutral faces: Expression processing is biased by affective person knowledge
-DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-84926470310&partnerID=MN8TOARS
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84926470310&partnerID=MN8TOARS
 
 
 Work Details No: 12
 Paper title: Depth of conceptual knowledge modulates visual processes during word reading
-DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-84857533326&partnerID=MN8TOARS
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84857533326&partnerID=MN8TOARS
 
 
 Work Details No: 13
 Paper title: Implicit word learning benefits from semantic richness: Electrophysiological and behavioral evidence
-DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-84871688737&partnerID=MN8TOARS
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84871688737&partnerID=MN8TOARS
 
 
 Work Details No: 14
 Paper title: The time course of semantic richness effects in visual word recognition
-DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-84933677354&partnerID=MN8TOARS
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84933677354&partnerID=MN8TOARS
 
 
 Work Details No: 15
 Paper title: Is lexical access autonomous? Evidence from combining overlapping tasks with recording event-related brain potentials
-DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-46749135110&partnerID=MN8TOARS
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-46749135110&partnerID=MN8TOARS
 
 
 Current Employee

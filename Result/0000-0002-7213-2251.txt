@@ -8,26 +8,26 @@ Number of Works: 5
 
 Work Details No: 1
 Paper title: DisGUVery: a versatile open-source software for high-throughput image analysis of Giant Unilamellar Vesicles
-DOI: https://doi.org/10.1101/2022.01.25.477663
+Paper URL: https://doi.org/10.1101/2022.01.25.477663
 
 
 Work Details No: 2
 Paper title: Revealing the assembly of filamentous proteins with scanning transmission electron microscopy
-DOI: https://doi.org/10.1371/journal.pone.0226277
+Paper URL: https://doi.org/10.1371/journal.pone.0226277
 
 
 Work Details No: 3
 Paper title: Revealing the molecular origins of fibrin’s elastomeric properties by in situ X-ray scattering
-DOI: https://doi.org/10.1101/797464
+Paper URL: https://doi.org/10.1101/797464
 
 
 Work Details No: 4
 Paper title: Revealing the Assembly of Filamentous Proteins with Scanning Transmission Electron Microscopy
-DOI: https://doi.org/10.1101/697649
+Paper URL: https://doi.org/10.1101/697649
 
 
 Work Details No: 5
 Paper title: Effect of ionic strength on the structure and elongational kinetics of vimentin filaments
-
+No Paper URL found.
 
 

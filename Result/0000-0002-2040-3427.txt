@@ -9,463 +9,463 @@ Number of Works: 87
 Work Details No: 1
 Paper title: A New Algorithm for Estimating the Effective Dimension-Reduction
    Subspace
-
+No Paper URL found.
 
 
 Work Details No: 2
 Paper title: A novel dimension reduction procedure for searching non-Gaussian
    subspaces
-
+No Paper URL found.
 
 
 Work Details No: 3
 Paper title: Adaptive Nonparametric Clustering
-
+No Paper URL found.
 
 
 Work Details No: 4
 Paper title: Adaptive drift estimation for nonparametric diffusion model
-
+No Paper URL found.
 
 
 Work Details No: 5
 Paper title: Adaptive estimation of seismic parameter fields from earthquake catalogs
-
+No Paper URL found.
 
 
 Work Details No: 6
 Paper title: Adaptive estimation of seismic parameter fields from earthquake catalogs
    (vol 60, pg 1459, 2015)
-
+No Paper URL found.
 
 
 Work Details No: 7
 Paper title: Adaptive hypothesis testing using wavelets
-
+No Paper URL found.
 
 
 Work Details No: 8
 Paper title: Adaptive image denoising with applications to MRI
-
+No Paper URL found.
 
 
 Work Details No: 9
 Paper title: Adaptive pointwise estimation in time-inhomogeneous conditional
    heteroscedasticity models
-
+No Paper URL found.
 
 
 Work Details No: 10
 Paper title: Adaptive weights smoothing with applications to image restoration
-
+No Paper URL found.
 
 
 Work Details No: 11
 Paper title: An adaptive estimation of dimension reduction space - Discussion on the
    paper by Xia, Tong, Li and Zhu
-
+No Paper URL found.
 
 
 Work Details No: 12
 Paper title: An adaptive multiclass nearest neighbor classifier*
-
+No Paper URL found.
 
 
 Work Details No: 13
 Paper title: An adaptive, rate-optimal test of a parametric mean-regression model
    against a nonparametric alternative
-
+No Paper URL found.
 
 
 Work Details No: 14
 Paper title: An adaptive, rate-optimal test of linearity for median regression models
-
+No Paper URL found.
 
 
 Work Details No: 15
 Paper title: Analyzing fMRI experiments with structural adaptive smoothing procedures
-
+No Paper URL found.
 
 
 Work Details No: 16
 Paper title: BOOTSTRAP CONFIDENCE SETS UNDER MODEL MISSPECIFICATION
-
+No Paper URL found.
 
 
 Work Details No: 17
 Paper title: BOOTSTRAP TUNING IN GAUSSIAN ORDERED MODEL SELECTION
-
+No Paper URL found.
 
 
 Work Details No: 18
 Paper title: Bayesian inference for spectral projectors of the covariance matrix
-
+No Paper URL found.
 
 
 Work Details No: 19
 Paper title: Bootstrap confidence sets for spectral projectors of sample covariance
-
+No Paper URL found.
 
 
 Work Details No: 20
 Paper title: CONCENTRATION INEQUALITIES FOR SMOOTH RANDOM FIELDS
-
+No Paper URL found.
 
 
 Work Details No: 21
 Paper title: Component identification and estimation in nonlinear high-dimensional
    regression models by structural adaptation
-
+No Paper URL found.
 
 
 Work Details No: 22
 Paper title: Confidence Sets for Spectral Projectors of Covariance Matrices
-
+No Paper URL found.
 
 
 Work Details No: 23
 Paper title: Construction of Mean-Self-Financing Strategies for European Options
    under Regime-Switching
-
+No Paper URL found.
 
 
 Work Details No: 24
 Paper title: Convergence of an Alternating Maximization Procedure
-
+No Paper URL found.
 
 
 Work Details No: 25
 Paper title: Critical dimension in profile semiparametric estimation
-
+No Paper URL found.
 
 
 Work Details No: 26
 Paper title: Critical dimension in the semiparametric Bernstein-von Mises theorem
-
+No Paper URL found.
 
 
 Work Details No: 27
 Paper title: Detection of homologous recombination in closely related strains
-
+No Paper URL found.
 
 
 Work Details No: 28
 Paper title: Deviation probability bound for martingales with applications to
    statistical estimation
-
+No Paper URL found.
 
 
 Work Details No: 29
 Paper title: Diffusion tensor imaging: Structural adaptive smoothing
-
+No Paper URL found.
 
 
 Work Details No: 30
 Paper title: Direct estimation of the index coefficient in a single-index model
-
+No Paper URL found.
 
 
 Work Details No: 31
 Paper title: Dynamic nonparametric filtering with application to volatility
    estimation
-
+No Paper URL found.
 
 
 Work Details No: 32
 Paper title: Estimation of a function with discontinuities via local polynomial fit
    with an adaptive window choice
-
+No Paper URL found.
 
 
 Work Details No: 33
 Paper title: Exact asymptotics of minimax Bahadur risk in Lipschitz regression
-
+No Paper URL found.
 
 
 Work Details No: 34
 Paper title: Exponential bounds for minimum contrast estimators
-
+No Paper URL found.
 
 
 Work Details No: 35
 Paper title: Finite Sample Bernstein - von Mises Theorem for Semiparametric Problems
-
+No Paper URL found.
 
 
 Work Details No: 36
 Paper title: Forward and reverse representations for Markov chains
-
+No Paper URL found.
 
 
 Work Details No: 37
 Paper title: Functional and dynamic magnetic resonance imaging using vector adaptive
    weights smoothing
-
+No Paper URL found.
 
 
 Work Details No: 38
 Paper title: GHICA - Risk analysis with GH distributions and independent components
-
+No Paper URL found.
 
 
 Work Details No: 39
 Paper title: Gaussian processes with multidimensional distribution inputs via optimal
    transport and Hilbertian embedding
-
+No Paper URL found.
 
 
 Work Details No: 40
 Paper title: Image denoising: Pointwise adaptive approach
-
+No Paper URL found.
 
 
 Work Details No: 41
 Paper title: In search of non-Gaussian components of a high-dimensional distribution
-
+No Paper URL found.
 
 
 Work Details No: 42
 Paper title: Inhomogeneous Dependence Modeling with Time-Varying Copulae
-
+No Paper URL found.
 
 
 Work Details No: 43
 Paper title: Large ball probabilities, Gaussian comparison and anti-concentration
-
+No Paper URL found.
 
 
 Work Details No: 44
 Paper title: Local quantile regression
-
+No Paper URL found.
 
 
 Work Details No: 45
 Paper title: MODELING NONSTATIONARY AND LEPTOKURTIC FINANCIAL TIME SERIES
-
+No Paper URL found.
 
 
 Work Details No: 46
 Paper title: MULTISCALE CHANGE POINT DETECTION
-
+No Paper URL found.
 
 
 Work Details No: 47
 Paper title: MULTISCALE LOCAL CHANGE POINT DETECTION WITH APPLICATIONS TO
    VALUE-AT-RISK
-
+No Paper URL found.
 
 
 Work Details No: 48
 Paper title: Minimax nonparametric hypothesis testing: the case of an inhomogeneous
    alternative
-
+No Paper URL found.
 
 
 Work Details No: 49
 Paper title: Multiscale testing of qualitative hypotheses
-
+No Paper URL found.
 
 
 Work Details No: 50
 Paper title: Nonasymptotic Estimates for the Closeness of Gaussian Measures on Balls
-
+No Paper URL found.
 
 
 Work Details No: 51
 Paper title: ON CONSTRUCTION OF ASYMPTOTICALLY OPTIMAL STRATEGIES IN ESTIMATION
    PROBLEM FOR CONTROLLED SYSTEMS
-
+No Paper URL found.
 
 
 Work Details No: 52
 Paper title: OPTIMAL STOPPING VIA REINFORCED REGRESSION
-
+No Paper URL found.
 
 
 Work Details No: 53
 Paper title: Obtaining the best linear unbiased estimator of noisy signals by
    non-Gaussian component analysis
-
+No Paper URL found.
 
 
 Work Details No: 54
 Paper title: On estimation of the L-r norm of a regression function
-
+No Paper URL found.
 
 
 Work Details No: 55
 Paper title: On large-deviation efficiency in statistical inference
-
+No Paper URL found.
 
 
 Work Details No: 56
 Paper title: On the efficiency of a randomized mirror descent algorithm in online
    optimization problems
-
+No Paper URL found.
 
 
 Work Details No: 57
 Paper title: On the shape-from-moments problem and recovering edges from noisy Radon
    data
-
+No Paper URL found.
 
 
 Work Details No: 58
 Paper title: Optimal choice of observation window for Poisson observations
-
+No Paper URL found.
 
 
 Work Details No: 59
 Paper title: Optimal pointwise adaptive methods in nonparametric estimation
-
+No Paper URL found.
 
 
 Work Details No: 60
 Paper title: Optimal spatial adaptation to inhomogeneous smoothness: An approach
    based on kernel estimates with variable bandwidth selectors
-
+No Paper URL found.
 
 
 Work Details No: 61
 Paper title: PARAMETER TUNING IN POINTWISE ADAPTATION USING A PROPAGATION APPROACH
-
+No Paper URL found.
 
 
 Work Details No: 62
 Paper title: PARAMETRIC ESTIMATION. FINITE SAMPLE THEORY
-
+No Paper URL found.
 
 
 Work Details No: 63
 Paper title: Penalized maximum likelihood estimation and effective dimension
-
+No Paper URL found.
 
 
 Work Details No: 64
 Paper title: Portfolio value at risk based on independent component analysis
-
+No Paper URL found.
 
 
 Work Details No: 65
 Paper title: Primal-Dual Methods for Solving Infinite-Dimensional Games
-
+No Paper URL found.
 
 
 Work Details No: 66
 Paper title: Propagation-separation approach for local likelihood estimation
-
+No Paper URL found.
 
 
 Work Details No: 67
 Paper title: Properties of the posterior distribution of a regression model based on
    Gaussian random fields
-
+No Paper URL found.
 
 
 Work Details No: 68
 Paper title: Random Gradient-Free Minimization of Convex Functions
-
+No Paper URL found.
 
 
 Work Details No: 69
 Paper title: Recovering convex edges of an image from noisy tomographic data
-
+No Paper URL found.
 
 
 Work Details No: 70
 Paper title: Regression methods in pricing American and Bermudan options using
    consumption processes
-
+No Paper URL found.
 
 
 Work Details No: 71
 Paper title: Rejoinder: Local quantile regression
-
+No Paper URL found.
 
 
 Work Details No: 72
 Paper title: Semiparametric single index versus fixed line function modelling
-
+No Paper URL found.
 
 
 Work Details No: 73
 Paper title: Sparse Non-Gaussian Component Analysis
-
+No Paper URL found.
 
 
 Work Details No: 74
 Paper title: Sparse non Gaussian component analysis by semidefinite programming
-
+No Paper URL found.
 
 
 Work Details No: 75
 Paper title: Spatial aggregation of local likelihood estimates with applications to
    classification
-
+No Paper URL found.
 
 
 Work Details No: 76
 Paper title: Spatially adaptive density estimation by localised Haar projections
-
+No Paper URL found.
 
 
 Work Details No: 77
 Paper title: Spatially adaptive estimation via fitted local likelihood techniques
-
+No Paper URL found.
 
 
 Work Details No: 78
 Paper title: Statistical inference for time-inhomogeneous volatility models
-
+No Paper URL found.
 
 
 Work Details No: 79
 Paper title: Statistics of extremes by oracle estimation
-
+No Paper URL found.
 
 
 Work Details No: 80
 Paper title: Structural tests in additive regression
-
+No Paper URL found.
 
 
 Work Details No: 81
 Paper title: Structure adaptive approach for dimension reduction
-
+No Paper URL found.
 
 
 Work Details No: 82
 Paper title: The Bernstein-von Mises theorem for regression based on Gaussian
    Processes
-
+No Paper URL found.
 
 
 Work Details No: 83
 Paper title: The effect of electric stimulation treatment on the functional
    rehabilitation of acute geriatric patients with stroke - a preliminary
    study
-
+No Paper URL found.
 
 
 Work Details No: 84
 Paper title: Transition density estimation for stochastic differential equations via
    forward-reverse representations
-
+No Paper URL found.
 
 
 Work Details No: 85
 Paper title: Uniform properties of the local maximum likelihood estimate
-
+No Paper URL found.
 
 
 Work Details No: 86
 Paper title: Variance estimation for high-dimensional regression models
-
+No Paper URL found.
 
 
 Work Details No: 87
 Paper title: WAVELET SHRINKAGE - ASYMPTOPIA - DISCUSSION
-
+No Paper URL found.
 
 
 Current Employee

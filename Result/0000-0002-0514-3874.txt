@@ -8,407 +8,405 @@ Number of Works: 81
 
 Work Details No: 1
 Paper title: Analytic Theory of Itô-Stochastic Differential Equations with Non-smooth Coefficients
-DOI: https://doi.org/10.1007/978-981-19-3831-3
+Paper URL: https://doi.org/10.1007/978-981-19-3831-3
 
 
 Work Details No: 2
 Paper title: Conclusion and Outlook
-DOI: https://doi.org/10.1007/978-981-19-3831-3_4
+Paper URL: https://doi.org/10.1007/978-981-19-3831-3_4
 
 
 Work Details No: 3
 Paper title: Introduction
-DOI: https://doi.org/10.1007/978-981-19-3831-3_1
+Paper URL: https://doi.org/10.1007/978-981-19-3831-3_1
 
 
 Work Details No: 4
 Paper title: Stochastic Differential Equations
-DOI: https://doi.org/10.1007/978-981-19-3831-3_3
+Paper URL: https://doi.org/10.1007/978-981-19-3831-3_3
 
 
 Work Details No: 5
 Paper title: The Abstract Cauchy Problem in L r-Spaces with Weights
-DOI: https://doi.org/10.1007/978-981-19-3831-3_2
+Paper URL: https://doi.org/10.1007/978-981-19-3831-3_2
 
 
 Work Details No: 6
 Paper title: Fluctuation limits for mean-field interacting nonlinear Hawkes processes
-DOI: http://dx.doi.org/10.1016/j.spa.2021.05.007
+Paper URL: http://dx.doi.org/10.1016/j.spa.2021.05.007
 
 
 Work Details No: 7
 Paper title: Diffusivity Estimation for Activator–Inhibitor Models: Theory and Application to Intracellular Dynamics of the Actin Cytoskeleton
-DOI: http://dx.doi.org/10.1007/s00332-021-09714-4
+Paper URL: http://dx.doi.org/10.1007/s00332-021-09714-4
 
 
 Work Details No: 8
 Paper title: Peng's Maximum Principle for Stochastic Partial Differential Equations
-
+No Paper URL found.
 
 
 Work Details No: 9
 Paper title: Stability and moment estimates for the stochastic singular $Φ$-Laplace equation
-
+No Paper URL found.
 
 
 Work Details No: 10
 Paper title: McKean--Vlasov SDEs in Nonlinear Filtering
-DOI: https://doi.org/10.1137/20M1355197
+Paper URL: https://doi.org/10.1137/20M1355197
 
 
 Work Details No: 11
 Paper title: Peng's Maximum Principle for Stochastic Partial Differential Equations
-DOI: https://doi.org/10.1137/20M1368057
+Paper URL: https://doi.org/10.1137/20M1368057
 
 
 Work Details No: 12
 Paper title: Mean field limit of Ensemble Square Root filters - discrete and continuous time
-DOI: http://dx.doi.org/10.3934/fods.2021003
+Paper URL: http://dx.doi.org/10.3934/fods.2021003
 
 
 Work Details No: 13
 Paper title: On the continuous time limit of the ensemble Kalman filter
-DOI: http://dx.doi.org/10.1090/mcom/3588
+Paper URL: http://dx.doi.org/10.1090/mcom/3588
 
 
 Work Details No: 14
 Paper title: Generalized Burgers equation with rough transport noise
-DOI: http://dx.doi.org/10.1016/j.spa.2019.06.014
+Paper URL: http://dx.doi.org/10.1016/j.spa.2019.06.014
 
 
 Work Details No: 15
 Paper title: Propagation of chaos for stochastic spatially structured neuronal networks with delay driven by jump diffusions
-DOI: http://dx.doi.org/10.1214/19-aap1499
+Paper URL: http://dx.doi.org/10.1214/19-aap1499
 
 
 Work Details No: 16
 Paper title: Existence, uniqueness and stability of semi-linear rough partial differential equations
-DOI: http://dx.doi.org/10.1016/j.jde.2019.09.033
+Paper URL: http://dx.doi.org/10.1016/j.jde.2019.09.033
 
 
 Work Details No: 17
 Paper title: Drift estimation for stochastic reaction-diffusion systems
-DOI: http://dx.doi.org/10.1214/19-ejs1665
+Paper URL: http://dx.doi.org/10.1214/19-ejs1665
 
 
 Work Details No: 18
 Paper title: Deterministic control of stochastic reaction-diffusion equations
-DOI: http://dx.doi.org/10.3934/eect.2020087
+Paper URL: http://dx.doi.org/10.3934/eect.2020087
 
 
 Work Details No: 19
 Paper title: Propagation of chaos for stochastic spatially structured neuronal networks with delay driven by jump diffusions
-DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-85087554027&partnerID=MN8TOARS
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-85087554027&partnerID=MN8TOARS
 
 
 Work Details No: 20
 Paper title: A Fenchel-Moreau-Rockafellar type theorem on the Kantorovich-Wasserstein space with applications in partially observable Markov decision processes
-DOI: http://dx.doi.org/10.1016/j.jmaa.2019.05.004
+Paper URL: http://dx.doi.org/10.1016/j.jmaa.2019.05.004
 
 
 Work Details No: 21
 Paper title: Editorial: Data Assimilation and Control: Theory and Applications in Life Sciences
-DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-85077617911&partnerID=MN8TOARS
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-85077617911&partnerID=MN8TOARS
 
 
 Work Details No: 22
 Paper title: Weak solutions to Vlasov-McKean equations under Lyapunov-type conditions
-DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-85062324617&partnerID=MN8TOARS
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-85062324617&partnerID=MN8TOARS
 
 
 Work Details No: 23
 Paper title: Scale-specific analysis of fMRI data on the irregular cortical surface
-DOI: http://dx.doi.org/10.1016/j.neuroimage.2018.07.002
+Paper URL: http://dx.doi.org/10.1016/j.neuroimage.2018.07.002
 
 
 Work Details No: 24
 Paper title: Long-Time Stability and Accuracy of the Ensemble Kalman--Bucy Filter for Fully Observed Processes and Small Measurement Noise
-DOI: http://dx.doi.org/10.1137/17m1119056
+Paper URL: http://dx.doi.org/10.1137/17m1119056
 
 
 Work Details No: 25
 Paper title: Preface
-DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-85049938795&partnerID=MN8TOARS
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-85049938795&partnerID=MN8TOARS
 
 
 Work Details No: 26
 Paper title: Stochastic Partial Differential Equations and Related Fields
-DOI: http://dx.doi.org/10.1007/978-3-319-74929-7
+Paper URL: http://dx.doi.org/10.1007/978-3-319-74929-7
 
 
 Work Details No: 27
 Paper title: Well-posedness of the stochastic neural field equation with discontinuous firing rate
-DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-85029407778&partnerID=MN8TOARS
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-85029407778&partnerID=MN8TOARS
 
 
 Work Details No: 28
 Paper title: Finite-Size Effects on Traveling Wave Solutions to Neural Field Equations
-DOI: http://dx.doi.org/10.1186/s13408-017-0048-2
+Paper URL: http://dx.doi.org/10.1186/s13408-017-0048-2
 
 
 Work Details No: 29
 Paper title: A multiscale-analysis of stochastic bistable reaction–diffusion equations
-DOI: http://dx.doi.org/10.1016/j.na.2017.07.001
+Paper URL: http://dx.doi.org/10.1016/j.na.2017.07.001
 
 
 Work Details No: 30
 Paper title: Complete Mean-Field Theory for Dynamics of Binary Recurrent Networks
-DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-85034639176&partnerID=MN8TOARS
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-85034639176&partnerID=MN8TOARS
 
 
 Work Details No: 31
 Paper title: Long-time stability and accuracy of the ensemble kalman-bucy filter for fully observed processes and small measurement noise
-DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-85049255056&partnerID=MN8TOARS
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-85049255056&partnerID=MN8TOARS
 
 
 Work Details No: 32
 Paper title: Stochastic partial differential equations: a rough paths view on weak solutions via Feynman–Kac
-DOI: http://dx.doi.org/10.5802/afst.1556
+Paper URL: http://dx.doi.org/10.5802/afst.1556
 
 
 Work Details No: 33
 Paper title: Transition from Gaussian to non-Gaussian fluctuations for mean-field diffusions in spatial interaction
-DOI: http://dx.doi.org/10.1214/16-aap1194
+Paper URL: http://dx.doi.org/10.1214/16-aap1194
 
 
 Work Details No: 34
 Paper title: L2-stability of traveling wave solutions to nonlocal evolution equations
-DOI: http://dx.doi.org/10.1016/j.jde.2016.06.021
+Paper URL: http://dx.doi.org/10.1016/j.jde.2016.06.021
 
 
 Work Details No: 35
 Paper title: Charles L. Epstein, Rafe Mazzeo: “Degenerate Diffusion Operators Arising in Population Biology”
-DOI: http://dx.doi.org/10.1365/s13291-015-0131-0
+Paper URL: http://dx.doi.org/10.1365/s13291-015-0131-0
 
 
 Work Details No: 36
 Paper title: Reliability of signal transmission in stochastic nerve axon equations
-DOI: http://dx.doi.org/10.1007/s10827-015-0586-0
+Paper URL: http://dx.doi.org/10.1007/s10827-015-0586-0
 
 
 Work Details No: 37
 Paper title: Analysis and approximation of stochastic nerve axon equations
-DOI: http://dx.doi.org/10.1090/mcom/3068
+Paper URL: http://dx.doi.org/10.1090/mcom/3068
 
 
 Work Details No: 38
 Paper title: Transition from gaussian to non-Gaussian fluctuations for mean-field diffusions in spatial interaction
-DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-85008932855&partnerID=MN8TOARS
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-85008932855&partnerID=MN8TOARS
 
 
 Work Details No: 39
 Paper title: Shifting Spike Times or Adding and Deleting Spikes—How Different Types of Noise Shape Signal Transmission in Neural Populations
-DOI: http://dx.doi.org/10.1186/2190-8567-5-1
+Paper URL: http://dx.doi.org/10.1186/2190-8567-5-1
 
 
 Work Details No: 40
 Paper title: Mean field limit for disordered diffusions with singular interactions
-DOI: http://dx.doi.org/10.1214/13-aap968
+Paper URL: http://dx.doi.org/10.1214/13-aap968
 
 
 Work Details No: 41
 Paper title: Lattice approximation for stochastic reaction diffusion equations with one-sided Lipschitz condition
-DOI: http://dx.doi.org/10.1090/s0025-5718-2014-02873-1
+Paper URL: http://dx.doi.org/10.1090/s0025-5718-2014-02873-1
 
 
 Work Details No: 42
 Paper title: Front Propagation in Stochastic Neural Fields: A Rigorous Mathematical Framework
-DOI: http://dx.doi.org/10.1137/13095094x
+Paper URL: http://dx.doi.org/10.1137/13095094x
 
 
 Work Details No: 43
 Paper title: A unified framework for risk-sensitive Markov control processes
-DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-84988241466&partnerID=MN8TOARS
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84988241466&partnerID=MN8TOARS
 
 
 Work Details No: 44
 Paper title: Front propagation in stochastic neural fields: A rigorous mathematical framework
-DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-84907970943&partnerID=MN8TOARS
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84907970943&partnerID=MN8TOARS
 
 
 Work Details No: 45
 Paper title: Lattice approximation for stochastic reaction diffusion equations with one-sided Lipschitz condition
-DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-84919382428&partnerID=MN8TOARS
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84919382428&partnerID=MN8TOARS
 
 
 Work Details No: 46
 Paper title: Mean field limit for disordered diffusions with singular interactions
-DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-84898909005&partnerID=MN8TOARS
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84898909005&partnerID=MN8TOARS
 
 
 Work Details No: 47
 Paper title: Robustness in Stochastic Filtering and Maximum Likelihood Estimation for SDEs
-DOI: http://dx.doi.org/10.1007/978-3-319-08159-5_8
+Paper URL: http://dx.doi.org/10.1007/978-3-319-08159-5_8
 
 
 Work Details No: 48
 Paper title: Robustness in stochastic filtering and maximum likelihood estimation for SDEs
-DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-84911877141&partnerID=MN8TOARS
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84911877141&partnerID=MN8TOARS
 
 
 Work Details No: 49
 Paper title: Weak solutions of non coercive stochastic Navier-Stokes equations in R<sup>2</sup>
-DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-84932137464&partnerID=MN8TOARS
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84932137464&partnerID=MN8TOARS
 
 
 Work Details No: 50
 Paper title: Risk-Sensitive Markov Control Processes
-DOI: http://dx.doi.org/10.1137/120899005
+Paper URL: http://dx.doi.org/10.1137/120899005
 
 
 Work Details No: 51
 Paper title: Stochastic stability of the Ekman spiral
-DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-84891937066&partnerID=MN8TOARS
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84891937066&partnerID=MN8TOARS
 
 
 Work Details No: 52
 Paper title: Two Remarks on the Wasserstein Dirichlet Form
-DOI: http://dx.doi.org/10.1007/978-3-0348-0545-2_12
+Paper URL: http://dx.doi.org/10.1007/978-3-0348-0545-2_12
 
 
 Work Details No: 53
 Paper title: Estimates for the ergodic measure and polynomial stability of plane stochastic curve shortening flow
-DOI: http://dx.doi.org/10.1007/s00030-011-0146-x
+Paper URL: http://dx.doi.org/10.1007/s00030-011-0146-x
 
 
 Work Details No: 54
 Paper title: Stochastic Partial Differential Equations: Kolmogorov Operators and Invariant Measures
-DOI: http://dx.doi.org/10.1365/s13291-011-0016-9
+Paper URL: http://dx.doi.org/10.1365/s13291-011-0016-9
 
 
 Work Details No: 55
 Paper title: Functional Inequalities for the Wasserstein Dirichlet Form
-DOI: http://dx.doi.org/10.1007/978-3-0348-0021-1_16
+Paper URL: http://dx.doi.org/10.1007/978-3-0348-0021-1_16
 
 
 Work Details No: 56
 Paper title: L<sup>p</sup>-uniqueness of Kolmogorov operators associated with 2D-stochastic Navier-Stokes-Coriolis equations
-DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-81155138799&partnerID=MN8TOARS
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-81155138799&partnerID=MN8TOARS
 
 
 Work Details No: 57
 Paper title: Improved moment estimates for invariant measures of semilinear diffusions in Hilbert spaces and applications
-DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-77953361476&partnerID=MN8TOARS
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-77953361476&partnerID=MN8TOARS
 
 
 Work Details No: 58
 Paper title: The logarithmic Sobolev inequality for the Wasserstein diffusion
-DOI: http://dx.doi.org/10.1007/s00440-008-0166-6
+Paper URL: http://dx.doi.org/10.1007/s00440-008-0166-6
 
 
 Work Details No: 59
 Paper title: Maximal dissipativity of Kolmogorov operators with Cahn–Hilliard type drift term
-DOI: http://dx.doi.org/10.1016/j.jde.2009.03.025
+Paper URL: http://dx.doi.org/10.1016/j.jde.2009.03.025
 
 
 Work Details No: 60
 Paper title: Invariant measures for semilinear SPDE’s with local Lipschitz drift coefficients and applications
-DOI: http://dx.doi.org/10.1007/s00028-007-0354-3
+Paper URL: http://dx.doi.org/10.1007/s00028-007-0354-3
 
 
 Work Details No: 61
 Paper title: Maintaining replicas in unstructured P2P systems
-DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-70350769266&partnerID=MN8TOARS
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-70350769266&partnerID=MN8TOARS
 
 
 Work Details No: 62
 Paper title: A new a priori estimate for the Kolmogorov operator of a 2D-stochastic Navier-stokes equation
-DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-37549047597&partnerID=MN8TOARS
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-37549047597&partnerID=MN8TOARS
 
 
 Work Details No: 63
 Paper title: Uniqueness of solutions to weak parabolic equations for measures
-DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-40249095057&partnerID=MN8TOARS
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-40249095057&partnerID=MN8TOARS
 
 
 Work Details No: 64
 Paper title: On the Poincar� Inequality for Infinitely Divisible Measures
-DOI: http://dx.doi.org/10.1007/s11118-005-2610-x
+Paper URL: http://dx.doi.org/10.1007/s11118-005-2610-x
 
 
 Work Details No: 65
 Paper title: Stability of the Filter Equation for a Time-Dependent Signal on ℝd
-DOI: http://dx.doi.org/10.1007/s00245-005-0820-7
+Paper URL: http://dx.doi.org/10.1007/s00245-005-0820-7
 
 
 Work Details No: 66
 Paper title: Time-dependent diffusion operators on L1
-DOI: http://dx.doi.org/10.1007/s00028-004-0147-x
+Paper URL: http://dx.doi.org/10.1007/s00028-004-0147-x
 
 
 Work Details No: 67
 Paper title: A remark on the CLT for a random walk in a random environment
-DOI: http://dx.doi.org/10.1007/s00440-004-0359-6
 
 
 Work Details No: 68
 Paper title: On the convergence of genetic algorithms ? a variational approach
-DOI: http://dx.doi.org/10.1007/s00440-003-0330-y
+Paper URL: http://dx.doi.org/10.1007/s00440-003-0330-y
 
 
 Work Details No: 69
 Paper title: On transition semigroups of $(A,\Psi )$-superprocesses with immigration
-DOI: http://dx.doi.org/10.1214/aop/1055425784
+Paper URL: http://dx.doi.org/10.1214/aop/1055425784
 
 
 Work Details No: 70
 Paper title: Spectral properties for a class of continuous state branching processes with immigration
-DOI: http://dx.doi.org/10.1016/s0022-1236(03)00088-0
+Paper URL: http://dx.doi.org/10.1016/s0022-1236(03)00088-0
 
 
 Work Details No: 71
 Paper title: L1-Uniqueness of regularized 2D-Euler and stochastic Navier–Stokes equations
-DOI: http://dx.doi.org/10.1016/s0022-1236(02)00182-9
+Paper URL: http://dx.doi.org/10.1016/s0022-1236(02)00182-9
 
 
 Work Details No: 72
 Paper title: L<sup>1</sup>-uniqueness of regularized 2D-Euler and stochastic Navier-Stokes equations
-DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-0037949148&partnerID=MN8TOARS
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-0037949148&partnerID=MN8TOARS
 
 
 Work Details No: 73
 Paper title: Spectral properties for a class of continuous state branching processes with immigration
-DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-0038609745&partnerID=MN8TOARS
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-0038609745&partnerID=MN8TOARS
 
 
 Work Details No: 74
 Paper title: []
-DOI: http://dx.doi.org/10.1007/s004400100166
 
 
 Work Details No: 75
 Paper title: Uniqueness of solutions of elliptic equations and uniqueness of invariant measures of diffusions
-DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-0036662252&partnerID=MN8TOARS
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-0036662252&partnerID=MN8TOARS
 
 
 Work Details No: 76
 Paper title: On the validity of the log-Sobolev inequality for symmetric Fleming-Viot operators
-DOI: http://dx.doi.org/10.1214/aop/1019160256
+Paper URL: http://dx.doi.org/10.1214/aop/1019160256
 
 
 Work Details No: 77
 Paper title: The theory of generalized Dirichlet forms and its applications in analysis and stochastics
-DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-0033229137&partnerID=MN8TOARS
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-0033229137&partnerID=MN8TOARS
 
 
 Work Details No: 78
 Paper title: The theory of generalized Dirichlet forms and its applications in analysis and stochastics
-DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-33748811338&partnerID=MN8TOARS
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-33748811338&partnerID=MN8TOARS
 
 
 Work Details No: 79
 Paper title: Dirichlet Forms and Markov Processes: A Generalized Framework Including Both Elliptic and Parabolic Cases
-DOI: http://www.scopus.com/inward/record.url?eid=2-s2.0-0032374520&partnerID=MN8TOARS
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-0032374520&partnerID=MN8TOARS
 
 
 Work Details No: 80
 Paper title: First Order Perturbations of Dirichlet Operators: Existence and Uniqueness
-DOI: http://dx.doi.org/10.1006/jfan.1996.0126
+Paper URL: http://dx.doi.org/10.1006/jfan.1996.0126
 
 
 Work Details No: 81
 Paper title: On the Stability of Feynman-Kac Propagators
-DOI: http://dx.doi.org/10.1007/978-3-7643-8458-6_19
+Paper URL: http://dx.doi.org/10.1007/978-3-7643-8458-6_19
 
 
 Current Employee

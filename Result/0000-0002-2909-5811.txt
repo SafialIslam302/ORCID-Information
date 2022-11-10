@@ -8,602 +8,602 @@ Number of Works: 120
 
 Work Details No: 1
 Paper title: A Bayesian approach to dynamical modeling of eye-movement control in reading of normal, mirrored, and scrambled texts.
-DOI: https://doi.org/10.1037/rev0000268
+Paper URL: https://doi.org/10.1037/rev0000268
 
 
 Work Details No: 2
 Paper title: Does local coherence lead to targeted regressions and illusions of grammaticality?
-DOI: https://doi.org/10.1162/opmi_a_00041
+Paper URL: https://doi.org/10.1162/opmi_a_00041
 
 
 Work Details No: 3
 Paper title: Dynamical Models in Neurocognitive Psychology
-DOI: https://doi.org/10.1007/978-3-030-67299-7
+Paper URL: https://doi.org/10.1007/978-3-030-67299-7
 
 
 Work Details No: 4
 Paper title: Predictive modeling of parafoveal information processing during reading
-
+No Paper URL found.
 
 
 Work Details No: 5
 Paper title: Sequential data assimilation of the stochastic SEIR epidemic model for regional COVID-19 dynamics
-
+No Paper URL found.
 
 
 Work Details No: 6
 Paper title: Bayesian parameter estimation for the SWIFT model of eye-movement control during reading
-
+No Paper URL found.
 
 
 Work Details No: 7
 Paper title: How spatial frequencies and color drive object search in real-world scenes: A new eye-movement corpus
-
+No Paper URL found.
 
 
 Work Details No: 8
 Paper title: Modeling the effects of perisaccadic attention on gaze statistics during scene viewing
-
+No Paper URL found.
 
 
 Work Details No: 9
 Paper title: Modulation of oculomotor control during reading of mirrored and inverted texts
-
+No Paper URL found.
 
 
 Work Details No: 10
 Paper title: Task-dependence in scene perception: Head unrestrained viewing using mobile eye-tracking
-
+No Paper URL found.
 
 
 Work Details No: 11
 Paper title: Disentangling bottom-up versus top-down and low-level versus high-level influences on eye movements over time
-DOI: http://dx.doi.org/10.1167/19.3.1
+Paper URL: http://dx.doi.org/10.1167/19.3.1
 
 
 Work Details No: 12
 Paper title: Experimental test of Bayesian saccade targeting under reversed reading direction
-DOI: https://doi.org/10.3758/s13414-019-01814-4
+Paper URL: https://doi.org/10.3758/s13414-019-01814-4
 
 
 Work Details No: 13
 Paper title: Searchers adjust their eye-movement dynamics to target characteristics in natural scenes
-
+No Paper URL found.
 
 
 Work Details No: 14
 Paper title: Spatial statistics for gaze patterns in scene viewing: Effects of repeated viewing
-DOI: http://dx.doi.org/10.1167/19.6.5
+Paper URL: http://dx.doi.org/10.1167/19.6.5
 
 
 Work Details No: 15
 Paper title: A self-avoiding walk with neural delays as a model of fixational eye movements
-
+No Paper URL found.
 
 
 Work Details No: 16
 Paper title: An image-computable psychophysical spatial vision model
-
+No Paper URL found.
 
 
 Work Details No: 17
 Paper title: Gaze-contingent manipulation of the FVF demonstrates the importance of fixation duration for explaining search behavior
-
+No Paper URL found.
 
 
 Work Details No: 18
 Paper title: Likelihood-based parameter estimation and comparison of dynamical cognitive models
-
+No Paper URL found.
 
 
 Work Details No: 19
 Paper title: Revising the link between microsaccades and the spatial cueing of voluntary attention
-DOI: http://www.sciencedirect.com/science/article/pii/S0042698917300135
+Paper URL: http://www.sciencedirect.com/science/article/pii/S0042698917300135
 
 
 Work Details No: 20
 Paper title: Temporal evolution of the central fixation bias in scene viewing
-DOI: http://dx.doi.org/10.1167/17.13.3
+Paper URL: http://dx.doi.org/10.1167/17.13.3
 
 
 Work Details No: 21
 Paper title: No evidence for a saccadic range effect for visually guided and memory-guided saccades in simple saccade-targeting tasks
-DOI: https://doi.org/10.1371/journal.pone.0162449
+Paper URL: https://doi.org/10.1371/journal.pone.0162449
 
 
 Work Details No: 22
 Paper title: Coupling of attention and saccades when viewing scenes with central and peripheral degradation
-DOI: http://dx.doi.org/10.1167/16.2.8
+Paper URL: http://dx.doi.org/10.1167/16.2.8
 
 
 Work Details No: 23
 Paper title: Influence of initial fixation position in scene viewing
-DOI: http://www.sciencedirect.com/science/article/pii/S0042698916301274
+Paper URL: http://www.sciencedirect.com/science/article/pii/S0042698916301274
 
 
 Work Details No: 24
 Paper title: Microsaccades are coupled to heartbeat
-DOI: http://www.jneurosci.org/content/36/4/1237
+Paper URL: http://www.jneurosci.org/content/36/4/1237
 
 
 Work Details No: 25
 Paper title: Small saccades versus microsaccades: Experimental distinction and model-based unification
-DOI: http://www.sciencedirect.com/science/article/pii/S004269891500214X
+Paper URL: http://www.sciencedirect.com/science/article/pii/S004269891500214X
 
 
 Work Details No: 26
 Paper title: Spatial frequency processing in the central and peripheral visual field during scene viewing
-DOI: http://www.sciencedirect.com/science/article/pii/S0042698916300827
+Paper URL: http://www.sciencedirect.com/science/article/pii/S0042698916300827
 
 
 Work Details No: 27
 Paper title: Analysis of attentional bias towards attractive and unattractive body regions among overweight males and females: An eye-movement study
-DOI: https://doi.org/10.1371/journal.pone.0140813
+Paper URL: https://doi.org/10.1371/journal.pone.0140813
 
 
 Work Details No: 28
 Paper title: O processamento da anáfora pronominal em crianças com transtorno de déficit de atenção e hiperatividade e em crianças disléxicas: um estudo através da análise dos movimentos oculares
-
+No Paper URL found.
 
 
 Work Details No: 29
 Paper title: Spatial statistics and attentional dynamics in scene viewing
-DOI: http://dx.doi.org/10.1167/15.1.14
+Paper URL: http://dx.doi.org/10.1167/15.1.14
 
 
 Work Details No: 30
 Paper title: A model of saccadic landing positions in reading under the influence of sensory noise
-DOI: https://doi.org/10.1080/13506285.2014.894166
+Paper URL: https://doi.org/10.1080/13506285.2014.894166
 
 
 Work Details No: 31
 Paper title: A theoretical analysis of the perceptual span based on SWIFT simulations of the n + 2 boundary paradigm
-DOI: https://doi.org/10.1080/13506285.2014.881444
+Paper URL: https://doi.org/10.1080/13506285.2014.881444
 
 
 Work Details No: 32
 Paper title: ICAT: A computational model for the adaptive control of fixation durations
-DOI: https://doi.org/10.3758/s13423-013-0575-0
+Paper URL: https://doi.org/10.3758/s13423-013-0575-0
 
 
 Work Details No: 33
 Paper title: Microsaccadic responses indicate fast categorization of sounds: A novel approach to study auditory cognition
-DOI: http://www.jneurosci.org/content/34/33/11152
+Paper URL: http://www.jneurosci.org/content/34/33/11152
 
 
 Work Details No: 34
 Paper title: A framework for modeling the interaction of syntactic processing and eye movement control
-DOI: http://dx.doi.org/10.1111/tops.12026
+Paper URL: http://dx.doi.org/10.1111/tops.12026
 
 
 Work Details No: 35
 Paper title: Control of fixation duration during scene viewing by interaction of foveal and peripheral processing
-DOI: http://dx.doi.org/10.1167/13.12.11
+Paper URL: http://dx.doi.org/10.1167/13.12.11
 
 
 Work Details No: 36
 Paper title: Differentiating between verbal and spatial encoding using eye-movement recordings
-DOI: https://doi.org/10.1080/17470218.2013.772214
+Paper URL: https://doi.org/10.1080/17470218.2013.772214
 
 
 Work Details No: 37
 Paper title: Evaluating a computational model of eye-movement control during reading
-
+No Paper URL found.
 
 
 Work Details No: 38
 Paper title: Modeling fixation locations using spatial point processes
-DOI: http://dx.doi.org/10.1167/13.12.1
+Paper URL: http://dx.doi.org/10.1167/13.12.1
 
 
 Work Details No: 39
 Paper title: Using spatial statistics to investigate within-trial correlations of human gaze positions
-
+No Paper URL found.
 
 
 Work Details No: 40
 Paper title: Bayesian selection of Markov models for symbol sequences: Application to microsaccadic eye movements
-DOI: https://doi.org/10.1371/journal.pone.0043388
+Paper URL: https://doi.org/10.1371/journal.pone.0043388
 
 
 Work Details No: 41
 Paper title: A single space makes a large difference: Fixation positions after skipping saccades
-DOI: https://doi.org/10.3758/s13414-012-0365-1
+Paper URL: https://doi.org/10.3758/s13414-012-0365-1
 
 
 Work Details No: 42
 Paper title: Bayesian estimation of the scaling parameter of fixational eye movements
-DOI: http://stacks.iop.org/0295-5075/100/i=4/a=40003
+Paper URL: http://stacks.iop.org/0295-5075/100/i=4/a=40003
 
 
 Work Details No: 43
 Paper title: Capture of the gaze does not capture the mind
-DOI: https://doi.org/10.3758/s13414-012-0318-8
+Paper URL: https://doi.org/10.3758/s13414-012-0318-8
 
 
 Work Details No: 44
 Paper title: Computational modeling of collicular integration of perceptual responses and attention in microsaccades
-DOI: http://www.jneurosci.org/content/32/23/8035
+Paper URL: http://www.jneurosci.org/content/32/23/8035
 
 
 Work Details No: 45
 Paper title: Eye movements in a sequential scanning task: Evidence for distributed processing
-DOI: http://dx.doi.org/10.1167/12.1.5
+Paper URL: http://dx.doi.org/10.1167/12.1.5
 
 
 Work Details No: 46
 Paper title: The zoom lens of attention: Simulating shuffled versus normal text reading using the SWIFT model
-DOI: https://doi.org/10.1080/13506285.2012.670143
+Paper URL: https://doi.org/10.1080/13506285.2012.670143
 
 
 Work Details No: 47
 Paper title: Your mind wanders weakly, your mind wanders deeply: Objective measures reveal mindless reading at different levels
-DOI: http://www.sciencedirect.com/science/article/pii/S0010027712001436
+Paper URL: http://www.sciencedirect.com/science/article/pii/S0010027712001436
 
 
 Work Details No: 48
 Paper title: An integrated model of fixational eye movements and microsaccades
-DOI: http://www.pnas.org/content/108/39/E765.abstract
+Paper URL: http://www.pnas.org/content/108/39/E765.abstract
 
 
 Work Details No: 49
 Paper title: Parallel graded attention models of reading
-
+No Paper URL found.
 
 
 Work Details No: 50
 Paper title: Saccadic facilitation by modulation of microsaccades in natural backgrounds
-DOI: https://doi.org/10.3758/s13414-011-0107-9
+Paper URL: https://doi.org/10.3758/s13414-011-0107-9
 
 
 Work Details No: 51
 Paper title: CRISP: A computational model of fixation durations in scene viewing.
-
+No Paper URL found.
 
 
 Work Details No: 52
 Paper title: Eye movements during reading of randomly shuffled text
-DOI: http://www.sciencedirect.com/science/article/pii/S0042698910003792
+Paper URL: http://www.sciencedirect.com/science/article/pii/S0042698910003792
 
 
 Work Details No: 53
 Paper title: Microsaccade characterization using the continuous wavelet transform and principal component analysis
-DOI: https://bop.unibe.ch/index.php/JEMR/article/view/2306
+Paper URL: https://bop.unibe.ch/index.php/JEMR/article/view/2306
 
 
 Work Details No: 54
 Paper title: Microsaccades are different from saccades in scene perception
-DOI: https://doi.org/10.1007/s00221-010-2272-9
+Paper URL: https://doi.org/10.1007/s00221-010-2272-9
 
 
 Work Details No: 55
 Paper title: On the launch-site effect for skipped words during reading
-DOI: http://www.sciencedirect.com/science/article/pii/S0042698910002300
+Paper URL: http://www.sciencedirect.com/science/article/pii/S0042698910002300
 
 
 Work Details No: 56
 Paper title: Readers use Bayesian estimation for eye movement control
-DOI: https://doi.org/10.1177/0956797610362060
+Paper URL: https://doi.org/10.1177/0956797610362060
 
 
 Work Details No: 57
 Paper title: When do microsaccades follow spatial attention?
-DOI: https://doi.org/10.3758/APP.72.3.683
+Paper URL: https://doi.org/10.3758/APP.72.3.683
 
 
 Work Details No: 58
 Paper title: Hypothesis test for synchronization: Twin surrogates revisited
-DOI: https://doi.org/10.1063/1.3072784
+Paper URL: https://doi.org/10.1063/1.3072784
 
 
 Work Details No: 59
 Paper title: Mindless reading revisited: An analysis based on the SWIFT model of eye-movement control
-DOI: http://www.sciencedirect.com/science/article/pii/S0042698908005348
+Paper URL: http://www.sciencedirect.com/science/article/pii/S0042698908005348
 
 
 Work Details No: 60
 Paper title: Noise-enhanced target discrimination under the influence of fixational eye movements and external noise
-DOI: https://doi.org/10.1063/1.3098950
+Paper URL: https://doi.org/10.1063/1.3098950
 
 
 Work Details No: 61
 Paper title: Self-consistent estimation of mislocated fixations during reading
-DOI: https://doi.org/10.1371/journal.pone.0001534
+Paper URL: https://doi.org/10.1371/journal.pone.0001534
 
 
 Work Details No: 62
 Paper title: Eye-movement control in reading: Experimental and corpus-analytical challenges for a computational model
-
+No Paper URL found.
 
 
 Work Details No: 63
 Paper title: Fixational eye movements predict the perceived direction of ambiguous apparent motion
-DOI: http://dx.doi.org/10.1167/8.14.13
+Paper URL: http://dx.doi.org/10.1167/8.14.13
 
 
 Work Details No: 64
 Paper title: Microsaccadic modulation of response times in spatial attention tasks
-DOI: https://doi.org/10.1007/s00426-008-0202-2
+Paper URL: https://doi.org/10.1007/s00426-008-0202-2
 
 
 Work Details No: 65
 Paper title: Persistence and phase synchronisation properties of fixational eye movements
-DOI: https://doi.org/10.1140/epjst/e2008-00762-3
+Paper URL: https://doi.org/10.1140/epjst/e2008-00762-3
 
 
 Work Details No: 66
 Paper title: Reconstruction of eye movements during blinks
-DOI: https://doi.org/10.1063/1.2890843
+Paper URL: https://doi.org/10.1063/1.2890843
 
 
 Work Details No: 67
 Paper title: Toward a model of microsaccade generation: The case of microsaccadic inhibition
-
+No Paper URL found.
 
 
 Work Details No: 68
 Paper title: An iterative algorithm for the estimation of the distribution of mislocated fixations during reading
-
+No Paper URL found.
 
 
 Work Details No: 69
 Paper title: Microsaccades are an index of covert attention: Commentary on Horowitz, Fine, Fencsik, Yurgenson, and Wolfe (2007)
-DOI: https://doi.org/10.1111/j.1467-9280.2007.01904.x
+Paper URL: https://doi.org/10.1111/j.1467-9280.2007.01904.x
 
 
 Work Details No: 70
 Paper title: Modeling the control of fixational eye movements with neurophysiological delays
-DOI: https://link.aps.org/doi/10.1103/PhysRevLett.98.138104
+Paper URL: https://link.aps.org/doi/10.1103/PhysRevLett.98.138104
 
 
 Work Details No: 71
 Paper title: Oculomotor control in a sequential search task
-DOI: http://www.sciencedirect.com/science/article/pii/S0042698907002404
+Paper URL: http://www.sciencedirect.com/science/article/pii/S0042698907002404
 
 
 Work Details No: 72
 Paper title: The IOVP effect in mindless reading: Experiment and modeling
-DOI: http://www.sciencedirect.com/science/article/pii/S0042698906005347
+Paper URL: http://www.sciencedirect.com/science/article/pii/S0042698906005347
 
 
 Work Details No: 73
 Paper title: Current advances in SWIFT
-DOI: http://www.sciencedirect.com/science/article/pii/S1389041705000240
+Paper URL: http://www.sciencedirect.com/science/article/pii/S1389041705000240
 
 
 Work Details No: 74
 Paper title: Flick-induced flips in perception
-DOI: http://www.sciencedirect.com/science/article/pii/S0896627306000067
+Paper URL: http://www.sciencedirect.com/science/article/pii/S0896627306000067
 
 
 Work Details No: 75
 Paper title: Messung von Blickbewegungen
-
+No Paper URL found.
 
 
 Work Details No: 76
 Paper title: Microsaccades are triggered by low retinal image slip
-DOI: http://www.pnas.org/content/103/18/7192.abstract
+Paper URL: http://www.pnas.org/content/103/18/7192.abstract
 
 
 Work Details No: 77
 Paper title: Microsaccades: A microcosm for research on oculomotor control, attention, and visual perception
-DOI: http://www.sciencedirect.com/science/article/pii/S0079612306540099
+Paper URL: http://www.sciencedirect.com/science/article/pii/S0079612306540099
 
 
 Work Details No: 78
 Paper title: SWIFT explorations of age differences in eye movements during reading
-DOI: http://www.sciencedirect.com/science/article/pii/S014976340600056X
+Paper URL: http://www.sciencedirect.com/science/article/pii/S014976340600056X
 
 
 Work Details No: 79
 Paper title: Synchronization analysis and recurrence in complex systems
-
+No Paper URL found.
 
 
 Work Details No: 80
 Paper title: Tracking the mind during reading: The influence of past, present, and future words on fixation durations
-
+No Paper URL found.
 
 
 Work Details No: 81
 Paper title: Crossmodal coupling of oculomotor control and spatial attention in vision and audition
-DOI: https://doi.org/10.1007/s00221-005-2382-y
+Paper URL: https://doi.org/10.1007/s00221-005-2382-y
 
 
 Work Details No: 82
 Paper title: Fixation durations before word skipping in reading
-DOI: https://doi.org/10.3758/BF03196358
+Paper URL: https://doi.org/10.3758/BF03196358
 
 
 Work Details No: 83
 Paper title: Microsaccade dynamics during covert attention
-DOI: http://www.sciencedirect.com/science/article/pii/S004269890400495X
+Paper URL: http://www.sciencedirect.com/science/article/pii/S004269890400495X
 
 
 Work Details No: 84
 Paper title: Mislocated fixations during reading and the inverted optimal viewing position effect
-DOI: http://www.sciencedirect.com/science/article/pii/S0042698905001124
+Paper URL: http://www.sciencedirect.com/science/article/pii/S0042698905001124
 
 
 Work Details No: 85
 Paper title: Nichtlineare Dynamik kognitiv-motorischer Prozesse : Tempoinduzierte Übergänge bei der Produktion von Polyrhythmen
-DOI: https://publishup.uni-potsdam.de/opus4-ubp/frontdoor/index/index/docId/1
+Paper URL: https://publishup.uni-potsdam.de/opus4-ubp/frontdoor/index/index/docId/1
 
 
 Work Details No: 86
 Paper title: Phase-synchronization decay of fixational eye movements
-DOI: http://dx.doi.org/10.1196/annals.1325.050
+Paper URL: http://dx.doi.org/10.1196/annals.1325.050
 
 
 Work Details No: 87
 Paper title: Produktion und Synchronisation von Rhythmen
-
+No Paper URL found.
 
 
 Work Details No: 88
 Paper title: SWIFT: A dynamical model of saccade generation during reading
-
+No Paper URL found.
 
 
 Work Details No: 89
 Paper title: Scaling of horizontal and vertical fixational eye movements
-DOI: https://link.aps.org/doi/10.1103/PhysRevE.71.031909
+Paper URL: https://link.aps.org/doi/10.1103/PhysRevE.71.031909
 
 
 Work Details No: 90
 Paper title: Complexity of eye movemens in reading
-DOI: http://www.worldscientific.com/doi/abs/10.1142/S0218127404009491
+Paper URL: http://www.worldscientific.com/doi/abs/10.1142/S0218127404009491
 
 
 Work Details No: 91
 Paper title: Length, frequency, and predictability effects of words on eye movements in reading
-DOI: https://doi.org/10.1080/09541440340000213
+Paper URL: https://doi.org/10.1080/09541440340000213
 
 
 Work Details No: 92
 Paper title: Microsaccade orientation supports attentional enhancement opposite a peripheral cue: Commentary on Tse, Sheinberg, and Logothetis (2003)
-DOI: https://doi.org/10.1111/j.0956-7976.2004.00744.x
+Paper URL: https://doi.org/10.1111/j.0956-7976.2004.00744.x
 
 
 Work Details No: 93
 Paper title: Microsaccades keep the eyes' balance during fixation
-DOI: https://doi.org/10.1111/j.0956-7976.2004.00697.x
+Paper URL: https://doi.org/10.1111/j.0956-7976.2004.00697.x
 
 
 Work Details No: 94
 Paper title: Binocular coordination in microsaccades
-
+No Paper URL found.
 
 
 Work Details No: 95
 Paper title: How tight is the link between lexical processing and saccade programs?
-
+No Paper URL found.
 
 
 Work Details No: 96
 Paper title: Microsaccades uncover the orientation of covert attention
-DOI: http://www.sciencedirect.com/science/article/pii/S0042698903000841
+Paper URL: http://www.sciencedirect.com/science/article/pii/S0042698903000841
 
 
 Work Details No: 97
 Paper title: Noise-enhanced performance in reading
-DOI: http://www.sciencedirect.com/science/article/pii/S0925231201007111
+Paper URL: http://www.sciencedirect.com/science/article/pii/S0925231201007111
 
 
 Work Details No: 98
 Paper title: SWIFT explorations
-
+No Paper URL found.
 
 
 Work Details No: 99
 Paper title: The game of word skipping: Who are the competitors?
-
+No Paper URL found.
 
 
 Work Details No: 100
 Paper title: A dynamical model of saccade generation in reading based on spatially distributed lexical processing
-DOI: http://www.sciencedirect.com/science/article/pii/S0042698901003017
+Paper URL: http://www.sciencedirect.com/science/article/pii/S0042698901003017
 
 
 Work Details No: 101
 Paper title: Representational Models and Nonlinear Dynamics: Irreconcilable Approaches to Human Movement Timing and Coordination or Two Sides of the Same Coin? Introduction to the Special Issue on Movement Timing and Coordination
-DOI: http://www.sciencedirect.com/science/article/pii/S0278262601913004
+Paper URL: http://www.sciencedirect.com/science/article/pii/S0278262601913004
 
 
 Work Details No: 102
 Paper title: Synchronizing movements with the metronome: Nonlinear error correction and unstable periodic orbits
-DOI: http://www.sciencedirect.com/science/article/pii/S0278262601913077
+Paper URL: http://www.sciencedirect.com/science/article/pii/S0278262601913077
 
 
 Work Details No: 103
 Paper title: Testing for nonlinearity: the role of surrogate data
-DOI: http://www.sciencedirect.com/science/article/pii/S0960077900002368
+Paper URL: http://www.sciencedirect.com/science/article/pii/S0960077900002368
 
 
 Work Details No: 104
 Paper title: The effects of expertise and age on rhythm production: Adaptations to timing and sequencing constraints
-DOI: http://www.sciencedirect.com/science/article/pii/S0278262601913120
+Paper URL: http://www.sciencedirect.com/science/article/pii/S0278262601913120
 
 
 Work Details No: 105
 Paper title: Age-specific problems in rhythmic timing
-
+No Paper URL found.
 
 
 Work Details No: 106
 Paper title: Mathematical models of eye movements in reading: a possible role for autonomous saccades
-DOI: https://doi.org/10.1007/PL00008001
+Paper URL: https://doi.org/10.1007/PL00008001
 
 
 Work Details No: 107
 Paper title: Koordination und Synchronisation der Hände beim rhythmischen Timing
-
+No Paper URL found.
 
 
 Work Details No: 108
 Paper title: Cardiorespiratory synchronization
-
+No Paper URL found.
 
 
 Work Details No: 109
 Paper title: Symbolic dynamics of bimanual production of polyrhythms
-
+No Paper URL found.
 
 
 Work Details No: 110
 Paper title: Testing for unstable periodic orbits to characterize spatiotemporal dynamics
-
+No Paper URL found.
 
 
 Work Details No: 111
 Paper title: Modeling qualitative changes in bimanual movements
-DOI: http://www.worldscientific.com/doi/abs/10.1142/S0218127497001163
+Paper URL: http://www.worldscientific.com/doi/abs/10.1142/S0218127497001163
 
 
 Work Details No: 112
 Paper title: Symbolic dynamics of physiological synchronization: Examples from bimanual movements and cardiorespiratory interaction
-DOI: http://www.sciencedirect.com/science/article/pii/S0362546X9600137X
+Paper URL: http://www.sciencedirect.com/science/article/pii/S0362546X9600137X
 
 
 Work Details No: 113
 Paper title: Tempo-induced transitions in polyrhythmic hand movements
-DOI: https://link.aps.org/doi/10.1103/PhysRevE.56.5823
+Paper URL: https://link.aps.org/doi/10.1103/PhysRevE.56.5823
 
 
 Work Details No: 114
 Paper title: Nonlinear modelling of polyrhythmic hand movements
-
+No Paper URL found.
 
 
 Work Details No: 115
 Paper title: Nonlinear phenomena in polyrhythmic hand movements
-
+No Paper URL found.
 
 
 Work Details No: 116
 Paper title: Complexity in cognitive processes
-
+No Paper URL found.
 
 
 Work Details No: 117
 Paper title: Chance and chaos in population biology—Models of recurrent epidemics and food chain dynamics
-DOI: http://www.sciencedirect.com/science/article/pii/0960077994900280
+Paper URL: http://www.sciencedirect.com/science/article/pii/0960077994900280
 
 
 Work Details No: 118
 Paper title: Nonlinear time series analysis of empirical population dynamics
-DOI: http://www.sciencedirect.com/science/article/pii/0304380094900167
+Paper URL: http://www.sciencedirect.com/science/article/pii/0304380094900167
 
 
 Work Details No: 119
 Paper title: Qualitative analysis of unpredictability: A case study from childhood epidemics
-
+No Paper URL found.
 
 
 Work Details No: 120
 Paper title: Chance and chaos in seasonally driven epidemics
-DOI: https://julib.fz-juelich.de/vufind/Record/293826
+Paper URL: https://julib.fz-juelich.de/vufind/Record/293826
 
 
 Current Employee

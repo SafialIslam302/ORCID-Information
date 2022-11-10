@@ -8,62 +8,62 @@ Number of Works: 12
 
 Work Details No: 1
 Paper title: A Convergent Discretization Method for Transition Path Theory for Diffusion Processes
-DOI: https://doi.org/10.1137/20M1329354
+Paper URL: https://doi.org/10.1137/20M1329354
 
 
 Work Details No: 2
 Paper title: Error Bounds for Some Approximate Posterior Measures in Bayesian Inference
-DOI: https://doi.org/10.1007/978-3-030-55874-1_26
+Paper URL: https://doi.org/10.1007/978-3-030-55874-1_26
 
 
 Work Details No: 3
 Paper title: Strong convergence rates of probabilistic integrators for ordinary differential equations
-DOI: https://doi.org/10.1007/s11222-019-09898-6
+Paper URL: https://doi.org/10.1007/s11222-019-09898-6
 
 
 Work Details No: 4
 Paper title: Fréchet differentiable drift dependence of Perron–Frobenius and Koopman operators for non-deterministic dynamics
-DOI: http://dx.doi.org/10.1088/1361-6544/ab1f2a
+Paper URL: http://dx.doi.org/10.1088/1361-6544/ab1f2a
 
 
 Work Details No: 5
 Paper title: Erratum: Equivalence of weak and strong modes of measures on topological vector spaces (2018 Inverse Problems 34 115013)
-DOI: https://doi.org/10.1088/1361-6420/aae55b
+Paper URL: https://doi.org/10.1088/1361-6420/aae55b
 
 
 Work Details No: 6
 Paper title: Random forward models and log-likelihoods in Bayesian inverse problems
-DOI: https://epubs.siam.org/doi/abs/10.1137/18M1166523
+Paper URL: https://epubs.siam.org/doi/abs/10.1137/18M1166523
 
 
 Work Details No: 7
 Paper title: Equivalence of weak and strong modes of measures on topological vector spaces
-DOI: http://iopscience.iop.org/article/10.1088/1361-6420/aadef2
+Paper URL: http://iopscience.iop.org/article/10.1088/1361-6420/aadef2
 
 
 Work Details No: 8
 Paper title: Implicit Probabilistic Integrators for ODEs
-DOI: http://papers.nips.cc/paper/7955-implicit-probabilistic-integrators-for-odes.pdf
+Paper URL: http://papers.nips.cc/paper/7955-implicit-probabilistic-integrators-for-odes.pdf
 
 
 Work Details No: 9
 Paper title: Quasi-invariance of countable products of Cauchy measures under non-unitary dilations
-DOI: https://doi.org/10.1214/18-ECP113
+Paper URL: https://doi.org/10.1214/18-ECP113
 
 
 Work Details No: 10
 Paper title: Some connections between importance sampling and enhanced sampling methods in molecular dynamics
-DOI: https://doi.org/10.1063/1.4989495
+Paper URL: https://doi.org/10.1063/1.4989495
 
 
 Work Details No: 11
 Paper title: Towards breaking the curse of dimensionality in computational methods for the conformational analysis of molecules
-DOI: https://doi.org/10.1186/1471-2105-15-S3-A2
+Paper URL: https://doi.org/10.1186/1471-2105-15-S3-A2
 
 
 Work Details No: 12
 Paper title: A Square Root Approximation of Transition Rates for a Markov State Model
-DOI: https://doi.org/10.1137/120899959
+Paper URL: https://doi.org/10.1137/120899959
 
 
 Current Employee

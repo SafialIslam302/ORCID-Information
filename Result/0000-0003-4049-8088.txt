@@ -8,7 +8,7 @@ Number of Works: 1
 
 Work Details No: 1
 Paper title: Akzeptanz und Effekte der Digitalisierung in der Hochschulverwaltung
-DOI: https://doi.org/10.1365/s40702-021-00771-7
+Paper URL: https://doi.org/10.1365/s40702-021-00771-7
 
 
 Current Employee

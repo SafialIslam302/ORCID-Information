@@ -8,31 +8,31 @@ Number of Works: 6
 
 Work Details No: 1
 Paper title: Variational Bayesian Inference for Nonlinear Hawkes Process with Gaussian Process Self-Effects
-DOI: https://doi.org/10.3390/e24030356
+Paper URL: https://doi.org/10.3390/e24030356
 
 
 Work Details No: 2
 Paper title: A mathematical model of local and global attention in natural scene viewing
-DOI: https://journals.plos.org/ploscompbiol/article/authors?id=10.1371/journal.pcbi.1007880
+Paper URL: https://journals.plos.org/ploscompbiol/article/authors?id=10.1371/journal.pcbi.1007880
 
 
 Work Details No: 3
 Paper title: A Mathematical Model of Exploration and Exploitation in Natural Scene Viewing
-DOI: https://doi.org/10.1101/2020.04.16.044677
+Paper URL: https://doi.org/10.1101/2020.04.16.044677
 
 
 Work Details No: 4
 Paper title: A Mathematical Model of Exploration and Exploitation in Natural Scene Viewing
-
+No Paper URL found.
 
 
 Work Details No: 5
 Paper title: A separable two-dimensional random field model of binary response data from multi-day behavioral experiments
-DOI: https://www.sciencedirect.com/science/article/pii/S0165027018301092
+Paper URL: https://www.sciencedirect.com/science/article/pii/S0165027018301092
 
 
 Work Details No: 6
 Paper title: Estimating a Separably Markov Random Field from Binary Observations
-
+No Paper URL found.
 
 

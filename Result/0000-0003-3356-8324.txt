@@ -8,32 +8,32 @@ Number of Works: 6
 
 Work Details No: 1
 Paper title: A dynamical scan-path model for task-dependence during scene viewing.
-DOI: https://doi.org/10.1037/rev0000379
+Paper URL: https://doi.org/10.1037/rev0000379
 
 
 Work Details No: 2
 Paper title: Data assimilation in dynamical cognitive science
-DOI: https://doi.org/10.1016/j.tics.2021.11.006
+Paper URL: https://doi.org/10.1016/j.tics.2021.11.006
 
 
 Work Details No: 3
 Paper title: A mathematical model of local and global attention in natural scene viewing
-DOI: https://doi.org/10.1371/journal.pcbi.1007880
+Paper URL: https://doi.org/10.1371/journal.pcbi.1007880
 
 
 Work Details No: 4
 Paper title: Modeling the effects of perisaccadic attention on gaze statistics during scene viewing
-DOI: https://doi.org/10.1038/s42003-020-01429-8
+Paper URL: https://doi.org/10.1038/s42003-020-01429-8
 
 
 Work Details No: 5
 Paper title: A Mathematical Model of Exploration and Exploitation in Natural Scene Viewing
-DOI: https://doi.org/10.1101/2020.04.16.044677
+Paper URL: https://doi.org/10.1101/2020.04.16.044677
 
 
 Work Details No: 6
 Paper title: Modeling the effects of perisaccadic attention on gaze statistics during scene viewing
-DOI: https://doi.org/10.31234/osf.io/zcbny
+Paper URL: https://doi.org/10.31234/osf.io/zcbny
 
 
 Current Employee

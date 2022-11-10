@@ -8,12 +8,12 @@ Number of Works: 2
 
 Work Details No: 1
 Paper title: An explicit Dobrushin uniqueness region for Gibbs point processes with repulsive interactions
-DOI: https://doi.org/10.1017/jpr.2021.70
+Paper URL: https://doi.org/10.1017/jpr.2021.70
 
 
 Work Details No: 2
 Paper title: Marked Gibbs Point Processes with Unbounded Interaction: An Existence Result
-DOI: https://doi.org/10.1007/s10955-020-02559-3
+Paper URL: https://doi.org/10.1007/s10955-020-02559-3
 
 
 Current Employee

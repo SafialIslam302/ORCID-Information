@@ -1,8 +1,7 @@
 import restfull
 import json
-import ssl
 
-with open('input_file_1.txt') as f:
+with open('input_file.txt') as f:
     lines = [line.rstrip() for line in f]
 
 
@@ -13,6 +12,9 @@ for line in lines:
     employment_number = len(orcid_res.employments)
 
     file_name = "%s.txt" % line
+    
+    # Please make sure you create a Result folder. 
+    # The output will save in the Result folder
 
     output_file_name = "Result/" + file_name
 
@@ -40,12 +42,12 @@ for line in lines:
                         #doi_url = list(res_dct['external-id-url'].values())
                         doi_url = list(data.values())
                         output.writelines("Paper title: " + orcid_res.publications[i].title + "\n")
-                        output.writelines("DOI: " + doi_url[0])
+                        output.writelines("Paper URL: " + doi_url[0])
                         output.writelines("\n")
                     except (AttributeError, KeyError) as e:
                         #doi_value = res_dct['external-id-value']
                         output.writelines("Paper title: " + orcid_res.publications[i].title + "\n")
-                        #output.writelines("DOI: " + doi_value)
+                        output.writelines("No Paper URL found.")
                         output.writelines("\n")
             except (ValueError, KeyError) as e:
                 output.writelines("Paper title: " + orcid_res.publications[i].title)

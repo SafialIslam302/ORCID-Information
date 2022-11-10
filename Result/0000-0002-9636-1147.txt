@@ -8,96 +8,96 @@ Number of Works: 19
 
 Work Details No: 1
 Paper title: A continued learning approach for model‐informed precision dosing: updating models in clinical practice
-DOI: http://dx.doi.org/10.1002/psp4.12745
+Paper URL: http://dx.doi.org/10.1002/psp4.12745
 
 
 Work Details No: 2
 Paper title: Reconstructing the Dynamics of the Outer Electron Radiation Belt by Means of the Standard and Ensemble Kalman Filter With the VERB‐3D Code
-DOI: http://dx.doi.org/10.1029/2020sw002672
+Paper URL: http://dx.doi.org/10.1029/2020sw002672
 
 
 Work Details No: 3
 Paper title: Towards a Robust Detection of Interannual Ensemble Forecast Signals over the North Atlantic and Europe using Atmospheric Circulation Regimes
-DOI: http://dx.doi.org/10.31223/x5f026
+Paper URL: http://dx.doi.org/10.31223/x5f026
 
 
 Work Details No: 4
 Paper title: Reinforcement learning and Bayesian data assimilation for model‐informed precision dosing in oncology
-DOI: http://dx.doi.org/10.1002/psp4.12588
+Paper URL: http://dx.doi.org/10.1002/psp4.12588
 
 
 Work Details No: 5
 Paper title: Fast hybrid tempered ensemble transform filter formulation for Bayesian elliptical problems via Sinkhorn approximation
-DOI: http://dx.doi.org/10.5194/npg-28-23-2021
+Paper URL: http://dx.doi.org/10.5194/npg-28-23-2021
 
 
 Work Details No: 6
 Paper title: Randomized maximum likelihood based posterior sampling
-
+No Paper URL found.
 
 
 Work Details No: 7
 Paper title: Reconstructing regime-dependent causal relationships from observational time series
-DOI: https://doi.org/10.1063/5.0020538
+Paper URL: https://doi.org/10.1063/5.0020538
 
 
 Work Details No: 8
 Paper title: Analysis of a localised nonlinear ensemble Kalman Bucy filter with complete and accurate observations
-DOI: https://doi.org/10.1088/1361-6544/ab8d14
+Paper URL: https://doi.org/10.1088/1361-6544/ab8d14
 
 
 Work Details No: 9
 Paper title: Thermophysical modelling and parameter estimation of small Solar system bodies via data assimilation
-DOI: http://dx.doi.org/10.1093/mnras/staa1755
+Paper URL: http://dx.doi.org/10.1093/mnras/staa1755
 
 
 Work Details No: 10
 Paper title: Revisiting the identification of wintertime atmospheric circulation regimes in the Euro‐Atlantic sector
-DOI: http://dx.doi.org/10.1002/qj.3818
+Paper URL: http://dx.doi.org/10.1002/qj.3818
 
 
 Work Details No: 11
 Paper title: Bayesian Data Assimilation to Support Informed Decision Making in Individualized Chemotherapy
-DOI: http://dx.doi.org/10.1002/psp4.12492
+Paper URL: http://dx.doi.org/10.1002/psp4.12492
 
 
 Work Details No: 12
 Paper title: Ensemble Transform Algorithms for Nonlinear Smoothing Problems
-DOI: http://dx.doi.org/10.1137/19m1239544
+Paper URL: http://dx.doi.org/10.1137/19m1239544
 
 
 Work Details No: 13
 Paper title: Ensemble Transform Algorithms for Nonlinear Smoothing Problems
-DOI: https://doi.org/10.1137/19M1239544
+Paper URL: https://doi.org/10.1137/19M1239544
 
 
 Work Details No: 14
 Paper title: Kalman Filter and Its Modern Extensions for the Continuous-Time Nonlinear Filtering Problem
-DOI: http://dx.doi.org/10.1115/1.4037780
+Paper URL: http://dx.doi.org/10.1115/1.4037780
 
 
 Work Details No: 15
 Paper title: Long-Time Stability and Accuracy of the Ensemble Kalman--Bucy Filter for Fully Observed Processes and Small Measurement Noise
-DOI: http://dx.doi.org/10.1137/17m1119056
+Paper URL: http://dx.doi.org/10.1137/17m1119056
 
 
 Work Details No: 16
 Paper title: Interacting particle filters for simultaneous state and parameter estimation
-
+No Paper URL found.
 
 
 Work Details No: 17
 Paper title: Second-order Accurate Ensemble Transform Particle Filters
-DOI: http://dx.doi.org/10.1137/16m1095184
+Paper URL: http://dx.doi.org/10.1137/16m1095184
 
 
 Work Details No: 18
 Paper title: Discrete nonhomogeneous and nonstationary logistic and Markov regression models for spatiotemporal data with unresolved external influences
-DOI: http://dx.doi.org/10.2140/camcos.2014.9.1
+Paper URL: http://dx.doi.org/10.2140/camcos.2014.9.1
 
 
 Work Details No: 19
 Paper title: An Adaptive Markov Chain Monte Carlo Approach to Time Series Clustering of Processes with Regime Transition Behavior
-DOI: http://dx.doi.org/10.1137/120881981
+Paper URL: http://dx.doi.org/10.1137/120881981
 
 

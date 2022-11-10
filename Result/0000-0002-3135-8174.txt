@@ -8,16 +8,16 @@ Number of Works: 3
 
 Work Details No: 1
 Paper title: Early stopping for $ L^2 $-boosting in high-dimensional linear models
-DOI: https://arxiv.org/abs/2210.07850
+Paper URL: https://arxiv.org/abs/2210.07850
 
 
 Work Details No: 2
 Paper title: From inexact optimization to learning via gradient concentration
-DOI: http://dx.doi.org/10.1007/s10589-022-00408-5
+Paper URL: http://dx.doi.org/10.1007/s10589-022-00408-5
 
 
 Work Details No: 3
 Paper title: Smoothed residual stopping for statistical inverse problems via truncated SVD estimation
-DOI: https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-14/issue-2/Smoothed-residual-stopping-for-statistical-inverse-problems-via-truncated-SVD/10.1214/20-EJS1747.full?tab=ArticleLinkCited
+Paper URL: https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-14/issue-2/Smoothed-residual-stopping-for-statistical-inverse-problems-via-truncated-SVD/10.1214/20-EJS1747.full?tab=ArticleLinkCited
 
 
