@@ -5,7 +5,6 @@ Given Name: Matthias
 Number of Works: 120
 
 
-
 Work Details No: 1
 Paper title: Calculation of Confidence Intervals for the Maximum Magnitude of Earthquakes in Different Seismotectonic Zones of Iran
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-85013758100&partnerID=MN8TOARS
@@ -33,6 +32,7 @@ Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84954201236&partne
 
 Work Details No: 6
 Paper title: The flow at the Earth's core-mantle boundary under weak prior constraints
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84960433833&partnerID=MN8TOARS
 
 
 Work Details No: 7
@@ -142,6 +142,7 @@ Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84866530775&partne
 
 Work Details No: 28
 Paper title: Flexible Dataset Combination and Modelling by Domain Decomposition Approaches
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84884371225&partnerID=MN8TOARS
 
 
 Work Details No: 29
@@ -161,6 +162,7 @@ Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84880707512&partne
 
 Work Details No: 32
 Paper title: Stress- and aftershock-constrained joint inversions for coseismic and postseismic slip applied to the 2004 M6.0 Parkfield earthquake
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84864576358&partnerID=MN8TOARS
 
 
 Work Details No: 33
@@ -170,6 +172,7 @@ Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84860841396&partne
 
 Work Details No: 34
 Paper title: A multigrid solver for modeling complex interseismic stress fields
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-79960921763&partnerID=MN8TOARS
 
 
 Work Details No: 35
@@ -184,6 +187,7 @@ Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-79960281188&partne
 
 Work Details No: 37
 Paper title: Detection of trend changes in time series using Bayesian inference
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-80051612659&partnerID=MN8TOARS
 
 
 Work Details No: 38
@@ -278,10 +282,12 @@ Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-40849096276&partne
 
 Work Details No: 56
 Paper title: Modeling of wave dispersion using continuous wavelet transforms II: Wavelet-based frequency-velocity analysis
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-42549103291&partnerID=MN8TOARS
 
 
 Work Details No: 57
 Paper title: Recurrent large earthquakes in a fault region: What can be inferred from small and intermediate events?
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-63049110107&partnerID=MN8TOARS
 
 
 Work Details No: 58
@@ -331,6 +337,7 @@ Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-34250782109&partne
 
 Work Details No: 67
 Paper title: What drives high flow events in the Swiss Alps? Recent developments in wavelet spectral analysis and their application to hydrology
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-34748833473&partnerID=MN8TOARS
 
 
 Work Details No: 68
@@ -370,6 +377,7 @@ Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-17744370930&partne
 
 Work Details No: 75
 Paper title: Characterization of dispersive surface waves using continuous wavelet transforms
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-33745277116&partnerID=MN8TOARS
 
 
 Work Details No: 76
@@ -394,6 +402,7 @@ Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-30744473680&partne
 
 Work Details No: 80
 Paper title: The role of heterogeneities as a tuning parameter of earthquake dynamics
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-17744376849&partnerID=MN8TOARS
 
 
 Work Details No: 81
@@ -423,6 +432,7 @@ Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-0242298108&partner
 
 Work Details No: 86
 Paper title: Emergence of a band-limited power law in the aftershock decay rate of a slider-block model
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-0041911080&partnerID=MN8TOARS
 
 
 Work Details No: 87
@@ -482,6 +492,7 @@ Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-0032394001&partner
 
 Work Details No: 98
 Paper title: Wavelet analysis of the Chandler wobble
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-0032464089&partnerID=MN8TOARS
 
 
 Work Details No: 99
@@ -491,10 +502,12 @@ Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-0031173005&partner
 
 Work Details No: 100
 Paper title: On equivalent definitions of the correlation dimension for a probability measure
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-0031065037&partnerID=MN8TOARS
 
 
 Work Details No: 101
 Paper title: Some directional elliptic regularity for domains with cusps
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-77957156960&partnerID=MN8TOARS
 
 
 Work Details No: 102
@@ -504,6 +517,7 @@ Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-0000544826&partner
 
 Work Details No: 103
 Paper title: Continuous wavelet transforms on the sphere
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-0030504577&partnerID=MN8TOARS
 
 
 Work Details No: 104
@@ -528,6 +542,7 @@ Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-85011629801&partne
 
 Work Details No: 108
 Paper title: Functional calculus using wavelet transforms
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-36449009213&partnerID=MN8TOARS
 
 
 Work Details No: 109
@@ -537,10 +552,12 @@ Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-0028400695&partner
 
 Work Details No: 110
 Paper title: General inversion formulas for wavelet transforms
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-21144479930&partnerID=MN8TOARS
 
 
 Work Details No: 111
 Paper title: Localization properties of wavelet transforms
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-21144468165&partnerID=MN8TOARS
 
 
 Work Details No: 112
@@ -575,6 +592,7 @@ Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-34250085766&partne
 
 Work Details No: 118
 Paper title: Wavelet transform of multifractals
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-0000732455&partnerID=MN8TOARS
 
 
 Work Details No: 119

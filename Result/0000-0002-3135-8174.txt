@@ -5,7 +5,6 @@ Given Name: Bernhard
 Number of Works: 3
 
 
-
 Work Details No: 1
 Paper title: Early stopping for $ L^2 $-boosting in high-dimensional linear models
 Paper URL: https://arxiv.org/abs/2210.07850

@@ -2,995 +2,996 @@ ORCID: 0000-0002-9625-0834
 Family Name: Shprits
 Given Name: Yuri
 
-Number of Works: 198
-
+Number of Works: 200
 
 
 Work Details No: 1
+Paper title: Storm-Time Relative Total Electron Content Modelling Using Machine Learning Techniques
+Paper URL: https://doi.org/10.3390/rs14236155
+
+
+Work Details No: 2
+Paper title: Forecast of the Energetic Electron Environment of the Radiation Belts
+Paper URL: https://doi.org/10.1029/2022SW003124
+
+
+Work Details No: 3
 Paper title: Study of the Average Ion Mass of the Dayside Magnetospheric Plasma
 Paper URL: https://doi.org/10.1029/2022JA030605
 
 
-Work Details No: 2
+Work Details No: 4
 Paper title: An Empirical Model of the Equatorial Electron Pitch Angle Distributions in Earth's Outer Radiation Belt
 Paper URL: https://doi.org/10.1029/2022SW003053
 
 
-Work Details No: 3
+Work Details No: 5
 Paper title: Geomagnetic Activity Index Hpo
 Paper URL: https://doi.org/10.1029/2022GL098860
 
 
-Work Details No: 4
+Work Details No: 6
 Paper title: Identification of Coronal Holes on AIA/SDO Images Using Unsupervised Machine Learning
 Paper URL: https://doi.org/10.3847/1538-4357/ac5f43
 
 
-Work Details No: 5
+Work Details No: 7
 Paper title: A New Population of Ultra‐Relativistic Electrons in the Outer Radiation Zone
 Paper URL: https://doi.org/10.1029/2021JA030214
 
 
-Work Details No: 6
+Work Details No: 8
 Paper title: NARX Neural Network Derivations of the Outer Boundary Radiation Belt Electron Flux
 Paper URL: https://doi.org/10.1029/2021SW002774
 
 
-Work Details No: 7
+Work Details No: 9
 Paper title: Depletions of Multi‐MeV Electrons and Their Association to Minima in Phase Space Density
 Paper URL: https://doi.org/10.1029/2021GL097620
 
 
-Work Details No: 8
+Work Details No: 10
 Paper title: Passing the Alfven Layer by Means of Chorus Acceleration
 Paper URL: https://doi.org/10.1002/essoar.10510991.1
 
 
-Work Details No: 9
+Work Details No: 11
 Paper title: Acceleration of Electrons by Whistler‐Mode Hiss Waves at Saturn
 Paper URL: https://doi.org/10.1029/2021GL096213
 
 
-Work Details No: 10
+Work Details No: 12
 Paper title: Losses of Radiation Belt Energetic Particles by Encounters With Four of the Inner Moons of Jupiter
 Paper URL: https://doi.org/10.1029/2021JE007050
 
 
-Work Details No: 11
+Work Details No: 13
 Paper title: Depletions of multi-MeV Electrons and Their Association to Minima in Phase Space Density
 Paper URL: https://doi.org/10.1002/essoar.10510085.1
 
 
-Work Details No: 12
+Work Details No: 14
 Paper title: Identification of Controlling Geomagnetic and Solar Wind Factors for Magnetospheric Chorus Intensity Using Feature Selection Techniques
 Paper URL: https://doi.org/10.1029/2021JA029926
 
 
-Work Details No: 13
+Work Details No: 15
 Paper title: Intercalibration of the Plasma Density Measurements in Earth's Topside Ionosphere
 Paper URL: https://doi.org/10.1029/2021JA029334
 
 
-Work Details No: 14
+Work Details No: 16
 Paper title: Reconstructing the Dynamics of the Outer Electron Radiation Belt by Means of the Standard and Ensemble Kalman Filter With the VERB‐3D Code
 Paper URL: https://doi.org/10.1029/2020SW002672
 
 
-Work Details No: 15
+Work Details No: 17
 Paper title: Beating 1 Sievert: Optimal Radiation Shielding of Astronauts on a Mission to Mars
 Paper URL: https://doi.org/10.1029/2021SW002749
 
 
-Work Details No: 16
+Work Details No: 18
 Paper title: Interplanetary Shock‐Induced Magnetopause Motion: Comparison Between Theory and Global Magnetohydrodynamic Simulations
 Paper URL: https://doi.org/10.1029/2021GL092554
 
 
-Work Details No: 17
+Work Details No: 19
 Paper title: A Comparison of Radial Diffusion Coefficients in 1‐D and 3‐D Long‐Term Radiation Belt Simulations
 Paper URL: https://doi.org/10.1029/2020JA028707
 
 
-Work Details No: 18
+Work Details No: 20
 Paper title: Preliminary Statistical Comparisons of Spin‐Averaged Electron Data From Arase and Van Allen Probes Instruments
 Paper URL: https://doi.org/10.1029/2020JA028929
 
 
-Work Details No: 19
+Work Details No: 21
 Paper title: Comparing 1-year GUMICS-4 simulations of the Terrestrial Magnetosphere with Cluster Measurements
 Paper URL: https://doi.org/10.1002/essoar.10507311.1
 
 
-Work Details No: 20
+Work Details No: 22
 Paper title: Spectrum of kinetic plasma turbulence at 0.3–0.9 astronomical units from the Sun
 Paper URL: https://doi.org/10.1103/PhysRevE.103.063202
 
 
-Work Details No: 21
+Work Details No: 23
 Paper title: A Comparison of the Location of the Mid‐Latitude Trough and Plasmapause Boundary
 Paper URL: https://doi.org/10.1029/2020JA028213
 
 
-Work Details No: 22
+Work Details No: 24
 Paper title: Gyroresonant wave-particle interactions with chorus waves during extreme depletions of plasma density in the Van Allen radiation belts
 Paper URL: https://doi.org/10.1126/sciadv.abc0380
 
 
-Work Details No: 23
+Work Details No: 25
 Paper title: Reconstructing the dynamics of the outer electron radiation belt by means of the standard and ensemble Kalman filter with the VERB-3D code
 Paper URL: https://doi.org/10.1002/essoar.10504674.1
 
 
-Work Details No: 24
+Work Details No: 26
 Paper title: Medium Energy Electron Flux in Earth's Outer Radiation Belt (MERLIN): A Machine Learning Model
 Paper URL: https://doi.org/10.1029/2020SW002532
 
 
-Work Details No: 25
+Work Details No: 27
 Paper title: A Comparison of Radial Diffusion Coefficients in 1-D and 3-D Long-Term Radiation Belt Simulations
 Paper URL: https://doi.org/10.1002/essoar.10504480.1
 
 
-Work Details No: 26
+Work Details No: 28
 Paper title: Effects of Polarization Reversal on the Pitch Angle Scattering of Radiation Belt Electrons and Ring Current Protons by EMIC Waves
 Paper URL: https://doi.org/10.1029/2020GL089718
 
 
-Work Details No: 27
+Work Details No: 29
 Paper title: The Role of Hiss, Chorus, and EMIC Waves in the Modeling of the Dynamics of the Multi‐MeV Radiation Belt Electrons
 Paper URL: https://doi.org/10.1029/2020JA028282
 
 
-Work Details No: 28
+Work Details No: 30
 Paper title: Quantifying the Effects of EMIC Wave Scattering and Magnetopause Shadowing in the Outer Electron Radiation Belt by Means of Data Assimilation
 Paper URL: https://doi.org/10.1029/2020JA028208
 
 
-Work Details No: 29
+Work Details No: 31
 Paper title: Quantifying the effects of EMIC wave scattering and magnetopause shadowing in the outer electron radiation belt by means of data assimilation
 Paper URL: https://doi.org/10.1002/essoar.10503131.1
 
 
-Work Details No: 30
+Work Details No: 32
 Paper title: An artificial neural network model of electron fluxes in the Earth’s central plasma sheet: a THEMIS survey
 Paper URL: https://doi.org/10.1007/s10509-020-03819-0
 
 
-Work Details No: 31
+Work Details No: 33
 Paper title: Quantifying the Effect of Plasmaspheric Hiss on the Electron Loss From the Slot Region
 Paper URL: https://doi.org/10.1029/2019JA027555
 
 
-Work Details No: 32
+Work Details No: 34
 Paper title: Bayesian Inference of Quasi‐Linear Radial Diffusion Parameters using Van Allen Probes
 Paper URL: https://doi.org/10.1029/2019JA027618
 
 
-Work Details No: 33
+Work Details No: 35
 Paper title: The Effect of Plasma Boundaries on the Dynamic Evolution of Relativistic Radiation Belt Electrons
 Paper URL: https://doi.org/10.1029/2019JA027422
 
 
-Work Details No: 34
+Work Details No: 36
 Paper title: Adiabatic Invariants Calculations for Cluster Mission: A Long‐Term Product for Radiation Belts Studies
 Paper URL: https://doi.org/10.1029/2019JA027576
 
 
-Work Details No: 35
+Work Details No: 37
 Paper title: Storm Time Depletions of Multi‐MeV Radiation Belt Electrons Observed at Different Pitch Angles
 Paper URL: https://doi.org/10.1029/2019JA027332
 
 
-Work Details No: 36
+Work Details No: 38
 Paper title: Systematic Analysis of Machine Learning and Feature Selection Techniques for Prediction of the Kp Index
 Paper URL: https://doi.org/10.1029/2019SW002271
 
 
-Work Details No: 37
+Work Details No: 39
 Paper title: Space Radiation and Plasma Effects on Satellites and Aviation: Quantities and Metrics for Tracking Performance of Space Weather Environment Models
 Paper URL: https://doi.org/10.1029/2018SW002042
 
 
-Work Details No: 38
+Work Details No: 40
 Paper title: The Effect of Plasma Boundaries on the Dynamic Evolution of Relativistic Radiation Belt Electrons
 Paper URL: https://doi.org/10.1002/essoar.10501029.1
 
 
-Work Details No: 39
+Work Details No: 41
 Paper title: Storm-time depletions of multi-MeV radiation belt electrons observed at different pitch angles
 Paper URL: https://doi.org/10.1002/essoar.10501021.1
 
 
-Work Details No: 40
+Work Details No: 42
 Paper title: Nowcasting and Predicting the K p Index Using Historical Values and Real‐Time Observations
 Paper URL: https://doi.org/10.1029/2018SW002141
 
 
-Work Details No: 41
+Work Details No: 43
 Paper title: On How High‐Latitude Chorus Waves Tip the Balance Between Acceleration and Loss of Relativistic Electrons
 Paper URL: https://doi.org/10.1029/2019GL082681
 
 
-Work Details No: 42
+Work Details No: 44
 Paper title: Rapid Electron Acceleration in Low‐Density Regions of Saturn's Radiation Belt by Whistler Mode Chorus Waves
 Paper URL: https://doi.org/10.1029/2019GL083071
 
 
-Work Details No: 43
+Work Details No: 45
 Paper title: Pitch Angle Scattering of Sub‐MeV Relativistic Electrons by Electromagnetic Ion Cyclotron Waves
 Paper URL: https://doi.org/10.1029/2018JA026384
 
 
-Work Details No: 44
+Work Details No: 46
 Paper title: The System Science Development of Local Time‐Dependent 40‐keV Electron Flux Models for Geostationary Orbit
 Paper URL: https://doi.org/10.1029/2018SW002128
 
 
-Work Details No: 45
+Work Details No: 47
 Paper title: Investigating Loss of Relativistic Electrons Associated With EMIC Waves at Low L Values on 22 June 2015
 Paper URL: https://doi.org/10.1029/2018JA025726
 
 
-Work Details No: 46
+Work Details No: 48
 Paper title: Reanalysis of Ring Current Electron Phase Space Densities Using Van Allen Probe Observations, Convection Model, and Log‐Normal Kalman Filter
 Paper URL: https://doi.org/10.1029/2018SW002110
 
 
-Work Details No: 47
+Work Details No: 49
 Paper title: Electron Intensity Measurements by the Cluster/RAPID/IES Instrument in Earth's Radiation Belts and Ring Current
 Paper URL: https://doi.org/10.1029/2018SW001989
 
 
-Work Details No: 48
+Work Details No: 50
 Paper title: Modulation of Locally Generated Equatorial Noise by ULF Wave
 Paper URL: https://doi.org/10.1029/2018JA026199
 
 
-Work Details No: 49
+Work Details No: 51
 Paper title: Statistical Analysis of Hiss Waves in Plasmaspheric Plumes Using Van Allen Probe Observations
 Paper URL: https://doi.org/10.1029/2018JA026458
 
 
-Work Details No: 50
+Work Details No: 52
 Paper title: Analytical Chorus Wave Model Derived from Van Allen Probe Observations
 Paper URL: https://doi.org/10.1029/2018JA026183
 
 
-Work Details No: 51
+Work Details No: 53
 Paper title: Transport and Loss of Ring Current Electrons Inside Geosynchronous Orbit During the 17 March 2013 Storm
 Paper URL: https://doi.org/10.1029/2018JA026031
 
 
-Work Details No: 52
+Work Details No: 54
 Paper title: Sensitivity of EMIC Wave‐Driven Scattering Loss of Ring Current Protons to Wave Normal Angle Distribution
 Paper URL: https://doi.org/10.1029/2018GL081550
 
 
-Work Details No: 53
+Work Details No: 55
 Paper title: An Event on Simultaneous Amplification of Exohiss and Chorus Waves Associated With Electron Density Enhancements
 Paper URL: https://doi.org/10.1029/2017JA025023
 
 
-Work Details No: 54
+Work Details No: 56
 Paper title: Discussions on Stakeholder Requirements for Space Weather-Related Models
 Paper URL: https://doi.org/10.1002/2018SW001864
 
 
-Work Details No: 55
+Work Details No: 57
 Paper title: Summary of Stakeholder Inputs on Development of a Satellite Anomaly Database From the European Space Weather Week
 Paper URL: https://doi.org/10.1029/2018SW001823
 
 
-Work Details No: 56
+Work Details No: 58
 Paper title: Hot Plasma Effects on the Cyclotron-Resonant Pitch-Angle Scattering Rates of Radiation Belt Electrons Due to EMIC Waves
 Paper URL: https://doi.org/10.1002/2017GL076028
 
 
-Work Details No: 57
+Work Details No: 59
 Paper title: Survey of the Favorable Conditions for Magnetosonic Wave Excitation
 Paper URL: https://doi.org/10.1002/2017JA024865
 
 
-Work Details No: 58
+Work Details No: 60
 Paper title: Scientific Objectives of Electron Losses and Fields INvestigation Onboard Lomonosov Satellite
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-85039046935&partnerID=MN8TOARS
 
 
-Work Details No: 59
+Work Details No: 61
 Paper title: Bounce resonance scattering of radiation belt electrons by H<sup>+</sup>band EMIC waves
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-85013011566&partnerID=MN8TOARS
 
 
-Work Details No: 60
+Work Details No: 62
 Paper title: Dependence of radiation belt simulations to assumed radial diffusion rates tested for two empirical models of radial transport
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-85012935685&partnerID=MN8TOARS
 
 
-Work Details No: 61
+Work Details No: 63
 Paper title: Dependence of the amplitude of magnetosonic waves on the solar wind and AE index using Van Allen Probes
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-85020161113&partnerID=MN8TOARS
 
 
-Work Details No: 62
+Work Details No: 64
 Paper title: Does Spacecraft Potential Depend on the Ambient Electron Density?
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-85032356097&partnerID=MN8TOARS
 
 
-Work Details No: 63
+Work Details No: 65
 Paper title: EMIC wave parameterization in the long-term VERB code simulation
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-85029911313&partnerID=MN8TOARS
 
 
-Work Details No: 64
+Work Details No: 66
 Paper title: Editorial: Topical Collection on the Lomonosov Mission
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-85027114459&partnerID=MN8TOARS
 
 
-Work Details No: 65
+Work Details No: 67
 Paper title: Empirical Modeling of the Plasmasphere Dynamics Using Neural Networks
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-85033789308&partnerID=MN8TOARS
 
 
-Work Details No: 66
+Work Details No: 68
 Paper title: Forecasting Kp from solar wind data: Input parameter study using 3-hour averages and 3-hour range values
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-85036498441&partnerID=MN8TOARS
 
 
-Work Details No: 67
+Work Details No: 69
 Paper title: Impact of space weather on the satellite industry
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-85021344255&partnerID=MN8TOARS
 
 
-Work Details No: 68
+Work Details No: 70
 Paper title: Inner magnetosphere coupling: Recent advances
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-85010903547&partnerID=MN8TOARS
 
 
-Work Details No: 69
+Work Details No: 71
 Paper title: Interactions between energetic electrons and realistic whistler mode waves in the Jovian magnetosphere
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-85019549987&partnerID=MN8TOARS
 
 
-Work Details No: 70
+Work Details No: 72
 Paper title: Is the Dst Index Sufficient to Define All Geospace Storms?
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-85032983809&partnerID=MN8TOARS
 
 
-Work Details No: 71
+Work Details No: 73
 Paper title: Multi-MeV electron loss in the heart of the radiation belts
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-85012053889&partnerID=MN8TOARS
 
 
-Work Details No: 72
+Work Details No: 74
 Paper title: Scattering of Ultra-relativistic Electrons in the Van Allen Radiation Belts Accounting for Hot Plasma Effects
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-85038569605&partnerID=MN8TOARS
 
 
-Work Details No: 73
+Work Details No: 75
 Paper title: Signatures of Ultrarelativistic Electron Loss in the Heart of the Outer Radiation Belt Measured by Van Allen Probes
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-85034754495&partnerID=MN8TOARS
 
 
-Work Details No: 74
+Work Details No: 76
 Paper title: “Lomonosov” Satellite—Space Observatory to Study Extreme Phenomena in Space
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-85032221501&partnerID=MN8TOARS
 
 
-Work Details No: 75
+Work Details No: 77
 Paper title: Automated determination of electron density from electric field measurements on the Van Allen Probes spacecraft
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84971222779&partnerID=MN8TOARS
 
 
-Work Details No: 76
+Work Details No: 78
 Paper title: Contamination in electron observations of the silicon detector on board Cluster/RAPID/IES instrument in Earth's radiation belts and ring current
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84977134560&partnerID=MN8TOARS
 
 
-Work Details No: 77
+Work Details No: 79
 Paper title: Dynamic responses of the Earth's radiation belts during periods of solar wind dynamic pressure pulse based on normalized superposed epoch analysis
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84987935132&partnerID=MN8TOARS
 
 
-Work Details No: 78
+Work Details No: 80
 Paper title: Estimation of bounce resonant scattering by fast magnetosonic waves
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84959421400&partnerID=MN8TOARS
 
 
-Work Details No: 79
+Work Details No: 81
 Paper title: Fast injection of the relativistic electrons into the inner zone and the formation of the split-zone structure during the Bastille Day storm in July 2000
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84988637611&partnerID=MN8TOARS
 
 
-Work Details No: 80
+Work Details No: 82
 Paper title: New global loss model of energetic and relativistic electrons based on Van Allen Probes measurements
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84975729834&partnerID=MN8TOARS
 
 
-Work Details No: 81
+Work Details No: 83
 Paper title: Numerical applications of the advective-diffusive codes for the inner magnetosphere
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-85002196317&partnerID=MN8TOARS
 
 
-Work Details No: 82
+Work Details No: 84
 Paper title: On the propagation of uncertainties in radiation belt simulations
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84996590144&partnerID=MN8TOARS
 
 
-Work Details No: 83
+Work Details No: 85
 Paper title: On the time needed to reach an equilibrium structure of the radiation belts
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84987788613&partnerID=MN8TOARS
 
 
-Work Details No: 84
+Work Details No: 86
 Paper title: Scattering of relativistic and ultra-relativistic electrons by obliquely propagating Electromagnetic Ion Cyclotron waves
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84982131428&partnerID=MN8TOARS
 
 
-Work Details No: 85
+Work Details No: 87
 Paper title: Statistical properties of the radiation belt seed population
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84981710149&partnerID=MN8TOARS
 
 
-Work Details No: 86
+Work Details No: 88
 Paper title: Survey of whistler mode chorus intensity at Jupiter
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84991628415&partnerID=MN8TOARS
 
 
-Work Details No: 87
+Work Details No: 89
 Paper title: Wave-induced loss of ultra-relativistic electrons in the Van Allen radiation belts
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84989244110&partnerID=MN8TOARS
 
 
-Work Details No: 88
+Work Details No: 90
 Paper title: Characterization of the energy-dependent response of riometer absorption
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84982756031&partnerID=MN8TOARS
 
 
-Work Details No: 89
+Work Details No: 91
 Paper title: Combined convective and diffusive simulations: VERB-4D comparison with 17 March 2013 Van Allen Probes observations
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84956892506&partnerID=MN8TOARS
 
 
-Work Details No: 90
+Work Details No: 92
 Paper title: Comparison of simulated and observed trapped and precipitating electron fluxes during a magnetic storm
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84946593101&partnerID=MN8TOARS
 
 
-Work Details No: 91
+Work Details No: 93
 Paper title: Dependence of plasmaspheric hiss on solar wind parameters and geomagnetic activity and modeling of its global distribution
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-85027924081&partnerID=MN8TOARS
 
 
-Work Details No: 92
+Work Details No: 94
 Paper title: Energetic, relativistic, and ultrarelativistic electrons: Comparison of long-term VERB code simulations with Van Allen Probes measurements
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-85027947079&partnerID=MN8TOARS
 
 
-Work Details No: 93
+Work Details No: 95
 Paper title: Global and Comprehensive Analysis of the Inner Magnetosphere as a Coupled System: Physical Understanding and Applications
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84945201169&partnerID=MN8TOARS
 
 
-Work Details No: 94
+Work Details No: 96
 Paper title: Global empirical models of plasmaspheric hiss using Van Allen Probes
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84956918881&partnerID=MN8TOARS
 
 
-Work Details No: 95
+Work Details No: 97
 Paper title: Observations of discrete harmonics emerging from equatorial noise
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84937033580&partnerID=MN8TOARS
 
 
-Work Details No: 96
+Work Details No: 98
 Paper title: Survey of Saturn Z-mode emission
-Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84942553562&partnerID=MN8TOARS
 
 
-Work Details No: 97
+Work Details No: 99
 Paper title: Activity-dependent global model of electron loss inside the plasmasphere
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84902039262&partnerID=MN8TOARS
 
 
-Work Details No: 98
+Work Details No: 100
 Paper title: Circulation of Heavy Ions and Their Dynamical Effects in the Magnetosphere: Recent Observations and Models
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84911961550&partnerID=MN8TOARS
 
 
-Work Details No: 99
+Work Details No: 101
 Paper title: Controlled precipitation of energetic Van Allen belt protons by electromagnetic ion cyclotron (EMIC) waves
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84904163134&partnerID=MN8TOARS
 
 
-Work Details No: 100
+Work Details No: 102
 Paper title: Effect of EMIC waves on relativistic and ultrarelativistic electron populations: Ground-based and Van Allen Probes observations
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84895120046&partnerID=MN8TOARS
 
 
-Work Details No: 101
+Work Details No: 103
 Paper title: Erratum to Space Experiments aboard the Lomonosov MSU Satellite (Cosmic Research, (2013), 51 6 (427))
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84901744958&partnerID=MN8TOARS
 
 
-Work Details No: 102
+Work Details No: 104
 Paper title: Gradual diffusion and punctuated phase space density enhancements of highly relativistic electrons: Van Allen Probes observations
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84894838174&partnerID=MN8TOARS
 
 
-Work Details No: 103
+Work Details No: 105
 Paper title: Model of lifetimes of the outer radiation belt electrons in a realistic magnetic field using realistic chorus wave parameters
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84911042475&partnerID=MN8TOARS
 
 
-Work Details No: 104
+Work Details No: 106
 Paper title: Noise statistics identification for Kalman filtering of the electron radiation belt observations I: Model errors
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84906324836&partnerID=MN8TOARS
 
 
-Work Details No: 105
+Work Details No: 107
 Paper title: Noise statistics identification for Kalman filtering of the electron radiation belt observations: 2. Filtration and smoothing
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84906302950&partnerID=MN8TOARS
 
 
-Work Details No: 106
+Work Details No: 108
 Paper title: Prompt energization of relativistic and highly relativistic electrons during a substorm interval: Van Allen Probes observations
-Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84896691722&partnerID=MN8TOARS
 
 
-Work Details No: 107
+Work Details No: 109
 Paper title: Reconstruction of gaps in the past history of solar wind parameters
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84899039411&partnerID=MN8TOARS
 
 
-Work Details No: 108
+Work Details No: 110
 Paper title: Saturn chorus latitudinal variations
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84904669000&partnerID=MN8TOARS
 
 
-Work Details No: 109
+Work Details No: 111
 Paper title: Simulation of high-energy radiation belt electron fluxes using NARMAX-VERB coupled codes
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84925348422&partnerID=MN8TOARS
 
 
-Work Details No: 110
+Work Details No: 112
 Paper title: Survey analysis of chorus intensity at Saturn
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84925308743&partnerID=MN8TOARS
 
 
-Work Details No: 111
+Work Details No: 113
 Paper title: The origin of Jupiter's outer radiation belt
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84902475207&partnerID=MN8TOARS
 
 
-Work Details No: 112
+Work Details No: 114
 Paper title: Three-dimensional data assimilation and reanalysis of radiation belt electrons: Observations of a four-zone structure using five spacecraft and the VERB code
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84920135268&partnerID=MN8TOARS
 
 
-Work Details No: 113
+Work Details No: 115
 Paper title: A Geosynchronous Radiation-belt electron empirical prediction (GREEP) model
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84883712977&partnerID=MN8TOARS
 
 
-Work Details No: 114
+Work Details No: 116
 Paper title: An improved dispersion relation for parallel propagating electromagnetic waves in warm plasmas: Application to electron scattering
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84883057744&partnerID=MN8TOARS
 
 
-Work Details No: 115
+Work Details No: 117
 Paper title: Application of a new data operator-splitting data assimilation technique to the 3-D VERB diffusion code and CRRES measurements
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84884857766&partnerID=MN8TOARS
 
 
-Work Details No: 116
+Work Details No: 118
 Paper title: Chorus functional dependencies derived from CRRES data
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84880874737&partnerID=MN8TOARS
 
 
-Work Details No: 117
+Work Details No: 119
 Paper title: Dispersion relation of electromagnetic ion cyclotron waves using Cluster observations
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84883157104&partnerID=MN8TOARS
 
 
-Work Details No: 118
+Work Details No: 120
 Paper title: Electron acceleration at Jupiter: Input from cyclotron-resonant interaction with whistler-mode chorus waves
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84885139934&partnerID=MN8TOARS
 
 
-Work Details No: 119
+Work Details No: 121
 Paper title: Empirically modeled global distribution of magnetospheric chorus amplitude using an artificial neural network
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84889257331&partnerID=MN8TOARS
 
 
-Work Details No: 120
+Work Details No: 122
 Paper title: Erratum: Resonant scattering of plasma sheet electrons leading to diffuse auroral precipitation: 1. Evaluation for electrostatic electron cyclotron harmonic waves, "resonant scattering of plasma sheet electrons leading to diffuse auroral precipitation (Journal of Geophysical Research A: Space Physics 118 (839-842) DOI:10.1002/jgra.50154)
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84880056735&partnerID=MN8TOARS
 
 
-Work Details No: 121
+Work Details No: 123
 Paper title: Gyro-resonant scattering of radiation belt electrons during the solar minimum by fast magnetosonic waves
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84879892585&partnerID=MN8TOARS
 
 
-Work Details No: 122
+Work Details No: 124
 Paper title: Long-term relativistic radiation belt electron responses to GEM magnetic storms
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84878526625&partnerID=MN8TOARS
 
 
-Work Details No: 123
+Work Details No: 125
 Paper title: Mechanisms for the Acceleration of Radiation Belt Electrons
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84952768848&partnerID=MN8TOARS
 
 
-Work Details No: 124
+Work Details No: 126
 Paper title: On the storm-time evolution of relativistic electron phase space density in Earth's outer radiation belt
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84882778166&partnerID=MN8TOARS
 
 
-Work Details No: 125
+Work Details No: 127
 Paper title: Responses of Earth's radiation belts to solar wind dynamic pressure variations in 2002 analyzed using multisatellite data and Kalman filtering
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84882741542&partnerID=MN8TOARS
 
 
-Work Details No: 126
+Work Details No: 128
 Paper title: Scattering rates of inner belt protons by EMIC waves: A comparison between test particle and diffusion simulations
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84883866484&partnerID=MN8TOARS
 
 
-Work Details No: 127
+Work Details No: 129
 Paper title: Space experiments aboard the Lomonosov MSU satellite
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84888409959&partnerID=MN8TOARS
 
 
-Work Details No: 128
+Work Details No: 130
 Paper title: Space experiments on-board of lomonosov mission to study gamma-ray bursts and UHECRS
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84887115723&partnerID=MN8TOARS
 
 
-Work Details No: 129
+Work Details No: 131
 Paper title: The Influence of Wave-Particle Interactions on Relativistic Electron Dynamics During Storms
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84953385396&partnerID=MN8TOARS
 
 
-Work Details No: 130
+Work Details No: 132
 Paper title: The spectral extent of chorus in the off-equatorial magnetosphere
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84880735317&partnerID=MN8TOARS
 
 
-Work Details No: 131
+Work Details No: 133
 Paper title: Transport of the plasma sheet electrons to the geostationary distances
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84878303726&partnerID=MN8TOARS
 
 
-Work Details No: 132
+Work Details No: 134
 Paper title: Unusual stable trapping of the ultrarelativistic electrons in the Van Allen radiation belts
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84887245674&partnerID=MN8TOARS
 
 
-Work Details No: 133
+Work Details No: 135
 Paper title: Bounce-averaged diffusion coefficients due to resonant interaction of the outer radiation belt electrons with oblique chorus waves computed in a realistic magnetic field model
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84864034070&partnerID=MN8TOARS
 
 
-Work Details No: 134
+Work Details No: 136
 Paper title: Chorus, ECH, and Z mode emissions observed at Jupiter and Saturn and possible electron acceleration
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84871451084&partnerID=MN8TOARS
 
 
-Work Details No: 135
+Work Details No: 137
 Paper title: Erratum: Correction to "Parameterized lifetime of radiation belt electrons interacting with lower-band and upper-band oblique chorus wave" (Geophysical Research Letters (2012) 39 (L15102) DOI: 10.1029/2012GL052519)
-Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84866265717&partnerID=MN8TOARS
 
 
-Work Details No: 136
+Work Details No: 138
 Paper title: Explaining sudden losses of outer radiation belt electrons during geomagnetic storms
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84857708542&partnerID=MN8TOARS
 
 
-Work Details No: 137
+Work Details No: 139
 Paper title: Gyroresonant interactions between the radiation belt electrons and whistler mode chorus waves in the radiation environments of Earth, Jupiter, and Saturn: A comparative study
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84870436470&partnerID=MN8TOARS
 
 
-Work Details No: 138
+Work Details No: 140
 Paper title: Off-equatorial chorus occurrence and wave amplitude distributions as observed by the Polar Plasma Wave Instrument
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84859581056&partnerID=MN8TOARS
 
 
-Work Details No: 139
+Work Details No: 141
 Paper title: On the influence of solar wind conditions on the outer-electron radiation belt
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84861163355&partnerID=MN8TOARS
 
 
-Work Details No: 140
+Work Details No: 142
 Paper title: Parameterized lifetime of radiation belt electrons interacting with lower-band and upper-band oblique chorus waves
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84864645125&partnerID=MN8TOARS
 
 
-Work Details No: 141
+Work Details No: 143
 Paper title: Progress in understanding the inner magnetosphere
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84866289988&partnerID=MN8TOARS
 
 
-Work Details No: 142
+Work Details No: 144
 Paper title: Radial distributions of equatorial phase space density for outer radiation belt electrons
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84861155999&partnerID=MN8TOARS
 
 
-Work Details No: 143
+Work Details No: 145
 Paper title: Radial gradients of phase space density in the inner electron radiation
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84871027446&partnerID=MN8TOARS
 
 
-Work Details No: 144
+Work Details No: 146
 Paper title: Relativistic radiation belt electron responses to GEM magnetic storms: Comparison of CRRES observations with 3-D VERB simulations
-Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84865778100&partnerID=MN8TOARS
 
 
-Work Details No: 145
+Work Details No: 147
 Paper title: Statistical analysis of phase space density buildups and dropouts
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84856533807&partnerID=MN8TOARS
 
 
-Work Details No: 146
+Work Details No: 148
 Paper title: Three-dimensional radiation belt simulations in terms of adiabatic invariants using a single numerical grid
-Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-84861312438&partnerID=MN8TOARS
 
 
-Work Details No: 147
+Work Details No: 149
 Paper title: Analysis of radiation belt energetic electron phase space density using THEMIS SST measurements: Cross-satellite calibration and a case study
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-79952758760&partnerID=MN8TOARS
 
 
-Work Details No: 148
+Work Details No: 150
 Paper title: Chorus probability and wave power distributions as observed by the Polar Plasma Wave Instrument
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-81255143322&partnerID=MN8TOARS
 
 
-Work Details No: 149
+Work Details No: 151
 Paper title: Chorus-driven resonant scattering of diffuse auroral electrons in nondipolar magnetic fields
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-79960119724&partnerID=MN8TOARS
 
 
-Work Details No: 150
+Work Details No: 152
 Paper title: Diffuse auroral scattering by whistler mode chorus waves: Dependence on wave normal angle distribution
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-80053945820&partnerID=MN8TOARS
 
 
-Work Details No: 151
+Work Details No: 153
 Paper title: Electron flux changes in the outer radiation belt by radial diffusion during the storm recovery phase in comparison with the fully adiabatic evolution
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-80053357372&partnerID=MN8TOARS
 
 
-Work Details No: 152
+Work Details No: 154
 Paper title: Importance of plasma injection events for energization of relativistic electrons in the Jovian magnetosphere
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-78751535187&partnerID=MN8TOARS
 
 
-Work Details No: 153
+Work Details No: 155
 Paper title: Locations of boundaries of outer and inner radiation belts as observed by Cluster and Double Star
-Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-80053472182&partnerID=MN8TOARS
 
 
-Work Details No: 154
+Work Details No: 156
 Paper title: Lognormal Kalman filter for assimilating phase space density data in the radiation belts
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-82955189775&partnerID=MN8TOARS
 
 
-Work Details No: 155
+Work Details No: 157
 Paper title: Long-term radiation belt simulation with the VERB 3-D code: Comparison with CRRES observations
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-83455219852&partnerID=MN8TOARS
 
 
-Work Details No: 156
+Work Details No: 158
 Paper title: On the bounce-averaging of scattering rates and the calculation of bounce period
+Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-80053554853&partnerID=MN8TOARS
 
 
-Work Details No: 157
+Work Details No: 159
 Paper title: On the latitudinal extent of chorus emissions as observed by the Polar Plasma Wave Instrument
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-79954517119&partnerID=MN8TOARS
 
 
-Work Details No: 158
+Work Details No: 160
 Paper title: Profound change of the near-Earth radiation environment caused by solar superstorms
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-80052306672&partnerID=MN8TOARS
 
 
-Work Details No: 159
+Work Details No: 161
 Paper title: Reanalysis of radiation belt electron phase space density using various boundary conditions and loss models
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-80052273925&partnerID=MN8TOARS
 
 
-Work Details No: 160
+Work Details No: 162
 Paper title: Resonant scattering of plasma sheet electrons leading to diffuse auroral precipitation: 2. Evaluation for whistler mode chorus waves
-Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-79955055737&partnerID=MN8TOARS
 
 
-Work Details No: 161
+Work Details No: 163
 Paper title: Simulation of the acceleration of relativistic electrons in the inner magnetosphere using RCM-VERB coupled codes
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-80051658449&partnerID=MN8TOARS
 
 
-Work Details No: 162
+Work Details No: 164
 Paper title: Statistical analysis of pitch angle distribution of radiation belt energetic electrons near the geostationary orbit: CRRES observations
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-79251630549&partnerID=MN8TOARS
 
 
-Work Details No: 163
+Work Details No: 165
 Paper title: Typical properties of rising and falling tone chorus waves
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-79960817646&partnerID=MN8TOARS
 
 
-Work Details No: 164
+Work Details No: 166
 Paper title: Understanding the dynamic evolution of the relativistic electron slot region including radial and pitch angle diffusion
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-80055024860&partnerID=MN8TOARS
 
 
-Work Details No: 165
+Work Details No: 167
 Paper title: Dynamic modeling of radiation belt electrons by radial diffusion simulation for a 2 month interval following the 24 March 1991 storm injection
-Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-77949456638&partnerID=MN8TOARS
 
 
-Work Details No: 166
+Work Details No: 168
 Paper title: Estimation of radial gradients of phase space density from POLAR observations during a quiet period prior to a sudden solar wind dynamic pressure enhancement
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-78650891892&partnerID=MN8TOARS
 
 
-Work Details No: 167
+Work Details No: 169
 Paper title: Gap filling of solar wind data by singular spectrum analysis
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-77955477196&partnerID=MN8TOARS
 
 
-Work Details No: 168
+Work Details No: 170
 Paper title: Rapid scattering of radiation belt electrons by storm-time EMIC waves
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-77952171351&partnerID=MN8TOARS
 
 
-Work Details No: 169
+Work Details No: 171
 Paper title: Dependence of the quasi-linear scattering rates on the wave normal distribution of chorus waves
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-72149119450&partnerID=MN8TOARS
 
 
-Work Details No: 170
+Work Details No: 172
 Paper title: Estimates of lifetimes against pitch angle diffusion
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-67649089307&partnerID=MN8TOARS
 
 
-Work Details No: 171
+Work Details No: 173
 Paper title: Evolution of electron fluxes in the outer radiation belt computed with the VERB code
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-72149124771&partnerID=MN8TOARS
 
 
-Work Details No: 172
+Work Details No: 174
 Paper title: Potential waves for pitch-angle scattering of near-equatorially mirroring energetic electrons due to the violation of the second adiabatic invariant
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-68749087131&partnerID=MN8TOARS
 
 
-Work Details No: 173
+Work Details No: 175
 Paper title: Reanalyses of the radiation belt electron phase space density using nearly equatorial CRRES and polar-orbiting Akebono satellite observations
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-68749103659&partnerID=MN8TOARS
 
 
-Work Details No: 174
+Work Details No: 176
 Paper title: Reanalysis of relativistic radiation belt electron phase space density using multisatellite observations: Sensitivity to empirical magnetic field models
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-72049100694&partnerID=MN8TOARS
 
 
-Work Details No: 175
+Work Details No: 177
 Paper title: Simulations of pitch angle scattering of relativistic electrons with MLT-dependent diffusion coefficients
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-67649086107&partnerID=MN8TOARS
 
 
-Work Details No: 176
+Work Details No: 178
 Paper title: Three-dimensional modeling of the radiation belts using the versatile electron radiation belt (verb) code
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-70350158351&partnerID=MN8TOARS
 
 
-Work Details No: 177
+Work Details No: 179
 Paper title: Coupling process in the inner magnetosphere
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-58849136224&partnerID=MN8TOARS
 
 
-Work Details No: 178
+Work Details No: 180
 Paper title: Eigenmode analysis of pitch-angle diffusion of energetic electrons in the outer zone
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-55549126442&partnerID=MN8TOARS
 
 
-Work Details No: 179
+Work Details No: 181
 Paper title: Evaluation of whistler mode chorus amplification during an injection event observed on CRRES
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-56749173643&partnerID=MN8TOARS
 
 
-Work Details No: 180
+Work Details No: 182
 Paper title: Gyro-resonant electron acceleration at Jupiter
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-41549143626&partnerID=MN8TOARS
 
 
-Work Details No: 181
+Work Details No: 183
 Paper title: Progress in understanding Earth's radiation belts
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-57749096950&partnerID=MN8TOARS
 
 
-Work Details No: 182
+Work Details No: 184
 Paper title: Resonant scattering of plasma sheet electrons by whistler-mode chorus: Contribution to diffuse auroral precipitation
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-49849092297&partnerID=MN8TOARS
 
 
-Work Details No: 183
+Work Details No: 185
 Paper title: Review of modeling of losses and sources of relativistic electrons in the outer radiation belt I: Radial transport
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-55249095025&partnerID=MN8TOARS
 
 
-Work Details No: 184
+Work Details No: 186
 Paper title: Review of modeling of losses and sources of relativistic electrons in the outer radiation belt II: Local acceleration and loss
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-55349143470&partnerID=MN8TOARS
 
 
-Work Details No: 185
+Work Details No: 187
 Paper title: A Kalman filter technique to estimate relativistic electron lifetimes in the outer radiation belt
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-37249052805&partnerID=MN8TOARS
 
 
-Work Details No: 186
+Work Details No: 188
 Paper title: Dynamic evolution of energetic outer zone electrons due to wave-particle interactions during storms
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-37249049310&partnerID=MN8TOARS
 
 
-Work Details No: 187
+Work Details No: 189
 Paper title: Parameterization of radiation belt electron loss timescales due to interactions with chorus waves
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-34547987638&partnerID=MN8TOARS
 
 
-Work Details No: 188
+Work Details No: 190
 Paper title: Reanalysis of relativistic radiation belt electron fluxes using CRRES satellite data, a radial diffusion model, and a Kalman filter
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-40049100631&partnerID=MN8TOARS
 
 
-Work Details No: 189
+Work Details No: 191
 Paper title: Refilling of the slot region between the inner and outer electron radiation belts during geomagnetic storms
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-34548353947&partnerID=MN8TOARS
 
 
-Work Details No: 190
+Work Details No: 192
 Paper title: Acceleration mechanism responsible for the formation of the new radiation belt during the 2003 Halloween solar storm
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-33646365063&partnerID=MN8TOARS
 
 
-Work Details No: 191
+Work Details No: 193
 Paper title: Bounce-averaged diffusion coefficients for field-aligned chorus waves
-Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-33947502256&partnerID=MN8TOARS
 
 
-Work Details No: 192
+Work Details No: 194
 Paper title: Controlling effect of the pitch angle scattering rates near the edge of the loss cone on electron lifetimes
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-33947641029&partnerID=MN8TOARS
 
 
-Work Details No: 193
+Work Details No: 195
 Paper title: Observation of two distinct, rapid loss mechanisms during the 20 November 2003 radiation belt dropout event
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-33947703102&partnerID=MN8TOARS
 
 
-Work Details No: 194
+Work Details No: 196
 Paper title: Outward radial diffusion driven by losses at magnetopause
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-33947493053&partnerID=MN8TOARS
 
 
-Work Details No: 195
+Work Details No: 197
 Paper title: Radial diffusion modeling with empirical lifetimes: Comparison with CRRES observations
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-23744476714&partnerID=MN8TOARS
 
 
-Work Details No: 196
+Work Details No: 198
 Paper title: Timescale for MeV electron microburst loss during geomagnetic storms
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-33747201040&partnerID=MN8TOARS
 
 
-Work Details No: 197
+Work Details No: 199
 Paper title: Wave acceleration of electrons in the Van Allen radiation belts
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-24744464092&partnerID=MN8TOARS
 
 
-Work Details No: 198
+Work Details No: 200
 Paper title: Time dependent radial diffusion modeling of relativistic electrons with realistic loss rates
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-3042713043&partnerID=MN8TOARS
 

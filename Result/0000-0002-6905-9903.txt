@@ -5,7 +5,6 @@ Given Name: Han Cheng
 Number of Works: 12
 
 
-
 Work Details No: 1
 Paper title: A Convergent Discretization Method for Transition Path Theory for Diffusion Processes
 Paper URL: https://doi.org/10.1137/20M1329354

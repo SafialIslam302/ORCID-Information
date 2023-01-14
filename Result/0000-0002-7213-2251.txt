@@ -5,7 +5,6 @@ Given Name: Cristina
 Number of Works: 5
 
 
-
 Work Details No: 1
 Paper title: DisGUVery: a versatile open-source software for high-throughput image analysis of Giant Unilamellar Vesicles
 Paper URL: https://doi.org/10.1101/2022.01.25.477663

@@ -5,7 +5,6 @@ Given Name: Wilhelm
 Number of Works: 6
 
 
-
 Work Details No: 1
 Paper title: Quantification of the Time Course of CYP3A Inhibition, Activation, and Induction Using a Population Pharmacokinetic Model of Microdosed Midazolam Continuous Infusion
 Paper URL: https://doi.org/10.1007/s40262-022-01175-6

@@ -5,7 +5,6 @@ Given Name: Alexandra
 Number of Works: 57
 
 
-
 Work Details No: 1
 Paper title: Adaptive estimation of the sparsity in the Gaussian vector model
 Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-85057870763&partnerID=MN8TOARS

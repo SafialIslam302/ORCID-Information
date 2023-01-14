@@ -26,7 +26,7 @@ for line in lines:
         output.writelines("\n")
 
         output.writelines("Number of Works: " + str(publication_number) + "\n")
-        output.writelines("\n")
+        #output.writelines("\n")
 
         for i in range(publication_number):
             output.writelines("\n")

@@ -2,8 +2,7 @@ ORCID: 0000-0003-3356-8324
 Family Name: Schwetlick
 Given Name: Lisa
 
-Number of Works: 6
-
+Number of Works: 5
 
 
 Work Details No: 1
@@ -27,11 +26,6 @@ Paper URL: https://doi.org/10.1038/s42003-020-01429-8
 
 
 Work Details No: 5
-Paper title: A Mathematical Model of Exploration and Exploitation in Natural Scene Viewing
-Paper URL: https://doi.org/10.1101/2020.04.16.044677
-
-
-Work Details No: 6
 Paper title: Modeling the effects of perisaccadic attention on gaze statistics during scene viewing
 Paper URL: https://doi.org/10.31234/osf.io/zcbny
 

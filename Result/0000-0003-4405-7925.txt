@@ -5,7 +5,6 @@ Given Name: Tobias
 Number of Works: 2
 
 
-
 Work Details No: 1
 Paper title: Pre-Training on In Vitro and Fine-Tuning on Patient-Derived Data Improves Deep Neural Networks for Anti-Cancer Drug-Sensitivity Prediction
 Paper URL: https://doi.org/10.3390/cancers14163950

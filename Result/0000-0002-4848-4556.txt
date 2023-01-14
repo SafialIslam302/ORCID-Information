@@ -5,7 +5,6 @@ Given Name: Noa
 Number of Works: 6
 
 
-
 Work Details No: 1
 Paper title: Variational Bayesian Inference for Nonlinear Hawkes Process with Gaussian Process Self-Effects
 Paper URL: https://doi.org/10.3390/e24030356

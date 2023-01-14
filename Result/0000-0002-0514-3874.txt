@@ -5,7 +5,6 @@ Given Name: Wilhelm
 Number of Works: 81
 
 
-
 Work Details No: 1
 Paper title: Analytic Theory of Itô-Stochastic Differential Equations with Non-smooth Coefficients
 Paper URL: https://doi.org/10.1007/978-981-19-3831-3
@@ -338,6 +337,7 @@ Paper URL: http://dx.doi.org/10.1007/s00028-004-0147-x
 
 Work Details No: 67
 Paper title: A remark on the CLT for a random walk in a random environment
+Paper URL: http://dx.doi.org/10.1007/s00440-004-0359-6
 
 
 Work Details No: 68
@@ -372,6 +372,7 @@ Paper URL: http://www.scopus.com/inward/record.url?eid=2-s2.0-0038609745&partner
 
 Work Details No: 74
 Paper title: []
+Paper URL: http://dx.doi.org/10.1007/s004400100166
 
 
 Work Details No: 75

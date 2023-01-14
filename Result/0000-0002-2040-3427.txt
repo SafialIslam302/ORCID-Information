@@ -5,7 +5,6 @@ Given Name: Vladimir
 Number of Works: 87
 
 
-
 Work Details No: 1
 Paper title: A New Algorithm for Estimating the Effective Dimension-Reduction
    Subspace

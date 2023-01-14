@@ -5,7 +5,6 @@ Given Name: Robert
 Number of Works: 16
 
 
-
 Work Details No: 1
 Paper title: From Single to Collective Motion of Social Amoebae: A Computational Study of Interacting Cells
 Paper URL: http://dx.doi.org/10.3389/fphy.2021.750187

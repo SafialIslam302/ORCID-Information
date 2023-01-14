@@ -2,611 +2,615 @@ ORCID: 0000-0002-5336-8904
 Family Name: Reich
 Given Name: Sebastian
 
-Number of Works: 121
-
+Number of Works: 122
 
 
 Work Details No: 1
+Paper title: Number feature distortion modulates cue-based retrieval in reading
+Paper URL: https://doi.org/10.1016/j.jml.2022.104400
+
+
+Work Details No: 2
 Paper title: Data assimilation in dynamical cognitive science
 Paper URL: https://doi.org/10.1016/j.tics.2021.11.006
 
 
-Work Details No: 2
+Work Details No: 3
 Paper title: Combining machine learning and data assimilation to forecast dynamical systems from noisy partial observations
 Paper URL: https://doi.org/10.1063/5.0066080
 
 
-Work Details No: 3
+Work Details No: 4
 Paper title: Fokker--Planck Particle Systems for Bayesian Inference: Computational Approaches
 Paper URL: https://doi.org/10.1137/19M1303162
 
 
-Work Details No: 4
+Work Details No: 5
 Paper title: McKean--Vlasov SDEs in Nonlinear Filtering
 Paper URL: https://doi.org/10.1137/20M1355197
 
 
-Work Details No: 5
+Work Details No: 6
 Paper title: Sequential Data Assimilation of the Stochastic SEIR Epidemic Model for Regional COVID-19 Dynamics
 Paper URL: https://doi.org/10.1007/s11538-020-00834-8
 
 
-Work Details No: 6
+Work Details No: 7
 Paper title: Spectral Convergence of Diffusion Maps: Improved Error Bounds and an Alternative Normalization
 Paper URL: https://doi.org/10.1137/20M1344093
 
 
-Work Details No: 7
+Work Details No: 8
 Paper title: A mathematical model of local and global attention in natural scene viewing
 Paper URL: https://doi.org/10.1371/journal.pcbi.1007880
 
 
-Work Details No: 8
+Work Details No: 9
 Paper title: Impact of the Mesoscale Range on Error Growth and the Limits to Atmospheric Predictability
 Paper URL: http://dx.doi.org/10.1175/jas-d-19-0346.1
 
 
-Work Details No: 9
+Work Details No: 10
 Paper title: A GNSS-R Geophysical Model Function: Machine Learning for Wind Speed Retrievals
 Paper URL: https://doi.org/10.1109/LGRS.2019.2948566
 
 
-Work Details No: 10
+Work Details No: 11
 Paper title: Interacting Particle Solutions of Fokker–Planck Equations Through Gradient–Log–Density Estimation
 Paper URL: https://doi.org/10.3390/e22080802
 
 
-Work Details No: 11
+Work Details No: 12
 Paper title: Sequential data assimilation of the stochastic SEIR epidemic model for regional COVID-19 dynamics
 Paper URL: https://doi.org/10.1101/2020.04.13.20063768
 
 
-Work Details No: 12
+Work Details No: 13
 Paper title: Bayesian parameter estimation for the SWIFT model of eye-movement control during reading
 Paper URL: https://doi.org/10.1016/j.jmp.2019.102313
 
 
-Work Details No: 13
+Work Details No: 14
 Paper title: Affine Invariant Interacting Langevin Dynamics for Bayesian Inference
 Paper URL: https://doi.org/10.1137/19M1304891
 
 
-Work Details No: 14
+Work Details No: 15
 Paper title: Ensemble Transform Algorithms for Nonlinear Smoothing Problems
 Paper URL: http://dx.doi.org/10.1137/19m1239544
 
 
-Work Details No: 15
+Work Details No: 16
 Paper title: Atmospheric Predictability: Revisiting the Inherent Finite-Time Barrier
 Paper URL: http://dx.doi.org/10.1175/jas-d-19-0057.1
 
 
-Work Details No: 16
+Work Details No: 17
 Paper title: Evolving Ocean Monitoring With GNSS-R: Promises in Surface Wind Speed and Prospects for Rain Detection
 Paper URL: http://dx.doi.org/10.1109/igarss.2019.8900414
 
 
-Work Details No: 17
+Work Details No: 18
 Paper title: Particle filters for high‐dimensional geoscience applications: A review
 Paper URL: http://dx.doi.org/10.1002/qj.3551
 
 
-Work Details No: 18
+Work Details No: 19
 Paper title: Evaluating Impact of Rain Attenuation on Space-borne GNSS Reflectometry Wind Speeds
 Paper URL: http://dx.doi.org/10.3390/rs11091048
 
 
-Work Details No: 19
+Work Details No: 20
 Paper title: Data assimilation: The Schrödinger perspective
 Paper URL: http://dx.doi.org/10.1017/s0962492919000011
 
 
-Work Details No: 20
+Work Details No: 21
 Paper title: State and Parameter Estimation from Observed Signal Increments
 Paper URL: https://www.mdpi.com/1099-4300/21/5/505
 
 
-Work Details No: 21
+Work Details No: 22
 Paper title: Discrete gradients for computational Bayesian inference
 Paper URL: http://dx.doi.org/10.3934/jcd.2019019
 
 
-Work Details No: 22
+Work Details No: 23
 Paper title: TDS-1 GNSS Reflectometry: Development and Validation of Forward Scattering Winds
 Paper URL: http://dx.doi.org/10.1109/jstars.2018.2873241
 
 
-Work Details No: 23
+Work Details No: 24
 Paper title: Kalman Filter and Its Modern Extensions for the Continuous-Time Nonlinear Filtering Problem
 Paper URL: http://dx.doi.org/10.1115/1.4037780
 
 
-Work Details No: 24
+Work Details No: 25
 Paper title: Long-Time Stability and Accuracy of the Ensemble Kalman--Bucy Filter for Fully Observed Processes and Small Measurement Noise
 Paper URL: http://dx.doi.org/10.1137/17m1119056
 
 
-Work Details No: 25
+Work Details No: 26
 Paper title: Likelihood-based parameter estimation and comparison of dynamical cognitive models.
 Paper URL: http://dx.doi.org/10.1037/rev0000068
 
 
-Work Details No: 26
+Work Details No: 27
 Paper title: Second-order accurate ensemble transform particle filters
 No Paper URL found.
 
 
-Work Details No: 27
+Work Details No: 28
 Paper title: A Hybrid Ensemble Transform Particle Filter for Nonlinear and Spatially Extended Dynamical Systems
 No Paper URL found.
 
 
-Work Details No: 28
+Work Details No: 29
 Paper title: Multilevel Ensemble Transform Particle Filtering
 No Paper URL found.
 
 
-Work Details No: 29
+Work Details No: 30
 Paper title: Towards the assimilation of tree-ring-width records using ensemble Kalman filtering techniques
 No Paper URL found.
 
 
-Work Details No: 30
+Work Details No: 31
 Paper title: Assimilating data into scientific models: An optimal coupling perspective
 No Paper URL found.
 
 
-Work Details No: 31
+Work Details No: 32
 Paper title: Large-scale turbulence modelling via $α$-regularisation for atmospheric simulations
 No Paper URL found.
 
 
-Work Details No: 32
+Work Details No: 33
 Paper title: Multiple-time-stepping generalized hybrid Monte Carlo methods
 No Paper URL found.
 
 
-Work Details No: 33
+Work Details No: 34
 Paper title: Nonlinear Data Assimilation
 No Paper URL found.
 
 
-Work Details No: 34
+Work Details No: 35
 Paper title: Probabilistic forecasting and Bayesian data assimilation
 No Paper URL found.
 
 
-Work Details No: 35
+Work Details No: 36
 Paper title: Ensemble transform Kalman--Bucy filters
 No Paper URL found.
 
 
-Work Details No: 36
+Work Details No: 37
 Paper title: On the theory of mass conserving transformations for Lagrangian methods in 3D atmosphere-chemistry models
 No Paper URL found.
 
 
-Work Details No: 37
+Work Details No: 38
 Paper title: A guided sequential Monte Carlo method for the assimilation of data into stochastic dynamical systems
 No Paper URL found.
 
 
-Work Details No: 38
+Work Details No: 39
 Paper title: A nonparametric ensemble transform method for Bayesian inference
 No Paper URL found.
 
 
-Work Details No: 39
+Work Details No: 40
 Paper title: Ensemble filter techniques for intermittent data assimilation
 No Paper URL found.
 
 
-Work Details No: 40
+Work Details No: 41
 Paper title: A Gaussian-mixture ensemble transform filter
 No Paper URL found.
 
 
-Work Details No: 41
+Work Details No: 42
 Paper title: An ensemble Kalman-Bucy filter for continuous data assimilation
 No Paper URL found.
 
 
-Work Details No: 42
+Work Details No: 43
 Paper title: Computational Molecular Dynamics: Challenges, Methods, Ideas: Proceeding of the 2nd International Symposium on Algorithms for Macromolecular Modelling, Berlin, May 21--24, 1997
 No Paper URL found.
 
 
-Work Details No: 43
+Work Details No: 44
 Paper title: Hydrostatic Hamiltonian particle-mesh (HPM) methods for atmospheric modelling
 No Paper URL found.
 
 
-Work Details No: 44
+Work Details No: 45
 Paper title: Symplectic Multiple-Time-Stepping
 No Paper URL found.
 
 
-Work Details No: 45
+Work Details No: 46
 Paper title: A dynamical systems framework for intermittent data assimilation
 No Paper URL found.
 
 
-Work Details No: 46
+Work Details No: 47
 Paper title: A multigrid solver for modeling complex interseismic stress fields
 No Paper URL found.
 
 
-Work Details No: 47
+Work Details No: 48
 Paper title: Meso-GSHMC: A stochastic algorithm for meso-scale constant temperature simulations
 No Paper URL found.
 
 
-Work Details No: 48
+Work Details No: 49
 Paper title: New hybrid Monte Carlo methods for efficient sampling: from physics to biology and statistics
 No Paper URL found.
 
 
-Work Details No: 49
+Work Details No: 50
 Paper title: On the use of slow manifolds in molecular and geophysical fluid dynamics
 No Paper URL found.
 
 
-Work Details No: 50
+Work Details No: 51
 Paper title: A localization technique for ensemble Kalman filters
 No Paper URL found.
 
 
-Work Details No: 51
+Work Details No: 52
 Paper title: A mollified ensemble Kalman filter
 No Paper URL found.
 
 
-Work Details No: 52
+Work Details No: 53
 Paper title: Evaluation of three spatial discretization schemes with the Galewsky et al. test
 No Paper URL found.
 
 
-Work Details No: 53
+Work Details No: 54
 Paper title: Phase space volume conservation under space and time discretization schemes for the shallow-water equations
 No Paper URL found.
 
 
-Work Details No: 54
+Work Details No: 55
 Paper title: A comparison of generalized hybrid Monte Carlo methods with and without momentum flip
 No Paper URL found.
 
 
-Work Details No: 55
+Work Details No: 56
 Paper title: A metropolis adjusted Nosé-Hoover thermostat
 No Paper URL found.
 
 
-Work Details No: 56
+Work Details No: 57
 Paper title: Conservative space and time regularizations for the ICON model
 No Paper URL found.
 
 
-Work Details No: 57
+Work Details No: 58
 Paper title: Ensemble propagation and continuous matrix factorization algorithms
 No Paper URL found.
 
 
-Work Details No: 58
+Work Details No: 59
 Paper title: Hamiltonian particle-mesh simulations for a non-hydrostatic vertical slice model
 No Paper URL found.
 
 
-Work Details No: 59
+Work Details No: 60
 Paper title: LBB stability of a mixed Galerkin finite element pair for fluid flow simulations
 No Paper URL found.
 
 
-Work Details No: 60
+Work Details No: 61
 Paper title: GSHMC: An efficient method for molecular simulation
 Paper URL: http://dx.doi.org/10.1016/j.jcp.2008.01.023
 
 
-Work Details No: 61
+Work Details No: 62
 Paper title: Improved sampling for simulations of interfacial membrane proteins: Application of generalized shadow hybrid Monte Carlo to a peptide toxin/bilayer system
 No Paper URL found.
 
 
-Work Details No: 62
+Work Details No: 63
 Paper title: A regularization approach for a vertical-slice model and semi-Lagrangian Störmer--Verlet time stepping
 No Paper URL found.
 
 
-Work Details No: 63
+Work Details No: 64
 Paper title: An explicit and conservative remapping strategy for semi-Lagrangian advection
 No Paper URL found.
 
 
-Work Details No: 64
+Work Details No: 65
 Paper title: Semi-implicit methods, nonlinear balance, and regularized equations
 No Paper URL found.
 
 
-Work Details No: 65
+Work Details No: 66
 Paper title: The remapped particle-mesh semi-Lagrangian advection scheme
 No Paper URL found.
 
 
-Work Details No: 66
+Work Details No: 67
 Paper title: Numerical methods for Hamiltonian PDEs
 Paper URL: http://dx.doi.org/10.1088/0305-4470/39/19/s02
 
 
-Work Details No: 67
+Work Details No: 68
 Paper title: Semigeostrophic Particle Motion and Exponentially Accurate Normal forms
 Paper URL: http://dx.doi.org/10.1137/05064326x
 
 
-Work Details No: 68
+Work Details No: 69
 Paper title: A time-staggered semi-Lagrangian discretization of the rotating shallow-water equations
 No Paper URL found.
 
 
-Work Details No: 69
+Work Details No: 70
 Paper title: An improved regularization for time-staggered discretization and its link to the semi-implicit method
 No Paper URL found.
 
 
-Work Details No: 70
+Work Details No: 71
 Paper title: Analysis of a regularized, time-staggered discretization applied to a vertical slice model
 No Paper URL found.
 
 
-Work Details No: 71
+Work Details No: 72
 Paper title: Linear PDEs and numerical methods that preserve a multisymplectic conservation law
 No Paper URL found.
 
 
-Work Details No: 72
+Work Details No: 73
 Paper title: Linearly implicit time stepping methods for numerical weather prediction
 No Paper URL found.
 
 
-Work Details No: 73
+Work Details No: 74
 Paper title: The targeted shadowing hybrid Monte Carlo (TSHMC) method
 No Paper URL found.
 
 
-Work Details No: 74
+Work Details No: 75
 Paper title: Analysis of a regularized, time-staggered discretization method and its link to the semi-implicit method
 No Paper URL found.
 
 
-Work Details No: 75
+Work Details No: 76
 Paper title: Adiabatic invariance and applications: From molecular dynamics to numerical weather prediction
 No Paper URL found.
 
 
-Work Details No: 76
+Work Details No: 77
 Paper title: Geometric integration of a wave-vortex model
 No Paper URL found.
 
 
-Work Details No: 77
+Work Details No: 78
 Paper title: Hamiltonian particle-mesh method for two-layer shallow-water equations subject to the rigid-lid approximation
 No Paper URL found.
 
 
-Work Details No: 78
+Work Details No: 79
 Paper title: Simulating hamiltonian dynamics
 No Paper URL found.
 
 
-Work Details No: 79
+Work Details No: 80
 Paper title: Symplectic Time-Stepping for Particle Methods
 No Paper URL found.
 
 
-Work Details No: 80
+Work Details No: 81
 Paper title: The Hamiltonian particle-mesh method for the spherical shallow water equations
 No Paper URL found.
 
 
-Work Details No: 81
+Work Details No: 82
 Paper title: Backward error analysis for multi-symplectic integration methods
 Paper URL: http://dx.doi.org/10.1007/s00211-003-0458-9
 
 
-Work Details No: 82
+Work Details No: 83
 Paper title: A Hamiltonian particle-mesh method for the rotating shallow-water equations
 No Paper URL found.
 
 
-Work Details No: 83
+Work Details No: 84
 Paper title: A test set for molecular dynamics
 No Paper URL found.
 
 
-Work Details No: 84
+Work Details No: 85
 Paper title: An extended dissipative particle dynamics model
 No Paper URL found.
 
 
-Work Details No: 85
+Work Details No: 86
 Paper title: Conservation properties of smoothed particle hydrodynamics applied to the shallow water equation
 No Paper URL found.
 
 
-Work Details No: 86
+Work Details No: 87
 Paper title: Multi-symplectic integration methods for Hamiltonian PDEs
 No Paper URL found.
 
 
-Work Details No: 87
+Work Details No: 88
 Paper title: A particle-mesh method for the shallow water equations near geostrophic balance
 No Paper URL found.
 
 
-Work Details No: 88
+Work Details No: 89
 Paper title: A test set for molecular dynamics algorithms
 No Paper URL found.
 
 
-Work Details No: 89
+Work Details No: 90
 Paper title: Multi-symplectic integrators: numerical schemes for Hamiltonian PDEs that conserve symplecticity
 Paper URL: http://dx.doi.org/10.1016/s0375-9601(01)00294-8
 
 
-Work Details No: 90
+Work Details No: 91
 Paper title: A reversible averaging integrator for multiple time-scale dynamics
 No Paper URL found.
 
 
-Work Details No: 91
+Work Details No: 92
 Paper title: Computing Lyapunov exponents on a Stiefel manifold
 No Paper URL found.
 
 
-Work Details No: 92
+Work Details No: 93
 Paper title: Explicit variable step-size and time-reversible integration
 No Paper URL found.
 
 
-Work Details No: 93
+Work Details No: 94
 Paper title: Multi-symplectic spectral discretizations for the Zakharov--Kuznetsov and shallow water equations
 No Paper URL found.
 
 
-Work Details No: 94
+Work Details No: 95
 Paper title: Elastic molecular dynamics with self-consistent flexible constraints
 No Paper URL found.
 
 
-Work Details No: 95
+Work Details No: 96
 Paper title: Finite volume methods for multi-symplectic PDEs
 No Paper URL found.
 
 
-Work Details No: 96
+Work Details No: 97
 Paper title: Multi-symplectic Runge--Kutta collocation methods for Hamiltonian wave equations
 No Paper URL found.
 
 
-Work Details No: 97
+Work Details No: 98
 Paper title: Smoothed Langevin dynamics of highly oscillatory systems
 No Paper URL found.
 
 
-Work Details No: 98
+Work Details No: 99
 Paper title: Longer time steps for molecular dynamics
 Paper URL: http://dx.doi.org/10.1063/1.478995
 
 
-Work Details No: 99
+Work Details No: 100
 Paper title: Backward Error Analysis for Numerical Integrators
 Paper URL: http://dx.doi.org/10.1137/s0036142997329797
 
 
-Work Details No: 100
+Work Details No: 101
 Paper title: A time-reversible variable-stepsize integrator for constrained dynamics
 No Paper URL found.
 
 
-Work Details No: 101
+Work Details No: 102
 Paper title: Multiple Time Scales in Classical and Quantum--Classical Molecular Dynamics
 No Paper URL found.
 
 
-Work Details No: 102
+Work Details No: 103
 Paper title: On some difficulties in integrating highly oscillatory Hamiltonian systems
 No Paper URL found.
 
 
-Work Details No: 103
+Work Details No: 104
 Paper title: Preservation of adiabatic invariants under symplectic discretization
 No Paper URL found.
 
 
-Work Details No: 104
+Work Details No: 105
 Paper title: Symplectic multiple-time-stepping integrators for quantum-classical molecular dynamics
 No Paper URL found.
 
 
-Work Details No: 105
+Work Details No: 106
 Paper title: The midpoint scheme and variants for hamiltonian systems: advantages and pitfalls
 No Paper URL found.
 
 
-Work Details No: 106
+Work Details No: 107
 Paper title: Modified potential energy functions for constrained molecular dynamics
 No Paper URL found.
 
 
-Work Details No: 107
+Work Details No: 108
 Paper title: On higher-order semi-explicit symplectic partitioned Runge-Kutta methods for constrained Hamiltonian systems
 No Paper URL found.
 
 
-Work Details No: 108
+Work Details No: 109
 Paper title: Symplectic Integration of Constrained Hamiltonian Systems by Composition Methods
 Paper URL: http://dx.doi.org/10.1137/0733025
 
 
-Work Details No: 109
+Work Details No: 110
 Paper title: Enhancing energy conserving methods
 No Paper URL found.
 
 
-Work Details No: 110
+Work Details No: 111
 Paper title: Integration methods for molecular dynamics
 No Paper URL found.
 
 
-Work Details No: 111
+Work Details No: 112
 Paper title: Symplectic integrators for systems of rigid bodies
 No Paper URL found.
 
 
-Work Details No: 112
+Work Details No: 113
 Paper title: Torsion dynamics of molecular systems
 No Paper URL found.
 
 
-Work Details No: 113
+Work Details No: 114
 Paper title: On the local qualitative behavior of differential-algebraic equations
 No Paper URL found.
 
 
-Work Details No: 114
+Work Details No: 115
 Paper title: Smoothed dynamics of highly oscillatory Hamiltonian systems
 No Paper URL found.
 
 
-Work Details No: 115
+Work Details No: 116
 Paper title: Stabilization of constrained mechanical systems with daes and invariant manifolds
 No Paper URL found.
 
 
-Work Details No: 116
+Work Details No: 117
 Paper title: Momentum conserving symplectic integrators
 No Paper URL found.
 
 
-Work Details No: 117
+Work Details No: 118
 Paper title: Stabilization of DAEs and invariant manifolds
 No Paper URL found.
 
 
-Work Details No: 118
+Work Details No: 119
 Paper title: Symplectic integration of constrained Hamiltonian systems
 No Paper URL found.
 
 
-Work Details No: 119
+Work Details No: 120
 Paper title: On an existence and uniqueness theory for nonlinear differential-algebraic equations
 No Paper URL found.
 
 
-Work Details No: 120
+Work Details No: 121
 Paper title: On a geometrical interpretation of differential-algebraic equations
 Paper URL: http://dx.doi.org/10.1007/bf01189332
 
 
-Work Details No: 121
+Work Details No: 122
 Paper title: Stabilization and projection methods for multibody dynamics
 No Paper URL found.
 
