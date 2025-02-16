@@ -38,7 +38,7 @@ jobs:
     # Step 5: Run your Python script (main.py or any other script)
     - name: Run Python Script
       run: |
-        python src/main.py  # Replace with the actual script name you want to run
+        python src/main.py --orcid_ids 0000-0002-0970-0455 --output-format txt pdf json --report csv 
 
     # Step 6: Run tests
     - name: Run tests
