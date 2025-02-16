@@ -41,11 +41,14 @@ jobs:
         python src/main.py --orcid_ids 0000-0002-0970-0455 --output-format txt pdf json --report csv 
 
     # Step 6: Run tests
-    - name: Run tests
+    - name: Run tests with coverage
       run: |
-        pytest src/test.py
+          coverage run -m pytest src/test.py  # Specify the exact path if necessary
+          coverage report
+          coverage html  # Generates an HTML report
+      
 
-    # Step 7: Generate test coverage report (optional)
+      # Step 7: Generate test coverage report (optional)
     - name: Run test coverage
       run: |
         pip install coverage
