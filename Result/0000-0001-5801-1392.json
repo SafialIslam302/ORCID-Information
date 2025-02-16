@@ -1,0 +1,36 @@
+{
+    "orcid": "0000-0001-5801-1392",
+    "given_name": "Christian",
+    "family_name": "Griffith",
+    "last_modify_date": "2022-05-30",
+    "publications": [
+        {
+            "title": "Microfluidics for the study of mechanotransduction",
+            "url": "https://doi.org/10.1088/1361-6463/ab78d4",
+            "publicationyear": "2020",
+            "publicationtype": "JOURNAL_ARTICLE",
+            "citation_value": "@article{Griffith_2020,\n\tdoi = {10.1088/1361-6463/ab78d4},\n\turl = {https://doi.org/10.1088%2F1361-6463%2Fab78d4},\n\tyear = 2020,\n\tmonth = {apr},\n\tpublisher = {{IOP} Publishing},\n\tvolume = {53},\n\tnumber = {22},\n\tpages = {224004},\n\tauthor = {Christian M Griffith and Stephanie A Huang and Crescentia Cho and Tanmay M Khare and Matthew Rich and Gi-hun Lee and Frances S Ligler and Brian O Diekman and William J Polacheck},\n\ttitle = {Microfluidics for the study of mechanotransduction},\n\tjournal = {Journal of Physics D: Applied Physics}\n}"
+        }
+    ],
+    "employments": [],
+    "educations": [
+        {
+            "role-title": "Ph.D. in Biomedical Engineering",
+            "organization": "University of North Carolina at Chapel Hill",
+            "start-date": "2018",
+            "end-date": null
+        },
+        {
+            "role-title": "Ph.D. in Biomedical Engineering",
+            "organization": "North Carolina State University",
+            "start-date": "2018",
+            "end-date": null
+        },
+        {
+            "role-title": "B.S. in Biological Engineering",
+            "organization": "Mississippi State University",
+            "start-date": "2013",
+            "end-date": "2017"
+        }
+    ]
+}

@@ -1,39 +1,97 @@
-# ORCID-Information
+# ORCID Data Extractor and Report Generator
 
-## Install Libraries
-<b> pip install -r requirements.txt </b>
+This Python script extracts ORCID information from a file containing ORCID IDs and generates reports in various formats (TXT, PDF, JSON, CSV, Excel).
 
-If any additional libraries are needed to install install it using <b> pip install (library name) </b>
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [Dependencies](#dependencies)
+- [License](#license)
+- [Contributions](#contributions)
 
-## Input
-Write all the ORCID id (Example: 0000-0002-0970-0455) in the <b> input_file.txt </b>. Write one orcid id per line. 
+## Installation
 
-## Output
-Make sure that you create a <b> Result </b> folder in the same directory. Otherwise it shows error. 
-All the output files will save in the Result folder with the orcid id. Example: 0000-0002-0970-0455.txt
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/orcid-extractor.git
+   cd orcid-extractor
+2. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
 
-## Program run
-All the code are written in restfull.py. In run.py import this file and use all the functions. 
+## Usage
 
-First use the get function to find out which orcid id we need to find the information.
-Example : ```orcid_res = restfull.get('0000-0002-0970-0455')```
+### Command-Line Arguments
 
-Now if you want to extract information like family name write
-```print(orcid_res.family_name)```
+The script accepts the following command-line arguments:
 
-But for education, employment and publication orcid_res.educations, orcid_res.employments, and orcid_res.publications do not get the proper output. 
-For those cases use any loop to extarct the information one by one. 
-It will give the output in a JSON format. After getting the JSON format extract the exact information as you want. 
-Example: 
-* If you want to extarct any orcid id's publication title then write the following
-```print(orcid_res.publications[0].title)```
+- `--inputfile`: Path to the input file containing ORCID IDs.
+- `--output-format`: Specify one or more output formats (txt, pdf, json). Example: `--output-format txt pdf json`. 
+- `--report`: Specify if you want to generate a CSV or Excel report.
 
-* If you want to extarct any orcid id's employment department name then write the following
-```orcid_res.employments[0]['department-name']```
+### Example Commands
 
-* If you want to extarct any orcid id's educational organization name then write the following
-```orcid_res.educations[0]['organization']['name']```
+1. Extract ORCID data and generate TXT, PDF, and JSON reports:
+    ```bash
+    python main.py --inputfile orcid_ids.txt --output-format txt pdf json
+2. Extract ORCID data and generate a CSV report:
+    ```bash
+    python main.py --inputfile orcid_ids.txt --output-format txt --report csv
+3. Extract ORCID data and generate an Excel report:
+    ```bash
+    python main.py --inputfile orcid_ids.txt --output-format json --report excel
 
-<b> If you want to extract more information into orcid id then add those attributes in the restfull.py file. </b>
-This link will help you: https://github.com/ORCID/orcid-model/blob/master/src/main/resources/record_3.0/README.md
+### Input File Format
 
+The input file should contain one ORCID ID per line. Example (`orcid_ids.txt`):
+
+    0000-0002-1825-0097
+    0000-0001-5109-3700
+    0000-0002-1694-233X
+
+### Output Files
+
+The generated reports will be saved in the Result directory. The directory structure will look like this:
+
+    Result/
+    ├── 0000-0002-1825-0097.txt
+    ├── 0000-0002-1825-0097.pdf
+    ├── 0000-0002-1825-0097.json
+    ├── orcid_report.csv
+    └── orcid_report.xlsx
+
+## Features
+
+- **ORCID Data Extraction**: Extracts detailed information from ORCID IDs.
+- **Multiple Output Formats**: Supports TXT, PDF, JSON, CSV, and Excel formats.
+- **Customizable Reports**: Generate reports based on specific requirements.
+- **Error Handling**: Handles missing or invalid data gracefully.
+
+## Dependencies
+
+- **argparse**: For parsing command-line arguments.
+- **reportlab**: For generating PDF reports.
+- **pandas**: For generating CSV and Excel reports.
+- **orcid_extractor**: Custom module for extracting ORCID data.
+
+To install the dependencies, run:
+
+    pip install -r requirements.txt
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE]() file for details.
+
+## Contributions
+
+For any questions or issues, please open an issue on the GitHub repository.
+
+### How to Save the README.md File
+
+1. Copy the above content.
+2. Open a text editor (e.g., Notepad, VS Code).
+3. Paste the content into the editor.
+4. Save the file as `README.md` in your project directory.
+
+This `README.md` file provides a comprehensive guide to using your ORCID data extraction and report generation tool.
