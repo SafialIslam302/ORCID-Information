@@ -2,6 +2,10 @@ __pycache__/*
 */__pycache__/*
 */Result/*
 Result
+Result/**
 .flake8
-mypy.ini
+*.ini
 .idea
+__pycache__
+*.log
+*/.idea/*
