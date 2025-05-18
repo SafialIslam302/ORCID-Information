@@ -86,12 +86,3 @@ This project is licensed under the MIT License. See the [LICENSE]() file for det
 ## Contributions
 
 For any questions or issues, please open an issue on the GitHub repository.
-
-### How to Save the README.md File
-
-1. Copy the above content.
-2. Open a text editor (e.g., Notepad, VS Code).
-3. Paste the content into the editor.
-4. Save the file as `README.md` in your project directory.
-
-This `README.md` file provides a comprehensive guide to using your ORCID data extraction and report generation tool.
